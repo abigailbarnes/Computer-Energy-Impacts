@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Arihant International Courier
+  </title>
+  <base href="/"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <link href="favicon.ico" rel="icon" type="image/x-icon"/>
+  <meta content="Arihant international courier is a reliable worldwide courier service with free pick up and packing services |We offers best, fast and efficient courier service with lowest possible cost | We ships garments, fabrics, chemicals, household items, commercial export shipment, industrial products, excess baggage, documents, machinery parts etc.| We ship from surat to USA |UK |Canada |Germany |Europe |China |Africa |Malaysia |Singapore |Australia |New Zealand |Fiji and rest of the world|best courier service in Surat |Rajkot |Sachin |Hajira |Ring road |Saroli |Varachha |top 10 courier services |Foreign parcel service|Express courier Service | Dhl courier | DTDC courier | Courier to USA| Courier to UK| Courier to Canada| Courier to Australia| Courier to UAE|" name="description"/>
+  <meta content="Arihant international courier is a reliable worldwide courier service with free pick up and packing service |We offers best, fast and efficient courier service with lowest possible cost | We ships garments, fabrics, chemicals, household items, commercial export shipment, industrial products, excess baggage, documents, machinery parts etc.| We ship from surat to USA |UK |Canada |Germany |Europe |China |Africa |Malaysia |Singapore |Australia |New Zealand |Fiji and rest of the world|best courier service in Surat |Rajkot |Sachin |Hajira |Ring road |Saroli |Varachha |top 10 courier services |Foreign parcel service|Express courier Serivce | Dhl courier | DTDC courier | Courier to USA| Courier to UK| Courier to Canada| Courier to Australia| Courier to UAE|" name="keywords"/>
+  <link href="manifest.webmanifest" rel="manifest"/>
+  <meta content="#1976d2" name="theme-color"/>
+ </head>
+ <body>
+  <app-root>
+  </app-root>
+  <noscript>
+   Please enable JavaScript to continue using this application.
+  </noscript>
+  <script defer="" src="runtime.286690a32069dddcce7d.js">
+  </script>
+  <script defer="" src="polyfills.164c508faefa829ab0f3.js">
+  </script>
+  <script defer="" src="styles.d2b8fb34d222cde12618.js">
+  </script>
+  <script defer="" src="vendor.d1b8efd9177f05e2a013.js">
+  </script>
+  <script defer="" src="main.24d84860b98f4dc976ae.js">
+  </script>
+ </body>
+ <script src="https://www.google.com/recaptcha/api.js">
+ </script>
+</html>

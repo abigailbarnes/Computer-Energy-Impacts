@@ -1,0 +1,265 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript">
+  </script>
+  <script src="js/json2.min.js" type="text/javascript">
+  </script>
+  <script src="js/core.js" type="text/javascript">
+  </script>
+  <title>
+   BigLocal.com - Helping Get Your Business Listed Locally on Google, MSN, and Yahoo!
+  </title>
+  <link href="css/biglocal.css" rel="stylesheet" type="text/css"/>
+  <meta content="biglocal, local, listing, maps, google, search, yahoo, msn" name="keywords"/>
+  <meta content="BigLocal.com helps small and medium sized companies get top listings Google Local, Yahoo local and MSN local and helps keep them there by doing monthly optimization on those listings.  " name="description"/>
+ </head>
+ <body id="construct">
+  <div id="extHeader">
+  </div>
+  <div id="container">
+   <div id="intHeader">
+    <div class="left">
+     <a href="http://www.biglocal.com">
+      <img alt="Biglocal" border="0" height="110" src="images/logo.gif" width="335"/>
+     </a>
+    </div>
+    <div class="right">
+     <a href="http://www.biglocal.com">
+      Home
+     </a>
+     <a href="/admin">
+      Client Login
+     </a>
+     <div id="phoneBlock">
+      <span style="font-size:14px;">
+       CALL TO ORDER TOLL FREE
+      </span>
+      <br/>
+      1-866-998-7090
+      <br/>
+      <span style="font-size:12px">
+       Promo Code:12830
+      </span>
+     </div>
+    </div>
+    <div class="footer">
+     <a href="about.html">
+      About Us
+     </a>
+     |
+     <a href="works.html">
+      How it Works
+     </a>
+     |
+     <a href="packages.html">
+      Packages
+     </a>
+     |
+     <a href="startnow.html">
+      Start Now
+     </a>
+     |
+     <a href="contact.html">
+      Contact Us
+     </a>
+     |
+     <a href="/admin">
+      Login
+     </a>
+    </div>
+   </div>
+   <div id="intSpacerHeader">
+   </div>
+   <div id="meat">
+    <div id="meatHeader">
+    </div>
+    <div id="content">
+     <div class="left">
+      <ul>
+       <li>
+        <a href="about.html">
+         ABOUT US
+        </a>
+       </li>
+       <li>
+        <a href="works.html">
+         HOW IT WORKS
+        </a>
+       </li>
+       <li>
+        <a href="packages.html">
+         PACKAGES
+        </a>
+       </li>
+       <li>
+        <a href="startnow.html">
+         START NOW
+        </a>
+       </li>
+       <li>
+        <a href="contact.html">
+         CONTACT US
+        </a>
+       </li>
+       <li>
+        <a href="testimonials.html">
+         TESTIMONIALS
+        </a>
+       </li>
+      </ul>
+      <div id="howitWorks">
+       <a href="works.html">
+        <img alt="How It Works" height="54" src="images/biglocal/button-howitworks.gif" width="166"/>
+       </a>
+      </div>
+      <img alt="35% of all searches are local." height="388" src="images/biglocal/meat-left-index-3million-merchants.gif" style="margin-left:10px;" width="163"/>
+     </div>
+     <div class="right">
+      <img align="right" alt="Big Exposure for small businesses with local searches." height="251" src="images/biglocal/local-business-search.jpg" style="margin:10px 15px 0 0;" width="386"/>
+      <img alt="Big Local is where small businesses get big exposure." height="157" src="images/biglocal/smallbusiness-exposure.gif" style="margin:20px 0 0 15px;" width="385"/>
+      <p style="margin:0; padding:0 20px;">
+       Every day millions of consumers search for local businesses online. At BigLocal we make it our job to make sure they find
+       <b>
+        <u>
+         YOU!
+        </u>
+       </b>
+      </p>
+      <a href="works.html" style="color:#ee4a15; text-decoration:underline; float:right; margin-right:15px;">
+       Learn How BigLocal Works!
+      </a>
+      <br style="clear:both;"/>
+      <div id="indexHow">
+       <h3>
+        How Does BigLocal Help Your Business?
+       </h3>
+       <ul>
+        <li>
+         No Website Needed!
+        </li>
+        <li>
+         Get Listed on Over 70 Search Engines &amp; Directories!
+        </li>
+        <li>
+         Be Ranked #1 for Your Business Name!
+        </li>
+        <li>
+         BE FOUND by Customers Who Are Ready to Buy!
+        </li>
+        <li>
+         We offer
+         <b>
+          FREE
+         </b>
+         websites to customers!
+        </li>
+       </ul>
+      </div>
+      <script type="text/javascript">
+       function verifyForm(submitForm)  {
+		var theForm = submitForm;
+		var validForm = true;
+		theForm.first_name.style.backgroundColor='#FFF';
+		theForm.last_name.style.backgroundColor='#FFF';
+		theForm.phone_work.style.backgroundColor='#FFF';
+
+		if(theForm.first_name.value == '') {
+			theForm.first_name.style.backgroundColor='#FFC6C6';
+			validForm = false;
+		} 
+		if(theForm.last_name.value == '') {
+			theForm.last_name.style.backgroundColor='#FFC6C6';
+			validForm = false;
+		}
+		if(theForm.phone_work.value.length != 10) {
+			theForm.phone_work.style.backgroundColor='#FFC6C6';
+			alert('Please enter a valid 10 Digit number. Use numbers only.');
+			validForm = false;
+		}
+
+		return validForm;
+	}
+      </script>
+      <form action="http://crm.biglocal.com/index.php?entryPoint=leadCapture" id="mainForm" method="post" name="lead_capture" onsubmit="return verifyForm(this);">
+       <input name="user" type="hidden" value="my_lead_capture_form"/>
+       <input name="redirect" type="hidden" value="http://www.biglocal.com/thankyou.html"/>
+       <input name="lead_source" type="hidden" value="Web Site"/>
+       <input name="lead_source_description" type="hidden" value="www.biglocal.com/index.html"/>
+       <!--<table cellpadding="0" cellspacing="2">
+							<tr>
+								<td align="right">First Name:</td>
+								<td align="left"><input tabindex="1" style="width:96px;" type="text" name="first_name" value=""/></td>
+							</tr>
+							<tr>
+								<td align="right">Last Name:</td>
+								<td align="left"><input tabindex="2"  style="width:96px;"  type="text" name="last_name" value=""/></td>
+							</tr>
+							<tr>
+								<td align="right">Business:</td>
+								<td align="left"><input tabindex="3"  style="width:96px;"  type="text" name="account_name" value=""/></td>
+							</tr>
+							<tr>
+								<td align="right">Address:</td>
+								<td align="left"><input tabindex="4"  style="width:96px;"  type="text" name="primary_address_street" value=""/></td>
+							</tr>
+							<tr>
+								<td align="right">Phone:</td>	
+								<td align="left"><input tabindex="5"  style="width:96px;"  type="text"  id="phone_work" name="phone_work" value="" /></td>
+							</tr>
+							<tr>
+								<td align="right">Email:</td>
+								<td align="left"><input tabindex="6"  style="width:96px;"  type="text" name="emailAddress0" value="" /></td>
+							</tr>
+							<tr>
+								<td align="right" colspan="2"><br/><input tabindex="7"  class="submit" type="image" name="submit" src="images/biglocal/button-submit2.gif"/></td>								
+							</tr>
+						</table>-->
+      </form>
+      <img alt="Get listed on Google, Yahood and MSN plus over 70 other local search engines and directories!" height="158" src="images/biglocal/search-engines.jpg" style="margin:10px 0 0 -7px; float:left;" width="598"/>
+     </div>
+     <br style="clear:both;"/>
+    </div>
+    <div id="meatFooter">
+    </div>
+   </div>
+   <div id="intSpacerFooter">
+   </div>
+   <div id="intFooter">
+   </div>
+  </div>
+  <div id="extFooter">
+   <a href="faq.html">
+    FAQ
+   </a>
+   |
+   <a href="privacy.html">
+    Privacy Policy
+   </a>
+   |
+   <a href="terms.html">
+    Terms &amp; Conditions
+   </a>
+   |
+   <a href="affiliate-terms.html">
+    Affiliate Terms &amp; Conditions
+   </a>
+   |
+   <a href="text-terms.html">
+    Text Messaging Terms &amp; Conditions
+   </a>
+   <br/>
+   <br/>
+   ©2008 Big Local.com
+  </div>
+  <script type="text/javascript">
+   var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  </script>
+  <script type="text/javascript">
+   var pageTracker = _gat._getTracker("UA-5288744-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+  </script>
+ </body>
+</html>

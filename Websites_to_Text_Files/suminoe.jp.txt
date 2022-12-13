@@ -1,0 +1,872 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- meta -->
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+   <meta content="IE=Edge,chrome=1" http-equiv="X-UA-Compatible"/>
+   <meta content="text/javascript" http-equiv="Content-Script-Type"/>
+   <meta content="text/css" http-equiv="Content-Style-Type"/>
+   <title>
+    SUMINOE｜株式会社スミノエ
+   </title>
+   <meta content="スミノエ,株式会社スミノエ,インテリア,家具,カーテン,ラグ,ラグマット,マット,キッチンマット,玄関マット,カーペット,タイルカーペット,ファブリック,繊維,内装,住江織物,住江織物株式会社" name="keywords"/>
+   <meta content="スミノエは、1998年に住江織物株式会社から、基幹事業であるインテリア分野の事業会社として設立されました。スミノエグループは、創業130年を超える歴史の中で国産初となるタフテッドカーペットやカーペットタイルを製造し日本のインテリアの歴史の一端を担ってまいりました。" name="description"/>
+   <meta content="telephone=no" name="format-detection"/>
+   <meta content="4187" name="sitelock-site-verification">
+    <!-- link -->
+    <link href="https://suminoe.jp/wp/wp-content/themes/suminoe/common/imgs/favicon.ico" rel="shortcut icon"/>
+    <link crossorigin="anonymous" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" rel="stylesheet"/>
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-138207603-1">
+    </script>
+    <script>
+     window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-138207603-1');
+    </script>
+    <meta content="max-image-preview:large" name="robots">
+     <link href="//ajaxzip3.github.io" rel="dns-prefetch">
+      <link href="//s.w.org" rel="dns-prefetch">
+       <script type="text/javascript">
+        window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/suminoe.jp\/wp\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.9.3"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+       </script>
+       <style type="text/css">
+        img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+       </style>
+       <link href="https://suminoe.jp/wp/wp-includes/css/dist/block-library/style.min.css?ver=5.9.3" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css">
+        <style id="global-styles-inline-css" type="text/css">
+         body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+        </style>
+        <link href="https://suminoe.jp/wp/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70" id="wp-pagenavi-css" media="all" rel="stylesheet" type="text/css"/>
+        <link href="https://suminoe.jp/wp/wp-content/themes/suminoe/common/css/main.css?ver=1.0.0" id="style-main-css" media="all" rel="stylesheet" type="text/css"/>
+        <link href="https://suminoe.jp/wp/wp-content/themes/suminoe/common/css/override.css?ver=1.0.0" id="style-override-css" media="all" rel="stylesheet" type="text/css"/>
+        <link href="https://suminoe.jp/wp/wp-content/themes/suminoe/common/js/flickity/flickity.css?ver=1.0.0" id="style-flickity-css" media="all" rel="stylesheet" type="text/css"/>
+        <link href="https://suminoe.jp/wp/wp-content/plugins/wp-members/assets/css/forms/generic-no-float.min.css?ver=3.3.9.3" id="wp-members-css" media="all" rel="stylesheet" type="text/css"/>
+        <link href="https://suminoe.jp/wp/wp-content/themes/suminoe/js/swiper/css/swiper.min.css?ver=5.9.3" id="style-swiper-css" media="all" rel="stylesheet" type="text/css"/>
+        <link href="https://suminoe.jp/wp/wp-content/themes/suminoe/js/swiper/css/swiper.org.css?ver=5.9.3" id="style-swiper_org-css" media="all" rel="stylesheet" type="text/css"/>
+        <link href="https://suminoe.jp/wp/wp-content/themes/suminoe/css/index.css?ver=1.0.0" id="style-index-css" media="all" rel="stylesheet" type="text/css"/>
+        <link href="https://suminoe.jp/wp/wp-content/themes/suminoe/css/top.css?ver=5.9.3" id="style-top-css" media="all" rel="stylesheet" type="text/css"/>
+        <script id="jquery-core-js" src="https://suminoe.jp/wp/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" type="text/javascript">
+        </script>
+        <script id="jquery-migrate-js" src="https://suminoe.jp/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" type="text/javascript">
+        </script>
+        <link href="https://suminoe.jp/wp-json/" rel="https://api.w.org/"/>
+        <link href="https://suminoe.jp/wp-json/wp/v2/pages/42" rel="alternate" type="application/json"/>
+        <link href="https://suminoe.jp/wp/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+        <link href="https://suminoe.jp/wp/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+        <meta content="WordPress 5.9.3" name="generator">
+         <link href="https://suminoe.jp/" rel="canonical"/>
+         <link href="https://suminoe.jp/" rel="shortlink"/>
+         <link href="https://suminoe.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsuminoe.jp%2F" rel="alternate" type="application/json+oembed"/>
+         <link href="https://suminoe.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsuminoe.jp%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+         <link href="https://suminoe.jp/wp/wp-content/uploads/2021/07/cropped-favicons-32x32.png" rel="icon" sizes="32x32"/>
+         <link href="https://suminoe.jp/wp/wp-content/uploads/2021/07/cropped-favicons-192x192.png" rel="icon" sizes="192x192"/>
+         <link href="https://suminoe.jp/wp/wp-content/uploads/2021/07/cropped-favicons-180x180.png" rel="apple-touch-icon"/>
+         <meta content="https://suminoe.jp/wp/wp-content/uploads/2021/07/cropped-favicons-270x270.png" name="msapplication-TileImage"/>
+         <style id="wp-custom-css" type="text/css">
+          .grecaptcha-badge {
+	bottom:55px!important;
+}
+         </style>
+        </meta>
+       </link>
+      </link>
+     </link>
+    </meta>
+   </meta>
+  </meta>
+ </head>
+ <body class="base" id="top">
+  <div id="page_top">
+   <a href="#">
+   </a>
+  </div>
+  <header class="header">
+   <div class="logo">
+    <a href="https://suminoe.jp">
+     <img alt="SUMINOE CO.,LTD" class="tab_none" src="https://suminoe.jp/wp/wp-content/themes/suminoe/common/imgs/hdr_logo.png"/>
+     <img alt="SUMINOE CO.,LTD" class="tab" src="https://suminoe.jp/wp/wp-content/themes/suminoe/common/imgs/hdr_logo_sp.png" width="185"/>
+    </a>
+   </div>
+   <nav class="pnav">
+    <ul class="clm">
+     <li class="ex">
+      <a href="https://suminoe.co.jp/" target="_blank">
+       住江織物株式会社
+      </a>
+     </li>
+     <li class="ex">
+      <a href="https://suminoe.co.jp/company/group/" target="_blank">
+       住江織物グループ
+      </a>
+     </li>
+     <li class="mail">
+      <a href="https://suminoe.jp/inquiry">
+       お問い合わせ
+      </a>
+     </li>
+     <li class="recruit">
+      <a href="https://suminoe.jp/ordinary">
+       <span class="">
+        一般の方へ
+       </span>
+      </a>
+     </li>
+    </ul>
+   </nav>
+   <div class="menu">
+    <a href="#">
+     <img alt="MENU" src="https://suminoe.jp/wp/wp-content/themes/suminoe/common/imgs/hdr_menu.png" width="50"/>
+    </a>
+   </div>
+  </header>
+  <nav class="gnav">
+   <ul class="clm">
+    <li>
+     <a class="" href="https://suminoe.jp">
+      トップ
+     </a>
+    </li>
+    <li>
+     <a class="" href="https://suminoe.dga.jp/catalog/">
+      商品検索
+     </a>
+    </li>
+    <li>
+     <a class="" href="https://suminoe.jp/samplebook">
+      見本帳一覧
+     </a>
+    </li>
+    <li>
+     <a class="" href="https://suminoe.jp/showroom">
+      ショールーム
+     </a>
+    </li>
+    <li>
+     <a class="" href="https://suminoe.jp/company">
+      会社情報
+     </a>
+    </li>
+    <li>
+     <a class="" href="https://suminoe.jp/news">
+      お知らせ
+     </a>
+    </li>
+   </ul>
+   <div class="pnav_sp">
+    <div>
+     <a class="blank_no" href="https://suminoe.jp/ordinary">
+      一般の方へ
+     </a>
+    </div>
+    <div>
+     <a class="blank" href="http://suminoe.co.jp/" target="_blank">
+      住江織物株式会社
+     </a>
+    </div>
+    <div>
+     <a class="blank" href="https://suminoe.co.jp/company/group/" target="_blank">
+      住江織物グループ
+     </a>
+    </div>
+    <div>
+     <a class="blank_no" href="https://suminoe.jp/inquiry">
+      お問い合わせ
+     </a>
+    </div>
+   </div>
+   <div class="poricy_sp clm">
+    <div>
+     <a href="https://suminoe.jp/site-policy">
+      サイトのご利用案内
+     </a>
+    </div>
+    <div>
+     <a href="https://suminoe.jp/privacy-policy">
+      個人情報保護方針
+     </a>
+    </div>
+   </div>
+   <div class="close sp">
+    <a href="#">
+     <img alt="CLOSE" src="https://suminoe.jp/wp/wp-content/themes/suminoe/common/imgs/gnav_close.png" width="37"/>
+    </a>
+   </div>
+  </nav>
+  <!--<nav class="gnav">
+	<ul class="clm">
+		<li><a href="../" class="">トップ</a></li>
+		<li><a href="catalog" class="">商品検索</a></li>
+		<li><a href="samplebook" class="">見本帳一覧</a></li>
+		<li><a href="showroom" class="">ショールーム</a></li>
+		<li><a href="company" class="">会社情報</a></li>
+		<li><a href="news" class="">お知らせ</a></li>
+	</ul>
+	<div class="pnav_sp">
+		<div><a href="http://suminoe.jp/" target="_blank">住江織物株式会社</a></div>
+		<div><a href="http://suminoe.jp/group/index_group.html" target="_blank">グループ企業一覧</a></div>
+		<div><a href="inquiry">お問い合わせ</a></div>
+	</div>
+	<div class="poricy_sp clm">
+		<div><a href="site-policy">サイトのご利用案内</a></div>
+		<div><a href="privacy-policy">個人情報保護方針</a></div>
+	</div>
+	<div class="close sp"><a href="#"><img src="https://suminoe.jp/wp/wp-content/themes/suminoe/common/imgs/gnav_close.png" alt="CLOSE" width="37"></a></div>
+</nav>
+-->
+  <article class="main">
+   <section class="sec01">
+    <img alt="PRODUCT" class="bg_word" src="https://suminoe.jp/wp/wp-content/themes/suminoe/imgs/bg_word.png"/>
+    <!--	<div class="info">
+			ご覧のサイトは株式会社スミノエのホームページです。
+住江織物株式会社ホームページは以下のURLに移転しました。<br>
+新しいホームページは<a href="https://suminoe.co.jp/" target="_blank">こちら</a>。<br>
+
+</div> -->
+    <div class="swiper-container">
+     <ul class="swiper-wrapper">
+      <li class="swiper-slide">
+       <img src="https://suminoe.jp/wp69/wp-content/themes/8969/imgs/top_slide_a.jpg"/>
+      </li>
+      <li class="swiper-slide">
+       <img src="https://suminoe.jp/wp69/wp-content/themes/8969/imgs/top_slide_b.jpg"/>
+      </li>
+      <li class="swiper-slide">
+       <img src="https://suminoe.jp/wp69/wp-content/themes/8969/imgs/top_slide_06.jpg"/>
+      </li>
+      <li class="swiper-slide">
+       <img src="https://suminoe.jp/wp69/wp-content/themes/8969/imgs/top_slide_07.jpg"/>
+      </li>
+      <li class="swiper-slide">
+       <img src="https://suminoe.jp/wp69/wp-content/themes/8969/imgs/top_slide_08.jpg"/>
+      </li>
+      <li class="swiper-slide">
+       <img src="https://suminoe.jp/wp69/wp-content/themes/8969/imgs/top_slide_11.jpg"/>
+      </li>
+      <li class="swiper-slide">
+       <img src="https://suminoe.jp/wp69/wp-content/themes/8969/imgs/top_slide_13.jpg"/>
+      </li>
+     </ul>
+     <!-- If we need pagination -->
+     <div class="swiper-pagination">
+     </div>
+     <div class="caution">
+      <p>
+       無断複製・転載禁止
+      </p>
+     </div>
+    </div>
+    <article class="ecopro-wrapper">
+     <div class="inner">
+      <div class="index-message">
+       <p>
+        <a href="https://suminoe.jp/ecopro-awards/">
+         水平循環型リサイクルタイルカーペット「ECOS®（エコス）」が
+         <br/>
+         『第4回エコプロアワード』経済産業大臣賞および
+         <br/>
+         『第22回グリーン購入大賞』プラスチック資源循環特別部門 大賞を受賞
+        </a>
+       </p>
+      </div>
+     </div>
+    </article>
+    <div class="inner">
+     <div class="application">
+      <div class="white-box">
+       <p class="white-ttl">
+        FUNCTION・TECHNICAL
+        <br/>
+        技術・機能
+       </p>
+       <div class="box">
+        <a href="https://suminoe.jp/cleanse/">
+         <img src="https://suminoe.jp/wp/wp-content/uploads/2021/08/top_function_00.png" width="100%"/>
+        </a>
+       </div>
+       <div class="box">
+        <a href="http://www.suminoe.jp/ecos/">
+         <img src="https://suminoe.jp/wp/wp-content/uploads/2021/08/top_function_01.png" width="100%"/>
+        </a>
+       </div>
+       <div class="box">
+        <a href="http://carpet-tiles.jp/ja/pages/triple.html" target="_blank">
+         <img src="https://suminoe.jp/wp/wp-content/uploads/2021/08/top_function_02.png" width="100%"/>
+        </a>
+       </div>
+      </div>
+      <p style="text-align: center; font-size: 14px; padding: 20px 0; margin-bottom:30px;">
+      </p>
+     </div>
+     <div class="application">
+      <div class="white-box">
+       <p class="white-ttl">
+        ONLINE APPLICATION
+        <br/>
+        オンライン展示会
+       </p>
+       <div class="box">
+        <img src="https://suminoe.jp/wp/wp-content/uploads/2022/05/2022.6オンライン展示会バナー_1.jpg" width="100%"/>
+       </div>
+       <div class="box">
+        <img src="https://suminoe.jp/wp/wp-content/uploads/2022/05/2022.6オンライン展示会バナー_2.jpg" width="100%"/>
+       </div>
+       <div class="box">
+        <img src="https://suminoe.jp/wp/wp-content/uploads/2022/05/2022.6オンライン展示会バナー_3.jpg" width="100%"/>
+       </div>
+      </div>
+      <div class="btnA" style="margin-bottom:30px;">
+       <a href="https://suminoe.jp/online-application/">
+        <span class="bg_ov">
+        </span>
+        お申込みページ
+        <span class="arrow">
+        </span>
+       </a>
+      </div>
+      <p style="text-align: center; font-size: 14px; padding: 20px 0; margin-bottom:30px;">
+      </p>
+     </div>
+     <!--
+			<div style="display:block">
+				<p style="text-align:center; margin-bottom:30px;"><img style="max-width:500px;" src="https://suminoe.jp/wp/wp-content/uploads/2021/12/OL展示会TOPバナー2-1.jpg" width="100%"></p>
+				<div style="margin-bottom:30px;" class="btnA"><a href="https://suminoe.jp/online-application/"><span class="bg_ov"></span>お申込みページ<span class="arrow"></span></a></div>
+				<p style="text-align: center; font-size: 14px; padding: 20px 0; margin-bottom:30px;"></p>
+			</div>
+-->
+     <div id="search">
+      <ul class="img_list_big">
+       <li>
+        <div class="white_fil">
+         <img src="https://suminoe.jp/wp69/wp-content/themes/8969/imgs/top_search_01.jpg"/>
+         <p>
+          カーテン・カーペット・ラグ・業務用床材
+          <span>
+           CURTAIN/CURPET/RUG/FLOORING SOLUTIONS
+          </span>
+         </p>
+         <p class="caution">
+          カーテン・カーペット・ラグについて キーワードや条件で商品検索していただけます。
+         </p>
+        </div>
+        <div class="btnA">
+         <div class="btnA">
+          <a href="https://suminoe.dga.jp/catalog/">
+           <span class="bg_ov">
+           </span>
+           <i class="fas fa-search">
+           </i>
+           商品検索
+          </a>
+         </div>
+        </div>
+       </li>
+       <li>
+        <div class="white_fil">
+         <img src="https://suminoe.jp/wp69/wp-content/themes/8969/imgs/top_search_02.jpg"/>
+         <p>
+          業務用床材サイト
+          <font style="font-size:14px;">
+           <i class="fas fa-external-link-alt" style="color:#1d50a2;">
+           </i>
+           （外部サイト）
+          </font>
+          <span>
+           FLOORING SOLUTIONS
+          </span>
+         </p>
+         <p class="caution">
+          業務用床材のすべてが詳しくご覧いただけるページです。タイルカーペットは色・柄のシミュレーションができます。
+         </p>
+        </div>
+        <div class="btnA">
+         <div class="btnA">
+          <a href="https://flooringsolutions.jp/ja/" taraget="_blank">
+           <span class="bg_ov">
+           </span>
+           <i class="fas fa-external-link-alt">
+           </i>
+           業務用床材サイト
+          </a>
+         </div>
+        </div>
+       </li>
+      </ul>
+     </div>
+     <div id="samplebook_video">
+      <ul class="img_list_big">
+       <li>
+        <div class="white_fil">
+         <img src="https://suminoe.jp/wp69/wp-content/themes/8969/imgs/top_samplebook.jpg"/>
+         <p>
+          見本帳一覧
+          <span>
+           SAMPLE BOOK LIST
+          </span>
+         </p>
+         <p class="caution">
+          デジタルブックがご覧いただけるほか、
+          <br/>
+          画像やPDFのダウンロードページです。
+         </p>
+        </div>
+        <div class="btnA">
+         <a href="https://suminoe.jp/samplebook/">
+          <span class="bg_ov">
+          </span>
+          見本帳一覧
+          <span class="arrow">
+          </span>
+         </a>
+        </div>
+       </li>
+       <li>
+        <div class="white_fil">
+         <img src="https://suminoe.jp/wp69/wp-content/themes/8969/imgs/movie-icon.png"/>
+         <p>
+          オンライン展示会動画一覧
+          <span>
+           ONLINE EXIHIBITION MOVIE LIST
+          </span>
+         </p>
+         <p class="caution">
+          過去のオンライン展示会の動画をご覧いただけるページです。
+          <em class="pc">
+           <br/>
+          </em>
+         </p>
+        </div>
+        <div class="btnA">
+         <a href="https://suminoe.jp/video_archives/">
+          <span class="bg_ov">
+          </span>
+          動画一覧
+          <span class="arrow">
+          </span>
+         </a>
+        </div>
+       </li>
+      </ul>
+     </div>
+     <!--
+	<div id="samplebook">
+		<ul class="img_list_big">
+			<li><img src="https://suminoe.jp/wp69/wp-content/themes/8969/imgs/top_samplebook.jpg" alt="見本帳一覧"></li>
+			<li><p class="ttl">見本帳一覧<span class="sub_ttl">SAMPLE BOOK LIST</span></p>
+				<p>デジタルブックがご覧いただけるほか、<br>画像やPDFのダウンロードページです。</p>
+				<div class="btnA"><a href="samplebook/"><span class="bg_ov"></span>見本帳一覧<span class="arrow"></span></a></div>
+				<p class="ttl">動画一覧<span class="sub_ttl">VIDEO LIST</span></p>
+				<div class="btnA"><a href="video_archives/" style="margin-top:15px!important;"><span class="bg_ov"></span>動画一覧<span class="arrow"></span></a></div>
+			</li>
+		</ul>
+	</div>
+-->
+     <div id="showroom">
+      <h3 class="ttl">
+       ショールーム
+       <span class="sub_ttl">
+        SHOWROOM
+       </span>
+      </h3>
+      <p class="desc">
+       エンドユーザーの皆様、ならびに販売店・設計・コーディネートご担当のプロフェッショナルまで、インテリアのことはすべてS・I・Pスミノエインテリアプラザがサポートいたします。スペースのイメージを広げる豊富な商品アイテムの展示とトータルインテリアシステム。最新のインテリア情報をもとに、バラエティあふれるライフスタイルを実現。きめ細やかなサービスとネットワークがS・I・Pのモットーです
+      </p>
+      <ul class="img_list_big">
+       <li>
+        <img src="https://suminoe.jp/wp69/wp-content/themes/8969/imgs/top_showroom_osaka2.jpg"/>
+        <p>
+         <span>
+          OSAKA
+         </span>
+         大阪ショールーム
+        </p>
+       </li>
+       <li>
+        <img src="https://suminoe.jp/wp69/wp-content/themes/8969/imgs/top_showroom_tokyo.jpg"/>
+        <p>
+         <span>
+          TOKYO
+         </span>
+         東京ショールーム
+        </p>
+       </li>
+      </ul>
+      <div class="btnA">
+       <a href="showroom/">
+        <span class="bg_ov">
+        </span>
+        ショールーム
+        <span class="arrow">
+        </span>
+       </a>
+      </div>
+     </div>
+    </div>
+    <div id="news">
+     <img alt="NEWS" class="bg_word" src="https://suminoe.jp/wp69/wp-content/themes/8969/news/imgs/bg_word.png"/>
+     <ul class="newslist">
+      <li>
+       <a href="https://suminoe.jp/news_post/2022-suminoe-%e6%96%b0%e4%bd%9c%e7%99%ba%e8%a1%a8%e4%bc%9a%e3%81%ae%e3%81%94%e6%a1%88%e5%86%85/">
+        <dl>
+         <dt>
+          <time>
+           2022.05.19
+          </time>
+          <span class="c-news">
+           お知らせ
+          </span>
+         </dt>
+         <dd>
+          <h4>
+           2022 SUMINOE 新作発表会のご案内
+          </h4>
+          <p>
+           <p>
+            株式会社スミノエでは、プロの方を対象に全国各地の弊社ショールーム会場にて「2022 SUMINOE 新作発表会」を開催いたします。 　各会場では、商品開発担当より現物サンプルを交えながら新商品セミナーを実施いたします。 […]
+           </p>
+          </p>
+         </dd>
+        </dl>
+       </a>
+      </li>
+      <li>
+       <a href="https://suminoe.jp/news_post/2022-suminoe-%e3%82%aa%e3%83%b3%e3%83%a9%e3%82%a4%e3%83%b3%e5%b1%95%e7%a4%ba%e4%bc%9a%e3%81%ae%e3%81%94%e6%a1%88%e5%86%85/">
+        <dl>
+         <dt>
+          <time>
+           2022.05.19
+          </time>
+          <span class="c-news">
+           お知らせ
+          </span>
+         </dt>
+         <dd>
+          <h4>
+           2022 SUMINOE オンライン展示会のご案内
+          </h4>
+          <p>
+           <p>
+            6月1日(水)より、プロの方を対象に「2022 SUMINOE オンライン展示会」を当ホームページ上にて開催いたします。 　当オンライン展示会は、全国各地のショールーム会場で開催するリアル新作発表会と並行して、新商品の […]
+           </p>
+          </p>
+         </dd>
+        </dl>
+       </a>
+      </li>
+      <li>
+       <a href="https://suminoe.jp/news_post/%e4%bd%8f%e6%b1%9f%e7%b9%94%e7%89%a9%e3%82%b0%e3%83%ab%e3%83%bc%e3%83%97%e3%80%80%e3%82%b4%e3%83%bc%e3%83%ab%e3%83%87%e3%83%b3%e3%82%a6%e3%82%a4%e3%83%bc%e3%82%af%e4%bc%91%e6%a5%ad%e6%9c%9f%e9%96%93/">
+        <dl>
+         <dt>
+          <time>
+           2022.04.22
+          </time>
+          <span class="c-news">
+           お知らせ
+          </span>
+         </dt>
+         <dd>
+          <h4>
+           住江織物グループ　ゴールデンウイーク休業期間のお知らせ
+          </h4>
+          <p>
+           <p>
+            平素は格別のご高配を賜り、厚く御礼申し上げます。 　住江織物グループのゴールデンウイーク休業期間のご案内をさせていただきます。 　誠に勝手ではございますが、宜しくお取り計らいくださいますようお願い申し上げます。 記 　 […]
+           </p>
+          </p>
+         </dd>
+        </dl>
+       </a>
+      </li>
+     </ul>
+     <div class="btnA">
+      <a href="news/">
+       <span class="bg_ov">
+       </span>
+       お知らせ一覧
+       <span class="arrow">
+       </span>
+      </a>
+     </div>
+     <div>
+      <a href=".covid19/" style="display:block;margin:40px auto; text-align:center; color:#1d50a2;text-decoration:underline;">
+       当社拠点における新型コロナウィルス感染者の発生状況について(更新日：2022.04.25)
+      </a>
+     </div>
+    </div>
+    <div id="bnr_area">
+     <ul class="img_list_big">
+      <li style="margin:auto;">
+       <a href="https://suminoe.jp/doncho/" target="_blank">
+        <img src="https://suminoe.jp/wp69/wp-content/themes/8969/imgs/top_bnr_01.jpg"/>
+        <p>
+         <span>
+          緞帳と緞通
+         </span>
+         <img alt="blank" class="blank" src="https://suminoe.jp/wp69/wp-content/themes/8969/imgs/icon_blank.gif"/>
+         （外部サイト）
+         <br/>
+         緞帳と緞通、懸装品など美術工芸織物の案内サイトです。
+        </p>
+       </a>
+      </li>
+      <!--<li><a href="https://flooringsolutions.jp/ja/" target="_blank"><img src="https://suminoe.jp/wp69/wp-content/themes/8969/imgs/top_bnr_02.jpg"><p><span>業務用床材サイト</span><img src="https://suminoe.jp/wp69/wp-content/themes/8969/imgs/icon_blank.gif" alt="blank" class="blank">（外部サイト）<br>業務用床材のすべてが詳しくご覧いただけるページです。タイルカーペットは、色・柄のシミュレーションができます。</p></a></li>-->
+     </ul>
+    </div>
+   </section>
+  </article>
+  <footer class="footer">
+   <!--	<div class="pagetop"><a href="#top">PAGE TOP</a></div> -->
+   <div class="banner_area">
+    <div class="main-carousel">
+     <div class="carousel-cell">
+      <a href="http://suminoe-nh.com/login.php" target="_blank">
+       <img src="https://suminoe.jp/wp/wp-content/themes/suminoe/imgs/footer/banner/bnr04.gif"/>
+      </a>
+     </div>
+     <div class="carousel-cell">
+      <a href="http://nif.or.jp/" target="_blank">
+       <img src="https://suminoe.jp/wp/wp-content/themes/suminoe/imgs/footer/banner/bnr02.gif"/>
+      </a>
+     </div>
+     <div class="carousel-cell">
+      <a href="https://nif.or.jp/window_treatment/" target="_blank">
+       <img src="https://suminoe.jp/wp/wp-content/themes/suminoe/imgs/footer/banner/bnr03.gif"/>
+      </a>
+     </div>
+     <div class="carousel-cell">
+      <a href="https://suminoe.jp/wp/wp-content/uploads/2022/01/0114_suminoe22_A4" target="_blank">
+       <img src="https://suminoe.jp/wp/wp-content/uploads/2022/02/0124_suminoe22_web-banner.gif"/>
+      </a>
+     </div>
+     <div class="carousel-cell">
+      <a href="https://www.cucannetshop.jp/" target="_blank">
+       <img alt="cucannetshop" src="https://suminoe.jp/wp/wp-content/themes/suminoe/imgs/footer/banner/bnr07.gif"/>
+      </a>
+     </div>
+     <div class="carousel-cell">
+      <a href="https://www.suminoe-brand.com" target="_blank">
+       <img src="https://suminoe.jp/wp/wp-content/themes/suminoe/imgs/footer/banner/carpetmarche_banner-clr.gif"/>
+      </a>
+     </div>
+     <div class="carousel-cell">
+      <a href="https://flooringsolutions.jp/ja/" target="_blank">
+       <img src="https://suminoe.jp/wp/wp-content/themes/suminoe/imgs/footer/banner/bnr01.gif"/>
+      </a>
+     </div>
+     <div class="carousel-cell">
+      <a href="http://japantex.jp/" tabindex="_blank">
+       <img alt="JAPANTEX" src="http://japantex.jp/download/images/bn_japantex200x60.gif"/>
+      </a>
+     </div>
+     <!-- <div class="carousel-cell"><a href="https://suminoe.jp/wp/wp-content/themes/suminoe/pdf/0129_suminoe20.pdf" target="_blank"><img src="https://suminoe.jp/wp/wp-content/themes/suminoe/imgs/footer/banner/bnr06.gif" /></a></div> -->
+     <!-- <div class="carousel-cell"><a href="http://www.suminoe.ne.jp/pdf/0425_suminoe19_A4_re.pdf" target="_blank"><img src="https://suminoe.jp/wp/wp-content/themes/suminoe/imgs/footer/banner/bnr05.gif" /></a></div> -->
+    </div>
+   </div>
+   <div class="ftr_top">
+    <div class="contents_bg_line_wrap">
+     <div class="contents_bg_line -footer">
+      <span class="left_left line">
+      </span>
+      <span class="left_center line">
+      </span>
+      <span class="right_center line">
+      </span>
+      <span class="right_right line">
+      </span>
+     </div>
+    </div>
+    <div class="info">
+     <p class="text01">
+      株式会社スミノエ
+     </p>
+     <p class="text02">
+      〒550-0013
+      <br/>
+      大阪市西区新町2丁目4番2号
+      <br/>
+      TEL：
+      <a href="tel:0665376301">
+       06-6537-6301
+      </a>
+     </p>
+    </div>
+    <nav class="fnav">
+     <dl>
+      <dt>
+       <a class="" href="https://suminoe.jp">
+        トップ
+       </a>
+      </dt>
+      <dt>
+       <a class="" href="https://suminoe.jp/news">
+        お知らせ
+       </a>
+      </dt>
+      <dt>
+       <a class="" href="https://suminoe.jp/inquiry">
+        お問い合わせ
+       </a>
+      </dt>
+      <dt>
+       <a class="" href="https://suminoe.jp/recruit">
+        求人情報
+       </a>
+      </dt>
+     </dl>
+     <dl>
+      <dt>
+       <a class="" href="https://suminoe.dga.jp/catalog/">
+        商品検索
+       </a>
+      </dt>
+      <dt>
+       <a class="" href="https://suminoe.jp/samplebook">
+        見本帳一覧
+       </a>
+      </dt>
+      <dt>
+       <a class="" href="https://suminoe.jp/showroom">
+        ショールーム
+       </a>
+      </dt>
+      <dt>
+       <a class="" href="https://suminoe.jp/company">
+        会社情報
+       </a>
+      </dt>
+     </dl>
+     <dl>
+      <dt>
+       <a class="" href="https://suminoe.jp/ordinary">
+        一般の方へ
+       </a>
+      </dt>
+      <dt>
+       <a class="" href="https://suminoe.jp/shop">
+        お取扱店一覧
+       </a>
+      </dt>
+      <dt>
+       <a class="" href="https://suminoe.jp/care">
+        インテリアの豆知識
+       </a>
+      </dt>
+     </dl>
+     <dl>
+      <dt>
+       <a class="" href="https://suminoe.jp/member">
+        スミノエ会 会員専用ページ
+       </a>
+      </dt>
+      <!--<dd><a href="https://suminoe.jp/sitemap" class="">サイトマップ</a></dd>
+				<dd><a href="https://suminoe.jp/site-policy" class="">サイトのご利用案内</a></dd>
+				<dd><a href="https://suminoe.jp/privacy-policy" class="">個人情報保護方針</a></dd>-->
+     </dl>
+     <div class="pnav_sp sp">
+      <!--<div><a href="https://suminoe.jp/member">スミノエ会</a></div>-->
+      <!--<div><a href="https://suminoe.jp/sitemap">サイトマップ</a></div>-->
+      <div>
+       <a href="https://suminoe.jp/site-policy">
+        サイトのご利用案内
+       </a>
+      </div>
+      <div>
+       <a href="https://suminoe.jp/privacy-policy">
+        個人情報保護方針
+       </a>
+      </div>
+     </div>
+    </nav>
+   </div>
+   <div class="ftr_poricy">
+    <div class="seal">
+     <span id="ss_gmo_img_wrapper_115-57_image_ja">
+      <a href="https://jp.globalsign.com/" rel="nofollow" target="_blank">
+       <img alt="SSL　GMOグローバルサインのサイトシール" border="0" id="ss_img" src="//seal.globalsign.com/SiteSeal/images/gs_noscript_115-57_ja.gif"/>
+      </a>
+     </span>
+     <script defer="" src="//seal.globalsign.com/SiteSeal/gmogs_image_115-57_ja.js" type="text/javascript">
+     </script>
+    </div>
+    <p class="copy">
+     Copyright 2021 SUMINOE CO., LTD.
+    </p>
+    <div class="poricy clm pc">
+     <!--<div><a href="https://suminoe.jp/sitemap">サイトマップ</a></div>-->
+     <div>
+      <a href="https://suminoe.jp/site-policy">
+       サイトのご利用案内
+      </a>
+     </div>
+     <div>
+      <a href="https://suminoe.jp/privacy-policy">
+       個人情報保護方針
+      </a>
+     </div>
+    </div>
+   </div>
+  </footer>
+  <script id="script-flatHeightAll-js" src="https://suminoe.jp/wp/wp-content/themes/suminoe/common/js/jquery.flatHeightAll.min.js?ver=1.0.0" type="text/javascript">
+  </script>
+  <script id="script-flatHeightAllSetting-js" src="https://suminoe.jp/wp/wp-content/themes/suminoe/common/js/jquery.flatHeightAllSetting.js?ver=1.0.0" type="text/javascript">
+  </script>
+  <script id="script-main-js" src="https://suminoe.jp/wp/wp-content/themes/suminoe/common/js/main.js?ver=1.0.0" type="text/javascript">
+  </script>
+  <script id="script-index-js" src="https://suminoe.jp/wp/wp-content/themes/suminoe/js/index.js?ver=1.0.0" type="text/javascript">
+  </script>
+  <script id="script-flickity-js" src="https://suminoe.jp/wp/wp-content/themes/suminoe/common/js/flickity/flickity.min.js?ver=1.0.0" type="text/javascript">
+  </script>
+  <script id="script-common-js" src="https://suminoe.jp/wp/wp-content/themes/suminoe/common/js/common.js?ver=1.0.0" type="text/javascript">
+  </script>
+  <script id="ajaxzip3-js" src="https://ajaxzip3.github.io/ajaxzip3.js?ver=5.9.3" type="text/javascript">
+  </script>
+  <script id="script-swiper-js" src="https://suminoe.jp/wp/wp-content/themes/suminoe/js/swiper/js/swiper.jquery.min.js?ver=1.0.0" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   jQuery(function( $ ) {
+    jQuery( 'input[name="zipcode"]' ).keyup( function( e ) {
+        AjaxZip3.zip2addr('zipcode','','address1','address2');
+    } )
+} );
+  </script>
+ </body>
+</html>
+<script>
+ jQuery(document).ready(function () {
+    //initialize swiper when document ready
+    var mySwiper = new Swiper ('.swiper-container', {
+        pagination: '.swiper-pagination',
+        slidesPerView: 'auto',
+        centeredSlides: true,
+        paginationClickable: true,
+		loop: true,
+		loopAdditionalSlides: 2,
+		preventLinks: true,
+		resistance: true,
+		freeModeFluid: true,
+		grabCursor: true,
+		keyboardControl: true,
+		speed: 1000,
+		autoplay: 4500,
+		autoplayDisableOnInteraction: false,
+        spaceBetween: 10
+    })
+  });
+</script>

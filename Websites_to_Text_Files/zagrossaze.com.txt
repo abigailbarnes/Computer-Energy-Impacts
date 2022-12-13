@@ -1,0 +1,1149 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa-IR">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <link href="https://gmpg.org/xfn/11" rel="profile"/>
+  <link href="https://www.zagrossaze.com/xmlrpc.php" rel="pingback"/>
+  <link href="https://www.zagrossaze.com/wp-content/uploads/2018/05/image002-1.png" rel="shortcut icon" type="image/x-icon"/>
+  <style>
+   #wpadminbar #wp-admin-bar-cp_plugins_top_button .ab-icon:before{content:"\f533";top:3px}#wpadminbar #wp-admin-bar-cp_plugins_top_button .ab-icon{transform:rotate(45deg)}
+  </style>
+  <style>
+   #wpadminbar #wp-admin-bar-wccp_free_top_button .ab-icon:before{content:"\f160";color:#02CA02;top:3px}#wpadminbar #wp-admin-bar-wccp_free_top_button .ab-icon{transform:rotate(45deg)}
+  </style>
+  <!-- This site is optimized with the Yoast SEO Premium plugin v15.2 - https://yoast.com/wordpress/plugins/seo/ -->
+  <title>
+   زاگرس سازه | متخصص در طراحی و اجرای سازه های فولادی و بتنی
+  </title>
+  <meta content="زاگرس سازه با تکیه بر توان علمی و فنی نیروهای متخصص خود قادربه مطالعه امکان سنجی طراحی معماری و محاسبات انواع سازه های فولادی و بتنی می باشد." name="description">
+   <meta content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" name="robots"/>
+   <link href="https://www.zagrossaze.com/" rel="canonical"/>
+   <meta content="fa_IR" property="og:locale"/>
+   <meta content="website" property="og:type"/>
+   <meta content="زاگرس سازه | متخصص در طراحی و اجرای سازه های فولادی و بتنی" property="og:title"/>
+   <meta content="زاگرس سازه با تکیه بر توان علمی و فنی نیروهای متخصص خود قادربه مطالعه امکان سنجی طراحی معماری و محاسبات انواع سازه های فولادی و بتنی می باشد." property="og:description"/>
+   <meta content="https://www.zagrossaze.com/" property="og:url"/>
+   <meta content="زاگرس سازه" property="og:site_name"/>
+   <meta content="https://www.facebook.com/zagros.saze" property="article:publisher"/>
+   <meta content="2021-02-04T15:30:55+00:00" property="article:modified_time"/>
+   <meta content="summary" name="twitter:card"/>
+   <meta name="twitter:label1" value="نوشته‌شده بدست"/>
+   <meta name="twitter:data1" value="zagros120"/>
+   <meta name="twitter:label2" value="زمان تقریبی برای خواندن"/>
+   <meta name="twitter:data2" value="2 دقیقه"/>
+   <script class="yoast-schema-graph" type="application/ld+json">
+    {"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.zagrossaze.com/#organization","name":"\u0632\u0627\u06af\u0631\u0633 \u0633\u0627\u0632\u0647","url":"https://www.zagrossaze.com/","sameAs":["https://www.facebook.com/zagros.saze","https://www.instagram.com/zagrossaze/","https://www.linkedin.com/in/\u0637\u0631\u0627\u062d\u06cc-\u0648\u06cc\u0644\u0627-483844151/"],"logo":{"@type":"ImageObject","@id":"https://www.zagrossaze.com/#logo","inLanguage":"fa-IR","url":"https://www.zagrossaze.com/wp-content/uploads/2018/05/image002-1.png","width":550,"height":400,"caption":"\u0632\u0627\u06af\u0631\u0633 \u0633\u0627\u0632\u0647"},"image":{"@id":"https://www.zagrossaze.com/#logo"}},{"@type":"WebSite","@id":"https://www.zagrossaze.com/#website","url":"https://www.zagrossaze.com/","name":"\u0632\u0627\u06af\u0631\u0633 \u0633\u0627\u0632\u0647","description":"\u0637\u0631\u0627\u062d\u06cc \u0648\u06cc\u0644\u0627 \u062f\u0631 \u0633\u0631\u0627\u0633\u0631 \u0627\u06cc\u0631\u0627\u0646","publisher":{"@id":"https://www.zagrossaze.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://www.zagrossaze.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"fa-IR"},{"@type":"WebPage","@id":"https://www.zagrossaze.com/#webpage","url":"https://www.zagrossaze.com/","name":"\u0632\u0627\u06af\u0631\u0633 \u0633\u0627\u0632\u0647 | \u0645\u062a\u062e\u0635\u0635 \u062f\u0631 \u0637\u0631\u0627\u062d\u06cc \u0648 \u0627\u062c\u0631\u0627\u06cc \u0633\u0627\u0632\u0647 \u0647\u0627\u06cc \u0641\u0648\u0644\u0627\u062f\u06cc \u0648 \u0628\u062a\u0646\u06cc","isPartOf":{"@id":"https://www.zagrossaze.com/#website"},"about":{"@id":"https://www.zagrossaze.com/#organization"},"datePublished":"2014-11-11T07:39:47+00:00","dateModified":"2021-02-04T15:30:55+00:00","description":"\u0632\u0627\u06af\u0631\u0633 \u0633\u0627\u0632\u0647 \u0628\u0627 \u062a\u06a9\u06cc\u0647 \u0628\u0631 \u062a\u0648\u0627\u0646 \u0639\u0644\u0645\u06cc \u0648 \u0641\u0646\u06cc \u0646\u06cc\u0631\u0648\u0647\u0627\u06cc \u0645\u062a\u062e\u0635\u0635 \u062e\u0648\u062f \u0642\u0627\u062f\u0631\u0628\u0647 \u0645\u0637\u0627\u0644\u0639\u0647 \u0627\u0645\u06a9\u0627\u0646 \u0633\u0646\u062c\u06cc \u0637\u0631\u0627\u062d\u06cc \u0645\u0639\u0645\u0627\u0631\u06cc \u0648 \u0645\u062d\u0627\u0633\u0628\u0627\u062a \u0627\u0646\u0648\u0627\u0639 \u0633\u0627\u0632\u0647 \u0647\u0627\u06cc \u0641\u0648\u0644\u0627\u062f\u06cc \u0648 \u0628\u062a\u0646\u06cc \u0645\u06cc \u0628\u0627\u0634\u062f.","inLanguage":"fa-IR","potentialAction":[{"@type":"ReadAction","target":["https://www.zagrossaze.com/"]}]}]}
+   </script>
+   <meta content="F9XjfA7UehBShoJWdhd86SJrrZpXlKeabTfvTdRSPtU" name="google-site-verification">
+    <!-- / Yoast SEO Premium plugin. -->
+    <link href="//cdn.jsdelivr.net" rel="dns-prefetch"/>
+    <link href="//maxcdn.bootstrapcdn.com" rel="dns-prefetch"/>
+    <link href="//fonts.googleapis.com" rel="dns-prefetch"/>
+    <link href="https://www.zagrossaze.com/feed/" rel="alternate" title="زاگرس سازه » خوراک" type="application/rss+xml"/>
+    <link href="https://www.zagrossaze.com/comments/feed/" rel="alternate" title="زاگرس سازه » خوراک دیدگاه‌ها" type="application/rss+xml"/>
+    <link href="https://www.zagrossaze.com/%d8%b5%d9%81%d8%ad%d9%87-%d8%a7%d8%b5%d9%84%db%8c/feed/" rel="alternate" title="زاگرس سازه » صفحه اصلی خوراک دیدگاه‌ها" type="application/rss+xml"/>
+    <link href="https://www.zagrossaze.com/wp-content/cache/asset-cleanup/css/head-681a1ac9524e7396f5f40e2579620eb7bed20e67.css" id="wpacu-combined-css-head-1" media="all" rel="stylesheet" type="text/css"/>
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css?ver=5.5.9" id="font-awesome-4-5-css" media="all" rel="stylesheet" type="text/css"/>
+    <style data-wpacu-inline-css-file="1" type="text/css">
+     /*!/wp-content/themes/constructo/css/transitions/transition-1.css*/.site-header.sticky .nav-wrap{-webkit-transition:none;-moz-transition:none;-o-transition:none;transition:none}.site-header.sticky .nav-wrap.sticky{-webkit-transition:all 100ms ease-out 0s;-moz-transition:all 100ms ease-out 0s;-o-transition:all 100ms ease-out 0s;transition:all 100ms ease-out 0s}a#sticky-logo img{-webkit-transition:all 100ms ease-out 0.1s;-moz-transition:all 100ms ease-out 0.1s;-o-transition:all 100ms ease-out 0.1s;transition:all 100ms ease-out 0.1s}.nav-wrap .site-logo a img{-webkit-transition:all 100ms ease-out 0.1s;-moz-transition:all 100ms ease-out 0.1s;-o-transition:all 100ms ease-out 0.1s;transition:all 100ms ease-out 0.1s}a#sticky-logo img{opacity:0}.nav-wrap.sticky .site-logo a img{opacity:0}.nav-wrap.sticky a#sticky-logo img{opacity:1}@keyframes anpsopacity{0%{opacity:1}30%{opacity:0}50%{opacity:0}100%{opacity:1}}
+    </style>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans%3A400italic%2C400%2C600%2C700%2C300&amp;subset=latin%2Clatin-ext&amp;ver=5.5.9" id="font_type_1-css" media="all" rel="stylesheet" type="text/css"/>
+    <script>
+     if (document.location.protocol != "https:") {document.location = document.URL.replace(/^http:/i, "https:");}
+    </script>
+    <script id="jquery-core-js" src="https://www.zagrossaze.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp" type="text/javascript">
+    </script>
+    <link href="https://www.zagrossaze.com/wp-json/" rel="https://api.w.org/"/>
+    <link href="https://www.zagrossaze.com/wp-json/wp/v2/pages/5" rel="alternate" type="application/json"/>
+    <link href="https://www.zagrossaze.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+    <link href="https://www.zagrossaze.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+    <link href="https://www.zagrossaze.com/wp-content/cache/asset-cleanup/css/item/67041bb872045fb25a6b858884e76d5b-vcabf8dbcbc52a1b66d0e97ddc02c3d3282cae7cd.css" media="screen" rel="stylesheet" type="text/css"/>
+    <meta content="WordPress 5.5.9" name="generator">
+     <link href="https://www.zagrossaze.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.zagrossaze.com%2F" rel="alternate" type="application/json+oembed"/>
+     <link href="https://www.zagrossaze.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.zagrossaze.com%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+     <script id="wpcp_disable_selection" type="text/javascript">
+      var image_save_msg='You are not allowed to save images!';
+	var no_menu_msg='Context Menu disabled!';
+	var smessage = "Content is protected !!";
+
+function disableEnterKey(e)
+{
+	var elemtype = e.target.tagName;
+	
+	elemtype = elemtype.toUpperCase();
+	
+	if (elemtype == "TEXT" || elemtype == "TEXTAREA" || elemtype == "INPUT" || elemtype == "PASSWORD" || elemtype == "SELECT" || elemtype == "OPTION" || elemtype == "EMBED")
+	{
+		elemtype = 'TEXT';
+	}
+	
+	if (e.ctrlKey){
+     var key;
+     if(window.event)
+          key = window.event.keyCode;     //IE
+     else
+          key = e.which;     //firefox (97)
+    //if (key != 17) alert(key);
+     if (elemtype!= 'TEXT' && (key == 97 || key == 65 || key == 67 || key == 99 || key == 88 || key == 120 || key == 26 || key == 85  || key == 86 || key == 83 || key == 43 || key == 73))
+     {
+		if(wccp_free_iscontenteditable(e)) return true;
+		show_wpcp_message('You are not allowed to copy content or view source');
+		return false;
+     }else
+     	return true;
+     }
+}
+
+
+/*For contenteditable tags*/
+function wccp_free_iscontenteditable(e)
+{
+	var e = e || window.event; // also there is no e.target property in IE. instead IE uses window.event.srcElement
+  	
+	var target = e.target || e.srcElement;
+
+	var elemtype = e.target.nodeName;
+	
+	elemtype = elemtype.toUpperCase();
+	
+	var iscontenteditable = "false";
+		
+	if(typeof target.getAttribute!="undefined" ) iscontenteditable = target.getAttribute("contenteditable"); // Return true or false as string
+	
+	var iscontenteditable2 = false;
+	
+	if(typeof target.isContentEditable!="undefined" ) iscontenteditable2 = target.isContentEditable; // Return true or false as boolean
+
+	if(target.parentElement.isContentEditable) iscontenteditable2 = true;
+	
+	if (iscontenteditable == "true" || iscontenteditable2 == true)
+	{
+		if(typeof target.style!="undefined" ) target.style.cursor = "text";
+		
+		return true;
+	}
+}
+
+////////////////////////////////////
+function disable_copy(e)
+{	
+	var e = e || window.event; // also there is no e.target property in IE. instead IE uses window.event.srcElement
+	
+	var elemtype = e.target.tagName;
+	
+	elemtype = elemtype.toUpperCase();
+	
+	if (elemtype == "TEXT" || elemtype == "TEXTAREA" || elemtype == "INPUT" || elemtype == "PASSWORD" || elemtype == "SELECT" || elemtype == "OPTION" || elemtype == "EMBED")
+	{
+		elemtype = 'TEXT';
+	}
+	
+	if(wccp_free_iscontenteditable(e)) return true;
+	
+	var isSafari = /Safari/.test(navigator.userAgent) && /Apple Computer/.test(navigator.vendor);
+	
+	var checker_IMG = '';
+	if (elemtype == "IMG" && checker_IMG == 'checked' && e.detail >= 2) {show_wpcp_message(alertMsg_IMG);return false;}
+	if (elemtype != "TEXT")
+	{
+		if (smessage !== "" && e.detail == 2)
+			show_wpcp_message(smessage);
+		
+		if (isSafari)
+			return true;
+		else
+			return false;
+	}	
+}
+
+//////////////////////////////////////////
+function disable_copy_ie()
+{
+	var e = e || window.event;
+	var elemtype = window.event.srcElement.nodeName;
+	elemtype = elemtype.toUpperCase();
+	if(wccp_free_iscontenteditable(e)) return true;
+	if (elemtype == "IMG") {show_wpcp_message(alertMsg_IMG);return false;}
+	if (elemtype != "TEXT" && elemtype != "TEXTAREA" && elemtype != "INPUT" && elemtype != "PASSWORD" && elemtype != "SELECT" && elemtype != "OPTION" && elemtype != "EMBED")
+	{
+		return false;
+	}
+}	
+function reEnable()
+{
+	return true;
+}
+document.onkeydown = disableEnterKey;
+document.onselectstart = disable_copy_ie;
+if(navigator.userAgent.indexOf('MSIE')==-1)
+{
+	document.onmousedown = disable_copy;
+	document.onclick = reEnable;
+}
+function disableSelection(target)
+{
+    //For IE This code will work
+    if (typeof target.onselectstart!="undefined")
+    target.onselectstart = disable_copy_ie;
+    
+    //For Firefox This code will work
+    else if (typeof target.style.MozUserSelect!="undefined")
+    {target.style.MozUserSelect="none";}
+    
+    //All other  (ie: Opera) This code will work
+    else
+    target.onmousedown=function(){return false}
+    target.style.cursor = "default";
+}
+//Calling the JS function directly just after body load
+window.onload = function(){disableSelection(document.body);};
+
+//////////////////special for safari Start////////////////
+var onlongtouch;
+var timer;
+var touchduration = 1000; //length of time we want the user to touch before we do something
+
+var elemtype = "";
+function touchstart(e) {
+	var e = e || window.event;
+  // also there is no e.target property in IE.
+  // instead IE uses window.event.srcElement
+  	var target = e.target || e.srcElement;
+	
+	elemtype = window.event.srcElement.nodeName;
+	
+	elemtype = elemtype.toUpperCase();
+	
+	if(!wccp_pro_is_passive()) e.preventDefault();
+	if (!timer) {
+		timer = setTimeout(onlongtouch, touchduration);
+	}
+}
+
+function touchend() {
+    //stops short touches from firing the event
+    if (timer) {
+        clearTimeout(timer);
+        timer = null;
+    }
+	onlongtouch();
+}
+
+onlongtouch = function(e) { //this will clear the current selection if anything selected
+	
+	if (elemtype != "TEXT" && elemtype != "TEXTAREA" && elemtype != "INPUT" && elemtype != "PASSWORD" && elemtype != "SELECT" && elemtype != "EMBED" && elemtype != "OPTION")	
+	{
+		if (window.getSelection) {
+			if (window.getSelection().empty) {  // Chrome
+			window.getSelection().empty();
+			} else if (window.getSelection().removeAllRanges) {  // Firefox
+			window.getSelection().removeAllRanges();
+			}
+		} else if (document.selection) {  // IE?
+			document.selection.empty();
+		}
+		return false;
+	}
+};
+
+document.addEventListener("DOMContentLoaded", function(event) { 
+    window.addEventListener("touchstart", touchstart, false);
+    window.addEventListener("touchend", touchend, false);
+});
+
+function wccp_pro_is_passive() {
+
+  var cold = false,
+  hike = function() {};
+
+  try {
+	  const object1 = {};
+  var aid = Object.defineProperty(object1, 'passive', {
+  get() {cold = true}
+  });
+  window.addEventListener('test', hike, aid);
+  window.removeEventListener('test', hike, aid);
+  } catch (e) {}
+
+  return cold;
+}
+/*special for safari End*/
+     </script>
+     <script id="wpcp_disable_Right_Click" type="text/javascript">
+      document.ondragstart = function() { return false;}
+	function nocontext(e) {
+	   return false;
+	}
+	document.oncontextmenu = nocontext;
+     </script>
+     <style>
+      .unselectable{-moz-user-select:none;-webkit-user-select:none;cursor:default}html{-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;-webkit-tap-highlight-color:rgba(0,0,0,0)}
+     </style>
+     <script id="wpcp_css_disable_selection" type="text/javascript">
+      var e = document.getElementsByTagName('body')[0];
+if(e)
+{
+	e.setAttribute('unselectable',on);
+}
+     </script>
+     <script>
+      document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
+     </script>
+     <style>
+      .no-js img.lazyload{display:none}figure.wp-block-image img.lazyloading{min-width:150px}.lazyload,.lazyloading{opacity:0}.lazyloaded{opacity:1;transition:opacity 400ms;transition-delay:0ms}
+     </style>
+     <style type="text/css">
+      .recentcomments a{display:inline!important;padding:0!important;margin:0!important}
+     </style>
+     <meta content="Powered by Visual Composer - drag and drop page builder for WordPress." name="generator">
+      <!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://www.zagrossaze.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]-->
+      <style data-type="vc_shortcodes-custom-css" type="text/css">
+       .vc_custom_1464595280225{margin-top:-5px!important;margin-bottom:5px!important;padding-top:5px!important;padding-bottom:5px!important;background-color:#00e280!important;background-position:center!important;background-repeat:no-repeat!important;background-size:cover!important}.vc_custom_1572162830087{margin-top:0px!important}.vc_custom_1526848833569{margin-top:95px!important;margin-bottom:0px!important;border-bottom-width:0px!important;padding-bottom:0px!important}.vc_custom_1612452645515{margin-top:-10px!important}.vc_custom_1605736399701{margin-top:25px!important;border-top-width:20px!important}
+      </style>
+      <noscript>
+       <style type="text/css">
+        .wpb_animate_when_almost_visible{opacity:1}
+       </style>
+      </noscript>
+     </meta>
+    </meta>
+   </meta>
+  </meta>
+ </head>
+ <body class="rtl home page-template-default page page-id-5 responsive pattern-8 boxed unselectable wpb-js-composer js-comp-ver-5.0 vc_responsive" data-rsssl="1">
+  <div class="site-wrapper">
+   <div class="site-search">
+    <div class="container">
+     <form action="https://www.zagrossaze.com" class="searchform-header" id="searchform-header" method="get" role="search">
+      <input name="s" placeholder="تایپ کنید و Enter را فشار دهید" type="text"/>
+     </form>
+     <span class="close">
+      ×
+     </span>
+    </div>
+   </div>
+   <div class="top-bar">
+    <div class="container">
+     <ul class="left">
+      <li class="widget-container widget_anpssocial" id="anpssocial-2">
+       <ul class="social">
+        <li>
+         <a class="fa fa-facebook" href="https://www.facebook.com/zagros.saze" target="_self">
+         </a>
+        </li>
+        <li>
+         <span class="fa fa-twitter">
+         </span>
+        </li>
+        <li>
+         <a class="fa fa-linkedin" href="https://www.instagram.com/zagrossaze" target="_self">
+         </a>
+        </li>
+        <li>
+         <a class="fa fa-google-plus" href="https://plus.google.com/111079230956973509062" target="_self">
+         </a>
+        </li>
+        <li>
+         <a class="fa fa-location-arrow" href="https://t.me/ZAGROSSAZE" target="_self">
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+     <ul class="right">
+      <li class="widget-container widget_anpstext" id="anpstext-2">
+       <span class="fa fa-clock-o">
+       </span>
+       شنبه تا پنجشنبه: 8:00 - 17:00
+      </li>
+      <li class="widget-container widget_anpstext" id="anpstext-5">
+       <span class="fa fa-phone-square">
+       </span>
+       91031947 021
+      </li>
+      <li class="widget-container widget_anpstext" id="anpstext-3">
+       <span class="fa fa-phone">
+       </span>
+       09128206499
+      </li>
+      <li class="widget-container widget_anpstext" id="anpstext-4">
+       <span class="fa fa-envelope-o">
+       </span>
+       <a href="mailto:info@zagrossaze.com">
+        info@zagrossaze.com
+       </a>
+      </li>
+     </ul>
+     <div class="clearfix">
+     </div>
+    </div>
+    <span class="close fa fa-chevron-down">
+    </span>
+   </div>
+   <header class="site-header sticky style-2 relative bg-normal">
+    <div class="nav-wrap">
+     <div class="container">
+      <div class="site-logo retina">
+       <a href="https://www.zagrossaze.com/">
+        <img alt="Site logo" src="https://www.zagrossaze.com/%d8%b2%d8%a7%da%af%d8%b1%d8%b3-%d8%b3%d8%a7%d8%b2%d9%87/" style="width: 130px; height: 80px"/>
+       </a>
+      </div>
+      <!-- Search icon next to menu -->
+      <button class="fa fa-search mobile">
+      </button>
+      <!-- Used for mobile menu -->
+      <button class="navbar-toggle" type="button">
+       <span class="sr-only">
+        Toggle navigation
+       </span>
+       <span class="icon-bar">
+       </span>
+       <span class="icon-bar">
+       </span>
+       <span class="icon-bar">
+       </span>
+      </button>
+      <nav class="site-navigation site-navigation-primary">
+       <ul class="" id="menu-main-menu">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-5 current_page_item">
+         <a href="https://www.zagrossaze.com/">
+          صفحه اصلی
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children">
+         <a class="dropdown-toggle" data-hover="dropdown" href="https://www.zagrossaze.com/%d8%b7%d8%b1%d8%a7%d8%ad%db%8c-%d9%88%db%8c%d9%84%d8%a7/">
+          خدمات ما
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-custom menu-item-object-custom">
+           <a href="https://www.zagrossaze.com/%d8%b7%d8%b1%d8%a7%d8%ad%db%8c-%d9%88%db%8c%d9%84%d8%a7/">
+            طراحی ویلا
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page">
+           <a href="https://www.zagrossaze.com/%d8%a8%d8%a7%d8%b2%d8%b3%d8%a7%d8%b2%db%8c-%d8%b3%d8%a7%d8%ae%d8%aa%d9%85%d8%a7%d9%86/">
+            بازسازی ساختمان
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page">
+           <a href="https://www.zagrossaze.com/%d8%b7%d8%b1%d8%a7%d8%ad%db%8c-%d8%b3%d9%88%d9%84%d9%87/">
+            طراحی سوله
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom">
+           <a href="https://www.zagrossaze.com/%d8%b3%d8%a8%da%a9-%d8%b3%d8%a7%d8%b2%db%8c/">
+            سبک سازی
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page">
+           <a href="https://www.zagrossaze.com/%d8%b3%d8%a7%d8%ae%d8%aa-%d9%88%db%8c%d9%84%d8%a7/">
+            ساخت ویلا
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page">
+           <a href="https://www.zagrossaze.com/%d8%b3%d8%a7%d8%ae%d8%aa-%d8%b3%d9%88%d9%84%d9%87/">
+            ساخت سوله
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
+         <a class="dropdown-toggle" data-hover="dropdown" href="https://www.zagrossaze.com/%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d9%87-%d8%a7%da%a9%d8%b3%d9%84-%d8%b7%d8%b1%d8%a7%d8%ad%db%8c-%d8%a7%d8%aa%d8%b5%d8%a7%d9%84/%d9%88%d8%a8%d9%84%d8%a7%da%af/">
+          وبلاگ
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-post_type menu-item-object-post">
+           <a href="https://www.zagrossaze.com/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d9%84%d9%88%d9%85%db%8c%d9%88%d9%86/">
+            آموزش لومیون
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page">
+           <a href="https://www.zagrossaze.com/%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d9%87-%d8%a7%da%a9%d8%b3%d9%84-%d8%b7%d8%b1%d8%a7%d8%ad%db%8c-%d8%a7%d8%aa%d8%b5%d8%a7%d9%84/">
+            برنامه اکسل طراحی اتصال
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page">
+           <a href="https://www.zagrossaze.com/%d8%a2%db%8c%d8%af%db%8c%d8%a7-%d8%a7%d8%b3%d8%aa%d8%a7%d8%aa%db%8c%da%a9%d8%a7/">
+            آیدیا استاتیکا
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page">
+           <a href="https://www.zagrossaze.com/%d8%a8%d9%84%d9%88%da%a9-%d9%87%d8%a8%d9%84%da%a9%d8%b3/">
+            بلوک هبلکس
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+         <a href="https://www.zagrossaze.com/about-us/">
+          درباره ما
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+         <a href="https://www.zagrossaze.com/contact-us/">
+          تماس با ما
+         </a>
+        </li>
+       </ul>
+       <button class="fa fa-search desktop">
+       </button>
+      </nav>
+     </div>
+    </div>
+    <div class="sticky-holder">
+    </div>
+   </header>
+   <section class="container">
+    <div class="normal">
+     <div class="vc_row wpb_row vc_row-fluid">
+      <div class="wpb_column vc_column_container vc_col-sm-12">
+       <div class="vc_column-inner">
+        <div class="wpb_wrapper">
+         <div class="wpb_single_image wpb_content_element vc_align_left">
+          <figure class="wpb_wrapper vc_figure">
+           <div class="vc_single_image-wrapper vc_box_border_grey">
+            <img alt="طراحی سوله" class="vc_single_image-img lazyload" data-src="https://www.zagrossaze.com/wp-content/uploads/2017/09/طراحی-سوله-5.jpg" height="488" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" title="طراحی سوله" width="1340">
+             <noscript>
+              <img alt="طراحی سوله" class="vc_single_image-img" height="488" src="https://www.zagrossaze.com/wp-content/uploads/2017/09/طراحی-سوله-5.jpg" title="طراحی سوله" width="1340"/>
+             </noscript>
+            </img>
+           </div>
+          </figure>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="vc_row wpb_row vc_row-fluid vc_custom_1464595280225 vc_row-has-fill" data-vc-full-width="true" data-vc-full-width-init="false">
+      <div class="wpb_column vc_column_container vc_col-sm-2">
+       <div class="vc_column-inner">
+        <div class="wpb_wrapper">
+         <button class="btn btn-md style-1" id="custom-id-0" style="" target="_self">
+          مشاوره آنلاین
+         </button>
+        </div>
+       </div>
+      </div>
+      <div class="wpb_column vc_column_container vc_col-sm-10">
+       <div class="vc_column-inner">
+        <div class="wpb_wrapper">
+         <div class="wpb_text_column wpb_content_element wpb_animate_when_almost_visible wpb_lightSpeedIn lightSpeedIn vc_custom_1612452645515">
+          <div class="wpb_wrapper">
+           <h3 style="text-align: right;">
+            <span style="color: #800000;">
+             متخصص در طراحی و ساخت انواع سازه های ساختمانی و صنعتی
+            </span>
+           </h3>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="vc_row-full-width vc_clearfix">
+     </div>
+     <div class="vc_row wpb_row vc_row-fluid vc_custom_1572162830087 vc_row-no-padding" data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true">
+      <div class="wpb_column vc_column_container vc_col-sm-12">
+       <div class="vc_column-inner">
+        <div class="wpb_wrapper">
+         <div class="vc_row wpb_row vc_inner vc_row-fluid">
+          <div class="wpb_column vc_column_container vc_col-sm-12">
+           <div class="vc_column-inner">
+            <div class="wpb_wrapper">
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="vc_row-full-width vc_clearfix">
+     </div>
+     <div class="vc_row wpb_row vc_row-fluid vc_custom_1526848833569 vc_row-has-fill">
+      <div class="wpb_column vc_column_container vc_col-sm-8">
+       <div class="vc_column-inner">
+        <div class="wpb_wrapper">
+         <div class="vc_tta-container" data-vc-action="collapse">
+          <div class="vc_general vc_tta vc_tta-tabs vc_tta-color-grey vc_tta-style-classic vc_tta-shape-round vc_tta-spacing-1 vc_tta-tabs-position-top vc_tta-controls-align-left">
+           <div class="vc_tta-tabs-container col-sm-3 vertical">
+            <ul class="vc_tta-tabs-list">
+             <li class="vc_tta-tab vc_active" data-vc-tab="">
+              <a data-vc-container=".vc_tta" data-vc-tabs="" href="#1436365906075-d23d3df7-63f9">
+               <span class="vc_tta-title-text">
+                پلان معماری
+               </span>
+              </a>
+             </li>
+             <li class="vc_tta-tab" data-vc-tab="">
+              <a data-vc-container=".vc_tta" data-vc-tabs="" href="#1436365907525-19d6c142-1d77">
+               <span class="vc_tta-title-text">
+                نمای خارجی
+               </span>
+              </a>
+             </li>
+             <li class="vc_tta-tab" data-vc-tab="">
+              <a data-vc-container=".vc_tta" data-vc-tabs="" href="#1436369333328-6bd9d0e8-515b">
+               <span class="vc_tta-title-text">
+                ساخت
+               </span>
+              </a>
+             </li>
+             <li class="vc_tta-tab" data-vc-tab="">
+              <a data-vc-container=".vc_tta" data-vc-tabs="" href="#1436376192396-328d4c80-ece8">
+               <span class="vc_tta-title-text">
+                محوطه سازی
+               </span>
+              </a>
+             </li>
+             <li class="vc_tta-tab" data-vc-tab="">
+              <a data-vc-container=".vc_tta" data-vc-tabs="" href="#1436376212970-5b4a8b88-3d8d">
+               <span class="vc_tta-title-text">
+                طراحی سازه
+               </span>
+              </a>
+             </li>
+             <li class="vc_tta-tab" data-vc-tab="">
+              <a data-vc-container=".vc_tta" data-vc-tabs="" href="#1436376204238-3b43e9b2-26c9">
+               <span class="vc_tta-title-text">
+                مکانیک و برق
+               </span>
+              </a>
+             </li>
+            </ul>
+           </div>
+           <div class="vc_tta-panels-container col-sm-9">
+            <div class="vc_tta-panels">
+             <div class="vc_tta-panel vc_active" data-vc-content=".vc_tta-panel-body" id="1436365906075-d23d3df7-63f9">
+              <div class="vc_tta-panel-heading">
+               <h4 class="vc_tta-panel-title">
+                <a data-vc-accordion="" data-vc-container=".vc_tta-container" href="#1436365906075-d23d3df7-63f9">
+                 <span class="vc_tta-title-text">
+                  پلان معماری
+                 </span>
+                </a>
+               </h4>
+              </div>
+              <div class="vc_tta-panel-body">
+               <h3 class="">
+                <span>
+                 طراحی پلان معماری
+                </span>
+               </h3>
+               <div class="wpb_text_column wpb_content_element">
+                <div class="wpb_wrapper">
+                 <p>
+                  طرحی پلان معماری ساختمان اولین بخش از شروع طراحی ویلا می باشد، به همین منظور ما تمامی خواسته ای شما را در این پلان در نظر می گیریم.
+                 </p>
+                </div>
+               </div>
+               <div class="wpb_single_image wpb_content_element vc_align_left vc_custom_1605736399701">
+                <figure class="wpb_wrapper vc_figure">
+                 <div class="vc_single_image-wrapper vc_box_border_grey">
+                  <img alt="کلاس آموزش ایتبس" class="vc_single_image-img lazyload" data-src="https://www.zagrossaze.com/wp-content/uploads/2014/11/Rolled-Construction-Plans-550x250.jpg" height="250" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" title="کلاس آموزش ایتبس" width="550"/>
+                  <noscript>
+                   <img alt="کلاس آموزش ایتبس" class="vc_single_image-img" height="250" src="https://www.zagrossaze.com/wp-content/uploads/2014/11/Rolled-Construction-Plans-550x250.jpg" title="کلاس آموزش ایتبس" width="550"/>
+                  </noscript>
+                 </div>
+                </figure>
+               </div>
+              </div>
+             </div>
+             <div class="vc_tta-panel" data-vc-content=".vc_tta-panel-body" id="1436365907525-19d6c142-1d77">
+              <div class="vc_tta-panel-heading">
+               <h4 class="vc_tta-panel-title">
+                <a data-vc-accordion="" data-vc-container=".vc_tta-container" href="#1436365907525-19d6c142-1d77">
+                 <span class="vc_tta-title-text">
+                  نمای خارجی
+                 </span>
+                </a>
+               </h4>
+              </div>
+              <div class="vc_tta-panel-body">
+               <h3 class="">
+                <span>
+                 طراحی نما
+                </span>
+               </h3>
+               <div class="wpb_text_column wpb_content_element">
+                <div class="wpb_wrapper">
+                 <p style="text-align: justify;">
+                  اولین چیزی که در نگاه اول نظر مخاطب را به خود جلب می کند نمای یک
+                  <strong>
+                   ویلا
+                  </strong>
+                  است، و می توان گفت نمای یک
+                  <strong>
+                   ویلا
+                  </strong>
+                  معرف آن
+                  <strong>
+                   ویلا
+                  </strong>
+                  است و باید به مخاطب درک درستی از فضای
+                  <strong>
+                   داخلی ویلا
+                  </strong>
+                  بدهد، به نحوی که مخاطب مشتاق برای دیدن
+                  <strong>
+                   فضای داخل ویلا
+                  </strong>
+                  نیز باشد. در انتخاب نما نوع متریال های مورد استفاده، حجم، رنگ و… تاثیر بسیاری بر مخاطب خواهد گذاشت.
+                 </p>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="vc_tta-panel" data-vc-content=".vc_tta-panel-body" id="1436369333328-6bd9d0e8-515b">
+              <div class="vc_tta-panel-heading">
+               <h4 class="vc_tta-panel-title">
+                <a data-vc-accordion="" data-vc-container=".vc_tta-container" href="#1436369333328-6bd9d0e8-515b">
+                 <span class="vc_tta-title-text">
+                  ساخت
+                 </span>
+                </a>
+               </h4>
+              </div>
+              <div class="vc_tta-panel-body">
+               <h3 class="">
+                <span>
+                 طراحی دکوراسیون ویلا
+                </span>
+               </h3>
+               <div class="wpb_text_column wpb_content_element">
+                <div class="wpb_wrapper">
+                 <p style="text-align: justify;">
+                  دکوراسیون داخلی و هماهنگ سازی فضا متناسب با ساکنین بنا، نقش به سزای در روحیه افراد دارد و گرمی و آرامش را به همراه خواهد داشت.
+                  <strong>
+                   طراحی و اجرای دکوراسیون ویلا،
+                   <a href="https://www.zagrossaze.com/%d8%b3%d8%a7%d8%ae%d8%aa-%d9%88%db%8c%d9%84%d8%a7/">
+                    ساخت ویلا
+                   </a>
+                   ،
+                   <a href="https://www.zagrossaze.com/%d8%a8%d8%a7%d8%b2%d8%b3%d8%a7%d8%b2%db%8c-%d8%b3%d8%a7%d8%ae%d8%aa%d9%85%d8%a7%d9%86/">
+                    بازسازی ساختمان
+                   </a>
+                   و..
+                  </strong>
+                  توسط تیم ما و متناسب با سلیقه شما کارفرمایان محترم انجام خواهد شد. لطفا از نمونه کارهای مار دیدن فرمایید.
+                 </p>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="vc_tta-panel" data-vc-content=".vc_tta-panel-body" id="1436376192396-328d4c80-ece8">
+              <div class="vc_tta-panel-heading">
+               <h4 class="vc_tta-panel-title">
+                <a data-vc-accordion="" data-vc-container=".vc_tta-container" href="#1436376192396-328d4c80-ece8">
+                 <span class="vc_tta-title-text">
+                  محوطه سازی
+                 </span>
+                </a>
+               </h4>
+              </div>
+              <div class="vc_tta-panel-body">
+               <h3 class="">
+                <span>
+                 محوطه سازی ویلا
+                </span>
+               </h3>
+               <div class="wpb_text_column wpb_content_element">
+                <div class="wpb_wrapper">
+                 <p>
+                  من یک بلاک متن هستم، روی دکمه ویرایش کلیک کنید تا این متن را تغییر دهید.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+                 </p>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="vc_tta-panel" data-vc-content=".vc_tta-panel-body" id="1436376212970-5b4a8b88-3d8d">
+              <div class="vc_tta-panel-heading">
+               <h4 class="vc_tta-panel-title">
+                <a data-vc-accordion="" data-vc-container=".vc_tta-container" href="#1436376212970-5b4a8b88-3d8d">
+                 <span class="vc_tta-title-text">
+                  طراحی سازه
+                 </span>
+                </a>
+               </h4>
+              </div>
+              <div class="vc_tta-panel-body">
+               <h3 class="">
+                <span>
+                 طراحی سازه ویلا
+                </span>
+               </h3>
+               <div class="wpb_text_column wpb_content_element">
+                <div class="wpb_wrapper">
+                 <p>
+                  مهندسین سازه تیم زاگرس قادر به
+                  <a href="https://www.zagrossaze.com/%d8%b7%d8%b1%d8%a7%d8%ad%db%8c-%d9%88%db%8c%d9%84%d8%a7/">
+                   طراحی ویلا
+                  </a>
+                  ، طراحی برج،
+                  <a href="https://www.zagrossaze.com/%d8%b7%d8%b1%d8%a7%d8%ad%db%8c-%d8%b3%d9%88%d9%84%d9%87/">
+                   طراحی سوله
+                  </a>
+                  و
+                  <a href="https://www.zagrossaze.com/%d8%b3%d8%a7%d8%ae%d8%aa-%d8%b3%d9%88%d9%84%d9%87/">
+                   ساخت سوله
+                  </a>
+                  و انواع سازه های خاص می باشند.تمامی طراحی ها منطبق بر آیین نامه ها و استانداردهای ملی و بین المللی انجام می شوند.
+                 </p>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="vc_tta-panel" data-vc-content=".vc_tta-panel-body" id="1436376204238-3b43e9b2-26c9">
+              <div class="vc_tta-panel-heading">
+               <h4 class="vc_tta-panel-title">
+                <a data-vc-accordion="" data-vc-container=".vc_tta-container" href="#1436376204238-3b43e9b2-26c9">
+                 <span class="vc_tta-title-text">
+                  مکانیک و برق
+                 </span>
+                </a>
+               </h4>
+              </div>
+              <div class="vc_tta-panel-body">
+               <h3 class="">
+                <span>
+                 طراحی تاسیسات مکانیکی و برقی ویلا
+                </span>
+               </h3>
+               <div class="wpb_text_column wpb_content_element">
+                <div class="wpb_wrapper">
+                 <p>
+                  من یک بلاک متن هستم، روی دکمه ویرایش کلیک کنید تا این متن را تغییر دهید.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+                 </p>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="wpb_column vc_column_container vc_col-sm-4">
+       <div class="vc_column-inner">
+        <div class="wpb_wrapper">
+         <div class="wpb_single_image wpb_content_element vc_align_center">
+          <figure class="wpb_wrapper vc_figure">
+           <div class="vc_single_image-wrapper vc_box_shadow_3d vc_box_border_grey">
+            <img alt="زاگرس سازه" class="vc_single_image-img lazyload" data-src="https://www.zagrossaze.com/wp-content/uploads/2014/11/photo_2017-10-24_20-35-10-640x600.jpg" height="600" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" title="زاگرس سازه" width="640"/>
+            <noscript>
+             <img alt="زاگرس سازه" class="vc_single_image-img" height="600" src="https://www.zagrossaze.com/wp-content/uploads/2014/11/photo_2017-10-24_20-35-10-640x600.jpg" title="زاگرس سازه" width="640"/>
+            </noscript>
+           </div>
+          </figure>
+         </div>
+         <h2 class="vc_custom_heading wpb_animate_when_almost_visible wpb_fadeIn fadeIn" style="font-size: 18px;color: #115487;text-align: center">
+          مشاوره رایگان طراحی وساخت
+         </h2>
+         <div class="wpb_text_column wpb_content_element">
+          <div class="wpb_wrapper">
+           <p style="text-align: justify;">
+            شما کارفرمایان محترم به منظور کسب مشاوره رایگان، می توانید در ساعات اداری با واحد فنی مهندسی ما در ارتباط باشید.
+           </p>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="vc_row wpb_row vc_row-fluid">
+      <div class="wpb_column vc_column_container vc_col-sm-12">
+       <div class="vc_column-inner">
+        <div class="wpb_wrapper">
+         <div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_border_width_2 vc_sep_pos_align_center vc_separator_no_text vc_sep_color_purple">
+          <span class="vc_sep_holder vc_sep_holder_l">
+           <span class="vc_sep_line">
+           </span>
+          </span>
+          <span class="vc_sep_holder vc_sep_holder_r">
+           <span class="vc_sep_line">
+           </span>
+          </span>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </section>
+   <footer class="site-footer style-2">
+    <div class="container">
+     <div class="row">
+      <div class="col-md-3 col-xs-6">
+       <ul>
+        <li class="widget-container widget_media_image" id="media_image-2">
+         <h3 class="widget-title">
+          طراحی و ساخت تخصص ماست.
+         </h3>
+         <img alt="مقاله طراحی ویلا" class="image wp-image-3040 attachment-full size-full lazyload" data-src="https://www.zagrossaze.com/wp-content/uploads/2019/11/دانلود-مقاله-طراحی-ویلا.jpg" data-srcset="https://www.zagrossaze.com/wp-content/uploads/2019/11/دانلود-مقاله-طراحی-ویلا.jpg 916w, https://www.zagrossaze.com/wp-content/uploads/2019/11/دانلود-مقاله-طراحی-ویلا-300x173.jpg 300w, https://www.zagrossaze.com/wp-content/uploads/2019/11/دانلود-مقاله-طراحی-ویلا-768x444.jpg 768w, https://www.zagrossaze.com/wp-content/uploads/2019/11/دانلود-مقاله-طراحی-ویلا-370x214.jpg 370w, https://www.zagrossaze.com/wp-content/uploads/2019/11/دانلود-مقاله-طراحی-ویلا-360x208.jpg 360w" height="529" loading="lazy" sizes="(max-width: 916px) 100vw, 916px" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="max-width: 100%; height: auto;" title="طراحی و ساخت تخصص ماست." width="916"/>
+         <noscript>
+          <img alt="مقاله طراحی ویلا" class="image wp-image-3040 attachment-full size-full" height="529" loading="lazy" sizes="(max-width: 916px) 100vw, 916px" src="https://www.zagrossaze.com/wp-content/uploads/2019/11/دانلود-مقاله-طراحی-ویلا.jpg" srcset="https://www.zagrossaze.com/wp-content/uploads/2019/11/دانلود-مقاله-طراحی-ویلا.jpg 916w, https://www.zagrossaze.com/wp-content/uploads/2019/11/دانلود-مقاله-طراحی-ویلا-300x173.jpg 300w, https://www.zagrossaze.com/wp-content/uploads/2019/11/دانلود-مقاله-طراحی-ویلا-768x444.jpg 768w, https://www.zagrossaze.com/wp-content/uploads/2019/11/دانلود-مقاله-طراحی-ویلا-370x214.jpg 370w, https://www.zagrossaze.com/wp-content/uploads/2019/11/دانلود-مقاله-طراحی-ویلا-360x208.jpg 360w" style="max-width: 100%; height: auto;" title="طراحی و ساخت تخصص ماست." width="916"/>
+         </noscript>
+        </li>
+       </ul>
+      </div>
+      <div class="col-md-3 col-xs-6">
+       <ul>
+        <li class="widget-container widget_nav_menu" id="nav_menu-2">
+         <h3 class="widget-title">
+          منوی اصلی
+         </h3>
+         <div class="menu-main-menu-container">
+          <ul class="menu" id="menu-main-menu-1">
+           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-5 current_page_item menu-item-944" id="menu-item-944">
+            <a aria-current="page" href="https://www.zagrossaze.com/">
+             صفحه اصلی
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3320" id="menu-item-3320">
+            <a href="https://www.zagrossaze.com/%d8%b7%d8%b1%d8%a7%d8%ad%db%8c-%d9%88%db%8c%d9%84%d8%a7/">
+             خدمات ما
+            </a>
+            <ul class="sub-menu">
+             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3559" id="menu-item-3559">
+              <a href="https://www.zagrossaze.com/%d8%b7%d8%b1%d8%a7%d8%ad%db%8c-%d9%88%db%8c%d9%84%d8%a7/">
+               طراحی ویلا
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3849" id="menu-item-3849">
+              <a href="https://www.zagrossaze.com/%d8%a8%d8%a7%d8%b2%d8%b3%d8%a7%d8%b2%db%8c-%d8%b3%d8%a7%d8%ae%d8%aa%d9%85%d8%a7%d9%86/">
+               بازسازی ساختمان
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3402" id="menu-item-3402">
+              <a href="https://www.zagrossaze.com/%d8%b7%d8%b1%d8%a7%d8%ad%db%8c-%d8%b3%d9%88%d9%84%d9%87/">
+               طراحی سوله
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3560" id="menu-item-3560">
+              <a href="https://www.zagrossaze.com/%d8%b3%d8%a8%da%a9-%d8%b3%d8%a7%d8%b2%db%8c/">
+               سبک سازی
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3401" id="menu-item-3401">
+              <a href="https://www.zagrossaze.com/%d8%b3%d8%a7%d8%ae%d8%aa-%d9%88%db%8c%d9%84%d8%a7/">
+               ساخت ویلا
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3781" id="menu-item-3781">
+              <a href="https://www.zagrossaze.com/%d8%b3%d8%a7%d8%ae%d8%aa-%d8%b3%d9%88%d9%84%d9%87/">
+               ساخت سوله
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3317" id="menu-item-3317">
+            <a href="https://www.zagrossaze.com/%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d9%87-%d8%a7%da%a9%d8%b3%d9%84-%d8%b7%d8%b1%d8%a7%d8%ad%db%8c-%d8%a7%d8%aa%d8%b5%d8%a7%d9%84/%d9%88%d8%a8%d9%84%d8%a7%da%af/">
+             وبلاگ
+            </a>
+            <ul class="sub-menu">
+             <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4039" id="menu-item-4039">
+              <a href="https://www.zagrossaze.com/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d9%84%d9%88%d9%85%db%8c%d9%88%d9%86/">
+               آموزش لومیون
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4041" id="menu-item-4041">
+              <a href="https://www.zagrossaze.com/%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d9%87-%d8%a7%da%a9%d8%b3%d9%84-%d8%b7%d8%b1%d8%a7%d8%ad%db%8c-%d8%a7%d8%aa%d8%b5%d8%a7%d9%84/">
+               برنامه اکسل طراحی اتصال
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4040" id="menu-item-4040">
+              <a href="https://www.zagrossaze.com/%d8%a2%db%8c%d8%af%db%8c%d8%a7-%d8%a7%d8%b3%d8%aa%d8%a7%d8%aa%db%8c%da%a9%d8%a7/">
+               آیدیا استاتیکا
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4042" id="menu-item-4042">
+              <a href="https://www.zagrossaze.com/%d8%a8%d9%84%d9%88%da%a9-%d9%87%d8%a8%d9%84%da%a9%d8%b3/">
+               بلوک هبلکس
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-941" id="menu-item-941">
+            <a href="https://www.zagrossaze.com/about-us/">
+             درباره ما
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-939" id="menu-item-939">
+            <a href="https://www.zagrossaze.com/contact-us/">
+             تماس با ما
+            </a>
+           </li>
+          </ul>
+         </div>
+        </li>
+       </ul>
+      </div>
+      <div class="col-md-3 tablets-clear col-xs-6">
+       <ul>
+        <li class="widget-container widget_text" id="text-8">
+         <h3 class="widget-title">
+          دسترسی آسان به شرکت
+         </h3>
+         <div class="textwidget">
+          <p>
+           آدرس : تهران، بزرگراه باکری جنوب، خروجی بلوار آیت اله کاشانی، خیابان کانون، کوی نهال، پلاک 25، ساختمان رایان، طبقه 2،واحد 3 و 4
+          </p>
+          <p>
+           تلفن:   91031947-021
+          </p>
+          <p>
+           موبایل: 6499 820 0912
+          </p>
+          <p>
+           <strong>
+            ایمیل:
+           </strong>
+           info@zagrossaze.com
+           <br/>
+           وب سایت:
+           <a href="https://www.zagrossaze.com">
+            www.zagrossaze.com
+           </a>
+          </p>
+         </div>
+        </li>
+        <li class="widget-container widget_search" id="search-3">
+         <form action="https://www.zagrossaze.com/" class="searchform" id="searchform" method="get" role="search">
+          <div>
+           <label class="screen-reader-text" for="s">
+            جستجو برای:
+           </label>
+           <input id="s" name="s" type="text" value="">
+            <input id="searchsubmit" type="submit" value="جستجو"/>
+           </input>
+          </div>
+         </form>
+        </li>
+       </ul>
+      </div>
+      <div class="col-md-3 col-xs-6">
+       <ul>
+        <li class="widget-container widget_text" id="text-29">
+         <h3 class="widget-title">
+          نماینده استان کرمان
+         </h3>
+         <div class="textwidget">
+          <ul>
+           <li>
+            شرکت زاگرس سازه در استان کرمان دارای نماینده جهت پی گیر امور طراحی و ساخت می باشد.
+           </li>
+          </ul>
+          <p>
+           موبایل (نماینده کرمان): 09131482238
+          </p>
+         </div>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="copyright-footer">
+     <div class="container">
+      <div class="row">
+       <ul class="text-center">
+        <li class="widget-container widget_text" id="text-5">
+         <div class="textwidget">
+          <p>
+           © 2011 تمامی حقوق این سایت برای شرکت زاگرس سازه محفوظ است.
+          </p>
+         </div>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <div class="fixed scrollup" id="scrolltop">
+   <a href="#" title="Scroll to top">
+    <i class="fa fa-angle-up">
+    </i>
+   </a>
+  </div>
+  <input id="theme-path" type="hidden" value="https://www.zagrossaze.com/wp-content/themes/constructo"/>
+  <div class="msgmsg-box-wpcp hideme" id="wpcp-error-message">
+   <span>
+    error:
+   </span>
+   Content is protected !!
+  </div>
+  <script>
+   var timeout_result;
+	function show_wpcp_message(smessage)
+	{
+		if (smessage !== "")
+			{
+			var smessage_text = '<span>Alert: </span>'+smessage;
+			document.getElementById("wpcp-error-message").innerHTML = smessage_text;
+			document.getElementById("wpcp-error-message").className = "msgmsg-box-wpcp warning-wpcp showme";
+			clearTimeout(timeout_result);
+			timeout_result = setTimeout(hide_message, 3000);
+			}
+	}
+	function hide_message()
+	{
+		document.getElementById("wpcp-error-message").className = "msgmsg-box-wpcp warning-wpcp hideme";
+	}
+  </script>
+  <style>
+   @media print{body *{display:none!important}body:after{content:"You are not allowed to print preview this page, Thank you"}}
+  </style>
+  <style type="text/css">
+   #wpcp-error-message{direction:ltr;text-align:center;transition:opacity 900ms ease 0s;z-index:99999999}.hideme{opacity:0;visibility:hidden}.showme{opacity:1;visibility:visible}.msgmsg-box-wpcp{border:1px solid #f5aca6;border-radius:10px;color:#555;font-family:Tahoma;font-size:11px;margin:10px;padding:10px 36px;position:fixed;width:255px;top:50%;left:50%;margin-top:-10px;margin-left:-130px;-webkit-box-shadow:0 0 34px 2px rgba(242,191,191,1);-moz-box-shadow:0 0 34px 2px rgba(242,191,191,1);box-shadow:0 0 34px 2px rgba(242,191,191,1)}.msgmsg-box-wpcp span{font-weight:700;text-transform:uppercase}.warning-wpcp{background:#ffecec url(https://www.zagrossaze.com/wp-content/plugins/wp-content-copy-protector/images/warning.png) no-repeat 10px 50%}
+  </style>
+  <link href="https://www.zagrossaze.com/wp-content/plugins/js_composer/assets/lib/bower/animate-css/animate.min.css?ver=5.0" id="animate-css-css" media="" rel="stylesheet" type="text/css"/>
+  <link href="https://www.zagrossaze.com/wp-content/plugins/js_composer/assets/css/js_composer_tta.min.css?ver=5.0" id="vc_tta_style-css" media="all" rel="stylesheet" type="text/css"/>
+  <script id="comment-reply-js" src="https://www.zagrossaze.com/wp-includes/js/comment-reply.min.js?ver=5.5.9" type="text/javascript">
+  </script>
+  <script id="smush-lazy-load-js" src="https://www.zagrossaze.com/wp-content/plugins/wp-smush-pro/app/assets/js/smush-lazy-load.min.js?ver=3.6.0" type="text/javascript">
+  </script>
+  <script id="wp_slimstat-js-extra" type="text/javascript">
+   /* <![CDATA[ */
+var SlimStatParams = {"ajaxurl":"https:\/\/www.zagrossaze.com\/wp-admin\/admin-ajax.php","baseurl":"\/","dnt":"noslimstat,ab-item","ci":"YTozOntzOjEyOiJjb250ZW50X3R5cGUiO3M6NDoicGFnZSI7czoxMDoiY29udGVudF9pZCI7aTo1O3M6NjoiYXV0aG9yIjtzOjk6InphZ3JvczEyMCI7fQ--.de058f096931121202bd0b5d72fca2d8"};
+/* ]]> */
+  </script>
+  <script id="wp_slimstat-js" src="https://cdn.jsdelivr.net/wp/wp-slimstat/tags/4.8.8.1/wp-slimstat.min.js?ver=5.5.9" type="text/javascript">
+  </script>
+  <script id="woo_quantity-js" src="https://www.zagrossaze.com/wp-content/themes/constructo/js/quantity_woo23.js?ver=5.5.9" type="text/javascript">
+  </script>
+  <script id="smoothscroll-js" src="https://www.zagrossaze.com/wp-content/themes/constructo/js/smoothscroll.js?ver=5.5.9" type="text/javascript">
+  </script>
+  <script id="bootstrap-js" src="https://www.zagrossaze.com/wp-content/themes/constructo/js/bootstrap/bootstrap.min.js?ver=5.5.9" type="text/javascript">
+  </script>
+  <script id="waypoints-js" src="https://www.zagrossaze.com/wp-content/plugins/js_composer/assets/lib/waypoints/waypoints.min.js?ver=5.0" type="text/javascript">
+  </script>
+  <script id="parallax-js" src="https://www.zagrossaze.com/wp-content/themes/constructo/js/parallax.js?ver=5.5.9" type="text/javascript">
+  </script>
+  <script id="functions-js-extra" type="text/javascript">
+   /* <![CDATA[ */
+var anps = {"search_placeholder":"\u062c\u0633\u062a\u062c\u0648...","ajaxurl":"https:\/\/www.zagrossaze.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+  </script>
+  <script id="functions-js" src="https://www.zagrossaze.com/wp-content/themes/constructo/js/functions.js?ver=5.5.9" type="text/javascript">
+  </script>
+  <script id="imagesloaded-js" src="https://www.zagrossaze.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4" type="text/javascript">
+  </script>
+  <script id="doubletap-js" src="https://www.zagrossaze.com/wp-content/themes/constructo/js/doubletaptogo.js?ver=5.5.9" type="text/javascript">
+  </script>
+  <script id="owl-js" src="https://www.zagrossaze.com/wp-content/themes/constructo/js/owl/owl.carousel.js?ver=5.5.9" type="text/javascript">
+  </script>
+  <script id="wp-embed-js" src="https://www.zagrossaze.com/wp-includes/js/wp-embed.min.js?ver=5.5.9" type="text/javascript">
+  </script>
+  <script id="wpb_composer_front_js-js" src="https://www.zagrossaze.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.0" type="text/javascript">
+  </script>
+  <script id="vc_accordion_script-js" src="https://www.zagrossaze.com/wp-content/plugins/js_composer/assets/lib/vc_accordion/vc-accordion.min.js?ver=5.0" type="text/javascript">
+  </script>
+  <script id="vc_tta_autoplay_script-js" src="https://www.zagrossaze.com/wp-content/plugins/js_composer/assets/lib/vc-tta-autoplay/vc-tta-autoplay.min.js?ver=5.0" type="text/javascript">
+  </script>
+  <script id="vc_tabs_script-js" src="https://www.zagrossaze.com/wp-content/plugins/js_composer/assets/lib/vc_tabs/vc-tabs.min.js?ver=5.0" type="text/javascript">
+  </script>
+ </body>
+</html>

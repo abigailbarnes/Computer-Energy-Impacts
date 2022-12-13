@@ -1,0 +1,1544 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if IE 9 ]><html class="ie9 no-js"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html class="no-js">
+ <!--<![endif]-->
+ <head>
+  <meta content="obgxgq75q1nj17gf0ii4xy7jj9oc3k" name="facebook-domain-verification"/>
+  <meta content="JTiTJksMQSZhBkNvNd0KY1CLUzpcs2Y9Fom-d2sVXpI" name="google-site-verification"/>
+  <meta charset="utf-8"/>
+  <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1' /><![endif]-->
+  <title>
+   Irving Farm New York
+  </title>
+  <meta content="New York Coffee." name="description"/>
+  <link href="https://irvingfarm.com/" rel="canonical"/>
+  <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport"/>
+  <meta content="http://cdn.shopify.com/s/files/1/0923/5128/t/37/assets/logo.png?v=101653689227203922301631127601" property="og:image">
+   <meta content="https://cdn.shopify.com/s/files/1/0923/5128/t/37/assets/logo.png?v=101653689227203922301631127601" property="og:image:secure_url"/>
+   <meta content="Irving Farm New York" property="og:title"/>
+   <meta content="website" property="og:type"/>
+   <meta content="New York Coffee." property="og:description"/>
+   <meta content="https://irvingfarm.com/" property="og:url"/>
+   <meta content="Irving Farm New York" property="og:site_name"/>
+   <script>
+    window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');
+   </script>
+   <meta content="TTSiW1IH5PTgZBdzlNTQXYf0VzgMxeZv6Bz35OckRjQ" name="google-site-verification"/>
+   <meta content="/9235128/digital_wallets/dialog" id="shopify-digital-wallet" name="shopify-digital-wallet"/>
+   <meta content="8b8b2c7d5fb65059c459c3a16d54fc11" name="shopify-checkout-api-token"/>
+   <meta data-currency="USD" data-environment="production" data-locale="en_US" data-paypal-v4="true" data-shop-id="9235128" data-venmo-supported="true" id="in-context-paypal-metadata"/>
+   <script id="apple-pay-shop-capabilities" type="application/json">
+    {"shopId":9235128,"countryCode":"US","currencyCode":"USD","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/9235128","merchantName":"Irving Farm New York","requiredBillingContactFields":["postalAddress","email","phone"],"requiredShippingContactFields":["postalAddress","email","phone"],"shippingType":"shipping","supportedNetworks":["visa","masterCard","amex","discover","elo","jcb","chinaUnionPay"],"total":{"type":"pending","label":"Irving Farm New York","amount":"1.00"},"shopifyPaymentsEnabled":true,"supportsSubscriptions":true}
+   </script>
+   <script id="shopify-features" type="application/json">
+    {"accessToken":"8b8b2c7d5fb65059c459c3a16d54fc11","betas":["rich-media-storefront-analytics"],"domain":"irvingfarm.com","predictiveSearch":true,"shopId":9235128,"smart_payment_buttons_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en"}
+   </script>
+   <script>
+    var Shopify = Shopify || {};
+Shopify.shop = "irving-farm-coffee-roasters.myshopify.com";
+Shopify.locale = "en";
+Shopify.currency = {"active":"USD","rate":"1.0"};
+Shopify.country = "US";
+Shopify.theme = {"name":"Live 8\/20\/2020 (IFS 2020)","id":80172515411,"theme_store_id":null,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+Shopify.cdnHost = "cdn.shopify.com";
+Shopify.routes = Shopify.routes || {};
+Shopify.routes.root = "/";
+   </script>
+   <script type="module">
+    !function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);
+   </script>
+   <script>
+    !function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);
+   </script>
+   <script>
+    window.ShopifyPay = window.ShopifyPay || {};
+window.ShopifyPay.apiHost = "shop.app\/pay";
+   </script>
+   <script>
+    (function() {
+  function asyncLoad() {
+    var urls = ["\/\/productreviews.shopifycdn.com\/embed\/loader.js?shop=irving-farm-coffee-roasters.myshopify.com","https:\/\/inffuse-platform.appspot.com\/plugins\/shopify\/loader.js?app=calendar\u0026shop=irving-farm-coffee-roasters.myshopify.com\u0026shop=irving-farm-coffee-roasters.myshopify.com","https:\/\/s3.amazonaws.com\/maxeffi\/persistent-cart\/irving-farm-coffee-roasters.myshopify.com\/app.js?shop=irving-farm-coffee-roasters.myshopify.com","https:\/\/error404.atomseo.com\/scripts\/shopify-404-real-time-monitoring.js?shop=irving-farm-coffee-roasters.myshopify.com","https:\/\/shopiapps.in\/imageagram\/insta_widget\/widget_script.php?shop=irving-farm-coffee-roasters.myshopify.com","https:\/\/rechargeassets-bootstrapheroes-rechargeapps.netdna-ssl.com\/static\/js\/recharge.js?shop=irving-farm-coffee-roasters.myshopify.com","https:\/\/static.klaviyo.com\/onsite\/js\/klaviyo.js?company_id=YbFyFM\u0026shop=irving-farm-coffee-roasters.myshopify.com","https:\/\/static.klaviyo.com\/onsite\/js\/klaviyo.js?company_id=YbFyFM\u0026shop=irving-farm-coffee-roasters.myshopify.com","\/\/www.powr.io\/powr.js?powr-token=irving-farm-coffee-roasters.myshopify.com\u0026external-type=shopify\u0026shop=irving-farm-coffee-roasters.myshopify.com"];
+    for (var i = 0; i < urls.length; i++) {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = urls[i];
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  };
+  if(window.attachEvent) {
+    window.attachEvent('onload', asyncLoad);
+  } else {
+    window.addEventListener('load', asyncLoad, false);
+  }
+})();
+   </script>
+   <script id="__st">
+    var __st={"a":9235128,"offset":-14400,"reqid":"6ddadbb2-421f-486c-9f3a-f0119a9b243a","pageurl":"irvingfarm.com\/","u":"643871a58600","p":"home"};
+   </script>
+   <script>
+    window.ShopifyPaypalV4VisibilityTracking = true;
+   </script>
+   <script>
+    !function(o){o.addEventListener("DOMContentLoaded",function(){window.Shopify=window.Shopify||{},window.Shopify.recaptchaV3=window.Shopify.recaptchaV3||{siteKey:"6LcCR2cUAAAAANS1Gpq_mDIJ2pQuJphsSQaUEuc9"};var t=['form[action*="/contact"] input[name="form_type"][value="contact"]','form[action*="/comments"] input[name="form_type"][value="new_comment"]','form[action*="/account"] input[name="form_type"][value="customer_login"]','form[action*="/account"] input[name="form_type"][value="recover_customer_password"]','form[action*="/account"] input[name="form_type"][value="create_customer"]','form[action*="/contact"] input[name="form_type"][value="customer"]'].join(",");function n(e){e=e.target;null==e||null!=(e=function e(t,n){if(null==t.parentElement)return null;if("FORM"!=t.parentElement.tagName)return e(t.parentElement,n);for(var o=t.parentElement.action,r=0;r<n.length;r++)if(-1!==o.indexOf(n[r]))return t.parentElement;return null}(e,["/contact","/comments","/account"]))&&null!=e.querySelector(t)&&((e=o.createElement("script")).setAttribute("src","https://cdn.shopify.com/shopifycloud/storefront-recaptcha-v3/v0.6/index.js"),o.body.appendChild(e),o.removeEventListener("focus",n,!0),o.removeEventListener("change",n,!0),o.removeEventListener("click",n,!0))}o.addEventListener("click",n,!0),o.addEventListener("change",n,!0),o.addEventListener("focus",n,!0)})}(document);
+   </script>
+   <script crossorigin="anonymous" data-source-attribution="shopify.loadfeatures" defer="defer" integrity="sha256-N6F6ZjvOAMPhcD0kfZWNQQgx6eXaxFfh6aqfN0geLrU=" src="//cdn.shopify.com/shopifycloud/shopify/assets/storefront/load_feature-37a17a663bce00c3e1703d247d958d410831e9e5dac457e1e9aa9f37481e2eb5.js">
+   </script>
+   <script crossorigin="anonymous" defer="defer" src="//cdn.shopify.com/shopifycloud/shopify/assets/shopify_pay/storefront-b61f50798075db890698930c4405673937fe89353f7fea7be88b5ce16a9c0af8.js?v=20210208">
+   </script>
+   <script crossorigin="anonymous" data-source-attribution="shopify.dynamic-checkout" defer="defer" integrity="sha256-h+g5mYiIAULyxidxudjy/2wpCz/3Rd1CbrDf4NudHa4=" src="//cdn.shopify.com/shopifycloud/shopify/assets/storefront/features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js">
+   </script>
+   <style id="shopify-dynamic-checkout-cart">
+    @media screen and (min-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 50px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 240px;
+  }
+}
+   </style>
+   <script>
+    window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');
+   </script>
+   <link href="//cdn.shopify.com/s/files/1/0923/5128/t/37/assets/theme.scss.css?v=95022963150060979501646331849" media="all" rel="stylesheet" type="text/css"/>
+   <link href="//cdn.shopify.com/s/global/social/social-icons.css" media="all" rel="stylesheet" type="text/css"/>
+   <link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/css/font-awesome.css" media="all" rel="stylesheet" type="text/css"/>
+   <link href="//cdn.jsdelivr.net/jquery.slick/1.5.7/slick.css" rel="stylesheet" type="text/css"/>
+   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet"/>
+   <!--[if lt IE 9]>
+  <script src="//html5shiv.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
+  <![endif]-->
+   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" type="text/javascript">
+   </script>
+   <script src="//cdn.shopify.com/shopifycloud/shopify/assets/themes_support/shopify_common-8ea6ac3faf357236a97f5de749df4da6e8436ca107bc3a4ee805cbf08bc47392.js" type="text/javascript">
+   </script>
+   <script src="//cdn.shopify.com/shopifycloud/shopify/assets/themes_support/option_selection-fe6b72c2bbdd3369ac0bfefe8648e3c889efca213baefd4cfb0dd9363563831f.js" type="text/javascript">
+   </script>
+   <script src="//cdn.shopify.com/s/files/1/0923/5128/t/37/assets/slick.min.js?v=52419695867375586671586993425" type="text/javascript">
+   </script>
+   <script src="//cdn.shopify.com/s/files/1/0923/5128/t/37/assets/linked_options.js?v=104625844427879487861586993338" type="text/javascript">
+   </script>
+   <script src="//cdn.shopify.com/s/files/1/0923/5128/t/37/assets/mobile.js?v=20535372355227571751586993409" type="text/javascript">
+   </script>
+   <script src="//cdn.shopify.com/s/files/1/0923/5128/t/37/assets/blog.js?v=64956165263303141431597896880" type="text/javascript">
+   </script>
+   <script src="//cdn.shopify.com/s/files/1/0923/5128/t/37/assets/ga.js?v=70834508837378479561586993470" type="text/javascript">
+   </script>
+   <script src="//cdn.shopify.com/s/files/1/0923/5128/t/37/assets/bootstrap.min.js?v=107815957559084725431597896982" type="text/javascript">
+   </script>
+   <script src="//cdn.shopify.com/s/files/1/0923/5128/t/37/assets/slideshow.js?v=24777467790153491191586993428" type="text/javascript">
+   </script>
+   <script src="//cdn.shopify.com/s/files/1/0923/5128/t/37/assets/home.js?v=148555585182919162891586993470" type="text/javascript">
+   </script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-backstretch/2.0.4/jquery.backstretch.min.js" type="text/javascript">
+   </script>
+   <script defer="" src="//cdn.shopify.com/s/files/1/0923/5128/t/37/assets/old-theme.js?v=156112674180550066221588100332">
+   </script>
+   <script defer="" src="//cdn.shopify.com/s/files/1/0923/5128/t/37/assets/theme.js?v=26750054096405607561597897183">
+   </script>
+   <!-- Additional Shopify helpers that will likely be added to the global shopify_common.js some day soon. -->
+   <script src="https://platform.twitter.com/widgets.js" type="text/javascript">
+   </script>
+   <script>
+    jQuery('html').removeClass('no-js').addClass('js');
+   </script>
+   <link href="//cdn.shopify.com/s/files/1/0923/5128/t/37/assets/favicon.png?v=160817502741642191221586993323" rel="shortcut icon" type="image/x-icon">
+    <!-- Hits Analytics tracking code -->
+    <!-- end of Hits Analytics code -->
+    <link href="//cdn.shopify.com/s/files/1/0923/5128/t/37/assets/sca-quick-view.css?v=137430769807432326481586993418" rel="stylesheet"/>
+    <link href="//cdn.shopify.com/s/files/1/0923/5128/t/37/assets/sca-jquery.fancybox.css?v=50433719388693846841586993418" rel="stylesheet"/>
+    <script src="//cdn.shopify.com/shopifycloud/shopify/assets/themes_support/option_selection-fe6b72c2bbdd3369ac0bfefe8648e3c889efca213baefd4cfb0dd9363563831f.js" type="text/javascript">
+    </script>
+    <link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch"/>
+    <script>
+     (function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 9235128,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "index"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());
+    </script>
+    <script>
+     window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+window.ShopifyAnalytics.meta.currency = 'USD';
+var meta = {"page":{"pageType":"home"}};
+for (var attr in meta) {
+  window.ShopifyAnalytics.meta[attr] = meta[attr];
+}
+    </script>
+    <script>
+     window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-10611110-1', 'auto');
+  ga('send', 'pageview');
+};
+    </script>
+    <script class="analytics">
+     (window.gaDevIds=window.gaDevIds||[]).push('BwiEti');
+
+
+(function () {
+  var customDocumentWrite = function(content) {
+    var jquery = null;
+
+    if (window.jQuery) {
+      jquery = window.jQuery;
+    } else if (window.Checkout && window.Checkout.$) {
+      jquery = window.Checkout.$;
+    }
+
+    if (jquery) {
+      jquery('body').append(content);
+    }
+  };
+
+  var hasLoggedConversion = function(token) {
+    if (token) {
+      return document.cookie.indexOf('loggedConversion=' + token) !== -1;
+    }
+    return false;
+  }
+
+  var setCookieIfConversion = function(token) {
+    if (token) {
+      var twoMonthsFromNow = new Date(Date.now());
+      twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+      document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
+    }
+  }
+
+  var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+  if (trekkie.integrations) {
+    return;
+  }
+  trekkie.methods = [
+    'identify',
+    'page',
+    'ready',
+    'track',
+    'trackForm',
+    'trackLink'
+  ];
+  trekkie.factory = function(method) {
+    return function() {
+      var args = Array.prototype.slice.call(arguments);
+      args.unshift(method);
+      trekkie.push(args);
+      return trekkie;
+    };
+  };
+  for (var i = 0; i < trekkie.methods.length; i++) {
+    var key = trekkie.methods[i];
+    trekkie[key] = trekkie.factory(key);
+  }
+  trekkie.load = function(config) {
+    trekkie.config = config || {};
+    trekkie.config.initialDocumentCookie = document.cookie;
+    var first = document.getElementsByTagName('script')[0];
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.onerror = function(e) {
+      var scriptFallback = document.createElement('script');
+      scriptFallback.type = 'text/javascript';
+      scriptFallback.onerror = function(error) {
+              var Monorail = {
+      produce: function produce(monorailDomain, schemaId, payload) {
+        var currentMs = new Date().getTime();
+        var event = {
+          schema_id: schemaId,
+          payload: payload,
+          metadata: {
+            event_created_at_ms: currentMs,
+            event_sent_at_ms: currentMs
+          }
+        };
+        return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
+      },
+      sendRequest: function sendRequest(endpointUrl, payload) {
+        // Try the sendBeacon API
+        if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
+          var blobData = new window.Blob([payload], {
+            type: 'text/plain'
+          });
+    
+          if (window.navigator.sendBeacon(endpointUrl, blobData)) {
+            return true;
+          } // sendBeacon was not successful
+    
+        } // XHR beacon   
+    
+        var xhr = new XMLHttpRequest();
+    
+        try {
+          xhr.open('POST', endpointUrl);
+          xhr.setRequestHeader('Content-Type', 'text/plain');
+          xhr.send(payload);
+        } catch (e) {
+          console.log(e);
+        }
+    
+        return false;
+      },
+      isIos12: function isIos12() {
+        return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
+      }
+    };
+    Monorail.produce('monorail-edge.shopifysvc.com',
+      'trekkie_storefront_load_errors/1.1',
+      {shop_id: 9235128,
+      theme_id: 80172515411,
+      app_name: "storefront",
+      context_url: window.location.href,
+      source_url: "https://cdn.shopify.com/s/trekkie.storefront.14a2a604dac04b548cd8c6bdfd85448fc1df7da9.min.js"});
+
+      };
+      scriptFallback.async = true;
+      scriptFallback.src = 'https://cdn.shopify.com/s/trekkie.storefront.14a2a604dac04b548cd8c6bdfd85448fc1df7da9.min.js';
+      first.parentNode.insertBefore(scriptFallback, first);
+    };
+    script.async = true;
+    script.src = 'https://cdn.shopify.com/s/trekkie.storefront.14a2a604dac04b548cd8c6bdfd85448fc1df7da9.min.js';
+    first.parentNode.insertBefore(script, first);
+  };
+  trekkie.load(
+    {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":9235128,"isMerchantRequest":null,"themeId":80172515411,"themeCityHash":"1919007938554709126","contentLanguage":"en","currency":"USD"},"isServerSideCookieWritingEnabled":true},"Google Analytics":{"trackingId":"UA-10611110-1","domain":"auto","siteSpeedSampleRate":"10","enhancedEcommerce":true,"doubleClick":true,"includeSearch":true},"Facebook Pixel":{"pixelIds":["695834791180023"],"agent":"plshopify1.2"},"Google Gtag Pixel":{"conversionId":"AW-604341012","eventLabels":[{"type":"page_view","action_label":"AW-604341012\/S2GzCJTqut0BEJSGlqAC"},{"type":"purchase","action_label":"AW-604341012\/5KKtCJfqut0BEJSGlqAC"},{"type":"view_item","action_label":"AW-604341012\/tBZ8CJrqut0BEJSGlqAC"},{"type":"add_to_cart","action_label":"AW-604341012\/YQXMCJ3qut0BEJSGlqAC"},{"type":"begin_checkout","action_label":"AW-604341012\/Bv9pCKDqut0BEJSGlqAC"},{"type":"search","action_label":"AW-604341012\/1waICKPqut0BEJSGlqAC"},{"type":"add_payment_info","action_label":"AW-604341012\/gCPLCKbqut0BEJSGlqAC"}],"targetCountry":"US"},"Session Attribution":{},"S2S":{"emitV4CheckoutEvent":true,"facebookCapiEnabled":true,"facebookAppPixelId":"695834791180023","source":"trekkie-storefront-renderer"}}
+  );
+
+  var loaded = false;
+  trekkie.ready(function() {
+    if (loaded) return;
+    loaded = true;
+
+    window.ShopifyAnalytics.lib = window.trekkie;
+    
+      ga('require', 'linker');
+      function addListener(element, type, callback) {
+        if (element.addEventListener) {
+          element.addEventListener(type, callback);
+        }
+        else if (element.attachEvent) {
+          element.attachEvent('on' + type, callback);
+        }
+      }
+      function decorate(event) {
+        event = event || window.event;
+        var target = event.target || event.srcElement;
+        if (target && (target.getAttribute('action') || target.getAttribute('href'))) {
+          ga(function (tracker) {
+            var linkerParam = tracker.get('linkerParam');
+            document.cookie = '_shopify_ga=' + linkerParam + '; ' + 'path=/';
+          });
+        }
+      }
+      addListener(window, 'load', function(){
+        for (var i=0; i < document.forms.length; i++) {
+          var action = document.forms[i].getAttribute('action');
+          if(action && action.indexOf('/cart') >= 0) {
+            addListener(document.forms[i], 'submit', decorate);
+          }
+        }
+        for (var i=0; i < document.links.length; i++) {
+          var href = document.links[i].getAttribute('href');
+          if(href && href.indexOf('/checkout') >= 0) {
+            addListener(document.links[i], 'click', decorate);
+          }
+        }
+      });
+    
+
+    var originalDocumentWrite = document.write;
+    document.write = customDocumentWrite;
+    try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+    document.write = originalDocumentWrite;
+
+    window.ShopifyAnalytics.lib.page(null,{"pageType":"home"});
+
+    var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
+    var token = match? match[1]: undefined;
+    if (!hasLoggedConversion(token)) {
+      setCookieIfConversion(token);
+      
+    }
+  });
+
+  
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "//cdn.shopify.com/shopifycloud/shopify/assets/shop_events_listener-fa61fd11817b231631d2fe43dc869d0b1d14a06332792d42f1a1d94bda5aa31e.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+    
+})();
+    </script>
+    <script class="boomerang">
+     (function () {
+  if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
+    return;
+  }
+  window.BOOMR = window.BOOMR || {};
+  window.BOOMR.snippetStart = new Date().getTime();
+  window.BOOMR.snippetExecuted = true;
+  window.BOOMR.snippetVersion = 12;
+  window.BOOMR.application = "storefront-renderer";
+  window.BOOMR.themeName = "";
+  window.BOOMR.themeVersion = "";
+  window.BOOMR.shopId = 9235128;
+  window.BOOMR.themeId = 80172515411;
+  window.BOOMR.url =
+    "https://cdn.shopify.com/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
+  var where = document.currentScript || document.getElementsByTagName("script")[0];
+  var parentNode = where.parentNode;
+  var promoted = false;
+  var LOADER_TIMEOUT = 3000;
+  function promote() {
+    if (promoted) {
+      return;
+    }
+    var script = document.createElement("script");
+    script.id = "boomr-scr-as";
+    script.src = window.BOOMR.url;
+    script.async = true;
+    parentNode.appendChild(script);
+    promoted = true;
+  }
+  function iframeLoader(wasFallback) {
+    promoted = true;
+    var dom, bootstrap, iframe, iframeStyle;
+    var doc = document;
+    var win = window;
+    window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
+    bootstrap = function(parent, scriptId) {
+      var script = doc.createElement("script");
+      script.id = scriptId || "boomr-if-as";
+      script.src = window.BOOMR.url;
+      BOOMR_lstart = new Date().getTime();
+      parent = parent || doc.body;
+      parent.appendChild(script);
+    };
+    if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) {
+      window.BOOMR.snippetMethod = "s";
+      bootstrap(parentNode, "boomr-async");
+      return;
+    }
+    iframe = document.createElement("IFRAME");
+    iframe.src = "about:blank";
+    iframe.title = "";
+    iframe.role = "presentation";
+    iframe.loading = "eager";
+    iframeStyle = (iframe.frameElement || iframe).style;
+    iframeStyle.width = 0;
+    iframeStyle.height = 0;
+    iframeStyle.border = 0;
+    iframeStyle.display = "none";
+    parentNode.appendChild(iframe);
+    try {
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    } catch (e) {
+      dom = document.domain;
+      iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    }
+    if (dom) {
+      doc._boomrl = function() {
+        this.domain = dom;
+        bootstrap();
+      };
+      doc.write("<body onload='document._boomrl();'>");
+    } else {
+      win._boomrl = function() {
+        bootstrap();
+      };
+      if (win.addEventListener) {
+        win.addEventListener("load", win._boomrl, false);
+      } else if (win.attachEvent) {
+        win.attachEvent("onload", win._boomrl);
+      }
+    }
+    doc.close();
+  }
+  var link = document.createElement("link");
+  if (link.relList &&
+    typeof link.relList.supports === "function" &&
+    link.relList.supports("preload") &&
+    ("as" in link)) {
+    window.BOOMR.snippetMethod = "p";
+    link.href = window.BOOMR.url;
+    link.rel = "preload";
+    link.as = "script";
+    link.addEventListener("load", promote);
+    link.addEventListener("error", function() {
+      iframeLoader(true);
+    });
+    setTimeout(function() {
+      if (!promoted) {
+        iframeLoader(true);
+      }
+    }, LOADER_TIMEOUT);
+    BOOMR_lstart = new Date().getTime();
+    parentNode.appendChild(link);
+  } else {
+    iframeLoader(false);
+  }
+  function boomerangSaveLoadTime(e) {
+    window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
+  }
+  if (window.addEventListener) {
+    window.addEventListener("load", boomerangSaveLoadTime, false);
+  } else if (window.attachEvent) {
+    window.attachEvent("onload", boomerangSaveLoadTime);
+  }
+  if (document.addEventListener) {
+    document.addEventListener("onBoomerangLoaded", function(e) {
+      e.detail.BOOMR.init({
+        producer_url: "https://monorail-edge.shopifysvc.com/v1/produce",
+        ResourceTiming: {
+          enabled: true,
+          trackedResourceTypes: ["script", "img", "css"]
+        },
+      });
+      e.detail.BOOMR.t_end = new Date().getTime();
+    });
+  } else if (document.attachEvent) {
+    document.attachEvent("onpropertychange", function(e) {
+      if (!e) e=event;
+      if (e.propertyName === "onBoomerangLoaded") {
+        e.detail.BOOMR.init({
+          producer_url: "https://monorail-edge.shopifysvc.com/v1/produce",
+          ResourceTiming: {
+            enabled: true,
+            trackedResourceTypes: ["script", "img", "css"]
+          },
+        });
+        e.detail.BOOMR.t_end = new Date().getTime();
+      }
+    });
+  }
+})();
+    </script>
+   </link>
+  </meta>
+ </head>
+ <body class="template-index" id="irving-farm-new-york">
+  <div id="fb-root">
+  </div>
+  <script>
+   (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+  </script>
+  <header>
+   <nav role="navigation">
+    <div class="body-wrapper">
+     <div class="hidden-lg hidden-md hidden-sm mobile-main-nav" style="z-index: 9999;">
+      <div class="nav-black-bar">
+       <div class="nav-top row">
+        <div class="left-black-nav col-sm-7 col-md-7 col-lg-7 no-pad">
+         <p>
+          NOW FREE SHIPPING ON ORDERS OVER $40
+         </p>
+        </div>
+       </div>
+      </div>
+      <div class="mainMenu">
+       <a href="/">
+        <img src="//cdn.shopify.com/s/files/1/0923/5128/t/37/assets/logo.png?v=101653689227203922301631127601"/>
+       </a>
+       <div class="mobile-nav-right">
+        <a aria-label="Login" class="small-white-link" href="/account/login">
+         <?xml version="1.0" encoding="UTF-8"?>
+         <svg height="10px" version="1.1" viewbox="0 0 10 10" width="10px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+          <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+          <title>
+           account_icon
+          </title>
+          <desc>
+           Created with Sketch.
+          </desc>
+          <defs>
+          </defs>
+          <g fill="none" fill-rule="evenodd" id="desktop_nav_hifi_1" stroke="none" stroke-width="1" transform="translate(-1218.000000, -13.000000)">
+           <g id="secondary_nav">
+            <g id="account_icon" transform="translate(1217.000000, 12.000000)">
+             <polygon id="Shape" points="0 0 12 0 12 12 0 12">
+             </polygon>
+             <path d="M6,6 C7.38125,6 8.5,4.88125 8.5,3.5 C8.5,2.11875 7.38125,1 6,1 C4.61875,1 3.5,2.11875 3.5,3.5 C3.5,4.88125 4.61875,6 6,6 L6,6 Z M6,7.25 C4.33125,7.25 1,8.0875 1,9.75 L1,11 L11,11 L11,9.75 C11,8.0875 7.66875,7.25 6,7.25 L6,7.25 Z" fill="#FFFFFF" id="Shape">
+             </path>
+            </g>
+           </g>
+          </g>
+         </svg>
+        </a>
+        <a aria-label="Cart" class="small-white-link" href="/cart">
+         <?xml version="1.0" encoding="UTF-8"?>
+         <svg height="9px" version="1.1" viewbox="0 0 10 9" width="10px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+          <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+          <title>
+           cart_icon
+          </title>
+          <desc>
+           Created with Sketch.
+          </desc>
+          <defs>
+          </defs>
+          <g fill="none" fill-rule="evenodd" id="desktop_nav_hifi_1" stroke="none" stroke-width="1" transform="translate(-1342.000000, -13.000000)">
+           <g id="secondary_nav">
+            <g id="cart_icon" transform="translate(1341.000000, 12.000000)">
+             <polygon id="Shape" points="0 0 12 0 12 12 0 12">
+             </polygon>
+             <path d="M8.36818182,4.30979979 L6.37727273,1.19915701 C6.29090909,1.06638567 6.14545455,1 6,1 C5.85454545,1 5.70909091,1.06638567 5.62272727,1.20389884 L3.63181818,4.30979979 L1.45454545,4.30979979 C1.20454545,4.30979979 1,4.5231823 1,4.78398314 C1,4.82665964 1.00454545,4.86933614 1.01818182,4.91201264 L2.17272727,9.30769231 C2.27727273,9.70600632 2.62727273,10 3.04545455,10 L8.95454545,10 C9.37272727,10 9.72272727,9.70600632 9.83181818,9.30769231 L10.9863636,4.91201264 L11,4.78398314 C11,4.5231823 10.7954545,4.30979979 10.5454545,4.30979979 L8.36818182,4.30979979 L8.36818182,4.30979979 Z M4.63636364,4.30979979 L6,2.22339305 L7.36363636,4.30979979 L4.63636364,4.30979979 L4.63636364,4.30979979 Z" fill="#FFFFFF" id="Shape">
+             </path>
+            </g>
+           </g>
+          </g>
+         </svg>
+        </a>
+        <a aria-label="Open Navigation Menu" class="menuHolder" href="#">
+         <div aria-hidden="true" class="menuBtn">
+         </div>
+        </a>
+       </div>
+      </div>
+     </div>
+     <div class="hidden-sm hidden-md hidden-lg mobileNav row">
+      <ul>
+       <li>
+        <a href="/collections/coffee">
+         COFFEE
+        </a>
+       </li>
+       <li>
+        <a href="/pages/coffee-subscription">
+         SUBSCRIPTIONS
+        </a>
+       </li>
+       <li>
+        <a href="/pages/locations">
+         LOCATIONS
+        </a>
+       </li>
+       <li>
+        <a href="/pages/wholesale">
+         WHOLESALE
+        </a>
+       </li>
+       <li class="shop-nav-btn mobile">
+        MORE
+        <?xml version="1.0" encoding="UTF-8"?>
+        <svg height="7px" version="1.1" viewbox="0 0 11 7" width="11px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+         <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+         <title>
+          arrow_down
+         </title>
+         <desc>
+          Created with Sketch.
+         </desc>
+         <defs>
+         </defs>
+         <g fill="none" fill-rule="evenodd" id="desktop_nav_hifi_1" stroke="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" transform="translate(-1402.000000, -75.000000)">
+          <g id="main_nav" stroke="#000000" transform="translate(-1.000000, 36.000000)">
+           <g id="shop_button" transform="translate(1338.000000, 17.000000)">
+            <polyline id="arrow_down" points="66 23 70.8809277 28 76 23">
+            </polyline>
+           </g>
+          </g>
+         </g>
+        </svg>
+       </li>
+       <ul class="menu-subnav">
+        <li class="mobile-navback-btn">
+         <?xml version="1.0" encoding="UTF-8"?>
+         <svg height="7px" version="1.1" viewbox="0 0 11 7" width="11px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+          <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+          <title>
+           arrow_down
+          </title>
+          <desc>
+           Created with Sketch.
+          </desc>
+          <defs>
+          </defs>
+          <g fill="none" fill-rule="evenodd" id="desktop_nav_hifi_1" stroke="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" transform="translate(-1402.000000, -75.000000)">
+           <g id="main_nav" stroke="#000000" transform="translate(-1.000000, 36.000000)">
+            <g id="shop_button" transform="translate(1338.000000, 17.000000)">
+             <polyline id="arrow_down" points="66 23 70.8809277 28 76 23">
+             </polyline>
+            </g>
+           </g>
+          </g>
+         </svg>
+         BACK
+        </li>
+        <li>
+         <a href="/pages/about">
+          OUR STORY
+         </a>
+        </li>
+        <li>
+         <a href="/collections/bulk-coffees">
+          OFFICE &amp; BULK
+         </a>
+        </li>
+        <li>
+         <a href="/collections/merchandise">
+          MERCH
+         </a>
+        </li>
+       </ul>
+      </ul>
+     </div>
+     <div class="hidden-xs" id="header">
+      <div class="nav-black-bar hidden-xs">
+       <div class="nav-top row">
+        <div class="left-black-nav col-sm-7 col-md-7 col-lg-7 no-pad">
+         <a class="button skip-to-main" href="#main-content">
+          Skip To Main Content
+         </a>
+        </div>
+        <div class="right-black-nav col-sm-5 col-md-5 col-lg-5 no-pad-right">
+         <ul>
+          <li>
+           <?xml version="1.0" encoding="UTF-8"?>
+           <svg height="10px" version="1.1" viewbox="0 0 10 10" width="10px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+            <title>
+             account_icon
+            </title>
+            <desc>
+             Created with Sketch.
+            </desc>
+            <defs>
+            </defs>
+            <g fill="none" fill-rule="evenodd" id="desktop_nav_hifi_1" stroke="none" stroke-width="1" transform="translate(-1218.000000, -13.000000)">
+             <g id="secondary_nav">
+              <g id="account_icon" transform="translate(1217.000000, 12.000000)">
+               <polygon id="Shape" points="0 0 12 0 12 12 0 12">
+               </polygon>
+               <path d="M6,6 C7.38125,6 8.5,4.88125 8.5,3.5 C8.5,2.11875 7.38125,1 6,1 C4.61875,1 3.5,2.11875 3.5,3.5 C3.5,4.88125 4.61875,6 6,6 L6,6 Z M6,7.25 C4.33125,7.25 1,8.0875 1,9.75 L1,11 L11,11 L11,9.75 C11,8.0875 7.66875,7.25 6,7.25 L6,7.25 Z" fill="#FFFFFF" id="Shape">
+               </path>
+              </g>
+             </g>
+            </g>
+           </svg>
+           <a class="small-white-link" href="/account/login">
+            login
+           </a>
+          </li>
+          <li>
+           <?xml version="1.0" encoding="UTF-8"?>
+           <svg height="9px" version="1.1" viewbox="0 0 10 9" width="10px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+            <title>
+             cart_icon
+            </title>
+            <desc>
+             Created with Sketch.
+            </desc>
+            <defs>
+            </defs>
+            <g fill="none" fill-rule="evenodd" id="desktop_nav_hifi_1" stroke="none" stroke-width="1" transform="translate(-1342.000000, -13.000000)">
+             <g id="secondary_nav">
+              <g id="cart_icon" transform="translate(1341.000000, 12.000000)">
+               <polygon id="Shape" points="0 0 12 0 12 12 0 12">
+               </polygon>
+               <path d="M8.36818182,4.30979979 L6.37727273,1.19915701 C6.29090909,1.06638567 6.14545455,1 6,1 C5.85454545,1 5.70909091,1.06638567 5.62272727,1.20389884 L3.63181818,4.30979979 L1.45454545,4.30979979 C1.20454545,4.30979979 1,4.5231823 1,4.78398314 C1,4.82665964 1.00454545,4.86933614 1.01818182,4.91201264 L2.17272727,9.30769231 C2.27727273,9.70600632 2.62727273,10 3.04545455,10 L8.95454545,10 C9.37272727,10 9.72272727,9.70600632 9.83181818,9.30769231 L10.9863636,4.91201264 L11,4.78398314 C11,4.5231823 10.7954545,4.30979979 10.5454545,4.30979979 L8.36818182,4.30979979 L8.36818182,4.30979979 Z M4.63636364,4.30979979 L6,2.22339305 L7.36363636,4.30979979 L4.63636364,4.30979979 L4.63636364,4.30979979 Z" fill="#FFFFFF" id="Shape">
+               </path>
+              </g>
+             </g>
+            </g>
+           </svg>
+           <a class="small-white-link" href="/cart">
+            cart (0)
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+      <div class="nav-container hidden-xs">
+       <div class="nav-logo-wrapper">
+        <div class="nav-logo">
+         <a aria-label="Irving Farm New York" href="/">
+          <svg class="main-svg" viewbox="0 0 858.91 131.8" xmlns="http://www.w3.org/2000/svg">
+           <defs>
+            <style>
+             .cls-1{font-size:128.08px;font-family:bebas;letter-spacing:-0.02em;}.cls-2{letter-spacing:-0.02em;}.cls-3{letter-spacing:-0.02em;}.cls-4{letter-spacing:-0.03em;}.cls-5{letter-spacing:-0.03em;}.cls-6{letter-spacing:-0.02em;}
+            </style>
+           </defs>
+           <title>
+            logo_horizontal_print_black
+           </title>
+           <g data-name="Layer 2" id="Layer_2">
+            <g data-name="Layer 1" id="Layer_1-2">
+             <text class="cls-1" transform="translate(0 108.87)">
+              I
+              <tspan class="cls-2" x="21.77" y="0">
+               R
+              </tspan>
+              <tspan class="cls-3" x="70.44" y="0">
+               VING
+              </tspan>
+              <tspan class="cls-4" x="257.95" y="0">
+               F
+              </tspan>
+              <tspan x="297.79" y="0">
+               ARM NEW
+              </tspan>
+              <tspan class="cls-5" x="663.84" y="0">
+               Y
+              </tspan>
+              <tspan class="cls-6" x="710.08" y="0">
+               ORK
+              </tspan>
+             </text>
+            </g>
+           </g>
+          </svg>
+         </a>
+        </div>
+       </div>
+       <div class="no-pad-right nav-element">
+        <ul class="nav">
+         <li class="no-pad-right white-nav">
+          <a class="rollover-underline-black on-page" href="/collections/coffee">
+           COFFEE
+          </a>
+         </li>
+         <li class="no-pad-right white-nav">
+          <a class="rollover-underline-black on-page" href="/pages/coffee-subscription">
+           SUBSCRIPTIONS
+          </a>
+         </li>
+         <li class="no-pad-right white-nav">
+          <a class="rollover-underline-black on-page" href="/pages/locations">
+           LOCATIONS
+          </a>
+         </li>
+         <li class="no-pad-right white-nav">
+          <a class="rollover-underline-black on-page" href="/pages/wholesale">
+           WHOLESALE
+          </a>
+         </li>
+         <li class="no-pad-right shop-nav-btn" role="button" tabindex="0">
+          <span class="shop-btn-text">
+           MORE
+          </span>
+          <span aria-hidden="true" class="shop-nav-anim">
+          </span>
+         </li>
+         <ul aria-label="More Subnav modal" class="menu-subnav" role="region">
+          <li class="no-pad-right white-nav">
+           <a class="rollover-underline-black" href="/pages/about">
+            OUR STORY
+           </a>
+          </li>
+          <li class="no-pad-right white-nav">
+           <a class="rollover-underline-black" href="/collections/bulk-coffees">
+            OFFICE &amp; BULK
+           </a>
+          </li>
+          <li class="no-pad-right white-nav">
+           <a class="rollover-underline-black" href="/collections/merchandise">
+            MERCH
+           </a>
+          </li>
+         </ul>
+         <script>
+          // Toggle navbar text, class & icons
+  const shopNavBtn = document.querySelector(".shop-nav-btn:not(.mobile)")
+
+  const mainNavBtns = document.querySelectorAll(".nav > .white-nav > a")
+  const firstMainNavBtn = mainNavBtns[0]
+  const lastMainNavBtn = mainNavBtns[mainNavBtns.length - 1]
+
+  const subNavBtns = document.querySelectorAll(".menu-subnav > .white-nav > a")
+  const firstSubNavBtn = subNavBtns[0]
+  const lastSubNavBtn = subNavBtns[subNavBtns.length - 1]
+
+
+  function toggleNav(e) {
+    $(".menu-subnav").toggleClass("show-submenu");
+    $(".nav-logo a").toggleClass("fill-white");
+    if ($(".menu-subnav").hasClass("show-submenu") && !$(this).hasClass("mobile")) {
+      $(".shop-btn-text").text("BACK")
+      $(".shop-nav-btn").addClass("darker-border color-white");
+      firstSubNavBtn
+        .focus()
+        e
+        .preventDefault()
+        console
+        .log("focused ", document.activeElement)
+    } else {
+      $(".shop-btn-text").text("MORE")
+      $(".shop-nav-btn").removeClass("darker-border color-white");
+      $(".showNav ul").first().addClass("slide-out");
+      shopNavBtn.focus()
+    }
+  }
+
+  $(".shop-nav-btn")
+    .on("click", toggleNav)
+
+    $(".mobile-navback-btn")
+    .on("click", function () {
+      $(".menu-subnav").toggleClass("show-submenu");
+      $(".showNav ul").first().removeClass("slide-out");
+    })
+
+    $(window)
+    .on("keydown", function (e) {
+
+      const subNavOpen = $(".menu-subnav").hasClass("show-submenu")
+      if ((e.key === "Escape" || e.keyCode === 27) && subNavOpen) {
+        toggleNav();
+        return;
+      }
+
+      const isTabPressed = (e.key === "Tab" || e.keyCode === 9);
+
+      const isEnterPressed = (e.key === "Enter" || e.keyCode === 13);
+
+      if (isEnterPressed && document.activeElement === shopNavBtn) {
+        shopNavBtn.click();
+        e.preventDefault();
+        return;
+      }
+
+      if (! isTabPressed) {
+        return;
+      }
+
+      let firstBtn = firstMainNavBtn;
+      let lastBtn = lastMainNavBtn;
+
+      if (subNavOpen) {
+        firstBtn = firstSubNavBtn;
+        lastBtn = lastSubNavBtn;
+      }
+
+      if (e.shiftKey) {
+        switch (document.activeElement) {
+          case firstBtn: if (subNavOpen) {
+              shopNavBtn.focus()
+              e.preventDefault()
+            }
+            break;
+          case shopNavBtn: lastBtn.focus()
+            e.preventDefault()
+            break;
+          default:
+            break;
+        }
+      } else {
+        switch (document.activeElement) {
+          case lastBtn: shopNavBtn.focus()
+            e.preventDefault()
+            break;
+          case shopNavBtn: if (subNavOpen) {
+              firstBtn.focus()
+              e.preventDefault()
+            }
+            break;
+          default:
+            break;
+        }
+      }
+
+    });
+         </script>
+        </ul>
+       </div>
+      </div>
+     </div>
+    </div>
+   </nav>
+  </header>
+  <main id="main-content" tabindex="-1">
+   <div class="shopify-section" id="shopify-section-home-main-image">
+    <div class="hidden-lg hidden-md hidden-sm">
+     <a href="/locations">
+      <div class="mobile-image-header-wrapper">
+       <div class="image-header-text-wrapper" style="background-image: url('//cdn.shopify.com/s/files/1/0923/5128/files/mobile_ifny_disco_shoot-53_1800x.jpg?v=1646080124')">
+        <a href="https://irvingfarm.com/collections/coffee">
+         <h1 class="mobile-header">
+          SHOP NEW YORK COFFEE
+         </h1>
+         <h4 class="mobile-subheader">
+         </h4>
+        </a>
+       </div>
+      </div>
+     </a>
+    </div>
+    <div class="hidden-xs header-wrapper home">
+     <a href="https://irvingfarm.com/collections/coffee">
+      <div class="image-header-wrapper">
+       <div class="image-header">
+        <div class="image-header-text-wrapper">
+         <h1 class="home-no-graphic-spacer">
+          SHOP NEW YORK COFFEE
+         </h1>
+         <div class="h4">
+         </div>
+         <div class="hero-background-image">
+          <img alt="Field Out of Focus" src="//cdn.shopify.com/s/files/1/0923/5128/files/darkened_ifny_disco_shoot-53_1800x.jpg?v=1646080029"/>
+         </div>
+        </div>
+       </div>
+      </div>
+     </a>
+    </div>
+   </div>
+   <div class="main-wrapper home">
+    <div class="main irving-farm-new-york">
+     <div class="triptych" style="background-color: #fff;">
+      <div class="frontpage-images row no-pad">
+       <div class="home-triptych-image triptych-image col-lg-4 col-sm-4 col-md-4 col-xs-12">
+        <a href="https://www.google.com/maps/d/u/3/edit?mid=1U_PQMinxSSvGuLxQqpuY3bzTAs6YmIck&amp;usp=sharing">
+         <img alt="" src="//cdn.shopify.com/s/files/1/0923/5128/t/37/assets/home-triptych-image-left.jpg?v=84579966794748751301612547667"/>
+         <div class="image-caption column">
+          FIND IRVING FARM NEAR YOU
+         </div>
+        </a>
+       </div>
+       <div class="home-triptych-image triptych-image col-lg-4 col-sm-4 col-md-4 col-xs-12">
+        <a href="https://irvingfarm.com/blogs/irving-farm-coffee-roasters/how-to-brew-irving-farm-brew-guides?_pos=1&amp;_sid=0a12ad680&amp;_ss=r">
+         <img alt="" src="//cdn.shopify.com/s/files/1/0923/5128/t/37/assets/home-triptych-image-center.jpg?v=166310841445943650871616092335"/>
+         <div class="image-caption column">
+          BREW GUIDES
+         </div>
+        </a>
+       </div>
+       <div class="home-triptych-image triptych-image col-lg-4 col-sm-4 col-md-4 col-xs-12">
+        <a href="https://irvingfarm.com/collections/merchandise">
+         <img alt="" src="//cdn.shopify.com/s/files/1/0923/5128/t/37/assets/home-triptych-image-right.jpg?v=161669906596892573851650561780"/>
+         <div class="image-caption column">
+          SHOP MERCHANDISE
+         </div>
+        </a>
+       </div>
+      </div>
+     </div>
+     <div class="swiper-container">
+      <div class="hidden-xs left-arrow-wrapper arrow-wrapper">
+       <span class="left-arrow swiper-button-prev" role="button" tabindex="0">
+       </span>
+      </div>
+      <div class="hidden-xs right-arrow-wrapper arrow-wrapper">
+       <span class="right-arrow swiper-button-next" role="button" tabindex="0">
+       </span>
+      </div>
+      <div aria-label="Banner Carousel" class="slideshow hidden-xs swiper-wrapper" role="region">
+       <div class="home-slideshow-image-1 home-slideshow-image swiper-slide">
+        <div class="container">
+         <div class="slideshow-content half-text-content col-lg-6 col-md-6 col-sm-8">
+          <h2>
+           WE’RE ON BROADWAY, BABY!
+          </h2>
+          <p>
+           We just opened our newest location on 52'nd &amp; Broadway. Stop by for our full breakfast and lunch menu from Tartinery.
+           <br/>
+           WE LOVE YOU, NEW YORK!
+          </p>
+          <a class="rollover-underline-small-black" href="https://irvingfarm.com/pages/52andBroadway">
+           <b>
+            CHECK IT OUT
+           </b>
+          </a>
+         </div>
+        </div>
+       </div>
+       <div class="home-slideshow-image-2 home-slideshow-image swiper-slide">
+        <div class="container">
+         <div class="slideshow-content half-text-content col-lg-6 col-md-6 col-sm-8">
+          <h2>
+           THE RUMORS ARE TRUE!
+          </h2>
+          <p>
+           Konga, Ethiopia is back! This vibrant, floral single origin is an exquisite representation of coffee from Ethiopia’s Yirgacheffe region.
+          </p>
+          <a class="rollover-underline-small-black" href="https://irvingfarm.com/collections/coffee/products/konga-ethiopia">
+           <b>
+            READ MORE
+           </b>
+          </a>
+         </div>
+        </div>
+       </div>
+       <div class="home-slideshow-image-3 home-slideshow-image swiper-slide">
+        <div class="container">
+         <div class="slideshow-content half-text-content col-lg-6 col-md-6 col-sm-8">
+          <h2>
+           HOW TO MAKE THE PERFECT COLD BREW
+          </h2>
+          <p>
+           Follow these easy steps to make your own refreshing cold brew at home!
+          </p>
+          <a class="rollover-underline-small-black" href="https://irvingfarm.com/blogs/irving-farm-coffee-roasters/how-to-make-the-perfect-cold-brew">
+           <b>
+            LEARN MORE
+           </b>
+          </a>
+         </div>
+        </div>
+       </div>
+       <div class="home-slideshow-image-4 home-slideshow-image swiper-slide">
+        <div class="container">
+         <div class="slideshow-content half-text-content col-lg-6 col-md-6 col-sm-8">
+          <h2>
+           IRVING FARM NEW YORK + J.BESPOKE COCKTAILS
+          </h2>
+          <p>
+           Our new cafe at 27th &amp; Park is connected to the speakeasy J. Bespoke. Their expert mixologist created 6 DELICIOUS cocktails using our cold brew and conveniently bottled them for purchase on their new website.
+          </p>
+          <a class="rollover-underline-small-black" href="https://irvingfarm.com/blogs/irving-farm-coffee-roasters/cold-brew-cocktails-j-bespoke-x-irving-farm">
+           <b>
+            SHOP COCKTAILS
+           </b>
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="mobile-slideshow hidden-lg hidden-md hidden-sm">
+      <div class="home-slideshow-image-1 home-slideshow-image swiper-slide">
+       <div class="container">
+        <div class="slideshow-content half-text-content col-lg-6 col-md-6 col-sm-8">
+         <h2>
+          WE’RE ON BROADWAY, BABY!
+         </h2>
+         <p>
+          We just opened our newest location on 52'nd &amp; Broadway. Stop by for our full breakfast and lunch menu from Tartinery.
+          <br/>
+          WE LOVE YOU, NEW YORK!
+         </p>
+         <a class="rollover-underline-small-black" href="https://irvingfarm.com/pages/52andBroadway">
+          <b>
+           CHECK IT OUT
+          </b>
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="home-slideshow-image-2 home-slideshow-image swiper-slide">
+       <div class="container">
+        <div class="slideshow-content half-text-content col-lg-6 col-md-6 col-sm-8">
+         <h2>
+          THE RUMORS ARE TRUE!
+         </h2>
+         <p>
+          Konga, Ethiopia is back! This vibrant, floral single origin is an exquisite representation of coffee from Ethiopia’s Yirgacheffe region.
+         </p>
+         <a class="rollover-underline-small-black" href="https://irvingfarm.com/collections/coffee/products/konga-ethiopia">
+          <b>
+           READ MORE
+          </b>
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="home-slideshow-image-3 home-slideshow-image swiper-slide">
+       <div class="container">
+        <div class="slideshow-content half-text-content col-lg-6 col-md-6 col-sm-8">
+         <h2>
+          HOW TO MAKE THE PERFECT COLD BREW
+         </h2>
+         <p>
+          Follow these easy steps to make your own refreshing cold brew at home!
+         </p>
+         <a class="rollover-underline-small-black" href="https://irvingfarm.com/blogs/irving-farm-coffee-roasters/how-to-make-the-perfect-cold-brew">
+          <b>
+           LEARN MORE
+          </b>
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="home-slideshow-image-4 home-slideshow-image swiper-slide">
+       <div class="container">
+        <div class="slideshow-content half-text-content col-lg-6 col-md-6 col-sm-8">
+         <h2>
+          IRVING FARM NEW YORK + J.BESPOKE COCKTAILS
+         </h2>
+         <p>
+          Our new cafe at 27th &amp; Park is connected to the speakeasy J. Bespoke. Their expert mixologist created 6 DELICIOUS cocktails using our cold brew and conveniently bottled them for purchase on their new website.
+         </p>
+         <a class="rollover-underline-small-black" href="https://irvingfarm.com/blogs/irving-farm-coffee-roasters/cold-brew-cocktails-j-bespoke-x-irving-farm">
+          <b>
+           SHOP COCKTAILS
+          </b>
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="homepage-bottom-third-outer-container">
+      <div class="homepage-bottom-third-container container">
+       <div class="homepage-bottom-third-outter col-lg-6 col-md-6 col-sm-6 col-xs-12">
+        <div class="homepage-bottom-third-text half-text-content">
+         <h2>
+          SERVE OUR COFFEE
+         </h2>
+         <p>
+          Whether you are a full-service cafe, a fine dining restaurant or a specialty food store, we work with each of our wholesale partners to build the best coffee program for your needs. We take the word partner seriously.
+         </p>
+         <a class="rollover-underline-small-black" href="/pages/wholesale">
+          LEARN MORE
+         </a>
+        </div>
+       </div>
+       <div class="col-lg-6 col-md-6 col-sm-6">
+        <div class="homepage-bottom-third-image">
+        </div>
+       </div>
+      </div>
+     </div>
+     <script src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js" type="text/javascript">
+     </script>
+     <script type="text/javascript">
+      (function($) {window.fnames = new Array();
+    window.ftypes = new Array();fnames[0]='EMAIL';
+    ftypes[0]='email';fnames[1]='FNAME';
+    ftypes[1]='text';fnames[2]='LNAME';
+    ftypes[2]='text';fnames[3]='MMERGE3';
+    ftypes[3]='birthday';fnames[4]='CCODE';
+    ftypes[4]='text';}(jQuery)
+  );
+  var $mcj = jQuery.noConflict(true);
+     </script>
+     <a id="newsletter">
+     </a>
+     <div class="newsletter">
+      <div class="newsletter-container container">
+       <div class="newsletter-form">
+        <div class="no-pad-left col-md-6 col-lg-6 col-sm-6 no-pad-s">
+         <span class="input-and-button">
+          <div class="klaviyo-form-Xhsp3N">
+          </div>
+         </span>
+        </div>
+        <span class="newsletter-text hidden-xs">
+         <p>
+          JOIN OUR EMAIL LIST &amp; RECEIVE
+          <br/>
+          <strong>
+           15% OFF
+          </strong>
+          YOUR FIRST ORDER!
+         </p>
+        </span>
+        <span class="mobile-newsletter-text col-xs-6 hidden-sm hidden-md hidden-lg">
+         <p>
+          JOIN OUR EMAIL LIST &amp; RECEIVE
+          <strong>
+           15% OFF
+          </strong>
+          <br/>
+          YOUR FIRST ORDER!
+         </p>
+        </span>
+       </div>
+      </div>
+     </div>
+     <br/>
+    </div>
+   </div>
+  </main>
+  <footer>
+   <div class="footer-wrapper">
+    <div class="row">
+     <div class="container footer-logo">
+      <a href="/">
+       <img alt="Home Page" src="//cdn.shopify.com/s/files/1/0923/5128/t/37/assets/raven_logo_no_text.png?v=183434180595039795921586993414"/>
+      </a>
+     </div>
+    </div>
+    <div class="container footer-container">
+     <div class="row footer-row">
+      <div class="col-md-5 col-lg-5 col-sm-4 col-xs-6">
+       <h2 class="footer-header">
+        COMPANY
+       </h2>
+       <ul>
+        <li>
+         <a class="rollover-underline-small-black" href="/pages/about">
+          ABOUT US
+         </a>
+        </li>
+        <li>
+         <a class="rollover-underline-small-black" href="https://irvingfarm.com/pages/about-us/#about-careers">
+          CAREERS
+         </a>
+        </li>
+        <li>
+         <a class="rollover-underline-small-black" href="/pages/contact">
+          CONTACT US
+         </a>
+        </li>
+        <li>
+         <a class="rollover-underline-small-black" href="https://irvingfarm.com/blogs/irving-farm-coffee-roasters">
+          BLOG
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="col-md-5 col-lg-5 col-sm-4 col-xs-6">
+       <h2 class="footer-header">
+        HELP
+       </h2>
+       <ul>
+        <li>
+         <a class="rollover-underline-small-black" href="/pages/customer-service">
+          FAQ
+         </a>
+        </li>
+        <li>
+         <a class="rollover-underline-small-black" href="https://irvingfarm.com/pages/customer-service/#faq">
+          SHIPPING &amp; RETURNS
+         </a>
+        </li>
+        <li>
+         <a class="rollover-underline-small-black" href="/pages/wholesale">
+          WHOLESALE SUPPORT
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="col-md-2 col-lg-2 col-sm-4 col-xs-6">
+       <h2 class="footer-header">
+        SOCIAL MEDIA
+       </h2>
+       <ul>
+        <li>
+         <a class="no-pad social-media-link facebook" href="https://www.facebook.com/IrvingFarmNewYork/" target="_blank">
+          FACEBOOK
+         </a>
+        </li>
+        <li>
+         <a class="no-pad social-media-link instagram" href="https://instagram.com/irvingfarm/?hl=en" target="_blank">
+          INSTAGRAM
+         </a>
+        </li>
+        <li>
+         <a class="no-pad social-media-link twitter" href="https://twitter.com/IrvingFarm" target="_blank">
+          TWITTER
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="container">
+     <hr/>
+     <p class="small-print left">
+      © 2022 IRVING FARM NEW YORK.
+     </p>
+     <p class="small-print right">
+      MADE BY
+      <a class="rollover-underline-small-black" href="http://www.verbalplusvisual.com" target="_blank">
+       V + V
+      </a>
+     </p>
+     <p class="small-print left">
+      If you are using a screen reader and are having problems using this website, please call
+      <a href="tel:+12122060707">
+       <b>
+        212 206 0707
+       </b>
+      </a>
+      for assistance.
+     </p>
+     <br/>
+     <!-- CSS Code -->
+     <style scoped="" type="text/css">
+      img.GeneratedImage {
+width:40px;height:40px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
+}
+     </style>
+     <!-- HTML Code -->
+     <img alt="Reviewed by Accessible 360" class="GeneratedImage" src="https://cdn.shopify.com/s/files/1/0923/5128/files/Badge-reviewedby-black_copy_small.png?3674"/>
+    </div>
+   </div>
+  </footer>
+  <script src="//cdn.shopify.com/s/files/1/0923/5128/t/37/assets/shop.js?v=79254781135488568031586993470" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  </script>
+  <script type="text/javascript">
+   try {
+      var pageTracker = _gat._getTracker("UA-10611110-1");
+      pageTracker._trackPageview();
+    } catch(err) {}
+  </script>
+  <script type="text/javascript">
+   (function (d, t) {
+   var bh = d.createElement(t), s = d.getElementsByTagName(t)[0];
+   bh.type = 'text/javascript';
+   bh.src = 'https://www.bugherd.com/sidebarv2.js?apikey=eolxvvvxlywv4m2ebuyfxg';
+   s.parentNode.insertBefore(bh, s);
+   })(document, 'script');
+  </script>
+  <input name="_pc_params" type="hidden" value="irving-farm-coffee-roasters.myshopify.com:"/>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js">
+  </script>
+  <script>
+   function saveCartNoteThenRedirectToCart() {
+        
+      try {
+          data={}
+          
+          if( rjQuery('[name="note"]').val() != undefined ){
+              data['note'] = rjQuery('[name="note"]').val();
+              has_cart_note_or_attribute= true
+          }
+          if (has_cart_note_or_attribute) {
+              rjQuery.ajax({
+                  type: 'POST',
+                  data: data,
+                  url: '/cart/update.js',
+                  dataType: 'json',
+                  success: function() { 
+                    window.location.href='/cart'
+                  }
+              }); 
+          } else {
+               window.location.href='/cart'
+          }
+      } catch (e) {
+          window.location.href='/cart'
+      } //endtrycatch
+    
+    }
+
+    rjQuery = jQuery.noConflict( true );
+    var checkout_button_selectors = '[href="/checkout"], form[action="/cart"] button[type="submit"], form[action="/cart"] input[type="submit"], form[action="/checkout"] input[type="submit"],form[action="/checkout"] button[type="submit"]'
+    rjQuery('body').on('click', checkout_button_selectors, function(e){
+        e.preventDefault(); 
+        window.location.href = '/cart';
+    })
+    rjQuery(checkout_button_selectors).click( function(event) {
+       event.preventDefault();
+       saveCartNoteThenRedirectToCart()
+    });
+  </script>
+  <div aria-label="Quick Shop" aria-modal="true" class="" id="sca-qv-showqv" role="dialog" style="display: none !important;">
+   <div>
+    <!--START PRODUCT-->
+    <div class="quick-view-container fancyox-view-detail">
+     <div aria-label="carousel" class="sca-left" id="sca-qv-left" role="region">
+      <div class="sca-qv-sale sca-qv-hidden" id="sca-qv-sale">
+       Sale
+      </div>
+      <!-- START ZOOM IMAGE-->
+      <div class="sca-qv-zoom-container">
+       <div class="zoomWrapper">
+        <div class="sqa-qv-zoomcontainer" id="sca-qv-zoomcontainer">
+         <!-- Main image  ! DON'T PUT CONTENT HERE! -->
+        </div>
+       </div>
+      </div>
+      <!-- END ZOOM IMAGE-->
+      <!-- START GALLERY-->
+      <div class="sca-qv-gallery" id="sca-qv-galleryid">
+       <!-- Collection of image ! DON'T PUT CONTENT HERE!-->
+      </div>
+      <!-- END GALLERY-->
+     </div>
+     <!--START BUY-->
+     <div class="sca-right" id="sca-qv-right">
+      <!-- -------------------------- -->
+      <!-- <div id="sca-qv-title" class="name-title" >
+					Title of product ! DON'T PUT CONTENT HERE!
+			</div> -->
+      <!-- -------------------------- -->
+      <div class="sca-qv-price-container" id="sca-qv-price-container">
+       <!-- price information of product ! DON'T PUT CONTENT HERE!-->
+      </div>
+      <!-- -------------------------- -->
+      <div class="sca-qv-row" id="sca-qv-des">
+       <!-- description of product ! DON'T PUT CONTENT HERE!-->
+      </div>
+      <!-- -------------------------- -->
+      <div class="sca-qv-row">
+       <a href="" id="sca-qv-detail">
+        View full product details →
+       </a>
+      </div>
+      <!-- ----------------------------------------------------------------------- -->
+      <div id="sca-qv-cartform">
+       <form id="sca-qv-add-item-form" method="post">
+        <!-- Begin product options ! DON'T PUT CONTENT HERE!-->
+        <div class="sca-qv-product-options">
+         <!-- -------------------------- -->
+         <div class="sca-qv-optionrow" id="sca-qv-variant-options">
+          <!-- variant options  of product  ! DON'T PUT CONTENT HERE!-->
+         </div>
+         <!-- -------------------------- -->
+         <div class="sca-qv-optionrow">
+          <label>
+           Quantity
+          </label>
+          <input id="sca-qv-quantity" min="1" name="quantity" type="number" value="1"/>
+         </div>
+         <!-- -------------------------- -->
+         <div class="sca-qv-optionrow">
+          <p class="sca-sold-out sca-qv-hidden" id="sca-qv-unavailable">
+           Unavailable
+          </p>
+          <p class="sca-sold-out sca-qv-hidden" id="sca-qv-sold-out">
+           Sold Out
+          </p>
+          <input class="sca-qv-cartbtn sca-qv-hidden" type="submit" value="ADD TO CART"/>
+         </div>
+         <!-- -------------------------- -->
+        </div>
+        <!-- End product options -->
+       </form>
+      </div>
+     </div>
+     <!--END BUY-->
+    </div>
+    <!--END PRODUCT-->
+   </div>
+  </div>
+  <div autoconfig="yes" id="scaqv-metadata" jsondata="eyJibnRfdGV4dCI6IlFVSUNLIFNIT1AiLCJibnRfdGV4dF9mb250IjoiRnV0dXJhIiwiYm50X3RleHRfZm9udHNpemUiOiIxNHB4IiwiYm50X3RleHRfY29sb3IiOiIjZmZmZmZmIiwiYm50X3RleHRfaG92ZXIiOiIjZmZmZmZmIiwiYm50X2NvbG9yIjoiIzAwMDAwMCIsImJudF9jb2xvcl9ob3ZlciI6IiNiNWI1YjUiLCJibnRfcG9zc2l0aW9uIjoiY2VudGVyIiwiaW1nX21haW5fd2lkdGgiOiIzNDVweCIsIndkX2hlaWdodCI6IjUwMCIsIndkX3dpZHRoIjoiNTAwIiwiY2FydF9nbyI6Im5vIiwiY2FydGNvdW50IjoiI2NhcnQtY291bnR8I21pbmljYXJ0ICNjYXJ0LXRhcmdldC1kZXNrdG9wfCNkcmF3ZXIgLmNvbnRhaW5lcnwud3JhcHBlciAuaGVhZGVyLWNhcnQtYnRufCNjYXJ0LXRvdGFsICNjYXJ0LXByaWNlfCNjYXJ0LWNvdW50IC5uby11bmRlcmxpbmV8LmZyIC5jYXJ0IC50b3RhbF9wcmljZXwudW5zdHlsZWQgLmZyIC5jYXJ0fC53cmFwcGVyICNjYXJ0VG9nZ2xlfCN1bWJyZWxsYSAuY2FydC1saW5rIC5pY29ufCNtaW5pLWNhcnQgI2NhcnQtdGFyZ2V0fC50b29sYmFyLXdyYXBwZXIgLnVuc3R5bGVkIiwiY2FydF90b3RhbCI6IiNjYXJ0aWQtbmVlZC10by1yZWxvYWQiLCJjYXJ0X25vdGlmeV9hZGRfZm9ybWF0IjoiVGhpcyBwcm9kdWN0IGluICpZb3VyIENhcnQlIGFscmVhZHkuIiwiY2FydF9ub3RpZnlfaW5fZm9ybWF0IjoiSXRlbSBhZGRlZCB0byBjYXJ0ISAqVmlldyBDYXJ0JS4iLCJjYXJ0X2NvbG9yIjoiIzk0OTQ5NCIsInNhbGVfaWNvbl9jb2xvciI6IiNmYzRjMDMiLCJwcmljZV9jb2xvciI6IiMwMDAwMDAiLCJsaW5rX2NvbG9yIjoiI2Y0NWI0ZiIsInRpdGxlX2NvbG9yIjoiI2ZmZmZmZiIsInF2X2Rpc2FibGUiOiJvbiIsImlzX3JhdGVkIjpmYWxzZSwicmF0ZV9zY29yZSI6MCwicmF0ZV9jb21tZW50IjoiIiwiYnRuX21vYmlsZV9kaXNwbGF5IjpudWxsLCJkZXNfbnVtIjoiMzAifQ==" moneyformat="{{amount}}" noimage="//cdn.shopify.com/s/files/1/0923/5128/t/37/assets/sca-qv-no-image.jpg?v=51188172206095598021586993419">
+  </div>
+  <!-- spurit_sct-added -->
+  <!-- /spurit_sct-added -->
+  <script>
+   if(typeof(Spurit) === 'undefined'){
+    var Spurit = {};
+  }
+  if(!Spurit.CountdownTimer){
+    Spurit.CountdownTimer = {};
+  }
+  if(!Spurit.CountdownTimer.snippet){
+    Spurit.CountdownTimer.snippet = {};
+  }
+  Spurit.CountdownTimer.snippet.shopHash = '08510f1b424cb792c3d339be0867dfe7';
+  Spurit.CountdownTimer.snippet.cacheTimestamp = 1640262955;
+  </script>
+  <script src="https://amaicdn.com/timer-app/common.js">
+  </script>
+  <link href="https://amaicdn.com/timer-app/common.css" media="all" rel="stylesheet" type="text/css"/>
+ </body>
+</html>

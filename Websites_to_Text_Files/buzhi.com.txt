@@ -1,0 +1,822 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="All" name="Robots"/>
+  <title>
+   æ­¥ç¥å¬è-å¨çº¿å¤èï¼å°±éæ­¥ç¥ç½
+  </title>
+  <meta content="æ­¥ç¥å¬è,å¬å¡åèè¯,å½å®¶å¬å¡åèè¯ç½,æ­¥ç¥å¬è,æ­¥ç¥ç½" name="keywords"/>
+  <meta content="æ­¥ç¥å¬èæä¸åçæ­¥ç¥ç½ä¸ºèçæä¾å¬å¡åèè¯å¤èæå¡,åäº«å¬å¡åãäºä¸åä½æèãå¤§å­¦çæå®ãæå¸æå½ç­æç¨å¹²è´§åèµè®¯ã" name="description"/>
+  <meta content="format=xhtml;url=http://wap.buzhi.com" http-equiv="mobile-agent"/>
+  <meta content="format=html5; url=http://wap.buzhi.com" http-equiv="mobile-agent"/>
+  <link href="http://wap.buzhi.com" media="only screen and (max-width:1000px)" rel="alternate"/>
+  <script type="text/javascript">
+   ;(function (Switch) {
+				var date = new Date()
+				var hour = date.getHours()
+				var where = document.referrer
+				var switch_pc = window.location.hash
+				var userAgent = navigator.userAgent
+
+				//if ((hour > 8) || (hour < 19))
+				//{
+				//var regexp=/\.(sogou|soso|baidu|so|sogou|sm|google|youdao|yahoo|bing|118114|biso|gougou|ifeng|ivc|sooule|niuhu|biso|360|buzhi|hnrcsc|frrc|zzxingce|zzshenlun)(\.[a-z0-9\-]+){1,2}\//ig;
+				//if(!regexp.test(where))
+				//{
+				//
+				//if((userAgent.indexOf('spider') < 0)||(userAgent.indexOf('bot') < 0)){
+				//  window.location.href = "http://www.buzhi.com/lb/";
+				//}
+				//
+				//}
+				//}
+
+				var webhost = window.location.host
+				if (webhost.indexOf("buzhi.com") < 0) {
+					window.location.href = "http://www.buzhi.com/?from=HK_301"
+				}
+
+				if (switch_pc != "#pc") {
+					if (
+						/iphone|ipod|Android|nokia|blackberry|webos|webos|webmate|bada|lg|ucweb|skyfire|sony|ericsson|mot|samsung|sgh|lg|philips|panasonic|alcatel|lenovo|cldc|midp|wap|mobile/i.test(
+							navigator.userAgent.toLowerCase()
+						)
+					) {
+						Switch.location.href = "http://wap.buzhi.com"
+					}
+				}
+			})(window)
+  </script>
+  <script>
+   var _hmt = _hmt || []
+			;(function () {
+				var hm = document.createElement("script")
+				hm.src = "//hm.baidu.com/hm.js?e8470ff6ebc77bb17a31311813fd7127"
+				var s = document.getElementsByTagName("script")[0]
+				s.parentNode.insertBefore(hm, s)
+			})()
+  </script>
+  <script>
+   var _hmt = _hmt || []
+			;(function () {
+				var hm = document.createElement("script")
+				hm.src =
+					"https://hm.baidu.com/hm.js?f721d958b1ffbdd95625a927f9bbe719" //count.buzhi.comå¯ä¸æ è¯ 2016-12-16
+				var s = document.getElementsByTagName("script")[0]
+				s.parentNode.insertBefore(hm, s)
+			})()
+  </script>
+  <link href="http://www.buzhi.com/index2/css/bootstrap.css" rel="stylesheet" type="text/css"/>
+  <link href="http://www.buzhi.com/index2/css/buzhi.css" rel="stylesheet" type="text/css"/>
+  <link href="http://www.buzhi.com/style/2016/css/css.css?v=201608" rel="stylesheet" type="text/css"/>
+  <script src="http://www.buzhi.com/index2/js/jquery-1.11.1.min.js" type="text/javascript">
+  </script>
+  <!--[if lt IE 9]>
+			<script
+				type="text/javascript"
+				src="http://g.buzhi.com/js/html5.js"
+			></script>
+		<![endif]-->
+  <!--[if lt IE 7]>
+			<script
+				type="text/javascript"
+				src="http://g.buzhi.com/js/killie6.js"
+			></script>
+			<script
+				type="text/javascript"
+				src="http://g.buzhi.com/js/DD_belatedPNG.js"
+			></script>
+			<script language="JavaScript" type="text/javascript">
+				DD_belatedPNG.fix(".img,div,a,li")
+			</script>
+		<![endif]-->
+  <style>
+   /*.u-text a.link{background:url(http://www.buzhi.com/images/buzhi.png) 0 no-repeat;}*/
+			/*.u-text a.link:hover{background:url(http://www.buzhi.com/images/buzhi_hover.png) 0 no-repeat;}*/
+			.bz_txt {
+				vertical-align: top;
+			}
+  </style>
+ </head>
+ <body>
+  <div id="product">
+   <div class="bz_head">
+    <div class="bz_head1">
+     <div class="bz_head">
+      <div class="bz_head1">
+       <div class="bz_logo">
+        <a href="http://g.buzhi.com/#/home?ag=8595">
+         <img alt="æ­¥ç¥å¬è" src="http://www.buzhi.com/images/buzhi_logo.png"/>
+        </a>
+        <a href="http://www.buzhi.com/lb" id="mdmh" rel="nofollow" target="_blank">
+         <img src="http://www.buzhi.com/images/mdmh.png"/>
+        </a>
+       </div>
+       <div class="left">
+        <div class="bz_nav" style="display: none">
+         <ul>
+          <li>
+           <a href="http://www.buzhi.com/">
+            å¬å¡åèè¯ç½
+           </a>
+          </li>
+          <li>
+           <a href="http://news.buzhi.com/gwy/mingshi/huamujun/">
+            ç³è®ºè±æ¨å
+           </a>
+          </li>
+          <li>
+           <a href="http://news.buzhi.com/gwy/mingshi/fengbaolingyang/">
+            è¡æµé£æ´ç¾ç¾
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+       <div class="right">
+        <a href="http://g.buzhi.com/#/home?ag=8595" target="_blank">
+         <button class="btn btn-default navbar-btn bz_btn">
+          ç»å½
+         </button>
+        </a>
+       </div>
+       <div class="right">
+        <a href="http://g.buzhi.com/#/home?ag=8595" target="_blank">
+         <button class="btn btn-default navbar-btn bz_btn">
+          æ³¨å
+         </button>
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="m-banner jq-banner">
+    <div class="u-ban1">
+    </div>
+    <div class="u-ban2">
+    </div>
+    <div class="u-ban3">
+    </div>
+    <div class="u-text">
+     <h2>
+      å¨çº¿å¤è å°±éæ­¥ç¥
+     </h2>
+     <p class="text">
+      æ­¥ç¥å¬èï¼æ¯ä¸ä¸ºçº¿ä¸å¬å¡åå¤èäººç¾¤æä¾å­¦ä¹ ãè®­ç»ãäº¤æµçå¨çº¿å¤èæºè½æè²å¹³å°ã
+     </p>
+     <span class="text">
+      ä»¥é¢åçå¨çº¿å¤èè§£å³æè·¯åæ¹æ¡ï¼
+     </span>
+     <span class="text">
+      <a href="http://g.buzhi.com/#/home?ag=8595" style="color: #fff" target="_blank">
+       ä¸ºæå¿éå¹´æâå¬âä¸å²¸æä¾æ´ä¼è·¯å¾ã
+      </a>
+     </span>
+     <a class="link gbuzhi" href="http://g.buzhi.com/#/home?ag=8595" target="_blank">
+      è¿å¥æ­¥ç¥å¬è
+     </a>
+    </div>
+   </div>
+  </div>
+  <div class="m-submenu">
+   <div class="w-auto">
+    <a class="link" href="http://news.buzhi.com/gwy/" title="å¬å¡åèè¯">
+     å®ç½é¦é¡µ
+    </a>
+    <a class="link" href="https://www.gongkaoleida.com" title="æææ¯ä¸æ¬¡èç¼æºä¼">
+     æ¯æ¥æè
+    </a>
+    <img src="http://news.buzhi.com/gwy/wuce/media/images/new.gif" style="position: absolute; margin: 5px 0 0 -45px"/>
+    <a class="link" href="https://www.gongkaoleida.com/category/3" title="äºä¸åä½èè¯">
+     äºä¸åä½æè
+    </a>
+    <a class="link" href="http://news.buzhi.com/gwy/zxkx/" title="èè¯å¿«è®¯">
+     èè¯å¿«è®¯
+    </a>
+    <a class="link" href="http://www.buzhi.com/zhiweibiao/infosearch/index.php?nf=2017&amp;ksnx=%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95&amp;ksnb=%E7%9C%81%E8%80%83&amp;ckdq=&amp;zxnb=%E5%85%8D%E8%B4%B9VIP%E8%A7%86%E9%A2%91%E8%AF%BE%E7%A8%8B" style="display: none" title="ç½çº¢å¤§åè¡æµãç³è®ºãé¢è¯ãç´æ­äºå¨è§é¢è¯¾ç¨">
+     è§é¢è¯¾ç¨
+    </a>
+    <a class="link" href="http://news.buzhi.com/gwy/tk/" title="å½èåå¹´çé¢ãçèåå¹´çé¢ãæ¨¡æé¢é¢æµ">
+     èè¯é¢åº
+    </a>
+    <a class="link" href="http://news.buzhi.com/gwy/zljy/" title="çº¯å¹²è´§ä¸å²¸èçæåç»éªåäº«">
+     å¤èç»éª
+    </a>
+    <!--<a href="http://news.buzhi.com/gwy/zl/shenkaozhuanti.html" class="link" title="2017å¹´çèå¤ä¹ æ»ç¥ãå¤èèµæãæå¬ç»éª">2017çè</a>-->
+    <a class="link" href="http://news.buzhi.com/gwy/zx/" title="èè¯å¬åãèè¯å¤§çº²ãèä½è¡¨ç­">
+     æèä¿¡æ¯
+    </a>
+    <a class="link" href="http://news.buzhi.com/gwy/bm/" title="æ¥åæ¶é´ãæ¥èæ¡ä»¶ãæ¥åå¥å£ãåèè¯æå°èè¯æ¶é´ãèè¯ç§ç®ãæç»©æ¥è¯¢">
+     æ¥èæå
+    </a>
+    <!--<a
+					href="http://news.buzhi.com/gwy/zlsz/"
+					class="link"
+					title="ææ°å½åå¤æ¶æ¿ç­ç¹ãèç¹ï¼æ¯æ¥æ´æ°"
+                    >æ¶äºæ¿æ²»
+                </a>-->
+    <a class="link" href="http://news.buzhi.com/gwy/zl/" title="è¡æµãç³è®ºãé¢è¯èµæ">
+     å¤èèµæ
+    </a>
+    <a class="link" href="http://news.buzhi.com/gwy/gongkaobaike/" title="å¬èåä¸ä¸ªä¸ºä»ä¹å¨è¿éé½å¯ä»¥æ¾å°ç­æ¡">
+     å¬èç¾ç§
+    </a>
+    <a class="link" href="http://news.buzhi.com/gwy/mingshi/" title="è±æ¨åãé£æ´ç¾ç¾ä¸ªäººä»ç»ãç¸å³æç« ãè§é¢è¯¾ç¨">
+     ç½çº¢åå¸
+    </a>
+   </div>
+  </div>
+  <!--<div class="m-process w-auto"> <a href="http://news.buzhi.com/gwy/gjzxgk/40229.html" title="2018å½èå¬è" >
+  <div class="u-div"><span class="img u-img1"></span><span class="text">å¬ååå¸</span></div>
+  </a> <a href="http://news.buzhi.com/gwy/zxzwb/59866.html" title="2017çèèä½è¡¨">
+  <div class="u-div"><span class="img u-img2"></span><span class="text">èä½è¡¨</span></div>
+  </a> <a href="http://news.buzhi.com/gwy/gjbmrk/41103.html" title="2017çèæ¥ååç¡®è®¤å¥å£">
+  <div class="u-div"><span class="img u-img3"></span><span class="text">ç½ä¸æ¥å</span></div>
+  </a> <a href="http://g.buzhi.com/?from=index#8595" title="ä¸å¤§åèå¸ä¸èµ·å¨çº¿å®èçè">
+  <div class="u-div"><span class="img u-img4"></span><span class="text">å¤ä¹ å¤è</span></div>
+  </a> <a href="http://news.buzhi.com/gwy/gjbmzkz/41105.html" title="2017çèåèè¯æå°å¥å£">
+  <div class="u-div"><span class="img u-img5"></span><span class="text">åèè¯æå°</span></div>
+  </a> <a href="http://news.buzhi.com/gwy/gjtkzt/39537.html" title="2017çèè¡æµãç³è®ºç¬è¯">
+  <div class="u-div"><span class="img u-img6"></span><span class="text">ç¬è¯</span></div>
+  </a> <a href="http://news.buzhi.com/gwy/gjbmcj/41206.html" title="2017çèä¼°åå¥å£">
+  <div class="u-div"><span class="img u-img7"></span><span class="text">ä¼°åå¥å£</span></div>
+  </a> <a href="http://news.buzhi.com/gwy/gjtkzt/39538.html" title="çèé¢è¯çé¢æ±æ»">
+  <div class="u-div"><span class="img u-img8"></span><span class="text">é¢è¯</span></div>
+  </a> </div> -->
+  <div class="m-process w-auto">
+   <a href="https://www.gongkaoleida.com/article/509042" target="_blank" title="2022å¹´çèå®æ¶å¬å">
+    <div class="u-div">
+     <span class="img u-img1">
+     </span>
+     <span class="text">
+      çèå¬å
+     </span>
+    </div>
+   </a>
+   <a href="https://www.gongkaoleida.com/exam/264744" target="_blank" title="2022å½èæéåçèä½">
+    <div class="u-div">
+     <span class="img u-img2">
+     </span>
+     <span class="text">
+      èä½éæ©
+     </span>
+    </div>
+   </a>
+   <a href="https://www.gongkaoleida.com/article/796678" target="_blank" title="2022å¹´å½èæ¥ååç¡®è®¤å¥å£">
+    <div class="u-div">
+     <span class="img u-img3">
+     </span>
+     <span class="text">
+      ç½ä¸æ¥å
+     </span>
+    </div>
+   </a>
+   <a href="http://g.buzhi.com/?from=index#8595" target="_blank" title="ä¸å¤§åèå¸ä¸èµ·å¨çº¿å®è2022å½è">
+    <div class="u-div">
+     <span class="img u-img4">
+     </span>
+     <span class="text">
+      å¤ä¹ å¤è
+     </span>
+    </div>
+   </a>
+   <a href="https://www.gongkaoleida.com/article/796678" target="_blank" title="2022å½èåèè¯æå°å¥å£">
+    <div class="u-div">
+     <span class="img u-img5">
+     </span>
+     <span class="text">
+      åèè¯æå°
+     </span>
+    </div>
+   </a>
+   <a href="http://g.buzhi.com/#/home?ag=8595" target="_blank" title="2022å¹´å½èè¡æµãç³è®ºç¬è¯">
+    <div class="u-div">
+     <span class="img u-img6">
+     </span>
+     <span class="text">
+      ç¬è¯
+     </span>
+    </div>
+   </a>
+   <a href="http://news.buzhi.com/gwy/bmcj/114306.html" target="_blank" title="2022å½èæç»©æ¥è¯¢">
+    <div class="u-div">
+     <span class="img u-img7">
+     </span>
+     <span class="text">
+      æç»©æ¥è¯¢
+     </span>
+    </div>
+   </a>
+   <a href="http://g.buzhi.com/course/about/beichu?from=index#8595" target="_blank" title="å½èé¢è¯çé¢æ±æ»">
+    <div class="u-div">
+     <span class="img u-img8">
+     </span>
+     <span class="text">
+      é¢è¯
+     </span>
+    </div>
+   </a>
+  </div>
+  <!--<div class="m-subban w-auto"><img src="images/banner.gif" /></div>-->
+  <div class="w-auto">
+   <div class="m-information m-condiv">
+    <div class="m-title">
+     <span class="img">
+     </span>
+     <h2>
+      2022å¹´å¬å¡åèè¯èµè®¯
+     </h2>
+     <a class="more" href="http://news.buzhi.com/gwy/">
+      æ´å¤&gt;
+     </a>
+    </div>
+    <div class="m-conter">
+     <dl>
+      <dt>
+       <a class="link" href="http://news.buzhi.com/gwy/zxkx/115729.html" title="2022å¹´å½èå¬åæ­£å¼åå¸ï¼">
+        [å¿«è®¯]2022å¹´å½èå¬åæ­£å¼åå¸ï¼
+       </a>
+      </dt>
+      <dd>
+       <a class="link" href="http://www.kaodeshang.cn/article/87201a0021f50c7782445656.html" style="height: 1px; display: block" title="ç³è®ºèæå®å¸pdf 2022ç">
+        ç³è®ºèæå®å¸pdf 2020ç
+       </a>
+       <a class="link" href="http://news.buzhi.com/gwy/zxkx/115507.html" title="åªäºä¸ä¸å¯ä»¥æ¥2021å¹´å½èï¼">
+        åªäºä¸ä¸å¯ä»¥æ¥2021å¹´å½èï¼
+       </a>
+       <a class="link" href="http://news.buzhi.com/gwy/zxkx/115478.html" title="ææ ·æè½æ¥ææå¸ç¼å¶ï¼">
+        ææ ·æè½æ¥ææå¸ç¼å¶ï¼
+       </a>
+       <a class="link" href="http://news.buzhi.com/gwy/zxkx/115477.html" title="2021å¹´é¶è¡æèç¬è¯èä»ä¹ï¼">
+        2021å¹´é¶è¡æèç¬è¯èä»ä¹ï¼
+       </a>
+      </dd>
+     </dl>
+     <dl>
+      <dt>
+       <a class="link" href="http://news.buzhi.com/gwy/gjzxgk/114059.html" title="2020å¹´å½èè°åå¬å">
+        [å¬å]2020å¹´å½èè°åå¬å
+       </a>
+      </dt>
+      <dd>
+       <a class="link" href="http://news.buzhi.com/gwy/hbzxgk/114116.html" title="2020å¹´æ²³åå¬å¡åèè¯å¬åä¸èä½è¡¨ä¸è½½">
+        2020å¹´æ²³åå¬å¡åèè¯å¬åä¸èä½è¡¨ä¸è½½
+       </a>
+       <a class="link" href="http://news.buzhi.com/gwy/sxzxgk/114128.html" title="2020å¹´å±±è¥¿å¬å¡åèè¯å¬åä¸èä½è¡¨ä¸è½½">
+        2020å¹´å±±è¥¿å¬å¡åèè¯å¬åä¸èä½è¡¨ä¸è½½
+       </a>
+       <a class="link" href="http://news.buzhi.com/gwy/qhzxgk/114126.html" title="2020å¹´éæµ·å¬å¡åèè¯å¬åä¸èä½è¡¨ä¸è½½">
+        2020å¹´éæµ·å¬å¡åèè¯å¬åä¸èä½è¡¨ä¸è½½
+       </a>
+      </dd>
+     </dl>
+     <dl>
+      <dt>
+       <a class="link" href="http://news.buzhi.com/gwy/bmrk/115728.html" title="2022å¹´å½èæ¥åå¥å£">
+        [æ¥è]2022å¹´å½èæ¥åå¥å£
+       </a>
+      </dt>
+      <dd>
+       <a class="link" href="http://news.buzhi.com/gwy/gsbmrk/112664.html" title="2019å¹´çèæ¥èä¸ä¸ç®å½">
+        2019å¹´çèæ¥èä¸ä¸ç®å½
+       </a>
+       <a class="link" href="http://news.buzhi.com/gwy/xjbmsj/112659.html" title="2019æ°çå¬å¡åèè¯æ¶é´å®æ">
+        2019æ°çå¬å¡åèè¯æ¶é´å®æ
+       </a>
+       <a class="link" href="http://news.buzhi.com/gwy/nxbmcj/112111.html" title="å³äº2019å¹´å¨åºèè¯å½ç¨å¬å¡åç¬è¯è¿çºªè¿è§èçå¤ççå¬å">
+        å³äº2019å¹´å¨åºèè¯å½ç¨å¬å¡åç¬è¯è¿çºªè¿è§èçå¤ççå¬å
+       </a>
+      </dd>
+     </dl>
+    </div>
+   </div>
+   <div class="m-dynamic m-condiv">
+    <div class="m-title">
+     <span class="img">
+     </span>
+     <h2>
+      å¬å¡åèè¯å¤èæå
+     </h2>
+     <a class="more" href="http://news.buzhi.com/gwy/zl/">
+      æ´å¤&gt;
+     </a>
+    </div>
+    <div class="m-conter">
+     <dl>
+      <dt>
+       <a class="link" href="http://news.buzhi.com/gwy/gjtkzt/9245.html" title="å½å®¶å¬å¡åèè¯åå¹´çé¢ç­æ¡æ±æ»">
+        [çé¢]å½å®¶å¬å¡åèè¯åå¹´çé¢ç­æ¡æ±æ»
+       </a>
+      </dt>
+      <dd>
+       <a class="link" href="http://news.buzhi.com/gwy/tkzt/115540.html" title="ä¸åå±äºâåé©³æ¹è¿°è°£è¨âçæ¯">
+        ä¸åå±äºâåé©³æ¹è¿°è°£è¨âçæ¯
+       </a>
+       <a class="link" href="http://news.buzhi.com/gwy/tkzt/115547.html" title="éå¹´äººâ¶å¬å¡åâ¶æå¡äººæ°">
+        éå¹´äººâ¶å¬å¡åâ¶æå¡äººæ°
+       </a>
+       <a class="link" href="http://news.buzhi.com/gwy/tkzt/115546.html" title="åºæ ¹åºâ¶æ¬ä¼å¿â¶è¡¥ç­æ¿">
+        åºæ ¹åºâ¶æ¬ä¼å¿â¶è¡¥ç­æ¿
+       </a>
+      </dd>
+     </dl>
+     <dl>
+      <dt>
+      </dt>
+      <dd>
+       <a class="link" href="http://news.buzhi.com/gwy/zljy/110257.html" title="åºç¡é¢å+åºç¨æåä½è§£é¢æ¹é">
+        åºç¡é¢å+åºç¨æåä½è§£é¢æ¹é
+       </a>
+       <a class="link" href="http://news.buzhi.com/gwy/zljy/108644.html" title="è±æ¨åç³è®ºè¯¾ç¨å­¦ä¹ å¿ç¥äºå®ï¼é2018çè45å¤©å¤èè®¡åï¼ï¼">
+        è±æ¨åç³è®ºè¯¾ç¨å­¦ä¹ å¿ç¥äºå®ï¼é2018çè45å¤©å¤èè®¡åï¼ï¼
+       </a>
+       <a class="link" href="http://news.buzhi.com/gwy/zljy/108623.html" title="æ­¥ç¥è±æ¨åæ´çç³è®ºä»40åå°70åå¿å­¦æå·§">
+        æ­¥ç¥è±æ¨åæ´çç³è®ºä»40åå°70åå¿å­¦æå·§
+       </a>
+      </dd>
+     </dl>
+     <dl>
+      <dt>
+       <a class="link" href="http://news.buzhi.com/gwy/zljq/115730.html" title="2021å¹´å½èç³è®ºè¡æµèæåæ">
+        [æå·§]2021å¹´å½èç³è®ºè¡æµèæåæ
+       </a>
+      </dt>
+      <dd>
+       <a class="link" href="http://news.buzhi.com/gwy/mingshi/beichu/beichu_114991.html" title="2020å¹´å½èé¢è¯åä¸å®è¦åç4ä»¶äº">
+        2020å¹´å½èé¢è¯åä¸å®è¦åç4ä»¶äº
+       </a>
+       <a class="link" href="http://news.buzhi.com/gwy/mingshi/fengbaolingyang/lingyang_114990.html" title="2020å¹´çèå²åºè¡æµå¦ä½è75+">
+        2020å¹´çèå²åºè¡æµå¦ä½è75+
+       </a>
+       <a class="link" href="http://news.buzhi.com/gwy/mingshi/fengbaolingyang/lingyang_114822.html" title="å­éç»å¸ä¾é¢è§£æèµæåæå¤æ¿5åçç­é¢æå·§">
+        å­éç»å¸ä¾é¢è§£æèµæåæå¤æ¿5åçç­é¢æå·§
+       </a>
+      </dd>
+     </dl>
+    </div>
+   </div>
+   <div class="m-tool m-condiv">
+    <div class="m-title">
+     <span class="img">
+     </span>
+     <h2>
+      2022å½å®¶å¬å¡åèè¯
+     </h2>
+     <a class="more" href="https://www.gongkaoleida.com/article/796678?frm=index">
+      æ´å¤&gt;
+     </a>
+    </div>
+    <div class="m-conter">
+     <ul class="m-icon">
+      <li class="blue">
+       <a class="link" href="https://www.gongkaoleida.com/article/796678" target="_blank">
+        å½è
+        <br/>
+        <!--http://news.buzhi.com/gwy/zl/shenkaozhuanti.html-->
+        ä¸é¢
+       </a>
+      </li>
+      <li class="red">
+       <a class="link" href="https://wap.gongkaoleida.com/about_wap/index.html?from=bzw01" target="_blank">
+        æ¥è
+        <br/>
+        APP
+       </a>
+      </li>
+      <li class="green">
+       <a class="link" href="http://news.buzhi.com/gwy/zljy/index.html#8595" target="_blank">
+        æå¬
+        <br/>
+        ç»éª
+       </a>
+      </li>
+      <li class="purple">
+       <a class="link" href="http://news.buzhi.com/photo/" target="_blank">
+        ç§ç
+        <br/>
+        çæ
+       </a>
+      </li>
+     </ul>
+     <div class="m-time">
+      <span class="img">
+      </span>
+      2022å¹´å½å®¶å¬å¡åèè¯æ¶é´
+     </div>
+     <!--<ul class="m-list">
+        <li><span class="u-dian"></span><span class="u-time img">èååå¤</span><span class="text">2016å¹´10~11æ</span><a href="http://news.buzhi.com/gwy/zhuanti/guokaofenxi.html" class="link">èæåæ</a></li>
+        <li><span class="u-dian"></span><span class="u-time img">å¬ååå¸</span><span class="text">2016å¹´10æ13æ¥</span><a href="http://news.buzhi.com/gwy/gjzxgk/40229.html" class="link">æ¥çå¬å</a></li>
+        <li><span class="u-dian"></span><span class="u-time img">æ¥åæ¶é´</span><span class="text">10æ15æ¥~24æ¥</span><a href="http://news.buzhi.com/gwy/gjbmrk/41103.html" class="link">æ¥åå¥å£</a></li>
+        <li><span class="u-dian"></span><span class="u-time img">ç¼´è´¹ç¡®è®¤</span><span class="text">11æ2æ¥~7æ¥</span><a href="http://news.buzhi.com/gwy/gjbmrk/45095.html" class="link">ç¼´è´¹å¥å£</a></li>
+        <li><span class="u-dian"></span><span class="u-time img">åèè¯æå°</span><span class="text">11æ21æ¥~27æ¥</span><a href="http://news.buzhi.com/gwy/gjbmzkz/41105.html" class="link">æå°å¥å£</a></li>
+        <li><span class="u-dian"></span><span class="u-time img">ç¬è¯æ¶é´</span><span class="text" style="color:red;" >2016å¹´11æ27æ¥</span><a style="color:red;" href="http://news.buzhi.com/gwy/gjtkzt/" class="link">çé¢ä¼°å</a></li>
+        <li><span class="u-dian"></span><span class="u-time img">æç»©æ¥è¯¢ </span><span class="text">2017å¹´1æä¸­æ¬</span><a href="http://news.buzhi.com/gwy/gjbmcj/41109.html" class="link">æ¥è¯¢å¥å£</a></li>
+      </ul> -->
+     <ul class="m-list">
+      <li>
+       <span class="u-dian">
+       </span>
+       <span class="u-time img">
+        å¬å
+       </span>
+       <span class="text">
+        10æ14æ¥
+       </span>
+       <a class="link" href="https://www.gongkaoleida.com/article/796678?from=bzw_sy01" target="_blank">
+        æ¥çå¬å
+       </a>
+       <img src="http://news.buzhi.com/gwy/wuce/media/images/new.gif" style="
+									position: absolute;
+									margin: -8px 0 0 -2px;
+								"/>
+      </li>
+      <li>
+       <span class="u-dian">
+       </span>
+       <span class="u-time img">
+        æ¥å
+       </span>
+       <span class="text">
+        10æ15-24æ¥
+       </span>
+       <a class="link" href="https://www.gongkaoleida.com/article/796678?from=bzw_sy01" target="_blank">
+        æ¥åå¥å£
+       </a>
+       <img src="http://news.buzhi.com/gwy/wuce/media/images/new.gif" style="
+									position: absolute;
+									margin: -8px 0 0 -2px;
+								"/>
+      </li>
+      <li>
+       <span class="u-dian">
+       </span>
+       <span class="u-time img">
+        åèè¯
+       </span>
+       <span class="text">
+        11æ22-28æ¥
+       </span>
+       <a class="link" href="https://www.gongkaoleida.com/article/796678?from=bzw_sy01" target="_blank">
+        æå°åèè¯
+       </a>
+       <img src="http://news.buzhi.com/gwy/wuce/media/images/new.gif" style="
+									position: absolute;
+									margin: -8px 0 0 -2px;
+								"/>
+      </li>
+      <li>
+       <span class="u-dian">
+       </span>
+       <span class="u-time img">
+        ç¬è¯
+       </span>
+       <span class="text">
+        11æ28æ¥
+       </span>
+       <a class="link" href="https://www.gongkaoleida.com/article/796678?from=bzw_sy01" target="_blank">
+        å­¦ä¹ å¤è
+       </a>
+       <img src="http://news.buzhi.com/gwy/wuce/media/images/new.gif" style="
+									position: absolute;
+									margin: -8px 0 0 -2px;
+								"/>
+      </li>
+      <li>
+       <span class="u-dian">
+       </span>
+       <span class="u-time img">
+        ä¼°å
+       </span>
+       <span class="text">
+        11æ29æ¥
+       </span>
+       <a class="link" href="https://www.gongkaoleida.com/article/796678?from=bzw_sy01" target="_blank">
+        ä¼°åå¥å£
+       </a>
+       <img src="http://news.buzhi.com/gwy/wuce/media/images/new.gif" style="
+									position: absolute;
+									margin: -8px 0 0 -2px;
+								"/>
+      </li>
+      <li>
+       <span class="u-dian">
+       </span>
+       <span class="u-time img">
+        æç»©
+       </span>
+       <span class="text">
+        2022.01
+       </span>
+       <a class="link" href="https://www.gongkaoleida.com/article/796678?from=bzw_sy01" target="_blank">
+        æç»©æ¥è¯¢
+       </a>
+       <img src="http://news.buzhi.com/gwy/wuce/media/images/new.gif" style="
+									position: absolute;
+									margin: -8px 0 0 -2px;
+								"/>
+      </li>
+      <li>
+       <span class="u-dian">
+       </span>
+       <span class="u-time img">
+        é¢è¯
+       </span>
+       <span class="text">
+        2022.02
+       </span>
+       <a class="link" href="https://www.gongkaoleida.com/article/796678?from=bzw_sy01" target="_blank">
+        æåå¤è
+       </a>
+       <img src="http://news.buzhi.com/gwy/wuce/media/images/new.gif" style="
+									position: absolute;
+									margin: -8px 0 0 -2px;
+								"/>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </div>
+  <br/>
+  <br/>
+  <div class="flink">
+   <div class="m-title1">
+    <span class="img">
+    </span>
+    <h2>
+     åæé¾æ¥/åä½ä¼ä¼´
+    </h2>
+    <a class="more" href="http://wpa.qq.com/msgrd?v=3&amp;uin=2898357608&amp;site=qq&amp;menu=yes" rel="nofollow">
+     ç³è¯·åæé¾æ¥(QQ:2898357608)
+    </a>
+   </div>
+   <div class="clear">
+   </div>
+   <a href="https://www.gongkaoleida.com" target="_blank" title="å¬èé·è¾¾">
+    å¬èé·è¾¾
+   </a>
+   |
+   <a href="http://www.buzhi.com" target="_blank">
+    æ­¥ç¥å¬è
+   </a>
+   |
+   <a href="http://ask.buzhi.com#8595" target="_blank">
+    å¬èç¤¾åº
+   </a>
+   |
+   <a href="http://www.zzxingce.com" target="_blank">
+    è¡æµé¢åº
+   </a>
+   |
+   <a href="http://www.zzshenlun.com" target="_blank">
+    ç³è®ºèæ
+   </a>
+   |
+   <a href="http://www.hnrcsc.com" target="_blank">
+    æ¹åçäººæç½
+   </a>
+   |
+   <a href="http://www.buzhi.com" title="å¬å¡åèè¯">
+    å¬å¡åèè¯
+   </a>
+   |
+   <a href="http://news.buzhi.com/gwy/gongkaobaike/18411.html" title="è¡æµç­é¢æå·§">
+    è¡æµç­é¢æå·§
+   </a>
+   |
+   <a href="http://www.kaodeshang.cn/article/668d2dd53a96e7e5fe978007.html" style="height: 1px; display: none" title="å¾å½¢æ¨ç1000é¢åç­æ¡">
+    å¾å½¢æ¨ç1000é¢åç­æ¡
+   </a>
+  </div>
+  <br/>
+  <div class="footer">
+   <div class="main">
+    <div class="about-txt">
+     <a href="http://www.buzhi.com/about.html">
+      å³äºæä»¬
+     </a>
+     <a href="http://www.buzhi.com/lianxi.html">
+      ä¸å¡åä½
+     </a>
+     <a href="http://m.buzhi.com#8595">
+      ææºç«
+     </a>
+     <a href="http://www.buzhi.com/mianze.html">
+      çæå£°æ
+     </a>
+     <a href="http://www.buzhi.com/data/sitemap.html">
+      ç«ç¹å°å¾
+     </a>
+     <a href="http://www.buzhi.com/data/rssmap.html">
+      RSS
+     </a>
+     <a href="http://so.buzhi.com" rel="nofollow">
+      ç«åæç´¢
+     </a>
+     <script type="text/javascript">
+      var cnzz_protocol =
+							"https:" == document.location.protocol
+								? " https://"
+								: " http://"
+						document.write(
+							unescape(
+								"%3Cspan id='cnzz_stat_icon_1256043017'%3E%3C/span%3E%3Cscript src='" +
+									cnzz_protocol +
+									"s11.cnzz.com/z_stat.php%3Fid%3D1256043017' type='text/javascript'%3E%3C/script%3E"
+							)
+						)
+     </script>
+    </div>
+    <div class="clear h20">
+    </div>
+    <!-- <p>å®¢æç­çº¿ï¼<img alt="æ­¥ç¥å®¢æ" src="http://www.buzhi.com/style/img/tel2.png">(å¨ä¸è³å¨äºï¼ 8:30-18:00)</p>-->
+    <p>
+     çµè¯ï¼0731-84092640
+					å°åï¼æ¹åçé¿æ²å¸é¿æ²å¿åæ¶¦ç½®å°å¹¿åºå¤å°ä¸­å¿
+    </p>
+    <p>
+     <a href="http://www.buzhi.com/uploads/allimg/151028/1_1353473731.jpg" rel="nofollow" target="_blank">
+      çµå­å¬åæå¡æ¹æï¼æ¹åçï¼
+     </a>
+     |
+     <a href="http://www.buzhi.com/uploads/allimg/151028/1_1353475622.jpg" rel="nofollow" target="_blank">
+      çµå­å¬åæå¡æ¹æï¼é¿æ²å¸ï¼
+     </a>
+    </p>
+    <p>
+     <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=43012102000152" rel="nofollow" style="
+							display: inline-block;
+							text-decoration: none;
+							height: 20px;
+							line-height: 20px;
+						" target="_blank">
+      <img src="http://www.buzhi.com/images/ghs.png" style="float: left"/>
+      æ¹å¬ç½å®å¤ 43012102000152å·
+     </a>
+     <a href="http://beian.miit.gov.cn/" rel="nofollow" target="_blank">
+      æ¹ICPå¤13008748å·-4
+     </a>
+    </p>
+    <p>
+     Copyright Â©
+     <img align="absmiddle" class="maidu" src="http://www.buzhi.com/style/img/maidu.png"/>
+     All Rights Reserved.
+    </p>
+    <p>
+     <a href="http://www.buzhi.com/images/ICP-code.jpg" rel="nofollow" target="_blank">
+      å¢å¼çµä¿¡ä¸å¡ç»è¥è®¸å¯è¯ï¼æ¹B2-20150109
+     </a>
+     |
+     <a href="http://www.buzhi.com/images/cbjyxk.jpg" rel="nofollow" target="_blank">
+      åºçç©ç»è¥è®¸å¯è¯
+     </a>
+     |
+     <a href="http://www.buzhi.com/images/gbjmzz.jpg" rel="nofollow" target="_blank">
+      å¹¿æ­çµè§èç®å¶ä½ç»è¥è®¸å¯è¯
+     </a>
+     |
+     <a href="http://www.buzhi.com/images/wljysk.jpg" rel="nofollow" target="_blank">
+      ç½ç»æåç»è¥è®¸å¯è¯
+     </a>
+     |
+     <a href="http://www.buzhi.com/images/gszz.jpg" rel="nofollow" target="_blank">
+      å·¥åè¥ä¸æ§ç§
+     </a>
+    </p>
+    <div class="linkimg">
+     <ul>
+      <li>
+       <img src="http://www.buzhi.com/style/img/kxwz.jpg"/>
+      </li>
+      <li>
+       <img src="http://www.buzhi.com/style/img/aqlm.jpg"/>
+      </li>
+      <li>
+       <img src="http://www.buzhi.com/style/img/aqlmsm.jpg"/>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </div>
+  <script src="http://www.buzhi.com/style/2016/js/index2016.js" type="text/javascript">
+  </script>
+  <script>
+   ;(function () {
+				var bp = document.createElement("script")
+				bp.src = "//push.zhanzhang.baidu.com/push.js"
+				var s = document.getElementsByTagName("script")[0]
+				s.parentNode.insertBefore(bp, s)
+			})()
+
+			var _hmt = _hmt || []
+			;(function () {
+				var hm = document.createElement("script")
+				hm.src = "//hm.baidu.com/hm.js?70098b206f7ce88e342277e535c98b62"
+				var s = document.getElementsByTagName("script")[0]
+				s.parentNode.insertBefore(hm, s)
+			})()
+  </script>
+ </body>
+</html>

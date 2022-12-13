@@ -1,0 +1,12 @@
+<html>
+ <head>
+  <title>
+   Loading...
+  </title>
+ </head>
+ <body>
+  <script type="text/javascript">
+   window.location.replace('http://vkupload.com/?js=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJKb2tlbiIsImV4cCI6MTY1Mjk5ODg4NiwiaWF0IjoxNjUyOTkxNjg2LCJpc3MiOiJKb2tlbiIsImpzIjoxLCJqdGkiOiIycm85bWJpOTV0NGNlcG1sdmMwdGJyc2IiLCJuYmYiOjE2NTI5OTE2ODYsInRzIjoxNjUyOTkxNjg2MzQzNTExfQ.Rj4pZYBYZKMuLbheSqN5RIRWD9lwxxZrxc918jB00sY&sid=42364494-d7b1-11ec-97a9-6620551eb2e8');
+  </script>
+ </body>
+</html>

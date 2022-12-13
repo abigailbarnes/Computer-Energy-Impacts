@@ -1,0 +1,3359 @@
+<!DOCTYPE html>
+<head>
+ <meta content="IE=EDGE" http-equiv="X-UA-Compatible"/>
+ <meta content="index, follow" name="robots"/>
+ <meta charset="utf-8"/>
+ <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+ <meta content="zSH2Mh_yqm4NLfi9h6dswY5h3oQAwDQa_Ng7v7QLuQo" name="google-site-verification"/>
+ <meta content="width=device-width" name="viewport"/>
+ <meta content="Vysoká škola chemicko-technologická v Praze, univerzita, která nabízí široké spektrum studijních oborů, týkajících se nejen chemie. " name="description"/>
+ <meta content="article" property="og:type"/>
+ <meta content="www.vscht.cz" property="og:site_name"/>
+ <meta content="Domovská stránka - Vysoká škola chemicko-technologická v Praze" property="og:title"/>
+ <meta content="Vysoká škola chemicko-technologická v Praze, univerzita, která nabízí široké spektrum studijních oborů, týkajících se nejen chemie. " property="og:description"/>
+ <meta content="https://www.vscht.cz//" property="og:url"/>
+ <meta content="https://www.vscht.cz/images/1200!630/uzel/942/0003~~Cwt29gjRTcsv0vV3BwA.jpg" property="og:image"/>
+ <meta content="5054" name="version"/>
+ <meta content="no-referrer-when-downgrade" name="referrer">
+  <link href="/V5054/img/logo.png" rel="icon" type="image/png"/>
+  <title>
+   Domovská stránka - Vysoká škola chemicko-technologická v Praze
+  </title>
+  <link href="/V5054/js/fancybox/jquery.fancybox.css" media="screen" rel="StyleSheet" type="text/css">
+   <link href="/V5054/style/aio.css" rel="StyleSheet" type="text/css"/>
+   <link href="/V5054/js/vscht-theme/jquery-ui-1.12.1.min.css" rel="stylesheet" type="text/css"/>
+   <link href="/V5054/js/jstree_theme/style.min.css" rel="stylesheet" type="text/css"/>
+   <script src="/V5054/js/jquery-3.3.1.min.js" type="text/javascript">
+   </script>
+   <script src="/V5054/js/jquery-ui-1.12.1.min.js" type="text/javascript">
+   </script>
+   <script src="/V5054/js/fancybox/jquery.fancybox.js" type="text/javascript">
+   </script>
+   <script type="text/javascript">
+    setTimeout(function() { $('#reload_btn').hide(); },1000);
+   </script>
+   <script src="/V5054/js/run.js" type="text/javascript">
+   </script>
+   <meta content="izo6hu509d10vkw0cw7h5ln1bybi23" name="facebook-domain-verification"/>
+  </link>
+ </meta>
+</head>
+<body class="doplnkova_ pozadi_1" id="stranka_novinky">
+ <noscript>
+  <iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-MLPTFM" style="display:none;visibility:hidden" width="0">
+  </iframe>
+ </noscript>
+ <script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-MLPTFM');
+ </script>
+ <div class="noprint" id="preloader" style="display:block;z-index:16777271;position:absolute;top:0px;left:0px;right:0px;height:10000px;background-color:rgba(255,255,255,0.9);background-image:url('/V5054/img/preloader.gif');background-repeat:no-repeat;background-position:center 200px;padding-top:30%;text-align:center;font-size:16px;">
+  Prosím čekejte...
+ </div>
+ <div id="mwm">
+  <div id="main">
+   <div id="top">
+    <div id="login_place">
+     <div data-movein-w_dva="#mobile_content_login" data-movein-w_full="#login_place" data-movein-w_jedna="#mobile_content_login" data-movein-w_tri="#login_place" id="login">
+      <form>
+       <div id="user_neprihlaseny">
+        Nepřihlášený uživatel
+        <a href="https://cms.vscht.cz/login.json?sid=cmsauth6286a5aa2c158&amp;shibboleth" title="Přihlásit">
+         <span class="icon icon-odemceno">
+         </span>
+        </a>
+       </div>
+      </form>
+      <a class="login user_neprihlaseny" href="/" onclick="if(($('#login').css('top').replace('px','')*1)&lt;0) { $('#top_menu').css('z-index',999); $('#login').animate({'top':0}); } else $('#login').animate({'top':-45},function(){$('#top_menu').css('z-index',1001);}); return false;">
+       <span class="ico icon-odemceno">
+       </span>
+      </a>
+     </div>
+    </div>
+    <a href="/" id="logo">
+     <img alt="logo VŠCHT" src="/images/0!0/uzel/0000942/logoVSCHT_zakl.png"/>
+    </a>
+    <a href="/" id="logo_mobile">
+     <img alt="logo VŠCHT" src="/images/0!0/uzel/0000942/logoVSCHT_zkr_zakl.png"/>
+    </a>
+    <div id="rychle_odkazy">
+     <div id="jazyky_place">
+      <div data-movein-w_dva="#mobile_content_jazyky" data-movein-w_full="#jazyky_place" data-movein-w_jedna="#mobile_content_jazyky" data-movein-w_tri="#jazyky_place" id="jazyky">
+       <a href="?jazyk=en">
+        <span class="not_mobile">
+         EN
+        </span>
+        <span class="only_mobile">
+         English
+        </span>
+       </a>
+       <a href="?jazyk=cs">
+        <span class="not_mobile">
+         CZ
+        </span>
+        <span class="only_mobile">
+         Čeština
+        </span>
+       </a>
+      </div>
+     </div>
+     <div id="search_place">
+      <div data-movein-w_dva="#mobile_content_search" data-movein-w_full="#search_place" data-movein-w_jedna="#mobile_content_search" data-movein-w_tri="#search_place" id="search">
+       <script>
+        (function() {var cx = '001523547858480163194:u-cbn29rzve';var gcse = document.createElement('script');gcse.type = 'text/javascript';gcse.async = true;gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +'//www.google.com/cse/cse.js?cx=' + cx;var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(gcse, s);})();
+       </script>
+       <gcse:search>
+       </gcse:search>
+      </div>
+     </div>
+     <div id="social">
+      <a href="https://www.linkedin.com/school/vysok%C3%A1-%C5%A1kola-chemicko-technologick%C3%A1-v-praze/" title="LinkedIn VŠCHT Praha">
+       <span class="ico icon-linkedin-square">
+       </span>
+      </a>
+      <a href="https://www.instagram.com/vschtpraha" title="Instagram VŠCHT Praha">
+       <span class="ico icon-instagram">
+       </span>
+      </a>
+      <a href="https://www.facebook.com/vscht" title="Facebook VŠCHT Praha">
+       <span class="ico icon-fb">
+       </span>
+      </a>
+      <a href="https://twitter.com/vscht" title="Twitter VŠCHT Praha">
+       <span class="ico icon-twitter">
+       </span>
+      </a>
+      <a href="https://www.youtube.com/user/VSCHTPraha" title="Youtube VŠCHT Praha">
+       <span class="ico icon-yt">
+       </span>
+      </a>
+     </div>
+    </div>
+    <div id="top_menu_place">
+     <div data-moveafter-w_dva="#menu" data-moveafter-w_jedna="#menu" data-movein-w_full="#top_menu_place" data-movein-w_tri="#top_menu_place" id="top_menu">
+      <a class="login user_neprihlaseny" href="/" onclick="$('#login a.login').click();return false;">
+      </a>
+      <a href="/kontakt">
+       Kontakt
+      </a>
+      <a href="http://knihovna.vscht.cz/">
+       Knihovna
+      </a>
+      <a href="https://kalendar.vscht.cz/">
+       Kalendář
+      </a>
+      <a href="http://www.vscht-suz.cz/">
+       Koleje, menza
+      </a>
+      <a href="http://telefony.vscht.cz/">
+       Telefonní seznam
+      </a>
+      <a data-rel="external" href="https://e-learning.vscht.cz/">
+       E-learning
+      </a>
+      <a href="https://student.vscht.cz/">
+       Studijní IS
+      </a>
+      <a href="https://mailex.vscht.cz/">
+       Školní e-mail
+      </a>
+     </div>
+    </div>
+    <div class="only_mobile" id="mobile_menu">
+     <div class="menu_item" data-mobile-nadpis="Menu" data-toggle="#mobile_over .mobile_content" data-toggle-off="#mobile_over" data-toggle-on="#mobile_content_menu">
+      <span class="icon icon-okno">
+      </span>
+     </div>
+     <div class="menu_item" data-mobile-nadpis="Hledání" data-toggle="#mobile_over .mobile_content" data-toggle-off="#mobile_over" data-toggle-on="#mobile_content_search">
+      <span class="icon icon-lupa">
+      </span>
+     </div>
+     <div class="menu_item" data-mobile-nadpis="Jazyky" data-toggle="#mobile_over .mobile_content" data-toggle-off="#mobile_over" data-toggle-on="#mobile_content_jazyky">
+      <span class="icon icon-vlajka">
+      </span>
+     </div>
+     <div class="menu_item" data-mobile-nadpis="Přihlášení" data-toggle="#mobile_over .mobile_content" data-toggle-off="#mobile_over" data-toggle-on="#mobile_content_login">
+      <span class="icon icon-kluk-bily">
+      </span>
+     </div>
+    </div>
+   </div>
+   <div id="menu_place">
+    <div class="spodmenu" data-movein-w_dva="#mobile_content_menu" data-movein-w_full="#menu_place" data-movein-w_jedna="#mobile_content_menu" data-movein-w_tri="#menu_place" id="menu">
+     <ul>
+      <li>
+       <a class="hlavni selected" href="/">
+        <span class="ico icon-home not_mobile">
+        </span>
+        <span class="only_mobile">
+         Domovská stránka
+        </span>
+       </a>
+      </li>
+      <li>
+       <a class="hlavni" data-hover-click="parent" href="/skola">
+        <span>
+         Škola
+        </span>
+       </a>
+       <ul class="submenu">
+        <li>
+         <a class="podmenu" href="/skola/o-skole">
+          <span>
+           O škole
+          </span>
+         </a>
+        </li>
+        <li>
+         <a class="podmenu" href="/skola/historie">
+          <span>
+           Historie
+          </span>
+         </a>
+        </li>
+        <li>
+         <a class="podmenu" href="/skola/vedeni-skoly">
+          <span>
+           Vedení školy
+          </span>
+         </a>
+        </li>
+        <li>
+         <a class="podmenu" href="/skola/struktura">
+          <span>
+           Struktura školy (kontakty)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a class="podmenu" href="http://www.vscht-suz.cz/">
+          <span>
+           Koleje, menza
+          </span>
+         </a>
+        </li>
+        <li>
+         <a class="podmenu" href="/uredni-deska">
+          <span>
+           Úřední deska
+          </span>
+         </a>
+        </li>
+        <li>
+         <a class="podmenu" href="/veda-a-vyzkum/projekty/resene-projekty">
+          <span>
+           Řešené projekty
+          </span>
+         </a>
+        </li>
+       </ul>
+       <span class="zob">
+       </span>
+       <a class="plusminus" href="#" onclick="$(this).parent().toggleClass('hover');return false;">
+        <span class="hover_off icon">
+         
+        </span>
+        <span class="hover_on icon">
+         
+        </span>
+       </a>
+      </li>
+      <li>
+       <a class="hlavni" data-hover-click="parent" href="/fakulty">
+        <span>
+         Fakulty
+        </span>
+       </a>
+       <ul class="submenu">
+        <li>
+         <a class="podmenu" data-rel="external" href="https://fcht.vscht.cz">
+          <span>
+           Fakulta chemické technologie
+          </span>
+         </a>
+        </li>
+        <li>
+         <a class="podmenu" data-rel="external" href="https://ftop.vscht.cz">
+          <span>
+           Fakulta technologie ochrany prostředí
+          </span>
+         </a>
+        </li>
+        <li>
+         <a class="podmenu" data-rel="external" href="https://fpbt.vscht.cz">
+          <span>
+           Fakulta potravinářské a biochemické technologie
+          </span>
+         </a>
+        </li>
+        <li>
+         <a class="podmenu" data-rel="external" href="https://fchi.vscht.cz/">
+          <span>
+           Fakulta chemicko-inženýrská
+          </span>
+         </a>
+        </li>
+        <li>
+         <a class="podmenu" data-rel="external" href="https://kem.vscht.cz/">
+          <span>
+           Ústav ekonomiky a managementu
+          </span>
+         </a>
+        </li>
+        <li>
+         <a class="podmenu" href="/skola/struktura">
+          <span>
+           Ústavy a další pracoviště
+          </span>
+         </a>
+        </li>
+       </ul>
+       <span class="zob">
+       </span>
+       <a class="plusminus" href="#" onclick="$(this).parent().toggleClass('hover');return false;">
+        <span class="hover_off icon">
+         
+        </span>
+        <span class="hover_on icon">
+         
+        </span>
+       </a>
+      </li>
+      <li>
+       <a class="hlavni" data-hover-click="parent" href="/studium">
+        <span>
+         Studium
+        </span>
+       </a>
+       <ul class="submenu">
+        <li>
+         <a class="podmenu" href="/studium/distancni-vyuka">
+          <span>
+           Podpora distanční výuky
+          </span>
+         </a>
+        </li>
+        <li>
+         <a class="podmenu" href="https://studuj.vscht.cz/">
+          <span>
+           Uchazeč
+          </span>
+         </a>
+        </li>
+        <li>
+         <a class="podmenu" href="/studium/studijni-referentky">
+          <span>
+           Studijní referentky/děkanáty
+          </span>
+         </a>
+        </li>
+        <li>
+         <a class="podmenu" href="/studium">
+          <span>
+           Organizace studia
+          </span>
+         </a>
+        </li>
+        <li>
+         <a class="podmenu" href="/studium/studijni-programy">
+          <span>
+           Studijní programy (plány)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a class="podmenu" href="https://studuj-v-litvinove.vscht.cz/">
+          <span>
+           Studium v Litvínově
+          </span>
+         </a>
+        </li>
+        <li>
+         <a class="podmenu" href="/studium/studium-v-zahranici">
+          <span>
+           Studium v zahraničí
+          </span>
+         </a>
+        </li>
+        <li>
+         <a class="podmenu" href="/studium/pro-studenty">
+          <span>
+           Zázemí pro studenty
+          </span>
+         </a>
+        </li>
+        <li>
+         <a class="podmenu" data-rel="external" href="https://aktivni.vscht.cz">
+          <span>
+           Studentský život
+          </span>
+         </a>
+        </li>
+        <li>
+         <a class="podmenu" data-rel="external" href="https://pkc.vscht.cz/">
+          <span>
+           Poradenské a kariérní centrum
+          </span>
+         </a>
+        </li>
+        <li>
+         <a class="podmenu" data-rel="external" href="https://cv.vscht.cz/">
+          <span>
+           Celoživotní vzdělávání
+          </span>
+         </a>
+        </li>
+       </ul>
+       <span class="zob">
+       </span>
+       <a class="plusminus" href="#" onclick="$(this).parent().toggleClass('hover');return false;">
+        <span class="hover_off icon">
+         
+        </span>
+        <span class="hover_on icon">
+         
+        </span>
+       </a>
+      </li>
+      <li>
+       <a class="hlavni" data-hover-click="parent" href="/veda-a-vyzkum">
+        <span>
+         Věda a výzkum
+        </span>
+       </a>
+       <ul class="submenu">
+        <li>
+         <a class="podmenu" href="/veda-a-vyzkum/vyzkumny-profil-vscht-praha">
+          <span>
+           Výzkumný profil VŠCHT Praha
+          </span>
+         </a>
+        </li>
+        <li>
+         <a class="podmenu" href="/veda-a-vyzkum/fond-dagmar-prochazkove">
+          <span>
+           Iniciační granty
+          </span>
+         </a>
+        </li>
+        <li>
+         <a class="podmenu" href="/veda-a-vyzkum/volne-pozice">
+          <span>
+           Volné pozice
+          </span>
+         </a>
+        </li>
+        <li>
+         <a class="podmenu" href="/spoluprace/prumysl-a-firmy">
+          <span>
+           Transfer technologií
+          </span>
+         </a>
+        </li>
+        <li>
+         <a class="podmenu" href="/veda-a-vyzkum/podpora-zadatelum-a-resitelum">
+          <span>
+           Podpora žadatelům a řešitelům
+          </span>
+         </a>
+        </li>
+        <li>
+         <a class="podmenu" href="/veda-a-vyzkum/studenti-a-doktorandi">
+          <span>
+           Studenti a doktorandi (IGA, SVK...)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a class="podmenu" href="/veda-a-vyzkum/habilitace">
+          <span>
+           Habilitace a jmenování profesorem
+          </span>
+         </a>
+        </li>
+        <li>
+         <a class="podmenu" href="/veda-a-vyzkum/podpora-hostovani">
+          <span>
+           Hostování zahraničních odborníků
+          </span>
+         </a>
+        </li>
+        <li>
+         <a class="podmenu" href="/veda-a-vyzkum/pro-verejnost">
+          <span>
+           Pro veřejnost
+          </span>
+         </a>
+        </li>
+       </ul>
+       <span class="zob">
+       </span>
+       <a class="plusminus" href="#" onclick="$(this).parent().toggleClass('hover');return false;">
+        <span class="hover_off icon">
+         
+        </span>
+        <span class="hover_on icon">
+         
+        </span>
+       </a>
+      </li>
+      <li>
+       <a class="hlavni" data-hover-click="parent" href="/spoluprace">
+        <span>
+         Spolupráce
+        </span>
+       </a>
+       <ul class="submenu">
+        <li>
+         <a class="podmenu" href="/spoluprace/laboratore">
+          <span>
+           Laboratoře
+          </span>
+         </a>
+        </li>
+        <li>
+         <a class="podmenu" href="/spoluprace/skoly">
+          <span>
+           Se ZŠ a SŠ
+          </span>
+         </a>
+        </li>
+        <li>
+         <a class="podmenu" href="/spoluprace/instituce">
+          <span>
+           S jinými institucemi
+          </span>
+         </a>
+        </li>
+        <li>
+         <a class="podmenu" href="/spoluprace/prumysl-a-firmy">
+          <span>
+           S průmyslem a firmami
+          </span>
+         </a>
+        </li>
+        <li>
+         <a class="podmenu" href="/pivovar">
+          <span>
+           S pivovary
+          </span>
+         </a>
+        </li>
+        <li>
+         <a class="podmenu" href="/spoluprace/mezinarodni-partneri">
+          <span>
+           Mezinárodní
+          </span>
+         </a>
+        </li>
+       </ul>
+       <span class="zob">
+       </span>
+       <a class="plusminus" href="#" onclick="$(this).parent().toggleClass('hover');return false;">
+        <span class="hover_off icon">
+         
+        </span>
+        <span class="hover_on icon">
+         
+        </span>
+       </a>
+      </li>
+      <li>
+       <a class="hlavni" data-hover-click="parent" href="/popularizace">
+        <span>
+         Popularizace, média
+        </span>
+       </a>
+       <ul class="submenu">
+        <li>
+         <a class="podmenu" href="/popularizace/media">
+          <span>
+           Média
+          </span>
+         </a>
+        </li>
+        <li>
+         <a class="podmenu" href="/popularizace/projekty">
+          <span>
+           Popularizační projekty
+          </span>
+         </a>
+        </li>
+        <li>
+         <a class="podmenu" href="/uspesni">
+          <span>
+           Příběhy úspěšných absolventů
+          </span>
+         </a>
+        </li>
+        <li>
+         <a class="podmenu" href="/popularizace/mohlo-by-vas-zajimat">
+          <span>
+           Mohlo by vás zajímat
+          </span>
+         </a>
+        </li>
+        <li>
+         <a class="podmenu" href="/popularizace/rozhovory">
+          <span>
+           Rozhovory
+          </span>
+         </a>
+        </li>
+        <li>
+         <a class="podmenu" href="/popularizace/doktorandi-pisou">
+          <span>
+           Čím se zabýváme na VŠCHT Praha?
+          </span>
+         </a>
+        </li>
+        <li>
+         <a class="podmenu" href="/propagacni-predmety">
+          <span>
+           Propagační předměty
+          </span>
+         </a>
+        </li>
+       </ul>
+       <span class="zob">
+       </span>
+       <a class="plusminus" href="#" onclick="$(this).parent().toggleClass('hover');return false;">
+        <span class="hover_off icon">
+         
+        </span>
+        <span class="hover_on icon">
+         
+        </span>
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <a href="/" id="reload_btn" style="display: inline;">
+    <span class="icon-obnovit">
+    </span>
+   </a>
+   <div id="reload_menu">
+    <h3 class="content">
+     vrátit změny
+    </h3>
+    <a class="content" href="?reset_infoboxy">
+     → obnovit všechny boxy
+    </a>
+   </div>
+   <div class="small" id="promo">
+    <div id="slide">
+     <div class="bannery">
+      <a class="banner bila stextem" href="https://studuj.vscht.cz/individualni-den-otevrenych-dveri/" style="background-image:url('/images/1288!301/uzel/0061150/0002~~S8lP0S3OyUxJLdLNS9QtT00yBAA.jpg');" title="">
+       <span class="underlay">
+       </span>
+       <h3>
+        Zažij den na VŠCHT Praha
+       </h3>
+       <p>
+        Navštiv naši školu v doprovodu současných studentů a zjisti, jak to u nás chodí.
+       </p>
+      </a>
+      <a class="banner bila stextem" href="https://www.vscht.cz/spoluprace/skoly/pro-verejnost/festival-vedy" style="background-image:url('/images/1288!301/uzel/0060600/0003~~K87JTEktUkhKzMtOBAA.jpg');" title="">
+       <span class="underlay">
+       </span>
+       <h3>
+        Vědafest 2022 tentokrát v červnu
+       </h3>
+       <p>
+        Ve středu 22. 6. bude možné zažít vědu na vlastní kůži, tradičně v pražských Dejvicích.
+       </p>
+      </a>
+     </div>
+     <a class="down_btn slb acti" href="#" id="bannery_down_btn">
+     </a>
+     <a class="up_btn slb acti" href="#" id="bannery_up_btn">
+     </a>
+    </div>
+   </div>
+   <div class="stranka_novinky sinfoboxy sesliderem spartnerama skalendarem" id="content">
+    <div id="debug">
+     <span id="rozmery">
+     </span>
+     iduzel: 1001
+     <br/>
+     idvazba: 7230
+     <br/>
+     šablona: stranka_novinky
+     <br/>
+     čas: 19.5.2022 22:01:52
+     <br/>
+     verze: 5054
+     <br/>
+     uzivatel:
+     <br/>
+     remoteAPIs:
+     <br/>
+     branch: trunk
+     <br/>
+     <a href="?force">
+      Obnovit
+     </a>
+     |
+     <a href="?raw=">
+      RAW
+     </a>
+    </div>
+    <div class="api_kalendar_maxi" id="api_kalendar">
+     <div id="kalendar_conteiner">
+      <div class="kalendar_udalost minule prvni_udalost">
+       <span class="datum_tyden">
+       </span>
+       <span class="datum" data-href="https://kalendar.vscht.cz">
+        zobrazit kalendář
+       </span>
+      </div>
+      <div class="kalendar_udalost minule">
+       <span class="datum_tyden" data-href="https://kalendar.vscht.cz/Den.aspx?d=05_05_2022">
+        čt
+       </span>
+       <span class="datum" data-href="https://kalendar.vscht.cz/Den.aspx?d=05_05_2022">
+        5.5.
+       </span>
+       <div class="udalosti">
+        <div class="puntik kategorie5" title="Zasedání VR FCHT">
+         <span class="default icon-kosoctverec">
+         </span>
+         <span class="hover icon-kosoctverec-dve">
+         </span>
+         <div data-href="https://kalendar.vscht.cz/Den.aspx?d=05_05_2022">
+          <div class="zobacek">
+          </div>
+          <span class="datum">
+           5.5.2022 - 5.5.2022
+          </span>
+          <span class="cas">
+           10:00 - 15:00
+          </span>
+          <span class="typakce">
+           Akademická obec
+          </span>
+          <span class="nadpis">
+           Zasedání VR FCHT
+          </span>
+          <span class="misto">
+           zasedací místnosti rektorátu, budova A, Technická 5, 1. patro
+          </span>
+          <a href="https://kalendar.vscht.cz/Den.aspx?d=05_05_2022">
+           více zde →
+          </a>
+         </div>
+        </div>
+        <div again""="" and="" at="" back="" class="puntik kategorie3 kategorie5 kategorie4" nih,="" or="" postdoc="" the="" there="" title="UNIQORN/PhD_Post.doc Talks: ">
+         <span class="default icon-kosoctverec">
+         </span>
+         <span class="hover icon-kosoctverec-dve">
+         </span>
+         <div data-href="https://kalendar.vscht.cz/Den.aspx?d=05_05_2022">
+          <div class="zobacek">
+          </div>
+          <span class="datum">
+           5.5.2022 - 5.5.2022
+          </span>
+          <span class="cas">
+           15:50 - 20:00
+          </span>
+          <span class="typakce">
+           Akce studentů
+          </span>
+          <span class="nadpis">
+           UNIQORN/PhD_Post.doc Talks: "Postdoc at the NIH, or There and Back Again"
+          </span>
+          <span class="misto">
+           Uhelna, Budova A
+          </span>
+          <a href="https://kalendar.vscht.cz/Den.aspx?d=05_05_2022">
+           více zde →
+          </a>
+         </div>
+        </div>
+        <div class="puntik kategorie3 kategorie4" title="Volné hraní (stolních her)">
+         <span class="default icon-kosoctverec">
+         </span>
+         <span class="hover icon-kosoctverec-dve">
+         </span>
+         <div data-href="https://kalendar.vscht.cz/Den.aspx?d=05_05_2022">
+          <div class="zobacek">
+          </div>
+          <span class="datum">
+           5.5.2022 - 5.5.2022
+          </span>
+          <span class="cas">
+           16:00 - 18:00
+          </span>
+          <span class="typakce">
+           Akce studentů
+          </span>
+          <span class="nadpis">
+           Volné hraní (stolních her)
+          </span>
+          <span class="misto">
+           Respirium budovy B, VŠCHT Praha
+          </span>
+          <a href="https://kalendar.vscht.cz/Den.aspx?d=05_05_2022">
+           více zde →
+          </a>
+         </div>
+        </div>
+        <div class="puntik kategorie3 kategorie4" title="Prvácký PubQuiz">
+         <span class="default icon-kosoctverec">
+         </span>
+         <span class="hover icon-kosoctverec-dve">
+         </span>
+         <div data-href="https://kalendar.vscht.cz/Den.aspx?d=05_05_2022">
+          <div class="zobacek">
+          </div>
+          <span class="datum">
+           5.5.2022 - 5.5.2022
+          </span>
+          <span class="cas">
+           17:00 - 19:00
+          </span>
+          <span class="typakce">
+           Akce studentů
+          </span>
+          <span class="nadpis">
+           Prvácký PubQuiz
+          </span>
+          <span class="misto">
+           Carbon Café
+          </span>
+          <a href="https://kalendar.vscht.cz/Den.aspx?d=05_05_2022">
+           více zde →
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="kalendar_udalost minule">
+       <span class="datum_tyden" data-href="https://kalendar.vscht.cz/Den.aspx?d=06_05_2022">
+        pá
+       </span>
+       <span class="datum" data-href="https://kalendar.vscht.cz/Den.aspx?d=06_05_2022">
+        6.5.
+       </span>
+       <div class="udalosti">
+        <div class="puntik kategorie2" title="Zasedání AS FTOP">
+         <span class="default icon-kosoctverec">
+         </span>
+         <span class="hover icon-kosoctverec-dve">
+         </span>
+         <div data-href="https://kalendar.vscht.cz/Den.aspx?d=06_05_2022">
+          <div class="zobacek">
+          </div>
+          <span class="datum">
+           6.5.2022 - 6.5.2022
+          </span>
+          <span class="cas">
+           9:00 - 10:00
+          </span>
+          <span class="typakce">
+           Akademická obec
+          </span>
+          <span class="nadpis">
+           Zasedání AS FTOP
+          </span>
+          <span class="misto">
+           místnost A174b
+          </span>
+          <a href="https://kalendar.vscht.cz/Den.aspx?d=06_05_2022">
+           více zde →
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="kalendar_udalost minule">
+       <span class="datum_tyden" data-href="https://kalendar.vscht.cz/Den.aspx?d=09_05_2022">
+        po
+       </span>
+       <span class="datum" data-href="https://kalendar.vscht.cz/Den.aspx?d=09_05_2022">
+        9.5.
+       </span>
+       <div class="udalosti">
+        <div class="puntik kategorie6" title="Kariérní coaching, kariérní konzultace">
+         <span class="default icon-kosoctverec">
+         </span>
+         <span class="hover icon-kosoctverec-dve">
+         </span>
+         <div data-href="https://kalendar.vscht.cz/Den.aspx?d=09_05_2022">
+          <div class="zobacek">
+          </div>
+          <span class="datum">
+           9.5.2022 - 9.5.2022
+          </span>
+          <span class="cas">
+           9:00 - 12:00
+          </span>
+          <span class="typakce">
+           Kariera
+          </span>
+          <span class="nadpis">
+           Kariérní coaching, kariérní konzultace
+          </span>
+          <span class="misto">
+           Poradenská místnost PKC (ZB1-414B)
+          </span>
+          <a href="https://kalendar.vscht.cz/Den.aspx?d=09_05_2022">
+           více zde →
+          </a>
+         </div>
+        </div>
+        <div class="puntik kategorie3" title="Hezký den U Apsidy">
+         <span class="default icon-kosoctverec">
+         </span>
+         <span class="hover icon-kosoctverec-dve">
+         </span>
+         <div data-href="https://kalendar.vscht.cz/Den.aspx?d=09_05_2022">
+          <div class="zobacek">
+          </div>
+          <span class="datum">
+           9.5.2022 - 9.5.2022
+          </span>
+          <span class="cas">
+           15:00 - 21:00
+          </span>
+          <span class="typakce">
+           Akce studentů
+          </span>
+          <span class="nadpis">
+           Hezký den U Apsidy
+          </span>
+          <span class="misto">
+           U Apsidy
+          </span>
+          <a href="https://kalendar.vscht.cz/Den.aspx?d=09_05_2022">
+           více zde →
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="kalendar_udalost minule">
+       <span class="datum_tyden" data-href="https://kalendar.vscht.cz/Den.aspx?d=10_05_2022">
+        út
+       </span>
+       <span class="datum" data-href="https://kalendar.vscht.cz/Den.aspx?d=10_05_2022">
+        10.5.
+       </span>
+       <div class="udalosti">
+        <div -="" a="" class="puntik kategorie1 kategorie5" další="" europe="" horizon="" k="" myšlenky="" na="" od="" podporu="" programy="" projektu="" title="Seminář " vavai""="" úspěšnému="">
+         <span class="default icon-kosoctverec">
+         </span>
+         <span class="hover icon-kosoctverec-dve">
+         </span>
+         <div data-href="https://kalendar.vscht.cz/Den.aspx?d=10_05_2022">
+          <div class="zobacek">
+          </div>
+          <span class="datum">
+           10.5.2022 - 10.5.2022
+          </span>
+          <span class="cas">
+           14:00 - 15:30
+          </span>
+          <span class="typakce">
+           Seminář
+          </span>
+          <span class="nadpis">
+           Seminář "Od myšlenky k úspěšnému projektu - Horizon Europe a další programy na podporu VaVaI"
+          </span>
+          <span class="misto">
+           Uhelna, budova A/ MS Teams
+          </span>
+          <a href="https://kalendar.vscht.cz/Den.aspx?d=10_05_2022">
+           více zde →
+          </a>
+         </div>
+        </div>
+        <div class="puntik kategorie1" title="Zasedání akademického senátu VŠCHT Praha">
+         <span class="default icon-kosoctverec">
+         </span>
+         <span class="hover icon-kosoctverec-dve">
+         </span>
+         <div data-href="https://kalendar.vscht.cz/Den.aspx?d=10_05_2022">
+          <div class="zobacek">
+          </div>
+          <span class="datum">
+           10.5.2022 - 10.5.2022
+          </span>
+          <span class="cas">
+           14:00 - 18:00
+          </span>
+          <span class="typakce">
+           Akademická obec
+          </span>
+          <span class="nadpis">
+           Zasedání akademického senátu VŠCHT Praha
+          </span>
+          <span class="misto">
+           zasedací místnost rektora
+          </span>
+          <a href="https://kalendar.vscht.cz/Den.aspx?d=10_05_2022">
+           více zde →
+          </a>
+         </div>
+        </div>
+        <div class="puntik kategorie3" title="Soon to be bakalář">
+         <span class="default icon-kosoctverec">
+         </span>
+         <span class="hover icon-kosoctverec-dve">
+         </span>
+         <div data-href="https://kalendar.vscht.cz/Den.aspx?d=10_05_2022">
+          <div class="zobacek">
+          </div>
+          <span class="datum">
+           10.5.2022 - 10.5.2022
+          </span>
+          <span class="cas">
+           16:00 - 18:00
+          </span>
+          <span class="typakce">
+           Akce studentů
+          </span>
+          <span class="nadpis">
+           Soon to be bakalář
+          </span>
+          <span class="misto">
+           Posluchárna BI
+          </span>
+          <a href="https://kalendar.vscht.cz/Den.aspx?d=10_05_2022">
+           více zde →
+          </a>
+         </div>
+        </div>
+        <div a="" class="puntik kategorie3 kategorie4" depresích="" o="" pohádkách""="" title="Repríza: ">
+         <span class="default icon-kosoctverec">
+         </span>
+         <span class="hover icon-kosoctverec-dve">
+         </span>
+         <div data-href="https://kalendar.vscht.cz/Den.aspx?d=10_05_2022">
+          <div class="zobacek">
+          </div>
+          <span class="datum">
+           10.5.2022 - 10.5.2022
+          </span>
+          <span class="cas">
+           19:00 - 21:00
+          </span>
+          <span class="typakce">
+           Akce studentů
+          </span>
+          <span class="nadpis">
+           Repríza: "O Depresích a Pohádkách"
+          </span>
+          <span class="misto">
+           Divadlo Na Prádle
+          </span>
+          <a href="https://kalendar.vscht.cz/Den.aspx?d=10_05_2022">
+           více zde →
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="kalendar_udalost minule">
+       <span class="datum_tyden" data-href="https://kalendar.vscht.cz/Den.aspx?d=11_05_2022">
+        st
+       </span>
+       <span class="datum" data-href="https://kalendar.vscht.cz/Den.aspx?d=11_05_2022">
+        11.5.
+       </span>
+       <div class="udalosti">
+        <div class="puntik kategorie1 kategorie3 kategorie4" title="Dračí lodě 2022">
+         <span class="default icon-kosoctverec">
+         </span>
+         <span class="hover icon-kosoctverec-dve">
+         </span>
+         <div data-href="https://kalendar.vscht.cz/Den.aspx?d=11_05_2022">
+          <div class="zobacek">
+          </div>
+          <span class="datum">
+           11.5.2022 - 11.5.2022
+          </span>
+          <span class="typakce">
+           Sport a kultura
+          </span>
+          <span class="nadpis">
+           Dračí lodě 2022
+          </span>
+          <span class="misto">
+          </span>
+          <a href="https://kalendar.vscht.cz/Den.aspx?d=11_05_2022">
+           více zde →
+          </a>
+         </div>
+        </div>
+        <div class="puntik kategorie3 kategorie4" title="Květnový SWAP a DJ Seafur">
+         <span class="default icon-kosoctverec">
+         </span>
+         <span class="hover icon-kosoctverec-dve">
+         </span>
+         <div data-href="https://kalendar.vscht.cz/Den.aspx?d=11_05_2022">
+          <div class="zobacek">
+          </div>
+          <span class="datum">
+           11.5.2022 - 11.5.2022
+          </span>
+          <span class="cas">
+           11:00 - 22:00
+          </span>
+          <span class="typakce">
+           Akce studentů
+          </span>
+          <span class="nadpis">
+           Květnový SWAP a DJ Seafur
+          </span>
+          <span class="misto">
+           Vektor Technická
+          </span>
+          <a href="https://kalendar.vscht.cz/Den.aspx?d=11_05_2022">
+           více zde →
+          </a>
+         </div>
+        </div>
+        <div class="puntik kategorie3 kategorie4" title="34. DesKOHraní">
+         <span class="default icon-kosoctverec">
+         </span>
+         <span class="hover icon-kosoctverec-dve">
+         </span>
+         <div data-href="https://kalendar.vscht.cz/Den.aspx?d=11_05_2022">
+          <div class="zobacek">
+          </div>
+          <span class="datum">
+           11.5.2022 - 11.5.2022
+          </span>
+          <span class="cas">
+           16:00 - 20:00
+          </span>
+          <span class="typakce">
+           Akce studentů
+          </span>
+          <span class="nadpis">
+           34. DesKOHraní
+          </span>
+          <span class="misto">
+           Respirium budovy B, VŠCHT Praha
+          </span>
+          <a href="https://kalendar.vscht.cz/Den.aspx?d=11_05_2022">
+           více zde →
+          </a>
+         </div>
+        </div>
+        <div class="puntik kategorie3 kategorie4" title="Jižák LIVE!">
+         <span class="default icon-kosoctverec">
+         </span>
+         <span class="hover icon-kosoctverec-dve">
+         </span>
+         <div data-href="https://kalendar.vscht.cz/Den.aspx?d=11_05_2022">
+          <div class="zobacek">
+          </div>
+          <span class="datum">
+           11.5.2022 - 11.5.2022
+          </span>
+          <span class="cas">
+           16:00 - 22:00
+          </span>
+          <span class="typakce">
+           Akce studentů
+          </span>
+          <span class="nadpis">
+           Jižák LIVE!
+          </span>
+          <span class="misto">
+           Koleje Jižní město
+          </span>
+          <a href="https://kalendar.vscht.cz/Den.aspx?d=11_05_2022">
+           více zde →
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="kalendar_udalost minule">
+       <span class="datum_tyden" data-href="https://kalendar.vscht.cz/Den.aspx?d=12_05_2022">
+        čt
+       </span>
+       <span class="datum" data-href="https://kalendar.vscht.cz/Den.aspx?d=12_05_2022">
+        12.5.
+       </span>
+       <div class="udalosti">
+        <div class="puntik kategorie3 kategorie4" title="Volné hraní (stolních her)">
+         <span class="default icon-kosoctverec">
+         </span>
+         <span class="hover icon-kosoctverec-dve">
+         </span>
+         <div data-href="https://kalendar.vscht.cz/Den.aspx?d=12_05_2022">
+          <div class="zobacek">
+          </div>
+          <span class="datum">
+           12.5.2022 - 12.5.2022
+          </span>
+          <span class="cas">
+           16:00 - 18:00
+          </span>
+          <span class="typakce">
+           Akce studentů
+          </span>
+          <span class="nadpis">
+           Volné hraní (stolních her)
+          </span>
+          <span class="misto">
+           Respirium budovy B, VŠCHT Praha
+          </span>
+          <a href="https://kalendar.vscht.cz/Den.aspx?d=12_05_2022">
+           více zde →
+          </a>
+         </div>
+        </div>
+        <div class="puntik kategorie3 kategorie4" title="Herní víkend na Běstvině - jaro 2022">
+         <span class="default icon-kosoctverec">
+         </span>
+         <span class="hover icon-kosoctverec-dve">
+         </span>
+         <div data-href="https://kalendar.vscht.cz/Den.aspx?d=12_05_2022">
+          <div class="zobacek">
+          </div>
+          <span class="datum">
+           12.5.2022 - 15.5.2022
+          </span>
+          <span class="cas">
+           19:00 - 15:00
+          </span>
+          <span class="typakce">
+           Akce studentů
+          </span>
+          <span class="nadpis">
+           Herní víkend na Běstvině - jaro 2022
+          </span>
+          <span class="misto">
+           Táborová základna Běstvina
+          </span>
+          <a href="https://kalendar.vscht.cz/Den.aspx?d=12_05_2022">
+           více zde →
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="kalendar_udalost minule">
+       <span class="datum_tyden" data-href="https://kalendar.vscht.cz/Den.aspx?d=14_05_2022">
+        so
+       </span>
+       <span class="datum" data-href="https://kalendar.vscht.cz/Den.aspx?d=14_05_2022">
+        14.5.
+       </span>
+       <div class="udalosti">
+        <div class="puntik kategorie3 kategorie4" title="Fit day VŠCHT">
+         <span class="default icon-kosoctverec">
+         </span>
+         <span class="hover icon-kosoctverec-dve">
+         </span>
+         <div data-href="https://kalendar.vscht.cz/Den.aspx?d=14_05_2022">
+          <div class="zobacek">
+          </div>
+          <span class="datum">
+           14.5.2022 - 14.5.2022
+          </span>
+          <span class="typakce">
+           Sport a kultura
+          </span>
+          <span class="nadpis">
+           Fit day VŠCHT
+          </span>
+          <span class="misto">
+          </span>
+          <a href="https://kalendar.vscht.cz/Den.aspx?d=14_05_2022">
+           více zde →
+          </a>
+         </div>
+        </div>
+        <div class="puntik kategorie3 kategorie4" title="Holešovický šachový turnaj VŠCHT">
+         <span class="default icon-kosoctverec">
+         </span>
+         <span class="hover icon-kosoctverec-dve">
+         </span>
+         <div data-href="https://kalendar.vscht.cz/Den.aspx?d=14_05_2022">
+          <div class="zobacek">
+          </div>
+          <span class="datum">
+           14.5.2022 - 14.5.2022
+          </span>
+          <span class="cas">
+           9:30 - 17:00
+          </span>
+          <span class="typakce">
+           Akce studentů
+          </span>
+          <span class="nadpis">
+           Holešovický šachový turnaj VŠCHT
+          </span>
+          <span class="misto">
+           Jankovcova 23, Praha 7 Holešovice
+          </span>
+          <a href="https://kalendar.vscht.cz/Den.aspx?d=14_05_2022">
+           více zde →
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="kalendar_udalost minule">
+       <span class="datum_tyden" data-href="https://kalendar.vscht.cz/Den.aspx?d=17_05_2022">
+        út
+       </span>
+       <span class="datum" data-href="https://kalendar.vscht.cz/Den.aspx?d=17_05_2022">
+        17.5.
+       </span>
+       <div class="udalosti">
+        <div class="puntik kategorie1" title="Zasedání AS FCHT">
+         <span class="default icon-kosoctverec">
+         </span>
+         <span class="hover icon-kosoctverec-dve">
+         </span>
+         <div data-href="https://kalendar.vscht.cz/Den.aspx?d=17_05_2022">
+          <div class="zobacek">
+          </div>
+          <span class="datum">
+           17.5.2022 - 17.5.2022
+          </span>
+          <span class="cas">
+           9:30 - 11:30
+          </span>
+          <span class="typakce">
+           Akademická obec
+          </span>
+          <span class="nadpis">
+           Zasedání AS FCHT
+          </span>
+          <span class="misto">
+          </span>
+          <a href="https://kalendar.vscht.cz/Den.aspx?d=17_05_2022">
+           více zde →
+          </a>
+         </div>
+        </div>
+        <div class="puntik kategorie2" title="Zasedání Akademického senátu FPBT">
+         <span class="default icon-kosoctverec">
+         </span>
+         <span class="hover icon-kosoctverec-dve">
+         </span>
+         <div data-href="https://kalendar.vscht.cz/Den.aspx?d=17_05_2022">
+          <div class="zobacek">
+          </div>
+          <span class="datum">
+           17.5.2022 - 17.5.2022
+          </span>
+          <span class="cas">
+           13:00 - 14:00
+          </span>
+          <span class="typakce">
+           Akademická obec
+          </span>
+          <span class="nadpis">
+           Zasedání Akademického senátu FPBT
+          </span>
+          <span class="misto">
+           zasedací místnost děkanátu FPBT
+          </span>
+          <a href="https://kalendar.vscht.cz/Den.aspx?d=17_05_2022">
+           více zde →
+          </a>
+         </div>
+        </div>
+        <div class="puntik kategorie1" title="Doktorské studium na FPBT – cyklus přednášek pro doktorandy">
+         <span class="default icon-kosoctverec">
+         </span>
+         <span class="hover icon-kosoctverec-dve">
+         </span>
+         <div data-href="https://kalendar.vscht.cz/Den.aspx?d=17_05_2022">
+          <div class="zobacek">
+          </div>
+          <span class="datum">
+           17.5.2022 - 17.5.2022
+          </span>
+          <span class="cas">
+           15:00 - 17:00
+          </span>
+          <span class="typakce">
+           Akademická obec
+          </span>
+          <span class="nadpis">
+           Doktorské studium na FPBT – cyklus přednášek pro doktorandy
+          </span>
+          <span class="misto">
+           Uhelna - budova A, VŠCHT Praha
+          </span>
+          <a href="https://kalendar.vscht.cz/Den.aspx?d=17_05_2022">
+           více zde →
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="kalendar_udalost minule">
+       <span class="datum_tyden" data-href="https://kalendar.vscht.cz/Den.aspx?d=18_05_2022">
+        st
+       </span>
+       <span class="datum" data-href="https://kalendar.vscht.cz/Den.aspx?d=18_05_2022">
+        18.5.
+       </span>
+       <div class="udalosti">
+        <div class="puntik kategorie6" title="Kariérní coaching, kariérní konzultace">
+         <span class="default icon-kosoctverec">
+         </span>
+         <span class="hover icon-kosoctverec-dve">
+         </span>
+         <div data-href="https://kalendar.vscht.cz/Den.aspx?d=18_05_2022">
+          <div class="zobacek">
+          </div>
+          <span class="datum">
+           18.5.2022 - 18.5.2022
+          </span>
+          <span class="cas">
+           9:00 - 17:00
+          </span>
+          <span class="typakce">
+           Kariera
+          </span>
+          <span class="nadpis">
+           Kariérní coaching, kariérní konzultace
+          </span>
+          <span class="misto">
+           Poradenská místnost PKC (ZB1-414B)
+          </span>
+          <a href="https://kalendar.vscht.cz/Den.aspx?d=18_05_2022">
+           více zde →
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="kalendar_udalost budouci">
+       <span class="datum_tyden" data-href="https://kalendar.vscht.cz/Den.aspx?d=19_05_2022">
+        čt
+       </span>
+       <span class="datum" data-href="https://kalendar.vscht.cz/Den.aspx?d=19_05_2022">
+        19.5.
+       </span>
+       <div class="udalosti">
+        <div class="puntik kategorie3 kategorie4" title="Šípkův pohár - vyhlášení výsledků">
+         <span class="default icon-kosoctverec">
+         </span>
+         <span class="hover icon-kosoctverec-dve">
+         </span>
+         <div data-href="https://kalendar.vscht.cz/Den.aspx?d=19_05_2022">
+          <div class="zobacek">
+          </div>
+          <span class="datum">
+           19.5.2022 - 19.5.2022
+          </span>
+          <span class="cas">
+           16:00 - 17:30
+          </span>
+          <span class="typakce">
+           Sport a kultura
+          </span>
+          <span class="nadpis">
+           Šípkův pohár - vyhlášení výsledků
+          </span>
+          <span class="misto">
+           U komína
+          </span>
+          <a href="https://kalendar.vscht.cz/Den.aspx?d=19_05_2022">
+           více zde →
+          </a>
+         </div>
+        </div>
+        <div class="puntik kategorie3 kategorie4" title="Retro party">
+         <span class="default icon-kosoctverec">
+         </span>
+         <span class="hover icon-kosoctverec-dve">
+         </span>
+         <div data-href="https://kalendar.vscht.cz/Den.aspx?d=19_05_2022">
+          <div class="zobacek">
+          </div>
+          <span class="datum">
+           19.5.2022 - 20.5.2022
+          </span>
+          <span class="cas">
+           21:00 - 4:00
+          </span>
+          <span class="typakce">
+           Akce studentů
+          </span>
+          <span class="nadpis">
+           Retro party
+          </span>
+          <span class="misto">
+           El Mágico
+          </span>
+          <a href="https://kalendar.vscht.cz/Den.aspx?d=19_05_2022">
+           více zde →
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="kalendar_udalost budouci">
+       <span class="datum_tyden" data-href="https://kalendar.vscht.cz/Den.aspx?d=20_05_2022">
+        pá
+       </span>
+       <span class="datum" data-href="https://kalendar.vscht.cz/Den.aspx?d=20_05_2022">
+        20.5.
+       </span>
+       <div class="udalosti">
+        <div class="puntik kategorie2" title="Konec výuky v letním semestru">
+         <span class="default icon-kosoctverec">
+         </span>
+         <span class="hover icon-kosoctverec-dve">
+         </span>
+         <div data-href="https://kalendar.vscht.cz/Den.aspx?d=20_05_2022">
+          <div class="zobacek">
+          </div>
+          <span class="datum">
+           20.5.2022 - 20.5.2022
+          </span>
+          <span class="typakce">
+           Organizace ak. roku
+          </span>
+          <span class="nadpis">
+           Konec výuky v letním semestru
+          </span>
+          <span class="misto">
+          </span>
+          <a href="https://kalendar.vscht.cz/Den.aspx?d=20_05_2022">
+           více zde →
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="kalendar_udalost budouci">
+       <span class="datum_tyden" data-href="https://kalendar.vscht.cz/Den.aspx?d=21_05_2022">
+        so
+       </span>
+       <span class="datum" data-href="https://kalendar.vscht.cz/Den.aspx?d=21_05_2022">
+        21.5.
+       </span>
+       <div class="udalosti">
+        <div class="puntik kategorie3 kategorie4" title="Sázava">
+         <span class="default icon-kosoctverec">
+         </span>
+         <span class="hover icon-kosoctverec-dve">
+         </span>
+         <div data-href="https://kalendar.vscht.cz/Den.aspx?d=21_05_2022">
+          <div class="zobacek">
+          </div>
+          <span class="datum">
+           21.5.2022 - 22.5.2022
+          </span>
+          <span class="typakce">
+           Kurz
+          </span>
+          <span class="nadpis">
+           Sázava
+          </span>
+          <span class="misto">
+          </span>
+          <a href="https://kalendar.vscht.cz/Den.aspx?d=21_05_2022">
+           více zde →
+          </a>
+         </div>
+        </div>
+        <div class="puntik kategorie3" title="O depresích a pohádkách">
+         <span class="default icon-kosoctverec">
+         </span>
+         <span class="hover icon-kosoctverec-dve">
+         </span>
+         <div data-href="https://kalendar.vscht.cz/Den.aspx?d=21_05_2022">
+          <div class="zobacek">
+          </div>
+          <span class="datum">
+           21.5.2022 - 21.5.2022
+          </span>
+          <span class="cas">
+           19:30 - 21:00
+          </span>
+          <span class="typakce">
+           Sport a kultura
+          </span>
+          <span class="nadpis">
+           O depresích a pohádkách
+          </span>
+          <span class="misto">
+           Činoherním klub
+          </span>
+          <a href="https://kalendar.vscht.cz/Den.aspx?d=21_05_2022">
+           více zde →
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="kalendar_udalost budouci">
+       <span class="datum_tyden" data-href="https://kalendar.vscht.cz/Den.aspx?d=23_05_2022">
+        po
+       </span>
+       <span class="datum" data-href="https://kalendar.vscht.cz/Den.aspx?d=23_05_2022">
+        23.5.
+       </span>
+       <div class="udalosti">
+        <div class="puntik kategorie2" title="Začátek zkouškového období">
+         <span class="default icon-kosoctverec">
+         </span>
+         <span class="hover icon-kosoctverec-dve">
+         </span>
+         <div data-href="https://kalendar.vscht.cz/Den.aspx?d=23_05_2022">
+          <div class="zobacek">
+          </div>
+          <span class="datum">
+           23.5.2022 - 23.5.2022
+          </span>
+          <span class="typakce">
+           Organizace ak. roku
+          </span>
+          <span class="nadpis">
+           Začátek zkouškového období
+          </span>
+          <span class="misto">
+          </span>
+          <a href="https://kalendar.vscht.cz/Den.aspx?d=23_05_2022">
+           více zde →
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="kalendar_udalost budouci">
+       <span class="datum_tyden" data-href="https://kalendar.vscht.cz/Den.aspx?d=25_05_2022">
+        st
+       </span>
+       <span class="datum" data-href="https://kalendar.vscht.cz/Den.aspx?d=25_05_2022">
+        25.5.
+       </span>
+       <div class="udalosti">
+        <div class="puntik kategorie6" title="Kariérní coaching, kariérní konzultace">
+         <span class="default icon-kosoctverec">
+         </span>
+         <span class="hover icon-kosoctverec-dve">
+         </span>
+         <div data-href="https://kalendar.vscht.cz/Den.aspx?d=25_05_2022">
+          <div class="zobacek">
+          </div>
+          <span class="datum">
+           25.5.2022 - 25.5.2022
+          </span>
+          <span class="cas">
+           9:00 - 17:00
+          </span>
+          <span class="typakce">
+           Kariera
+          </span>
+          <span class="nadpis">
+           Kariérní coaching, kariérní konzultace
+          </span>
+          <span class="misto">
+           Poradenská místnost PKC (ZB1-414B)
+          </span>
+          <a href="https://kalendar.vscht.cz/Den.aspx?d=25_05_2022">
+           více zde →
+          </a>
+         </div>
+        </div>
+        <div -="" a="" class="puntik kategorie1 kategorie5" dimenze="" genderová="" konceptu="" návrh""="" obsahu="" pro="" projektový="" představení="" tipy="" title="Seminář " v="" vai="">
+         <span class="default icon-kosoctverec">
+         </span>
+         <span class="hover icon-kosoctverec-dve">
+         </span>
+         <div data-href="https://kalendar.vscht.cz/Den.aspx?d=25_05_2022">
+          <div class="zobacek">
+          </div>
+          <span class="datum">
+           25.5.2022 - 25.5.2022
+          </span>
+          <span class="cas">
+           14:00 - 14:30
+          </span>
+          <span class="typakce">
+           Seminář
+          </span>
+          <span class="nadpis">
+           Seminář "Genderová dimenze v obsahu VaI - představení konceptu a tipy pro projektový návrh"
+          </span>
+          <span class="misto">
+           MS Teams
+          </span>
+          <a href="https://kalendar.vscht.cz/Den.aspx?d=25_05_2022">
+           více zde →
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="kalendar_udalost budouci">
+       <span class="datum_tyden" data-href="https://kalendar.vscht.cz/Den.aspx?d=02_06_2022">
+        čt
+       </span>
+       <span class="datum" data-href="https://kalendar.vscht.cz/Den.aspx?d=02_06_2022">
+        2.6.
+       </span>
+       <div class="udalosti">
+        <div class="puntik kategorie3 kategorie4" title="Srbsko 1.">
+         <span class="default icon-kosoctverec">
+         </span>
+         <span class="hover icon-kosoctverec-dve">
+         </span>
+         <div data-href="https://kalendar.vscht.cz/Den.aspx?d=02_06_2022">
+          <div class="zobacek">
+          </div>
+          <span class="datum">
+           2.6.2022 - 2.6.2022
+          </span>
+          <span class="typakce">
+           Kurz
+          </span>
+          <span class="nadpis">
+           Srbsko 1.
+          </span>
+          <span class="misto">
+          </span>
+          <a href="https://kalendar.vscht.cz/Den.aspx?d=02_06_2022">
+           více zde →
+          </a>
+         </div>
+        </div>
+        <div class="puntik kategorie3 kategorie4" title="Ballingovci vaří na Vektoru">
+         <span class="default icon-kosoctverec">
+         </span>
+         <span class="hover icon-kosoctverec-dve">
+         </span>
+         <div data-href="https://kalendar.vscht.cz/Den.aspx?d=02_06_2022">
+          <div class="zobacek">
+          </div>
+          <span class="datum">
+           2.6.2022 - 2.6.2022
+          </span>
+          <span class="typakce">
+           Workshop
+          </span>
+          <span class="nadpis">
+           Ballingovci vaří na Vektoru
+          </span>
+          <span class="misto">
+           před budovou B
+          </span>
+          <a href="https://kalendar.vscht.cz/Den.aspx?d=02_06_2022">
+           více zde →
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="kalendar_udalost budouci">
+       <span class="datum_tyden" data-href="https://kalendar.vscht.cz/Den.aspx?d=07_06_2022">
+        út
+       </span>
+       <span class="datum" data-href="https://kalendar.vscht.cz/Den.aspx?d=07_06_2022">
+        7.6.
+       </span>
+       <div class="udalosti">
+        <div class="puntik kategorie4" title="Roviště">
+         <span class="default icon-kosoctverec">
+         </span>
+         <span class="hover icon-kosoctverec-dve">
+         </span>
+         <div data-href="https://kalendar.vscht.cz/Den.aspx?d=07_06_2022">
+          <div class="zobacek">
+          </div>
+          <span class="datum">
+           7.6.2022 - 8.6.2022
+          </span>
+          <span class="typakce">
+           Kurz
+          </span>
+          <span class="nadpis">
+           Roviště
+          </span>
+          <span class="misto">
+          </span>
+          <a href="https://kalendar.vscht.cz/Den.aspx?d=07_06_2022">
+           více zde →
+          </a>
+         </div>
+        </div>
+        <div a="" class="puntik kategorie1 kategorie5" data="" do="" ke="" kvalitnímu="" management="" návrhu""="" open="" plan-tipy="" projektového="" science="" title="Seminář " zapracování="">
+         <span class="default icon-kosoctverec">
+         </span>
+         <span class="hover icon-kosoctverec-dve">
+         </span>
+         <div data-href="https://kalendar.vscht.cz/Den.aspx?d=07_06_2022">
+          <div class="zobacek">
+          </div>
+          <span class="datum">
+           7.6.2022 - 7.6.2022
+          </span>
+          <span class="cas">
+           14:00 - 14:30
+          </span>
+          <span class="typakce">
+           Seminář
+          </span>
+          <span class="nadpis">
+           Seminář "Open Science a Data Management Plan-tipy ke kvalitnímu zapracování do projektového návrhu"
+          </span>
+          <span class="misto">
+           MS Teams
+          </span>
+          <a href="https://kalendar.vscht.cz/Den.aspx?d=07_06_2022">
+           více zde →
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="kalendar_udalost budouci">
+       <span class="datum_tyden" data-href="https://kalendar.vscht.cz/Den.aspx?d=08_06_2022">
+        st
+       </span>
+       <span class="datum" data-href="https://kalendar.vscht.cz/Den.aspx?d=08_06_2022">
+        8.6.
+       </span>
+       <div class="udalosti">
+        <div a="" class="puntik kategorie1 kategorie5" komunikaci,="" plán="" pro="" projektech""="" title="Seminář " v="" využití="" výsledků="" šíření="">
+         <span class="default icon-kosoctverec">
+         </span>
+         <span class="hover icon-kosoctverec-dve">
+         </span>
+         <div data-href="https://kalendar.vscht.cz/Den.aspx?d=08_06_2022">
+          <div class="zobacek">
+          </div>
+          <span class="datum">
+           8.6.2022 - 8.6.2022
+          </span>
+          <span class="cas">
+           14:00 - 14:30
+          </span>
+          <span class="typakce">
+           Seminář
+          </span>
+          <span class="nadpis">
+           Seminář "Plán pro komunikaci, šíření a využití výsledků v projektech"
+          </span>
+          <span class="misto">
+           MS Teams
+          </span>
+          <a href="https://kalendar.vscht.cz/Den.aspx?d=08_06_2022">
+           více zde →
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="kalendar_udalost budouci">
+       <span class="datum_tyden" data-href="https://kalendar.vscht.cz/Den.aspx?d=13_06_2022">
+        po
+       </span>
+       <span class="datum" data-href="https://kalendar.vscht.cz/Den.aspx?d=13_06_2022">
+        13.6.
+       </span>
+       <div class="udalosti">
+        <div class="puntik kategorie3 kategorie4" title="Raftování na Salze">
+         <span class="default icon-kosoctverec">
+         </span>
+         <span class="hover icon-kosoctverec-dve">
+         </span>
+         <div data-href="https://kalendar.vscht.cz/Den.aspx?d=13_06_2022">
+          <div class="zobacek">
+          </div>
+          <span class="datum">
+           13.6.2022 - 15.6.2022
+          </span>
+          <span class="typakce">
+           Kurz
+          </span>
+          <span class="nadpis">
+           Raftování na Salze
+          </span>
+          <span class="misto">
+          </span>
+          <a href="https://kalendar.vscht.cz/Den.aspx?d=13_06_2022">
+           více zde →
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="kalendar_udalost budouci">
+       <span class="datum_tyden" data-href="https://kalendar.vscht.cz/Den.aspx?d=14_06_2022">
+        út
+       </span>
+       <span class="datum" data-href="https://kalendar.vscht.cz/Den.aspx?d=14_06_2022">
+        14.6.
+       </span>
+       <div class="udalosti">
+        <div class="puntik kategorie4" title="Frankenjura">
+         <span class="default icon-kosoctverec">
+         </span>
+         <span class="hover icon-kosoctverec-dve">
+         </span>
+         <div data-href="https://kalendar.vscht.cz/Den.aspx?d=14_06_2022">
+          <div class="zobacek">
+          </div>
+          <span class="datum">
+           14.6.2022 - 16.6.2022
+          </span>
+          <span class="typakce">
+           Kurz
+          </span>
+          <span class="nadpis">
+           Frankenjura
+          </span>
+          <span class="misto">
+          </span>
+          <a href="https://kalendar.vscht.cz/Den.aspx?d=14_06_2022">
+           více zde →
+          </a>
+         </div>
+        </div>
+        <div class="puntik kategorie1" title="Doktorské studium na FPBT – cyklus přednášek pro doktorandy">
+         <span class="default icon-kosoctverec">
+         </span>
+         <span class="hover icon-kosoctverec-dve">
+         </span>
+         <div data-href="https://kalendar.vscht.cz/Den.aspx?d=14_06_2022">
+          <div class="zobacek">
+          </div>
+          <span class="datum">
+           14.6.2022 - 14.6.2022
+          </span>
+          <span class="cas">
+           14:00 - 17:00
+          </span>
+          <span class="typakce">
+           Akademická obec
+          </span>
+          <span class="nadpis">
+           Doktorské studium na FPBT – cyklus přednášek pro doktorandy
+          </span>
+          <span class="misto">
+           Uhelna - budova A, VŠCHT Praha
+          </span>
+          <a href="https://kalendar.vscht.cz/Den.aspx?d=14_06_2022">
+           více zde →
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="kalendar_udalost budouci">
+       <span class="datum_tyden" data-href="https://kalendar.vscht.cz/Den.aspx?d=16_06_2022">
+        čt
+       </span>
+       <span class="datum" data-href="https://kalendar.vscht.cz/Den.aspx?d=16_06_2022">
+        16.6.
+       </span>
+       <div class="udalosti">
+        <div a="" class="puntik kategorie1 kategorie5" etické="" europe="" horizon="" jak="" je="" návrhu""="" otázky="" programu="" projektech="" projektovém="" title="Seminář " v="" zohlednit="">
+         <span class="default icon-kosoctverec">
+         </span>
+         <span class="hover icon-kosoctverec-dve">
+         </span>
+         <div data-href="https://kalendar.vscht.cz/Den.aspx?d=16_06_2022">
+          <div class="zobacek">
+          </div>
+          <span class="datum">
+           16.6.2022 - 16.6.2022
+          </span>
+          <span class="cas">
+           14:00 - 14:30
+          </span>
+          <span class="typakce">
+           Seminář
+          </span>
+          <span class="nadpis">
+           Seminář "Etické otázky v projektech programu Horizon Europe a jak je zohlednit v projektovém návrhu"
+          </span>
+          <span class="misto">
+           MS Teams
+          </span>
+          <a href="https://kalendar.vscht.cz/Den.aspx?d=16_06_2022">
+           více zde →
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="kalendar_udalost budouci">
+       <span class="datum_tyden" data-href="https://kalendar.vscht.cz/Den.aspx?d=21_06_2022">
+        út
+       </span>
+       <span class="datum" data-href="https://kalendar.vscht.cz/Den.aspx?d=21_06_2022">
+        21.6.
+       </span>
+       <div class="udalosti">
+        <div a="" class="puntik kategorie1 kategorie5" grafické="" implementace="" návrhu-požadovaná="" popis="" projektovém="" rizika="" struktura,="" title="Seminář " v="" znázornění""="">
+         <span class="default icon-kosoctverec">
+         </span>
+         <span class="hover icon-kosoctverec-dve">
+         </span>
+         <div data-href="https://kalendar.vscht.cz/Den.aspx?d=21_06_2022">
+          <div class="zobacek">
+          </div>
+          <span class="datum">
+           21.6.2022 - 21.6.2022
+          </span>
+          <span class="cas">
+           14:00 - 14:30
+          </span>
+          <span class="typakce">
+           Seminář
+          </span>
+          <span class="nadpis">
+           Seminář "Popis Implementace v projektovém návrhu-požadovaná struktura, rizika a grafické znázornění"
+          </span>
+          <span class="misto">
+           MS Teams
+          </span>
+          <a href="https://kalendar.vscht.cz/Den.aspx?d=21_06_2022">
+           více zde →
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="kalendar_udalost budouci">
+       <span class="datum_tyden" data-href="https://kalendar.vscht.cz/Den.aspx?d=24_06_2022">
+        pá
+       </span>
+       <span class="datum" data-href="https://kalendar.vscht.cz/Den.aspx?d=24_06_2022">
+        24.6.
+       </span>
+       <div class="udalosti">
+        <div class="puntik kategorie2" title="Konec 1. části zkouškového období">
+         <span class="default icon-kosoctverec">
+         </span>
+         <span class="hover icon-kosoctverec-dve">
+         </span>
+         <div data-href="https://kalendar.vscht.cz/Den.aspx?d=24_06_2022">
+          <div class="zobacek">
+          </div>
+          <span class="datum">
+           24.6.2022 - 24.6.2022
+          </span>
+          <span class="typakce">
+           Organizace ak. roku
+          </span>
+          <span class="nadpis">
+           Konec 1. části zkouškového období
+          </span>
+          <span class="misto">
+          </span>
+          <a href="https://kalendar.vscht.cz/Den.aspx?d=24_06_2022">
+           více zde →
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="kalendar_udalost budouci posledni_udalost">
+       <span class="datum_tyden">
+       </span>
+       <span class="datum" data-href="https://kalendar.vscht.cz">
+        zobrazit kalendář
+       </span>
+      </div>
+     </div>
+     <a href="#" id="kalendar_zpet" onclick="var new_left=Math.min(0,$('#kalendar_conteiner').position().left+124); $('#kalendar_conteiner').animate({'left':new_left},100);return false;">
+      <span class="tlac">
+       ‹
+      </span>
+      <span class="vnitrni_stin">
+      </span>
+     </a>
+     <a href="#" id="kalendar_vpred" onclick="var new_left=Math.max(($('#kalendar_conteiner .kalendar_udalost').length-6)*-124,$('#kalendar_conteiner').position().left-124); $('#kalendar_conteiner').animate({'left':new_left},100);return false;">
+      <span class="tlac">
+       ›
+      </span>
+      <span class="vnitrni_stin">
+      </span>
+     </a>
+    </div>
+    <div class="stranka_novinky">
+    </div>
+    <div id="novinky_vypis">
+     <div class="novinka aktualni historie_2022 kategorie_1 sik_ikona novinka_odkaz">
+      <a data-rel="novinky" href="https://www.vscht.cz/veda-a-vyzkum/fond-dagmar-prochazkove" title="">
+       <span class="ico icon-euro">
+       </span>
+       <div class="cont">
+        <span class="datum">
+         pá 15.04.2022
+        </span>
+        <span class="nazev">
+         Iniciační granty VŠCHT Praha
+        </span>
+        <span class="perex">
+         Výzva Fondu Dagmar Procházkové - mladí vědečtí pracovníci s mezinárodní zkušeností mohou získat pro svoji kariéru na VŠCHT Praha dvouletý grant ve výši 2 400 000 Kč.
+        </span>
+       </div>
+      </a>
+     </div>
+     <div class="novinka aktualni historie_2022 kategorie_1 sik_obrazek novinka_odkaz">
+      <a data-rel="novinky" href="https://www.vscht.cz/spoluprace/skoly/pro-verejnost/festival-vedy" title="">
+       <img alt="Vědafest" class="obrazek" src="/images/195!110/uzel/60710/0001~~CzsyOyUxLbW4BAA.jpg" srcset="/images/195!110/uzel/60710/0001~~CzsyOyUxLbW4BAA.jpg, /images/390!220/uzel/60710/0001~~CzsyOyUxLbW4BAA.jpg 2x"/>
+       <div class="cont">
+        <span class="datum">
+         st 22.06.2022
+        </span>
+        <span class="nazev">
+         Vědafest 2022 tentokrát v červnu
+        </span>
+        <span class="perex">
+         Ve středu 22. 6. bude na Vítězném náměstí v Dejvicích opět plno stanů, kde půjde zažít vědu na vlastní kůži.
+        </span>
+       </div>
+      </a>
+     </div>
+     <div class="novinka aktualni historie_2022 kategorie_1 sik_obrazek">
+      <a data-rel="novinky" href="#novinka_detail36529112064625" title="">
+       <img alt="fulbright2" class="obrazek" src="/images/195!110/uzel/64625/0002~~SyvNSSrKTM8oMQIA.jpg" srcset="/images/195!110/uzel/64625/0002~~SyvNSSrKTM8oMQIA.jpg, /images/390!220/uzel/64625/0002~~SyvNSSrKTM8oMQIA.jpg 2x"/>
+       <div class="cont">
+        <span class="datum">
+         čt 19.05.2022
+        </span>
+        <span class="nazev">
+         Vědkyně z VŠCHT získaly Fulbrightovo stipendium
+        </span>
+        <span class="perex">
+         Soně Hříbalové z FCHT a Lence McGachy z FTOP gratulujeme!
+        </span>
+       </div>
+      </a>
+     </div>
+     <div class="novinka aktualni historie_2022 kategorie_1 sik_obrazek novinka_odkaz">
+      <a data-rel="novinky" href="https://www.vscht.cz/popularizace/media/tiskove-zpravy/2022/ozveny-budoucnosti-vscht-patentuje-robotickou-linku-pro-vyrobu-personalizovanych-leciv" title="">
+       <img alt="DSC_6507-4" class="obrazek" src="/images/195!110/uzel/64622/0001~~cwl2jjczNTDXNQEA.jpg" srcset="/images/195!110/uzel/64622/0001~~cwl2jjczNTDXNQEA.jpg, /images/390!220/uzel/64622/0001~~cwl2jjczNTDXNQEA.jpg 2x"/>
+       <div class="cont">
+        <span class="datum">
+         st 18.05.2022
+        </span>
+        <span class="nazev">
+         VŠCHT patentuje robotickou linku na personalizovaná léčiva
+        </span>
+        <span class="perex">
+         Snahou je připravit léčiva každému pacientovi na míru.
+        </span>
+       </div>
+      </a>
+     </div>
+     <div class="novinka aktualni historie_2022 kategorie_1 sik_obrazek">
+      <a data-rel="novinky" href="#novinka_detail36527384064606" title="">
+       <img alt="Vladimír Jirků WS" class="obrazek" src="/images/195!110/uzel/64606/0001~~C8tJTMnMPby2SMErsyj76HqF8GAA.jpg" srcset="/images/195!110/uzel/64606/0001~~C8tJTMnMPby2SMErsyj76HqF8GAA.jpg, /images/390!220/uzel/64606/0001~~C8tJTMnMPby2SMErsyj76HqF8GAA.jpg 2x"/>
+       <div class="cont">
+        <span class="datum">
+         út 17.05.2022
+        </span>
+        <span class="nazev">
+         Zemřel profesor Vladimír Jirků
+        </span>
+        <span class="perex">
+         Prof. RNDr. Vladimír Jirků, DrSc. byl významnou osobností Ústavu biotechnologie a celé FPBT.
+        </span>
+       </div>
+      </a>
+     </div>
+     <div class="novinka aktualni historie_2022 kategorie_1 sik_ikona">
+      <a data-rel="novinky" href="#novinka_detail36527384064600" title="">
+       <span class="ico icon-svet">
+       </span>
+       <div class="cont">
+        <span class="datum">
+         út 17.05.2022
+        </span>
+        <span class="nazev">
+         VŠCHT spolupracuje na mezinárodním projektu PARC
+        </span>
+        <span class="perex">
+         Projekt European Partnership for the Assessment of Risks from Chemicals je podpořený novým rámcovým programem pro výzkum a inovaci Horizont Evropa.
+        </span>
+       </div>
+      </a>
+     </div>
+     <div class="novinka aktualni historie_2022 kategorie_1 sik_obrazek">
+      <a data-rel="novinky" href="#novinka_detail36523928064586" title="">
+       <img alt="Chemshow-2022" class="obrazek" src="/images/195!110/uzel/64586/0001~~c85IzS3OyC_XNTIwMgIA.jpg" srcset="/images/195!110/uzel/64586/0001~~c85IzS3OyC_XNTIwMgIA.jpg, /images/390!220/uzel/64586/0001~~c85IzS3OyC_XNTIwMgIA.jpg 2x"/>
+       <div class="cont">
+        <span class="datum">
+         pá 13.05.2022
+        </span>
+        <span class="nazev">
+         Navštívili jsme mostecké žáky se zapálenou show
+        </span>
+        <span class="perex">
+         Součástí ChemShow jsou pokusy, které nelze běžně na školách provádět.
+        </span>
+       </div>
+      </a>
+     </div>
+     <div class="novinka aktualni historie_2022 kategorie_1 sik_obrazek">
+      <a data-rel="novinky" href="#novinka_detail36522200064560" title="">
+       <img alt="Předávání ceny Vitriol za rok 2021 (16)" class="obrazek" src="/images/195!110/uzel/64560/0001~~Czg6MzXl8MKywwvzDq9VSE7Nq1QIyywpyszPUahKVCjKz1YwMjAyVNAwNNMEAA.jpg" srcset="/images/195!110/uzel/64560/0001~~Czg6MzXl8MKywwvzDq9VSE7Nq1QIyywpyszPUahKVCjKz1YwMjAyVNAwNNMEAA.jpg, /images/390!220/uzel/64560/0001~~Czg6MzXl8MKywwvzDq9VSE7Nq1QIyywpyszPUahKVCjKz1YwMjAyVNAwNNMEAA.jpg 2x"/>
+       <div class="cont">
+        <span class="datum">
+         st 11.05.2022
+        </span>
+        <span class="nazev">
+         Studentské ceny Vitriol uděleny
+        </span>
+        <span class="perex">
+         Na plese VŠCHT byli oceněni pedagogičtí i nepedagogičtí pracovníci VŠCHT Praha.
+        </span>
+       </div>
+      </a>
+     </div>
+     <div class="novinka aktualni historie_2022 kategorie_1 sik_obrazek novinka_odkaz">
+      <a data-rel="novinky" href="https://www.vscht.cz/ukrajina" title="">
+       <img alt="Studenti-proti-válce" class="obrazek" src="/images/195!110/uzel/63544/0001~~Cy4pTUnNK8nULSjKB5JlhxfmJKcCAA.jpg" srcset="/images/195!110/uzel/63544/0001~~Cy4pTUnNK8nULSjKB5JlhxfmJKcCAA.jpg, /images/390!220/uzel/63544/0001~~Cy4pTUnNK8nULSjKB5JlhxfmJKcCAA.jpg 2x"/>
+       <div class="cont">
+        <span class="datum">
+         st 02.03.2022
+        </span>
+        <span class="nazev">
+         VŠCHT Praha pomáhá v souvislosti s válkou na Ukrajině
+        </span>
+        <span class="perex">
+         Informace o pomoci nabízené postiženým studentům, akademikům a jejich blízkým.
+        </span>
+       </div>
+      </a>
+     </div>
+     <div class="novinka aktualni historie_2022 kategorie_1 sik_obrazek">
+      <a data-rel="novinky" href="#novinka_detail26623288063135" title="">
+       <img alt="Letní škola v roce 2019" class="obrazek" src="/images/195!110/uzel/63135/0002~~80ktyTu8VuHowuz8nESFMoWi_ORUBSMDQ0sA.jpg" srcset="/images/195!110/uzel/63135/0002~~80ktyTu8VuHowuz8nESFMoWi_ORUBSMDQ0sA.jpg, /images/390!220/uzel/63135/0002~~80ktyTu8VuHowuz8nESFMoWi_ORUBSMDQ0sA.jpg 2x"/>
+       <div class="cont">
+        <span class="datum">
+         po 05.09.2022
+        </span>
+        <span class="nazev">
+         8. Letní škola medicinální chemie „Advances in Drug Discovery“ bude opět v Praze
+        </span>
+       </div>
+      </a>
+     </div>
+     <div class="novinka aktualni historie_2022 kategorie_1 sik_obrazek">
+      <a data-rel="novinky" href="#novinka_detail26520472064537" title="">
+       <img alt="Pavel-Jelen-ws" class="obrazek" src="/images/195!110/uzel/64537/0001~~C0gsS83R9UrNSc3TLS8GAA.jpg" srcset="/images/195!110/uzel/64537/0001~~C0gsS83R9UrNSc3TLS8GAA.jpg, /images/390!220/uzel/64537/0001~~C0gsS83R9UrNSc3TLS8GAA.jpg 2x"/>
+       <div class="cont">
+        <span class="datum">
+         po 09.05.2022
+        </span>
+        <span class="nazev">
+         Prof. Jelen Prize
+        </span>
+        <span class="perex">
+         Ocenění pro mladé vědce z celého světa v oboru mlékařské vědy a technologie ponese jméno prof. Jelena z VŠCHT Praha
+        </span>
+       </div>
+      </a>
+     </div>
+     <div class="novinka aktualni historie_2022 kategorie_1 sik_obrazek">
+      <a data-rel="novinky" href="#novinka_detail26517880064538" title="">
+       <img alt="demnerova-ws" class="obrazek" src="/images/195!110/uzel/64538/0001~~S0nNzUstyi9L1C0vBgA.jpg" srcset="/images/195!110/uzel/64538/0001~~S0nNzUstyi9L1C0vBgA.jpg, /images/390!220/uzel/64538/0001~~S0nNzUstyi9L1C0vBgA.jpg 2x"/>
+       <div class="cont">
+        <span class="datum">
+         pá 06.05.2022
+        </span>
+        <span class="nazev">
+         Profesorka Demnerová oceněna zlatou medailí České akademie zemědělských věd
+        </span>
+       </div>
+      </a>
+     </div>
+     <div class="novinka aktualni historie_2022 kategorie_1 sik_obrazek novinka_odkaz">
+      <a data-rel="novinky" href="https://www.vscht.cz/hmch/konzultace-pro-zaky-ss" title="">
+       <img alt="konzultace" class="obrazek" src="/images/195!110/uzel/56160/0001~~y87PqyrNKUlMTgUA.jpg" srcset="/images/195!110/uzel/56160/0001~~y87PqyrNKUlMTgUA.jpg, /images/390!220/uzel/56160/0001~~y87PqyrNKUlMTgUA.jpg 2x"/>
+       <div class="cont">
+        <span class="datum">
+         st 13.04.2022
+        </span>
+        <span class="nazev">
+         Konzultace a doučování k maturitám pro středoškoláky
+        </span>
+        <span class="perex">
+         Pomáhat budou vybraní studenti pod záštitou VŠCHT.
+        </span>
+       </div>
+      </a>
+     </div>
+     <div class="novinka aktualni historie_2022 kategorie_1 sik_obrazek novinka_odkaz">
+      <a data-rel="novinky" href="https://www.vscht.cz/popularizace/media/tiskove-zpravy/2022/acetaldehyd-nebo-zare-ve-tme-fotosoutez-svet-je-chemie-vyhlasila-viteze" title="">
+       <img alt="1.MISTO_2kolo_18_ferencik-jakub_tancici-plameny" class="obrazek" src="/images/195!110/uzel/64188/0002~~M9Tz9QwO8Y83ys7PyY83tIhPSy1KzUvOzNbNSswuTYovSQRykjN1C3ISc1PzKgE.jpg" srcset="/images/195!110/uzel/64188/0002~~M9Tz9QwO8Y83ys7PyY83tIhPSy1KzUvOzNbNSswuTYovSQRykjN1C3ISc1PzKgE.jpg, /images/390!220/uzel/64188/0002~~M9Tz9QwO8Y83ys7PyY83tIhPSy1KzUvOzNbNSswuTYovSQRykjN1C3ISc1PzKgE.jpg 2x"/>
+       <div class="cont">
+        <span class="datum">
+         čt 07.04.2022
+        </span>
+        <span class="nazev">
+         Fotosoutěž Svět (je) chemie vyhlásila vítěze
+        </span>
+        <span class="perex">
+         Acetaldehyd nebo Záře ve tmě. Známe vítězné snímky 12. ročníku soutěže.
+        </span>
+       </div>
+      </a>
+     </div>
+     <div class="novinka aktualni historie_2022 kategorie_1 sik_obrazek novinka_odkaz">
+      <a data-rel="novinky" href="https://www.vscht.cz/popularizace/media/tiskove-zpravy/2022/popularni-kurz-sustainability-management-startuje-v-zari-2022" title="">
+       <img alt="Cíle udržitelného rozvoje ws" class="obrazek" src="/images/195!110/uzel/64101/0001~~cz68NidVoTSl6Oi-zJLUnLzDKzPyFYryq8rys1IVyosB.png" srcset="/images/195!110/uzel/64101/0001~~cz68NidVoTSl6Oi-zJLUnLzDKzPyFYryq8rys1IVyosB.png, /images/390!220/uzel/64101/0001~~cz68NidVoTSl6Oi-zJLUnLzDKzPyFYryq8rys1IVyosB.png 2x"/>
+       <div class="cont">
+        <span class="datum">
+         út 29.03.2022
+        </span>
+        <span class="nazev">
+         Populární kurz Sustainability management startuje v září 2022
+        </span>
+        <span class="perex">
+         Hlásit se je možné už nyní
+        </span>
+       </div>
+      </a>
+     </div>
+     <div class="novinka aktualni historie_2022 kategorie_2 sik_obrazek novinka_odkaz">
+      <a data-rel="novinky" href="https://www.vscht.cz/popularizace/media/tiskove-zpravy/2022/vscht-porada-jiz-5-rocnik-kurzu-obehove-hospodarstvi" title="">
+       <img alt="obehove-hospodarstvi" class="obrazek" src="/images/195!110/uzel/64082/0001~~y09KzcgvS9XNyC8uyE9JLCouKcsEAA.jpg" srcset="/images/195!110/uzel/64082/0001~~y09KzcgvS9XNyC8uyE9JLCouKcsEAA.jpg, /images/390!220/uzel/64082/0001~~y09KzcgvS9XNyC8uyE9JLCouKcsEAA.jpg 2x"/>
+       <div class="cont">
+        <span class="datum">
+         út 29.03.2022
+        </span>
+        <span class="nazev">
+         5. ročník kurzu Oběhové hospodářství
+        </span>
+        <span class="perex">
+         Využijte nových možností, které koncept oběhového hospodářství nabízí.
+        </span>
+       </div>
+      </a>
+     </div>
+     <div class="hidden">
+      <div class="novinka_detail novinka kategorie_1 novinka_ikona" id="novinka_detail46499736058918">
+       <span class="ico icon-euro">
+       </span>
+       <span class="nazev">
+        Iniciační granty VŠCHT Praha
+       </span>
+       <span class="perex">
+        Výzva Fondu Dagmar Procházkové - mladí vědečtí pracovníci s mezinárodní zkušeností mohou získat pro svoji kariéru na VŠCHT Praha dvouletý grant ve výši 2 400 000 Kč.
+       </span>
+       <br class="clear"/>
+      </div>
+      <div class="novinka_detail novinka kategorie_1 novinka_obrazek" id="novinka_detail36558488060710">
+       <img alt="Vědafest" class="obrazek" data-src="/images/450!0/uzel/60710/0001~~CzsyOyUxLbW4BAA.jpg" id="novinka_detail_gal_36558488060710"/>
+       <span class="nazev">
+        Vědafest 2022 tentokrát v červnu
+       </span>
+       <span class="perex">
+        Ve středu 22. 6. bude na Vítězném náměstí v Dejvicích opět plno stanů, kde půjde zažít vědu na vlastní kůži.
+       </span>
+       <br class="clear"/>
+      </div>
+      <div class="novinka_detail novinka kategorie_1 novinka_obrazek" id="novinka_detail36529112064625">
+       <img alt="fulbright2" class="obrazek" data-src="/images/450!0/uzel/64625/0002~~SyvNSSrKTM8oMQIA.jpg" id="novinka_detail_gal_36529112064625"/>
+       <span class="nazev">
+        Vědkyně z VŠCHT získaly Fulbrightovo stipendium
+       </span>
+       <div class="detail">
+        <p>
+         <strong>
+          Správní rada Fulbrightovy komise schválila výběr stipendistů na akademický rok 2022-23. Celkem bude v USA sbírat zkušenosti 32 stipendistů z deseti českých univerzit, tří ústavů Akademie věd ČR, nemocnic, neziskových organizací a veřejnoprávních medií. Mezi nimi jsou také dvě zástupkyně VŠCHT Praha. Soňa Hříbalová z Ústavu skla a keramiky bude působit Pensylvánské státní univerzitě, Lenka McGachy z Ústavu chemie ochrany prostředí pak na Kalifornské univerzitě v Berkeley.
+         </strong>
+        </p>
+        <p>
+         Prestižní Fulbrightovy stipendijní programy financované českou a americkou vládou poskytují českým občanům příležitost studovat, provádět výzkum či vyučovat v USA. Českým vzdělávacím a výzkumným institucím pak dávají možnost získat pedagoga nebo vědce z USA.
+        </p>
+        <p>
+         O stipendia se uchází jednotlivci přímo u Fulbrightovy komise, nikoliv přes své domovské akademické či jiné instituce. Stipendisté jsou vybíráni v otevřené soutěži. Základním kritériem výběru pro všechny programy je kvalita uchazeče a jeho projektu. Fulbrightova komise posuzuje přihlášky do všech programů spolu s odborníky v daném oboru z České republiky a ze zahraničí.
+        </p>
+        <p>
+         Oběma dámám gratulujeme a přejeme spoustu úspěchů ve výzkumu!
+        </p>
+       </div>
+       <br class="clear"/>
+      </div>
+      <div class="novinka_detail novinka kategorie_1 novinka_obrazek" id="novinka_detail36528248064622">
+       <img alt="DSC_6507-4" class="obrazek" data-src="/images/450!0/uzel/64622/0001~~cwl2jjczNTDXNQEA.jpg" id="novinka_detail_gal_36528248064622"/>
+       <span class="nazev">
+        VŠCHT patentuje robotickou linku na personalizovaná léčiva
+       </span>
+       <span class="perex">
+        Snahou je připravit léčiva každému pacientovi na míru.
+       </span>
+       <br class="clear"/>
+      </div>
+      <div class="novinka_detail novinka kategorie_1 novinka_obrazek" id="novinka_detail36527384064606">
+       <img alt="Vladimír Jirků WS" class="obrazek" data-src="/images/450!0/uzel/64606/0001~~C8tJTMnMPby2SMErsyj76HqF8GAA.jpg" id="novinka_detail_gal_36527384064606"/>
+       <span class="nazev">
+        Zemřel profesor Vladimír Jirků
+       </span>
+       <div class="detail">
+        <p>
+         V sobotu 14. května ve věku nedožitých 80 let zemřel náhle po krátké nemoci prof. RNDr. Vladimír Jirků, DrSc., významná osobnost Ústavu biotechnologie a celé Fakulty potravinářské a biochemické technologie. Celý svůj profesní život spojil s Vysokou školou chemicko-technologickou v Praze, kam nastoupil v roce 1972 po ukončení doktorského studia na Přírodovědecké fakultě University Karlovy. V roce 1990 se habilitoval v oboru Mikrobiologie a ve stejném oboru byl jmenován řádným profesorem v roce 2001. V roce 1994 mu byl udělen nejvyšší vědecký titul doktor technických věd. V roce 2021 rektor VŠCHT Praha Vláďu jmenoval emeritním profesorem.
+        </p>
+        <p>
+         Vláďova vědecká i pedagogická činnost byla vždy spojena s biologickými obory. Své hluboké znalosti biologie využil při úspěšném řešení mnoha vědeckých projektů jak základního, tak aplikovaného výzkumu. Ten vyústil v těsnou spolupráci s průmyslovými podniky, která byla završena udělenými patenty a průmyslovou realizací vyvinutých technologií. Hluboké biologické znalosti rovněž zúročil při tvorbě a osobním přednášení více než 15 předmětů pro všechny stupně vysokoškolského studia, a to v oblastech mikrobiologie, genetiky, buněčné biologie, molekulární biologie, aplikované buněčné biologie a biotechnologií. Celkově byl výborným pedagogem, což se projevovalo také při vedení kvalifikačních prací řady bakalářských, magisterských a doktorských studentů.
+        </p>
+        <p>
+         Vláďa byl skvělým kolegou a výborným kamarádem, který byl vždy za jakýchkoliv okolností ochoten poradit a pomoci, a to nejen v pracovních záležitostech. Nedocenitelná byla jeho spolehlivost, čestnost a celkový morální kredit.
+        </p>
+        <p>
+         Pro nás pro všechny je jeho nečekaná smrt obrovskou ztrátou. Vláďa nám bude trvalým příkladem skvělého vysokoškolského pedagoga, který dokázal skloubit kritického myšlení při zachování celoživotního entuziasmu a dobré nálady i ve složitých situacích.
+        </p>
+        <p style="text-align: right;">
+         kolegové z Ústavu biotechnologie
+        </p>
+       </div>
+       <br class="clear"/>
+      </div>
+      <div class="novinka_detail novinka kategorie_1 novinka_ikona" id="novinka_detail36527384064600">
+       <span class="ico icon-svet">
+       </span>
+       <span class="nazev">
+        VŠCHT spolupracuje na mezinárodním projektu PARC
+       </span>
+       <div class="detail">
+        <p>
+         V květnu 2022 byl zahájen projekt PARC (
+         <em>
+          European Partnership for the Assessment of Risks from Chemicals
+         </em>
+         ), podpořený novým rámcovým programem pro výzkum a inovaci Horizont Evropa (2021-2027). Projekt, jehož spoluřešiteli jsou i zástupci VŠCHT Praha, je úzce spojen se Zelenou dohodou pro Evropu, jejímž cílem je významně snížit dopady chemikálií na lidské zdraví a životní prostředí. Tento nadnárodní evropský projekt zahrnuje téměř 200 institucí z 28 zemí a tři orgány Evropské Unie.
+        </p>
+        <p>
+         VŠCHT Praha (Ústav analýzy potravin a výživy) se bude podílet na aktivitách souvisejících s vývojem nových analytických metod a jejich použitím pro biologický a environmentální monitoring chemikálií, které díky svým negativním účinkům na lidské zdraví vzbuzují mezi vědci obavy.
+        </p>
+        <p>
+         <em>
+          „V rámci pracovního balíčku „Monitoring a expozice“ navážeme na naše zkušenosti z dřívějšího projektu HBM4EU (European Human Biomonitoring Initiative) a budeme se podílet na zajištění kvality a srovnatelnosti získaných dat z biomonitoringových studií. Dále se zapojíme do řešení problematiky environmentálního a multizdrojového monitoringu per- a polyfluoralkylovaných sloučenin (PFAS) a látek interferujících s endokrinním systémem v různých složkách životního prostředí (především voda, potraviny, vzduch),“
+         </em>
+         říká prof. Jana Pulkrabová.
+        </p>
+        <p>
+         Pro splnění tohoto úkolu je VŠCHT součástí týmu, který podporuje vývoj nových přístupů k cílovému i necílovému screeningu těchto látek v prostředí a biologických materiálech.
+        </p>
+        <p>
+         V pracovním balíčku „Budování technických a lidských kapacit“ vedeného výzkumným centrem RECETOX Masarykovy univerzity v Brně se pak bude VŠCHT Praha podílet na budování a harmonizaci kapacit pro biologický a environmentální monitoring, které budou generovat potřebná data pro hodnocení chemických rizik v Evropě.
+        </p>
+       </div>
+       <br class="clear"/>
+      </div>
+      <div class="novinka_detail novinka kategorie_1 novinka_obrazek" id="novinka_detail36523928064586">
+       <img alt="Chemshow-2022" class="obrazek" data-src="/images/450!0/uzel/64586/0001~~c85IzS3OyC_XNTIwMgIA.jpg" id="novinka_detail_gal_36523928064586"/>
+       <span class="nazev">
+        Navštívili jsme mostecké žáky se zapálenou show
+       </span>
+       <div class="detail">
+        <p>
+         Ukázka chemických experimentů určená 8. ročníkům základních škol ChemShow proběhla tento týden v Mostě. Tamní magistrát rozproudili svými experimenty zástupci naší školy a předvedli, jak už samotný název napovídá, chemické zápalné pokusy, které nelze v rámci běžné výuky na školách provádět, a nejsou běžně v osnovách. Každoroční akci navštíví v několika blocích až 600 studentů a nahlédnou tak pod pokličku barevné a třaskavé chemii. Program proběhl pod záštitou strategického partnera ORLEN Unipetrol a.s.
+        </p>
+       </div>
+       <br class="clear"/>
+      </div>
+      <div class="novinka_detail novinka kategorie_1 novinka_obrazek" id="novinka_detail36522200064560">
+       <img alt="Předávání ceny Vitriol za rok 2021 (16)" class="obrazek" data-src="/images/450!0/uzel/64560/0001~~Czg6MzXl8MKywwvzDq9VSE7Nq1QIyywpyszPUahKVCjKz1YwMjAyVNAwNNMEAA.jpg" id="novinka_detail_gal_36522200064560"/>
+       <span class="nazev">
+        Studentské ceny Vitriol uděleny
+       </span>
+       <div class="detail">
+        <p>
+         <span>
+          Studentskou cenu Vitriol udělují studenti nejoblíbenějším pedagogickým i nepedagogickým pracovníkům na VŠCHT Praha. Cílem je ocenit práci těch, kteří nad rámec svých pracovních povinností inovují výuku, dokáží strhnout studenty pro svůj obor svým zápalem a vědomostmi při přednáškách, jsou pro studenty oporou a mentory vždy, když je potřeba.
+         </span>
+        </p>
+        <ul>
+         <li>
+          <a href="https://aktivni.vscht.cz/akce/kultura/vitriol-studentska-cena-pedagogum" rel="follow noopener" target="_blank">
+           <span>
+            Více o ceně Vitriol
+           </span>
+          </a>
+         </li>
+        </ul>
+        <p>
+        </p>
+        <p>
+         Oceňování pedagogů ze strany studentů má na VŠCHT Praha delší tradici, v této podobě šlo o první ročník. Ocenění za rok 2021 bylo předáno na plese VŠCHT Praha. Ten se z důvodů omezení souvisejících s onemocněním COVID-19 uskutečnil až na 28. dubna 2022.
+        </p>
+        <h3>
+         Výsledky
+        </h3>
+        <p>
+         Laureáty prvního ročníku studentské ceny Vitriol za rok 2021 se v 6 kategoriích stali:
+        </p>
+        <ul>
+         <li>
+          Nejlepší pedagog za FCHI: Dr. Ing.
+          <strong>
+           Pavel Vrbka
+          </strong>
+          z Ústavu fyzikální chemie
+         </li>
+         <li>
+          Nejlepší pedagog za FCHT – prof. Ing.
+          <strong>
+           Petr Zámostný
+          </strong>
+          , Ph.D. z Ústavu organické technologie
+         </li>
+         <li>
+          Nejlepší pedagog za FPBT – doc. Ing.
+          <strong>
+           Iveta Hrádková
+          </strong>
+          , Ph.D. z Ústavu mléka, tuků a kosmetiky
+         </li>
+         <li>
+          Nejlepší pedagog za FTOP – Ing.
+          <strong>
+           Marek Staf
+          </strong>
+          , Ph.D. z Ústavu plynných a pevných paliv a ochrany ovzduší
+         </li>
+         <li>
+          Nejlepší pedagog za celoškolská pracoviště – doc. RNDr. Ing.
+          <strong>
+           Hana Scholleová
+          </strong>
+          , Ph.D. z Ústavu ekonomiky a managementu
+         </li>
+         <li>
+          Nejlepší nepedagogický pracovník –
+          <strong>
+           Šárka Dintarová
+          </strong>
+          z děkanátu FTOP
+         </li>
+        </ul>
+        <h3>
+         O ceně
+        </h3>
+        <p>
+         Studenti VŠCHT Praha mohou celoročně
+         <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=aVQIpSfZakiWbvNQvy_gihpGlwlhBb9DmAw3n39JsDVUMTBWSTlIREVDTFROMDQ4TFhVR1kzME45SS4u" rel="follow">
+          nominovat kandidáty na cenu
+         </a>
+         . Během září probíhá vyhodnocení nominací komisí složenou z volených zástupců studentů v akademických senátech.
+        </p>
+        <p>
+         Ceny Vitriol vytvořila pro VŠCHT Praha umělkyně MgA.
+         <a href="https://dominikapetrtylova.com/" rel="follow">
+          Dominika Petrtýlová
+         </a>
+         , čerstvá absolventka UMPRUM v ateliéru pod vedením Ronyho Plesla. Mají podobu geometrické hříčky - Kleinovy lahve, kterou si
+         <span>
+          lze zjednodušeně představovat jako uzavřenou nádobu, která nemá vnitřek ani vnějšek (podrobněji viz
+          <a href="https://cs.wikipedia.org/wiki/Kleinova_l%C3%A1hev" rel="follow">
+           článek na wikipedii
+          </a>
+          ).
+         </span>
+        </p>
+       </div>
+       <br class="clear"/>
+      </div>
+      <div class="novinka_detail novinka kategorie_1 novinka_obrazek" id="novinka_detail36461756063544">
+       <img alt="Studenti-proti-válce" class="obrazek" data-src="/images/450!0/uzel/63544/0001~~Cy4pTUnNK8nULSjKB5JlhxfmJKcCAA.jpg" id="novinka_detail_gal_36461756063544"/>
+       <span class="nazev">
+        VŠCHT Praha pomáhá v souvislosti s válkou na Ukrajině
+       </span>
+       <span class="perex">
+        Informace o pomoci nabízené postiženým studentům, akademikům a jejich blízkým.
+       </span>
+       <br class="clear"/>
+      </div>
+      <div class="novinka_detail novinka kategorie_1 novinka_obrazek" id="novinka_detail26623288063135">
+       <img alt="Letní škola v roce 2019" class="obrazek" data-src="/images/450!0/uzel/63135/0002~~80ktyTu8VuHowuz8nESFMoWi_ORUBSMDQ0sA.jpg" id="novinka_detail_gal_26623288063135"/>
+       <span class="nazev">
+        8. Letní škola medicinální chemie „Advances in Drug Discovery“ bude opět v Praze
+       </span>
+       <div class="detail">
+        <div>
+         Letní školu medicinální chemie „Advances in Drug Discovery“ určenou především doktorandům a postdoktorandům pořádá společně s VŠCHT Praha Ústav organické chemie a biochemie AV ČR a Weizmann Institute of Science.
+        </div>
+        <div>
+        </div>
+        <div>
+         Po zahájení v roce 2014 a třech následujících úspěšných kurzech v letech 2015–2017 došlo k rošíření spolupráce a pátý kurz byl v roce 2018 organizován ve spolupráci s Weizmann Institute of Science v Izraeli v krásném kampusu v Rehovotu. V roce 2018 byla letní škola přejmenována na Prague–Weizmann School on Drug Discovery. Škola číslo šest, která se v roce 2019 konala v Praze, měla velký úspěch. Vzhledem k pandemické situaci se 7. letní škola pořádaná v roce 2021 v Rehovotu konala on-line. Přes obtížný online formát, ale i díky němu, školu navštěvovalo více než 400 studentů ze 44 zemí světa.
+        </div>
+        <div>
+         <span>
+         </span>
+        </div>
+        <div>
+         Letní škola poskytuje široký přehled o pokroku ve vývoji léčiv, od základního výzkumu až po vývoj výrobního procesu. Stejně jako v předchozích letech mohou účastníci prezentovat svůj výzkum formou posterových prezentací
+        </div>
+        <div>
+        </div>
+        <div>
+         Podrobné informace na webu
+         <a href="http://www.praguesummerschool.cz/index.php" rel="follow noopener" target="_blank">
+          Letní školy
+         </a>
+         a
+         <a href="/files/uzel/0063135/0001~~Cy7NzU0tCk7OyM_PiTcyMDKKdzSJNwIA.pdf" rel="follow">
+          letáku
+         </a>
+         .
+        </div>
+       </div>
+       <br class="clear"/>
+      </div>
+      <div class="novinka_detail novinka kategorie_1 novinka_obrazek" id="novinka_detail26520472064537">
+       <img alt="Pavel-Jelen-ws" class="obrazek" data-src="/images/450!0/uzel/64537/0001~~C0gsS83R9UrNSc3TLS8GAA.jpg" id="novinka_detail_gal_26520472064537"/>
+       <span class="nazev">
+        Prof. Jelen Prize
+       </span>
+       <div class="detail">
+        <p>
+         Mezinárodní mlékařská federace (IDF) vypsala významné ocenění pro  mladé vědecké pracovníky z celého světa v oboru mlékařské vědy a technologie, pojmenované po našem významném kolegovi prof. Pavlu Jelenovi „
+         <a href="https://fil-idf.org/idf_events/idf-professor-pavel-jelen-early-career-scientist-prize/" rel="follow">
+          IDF Professor Pavel Jelen Early Career Scientist Prize
+         </a>
+         “ .
+        </p>
+        <p>
+         Prof. Pavel Jelen je členem komise pro státní závěrečné zkoušky na
+         <a href="https://umtk.vscht.cz/" rel="follow">
+          Ústavu mléka, tuků a kosmetiky
+         </a>
+         na VŠCHT Praha, je velmi aktivním členem redakční rady Czech Journal of Food Sciences (CJFS) a mimořádně ochotným a kompetentním recenzentem vědeckých publikací tohoto časopisu. V minulosti dlouhá léta přednášel pro studenty
+         <a href="https://fpbt.vscht.cz" rel="follow">
+          Fakulty potravinářské a biocemické technologie
+         </a>
+         předmět „Úvod do světa potravin“ a organizoval spolupráci  a výměnu studentů mezi VŠCHT Praha a University of Alberta, Edmonton, Kanada.
+        </p>
+        <p>
+         U příležitosti loňského životního jubilea pana profesora byl v rámci časopisu CJFS vydán
+         <a href="https://doi.org/10.17221/6/2021-CJFS" rel="follow">
+          medailonek
+         </a>
+         , kde se lze o  aktivitách pana prof. Jelena dozvědět více.
+        </p>
+        <p>
+        </p>
+       </div>
+       <br class="clear"/>
+      </div>
+      <div class="novinka_detail novinka kategorie_1 novinka_obrazek" id="novinka_detail26517880064538">
+       <img alt="demnerova-ws" class="obrazek" data-src="/images/450!0/uzel/64538/0001~~S0nNzUstyi9L1C0vBgA.jpg" id="novinka_detail_gal_26517880064538"/>
+       <span class="nazev">
+        Profesorka Demnerová oceněna zlatou medailí České akademie zemědělských věd
+       </span>
+       <div class="detail">
+        <p>
+         Česká akademie zemědělských věd udělila dne 3. května prof. Kateřině Demnerové zlatou medaili za mimořádný přínos k rozvoji vědy a výzkumu v agrárním sektoru organizací.
+        </p>
+        <p>
+         Paní profesorce srdečně gratulujeme.
+        </p>
+       </div>
+       <br class="clear"/>
+      </div>
+      <div class="novinka_detail novinka kategorie_1 novinka_obrazek" id="novinka_detail26498008056160">
+       <img alt="konzultace" class="obrazek" data-src="/images/450!0/uzel/56160/0001~~y87PqyrNKUlMTgUA.jpg" id="novinka_detail_gal_26498008056160"/>
+       <span class="nazev">
+        Konzultace a doučování k maturitám pro středoškoláky
+       </span>
+       <span class="perex">
+        Pomáhat budou vybraní studenti pod záštitou VŠCHT.
+       </span>
+       <br class="clear"/>
+      </div>
+      <div class="novinka_detail novinka kategorie_1 novinka_obrazek" id="novinka_detail26492824064188">
+       <img alt="1.MISTO_2kolo_18_ferencik-jakub_tancici-plameny" class="obrazek" data-src="/images/450!0/uzel/64188/0002~~M9Tz9QwO8Y83ys7PyY83tIhPSy1KzUvOzNbNSswuTYovSQRykjN1C3ISc1PzKgE.jpg" id="novinka_detail_gal_26492824064188"/>
+       <span class="nazev">
+        Fotosoutěž Svět (je) chemie vyhlásila vítěze
+       </span>
+       <span class="perex">
+        Acetaldehyd nebo Záře ve tmě. Známe vítězné snímky 12. ročníku soutěže.
+       </span>
+       <br class="clear"/>
+      </div>
+      <div class="novinka_detail novinka kategorie_1 novinka_obrazek" id="novinka_detail26485048064101">
+       <img alt="Cíle udržitelného rozvoje ws" class="obrazek" data-src="/images/450!0/uzel/64101/0001~~cz68NidVoTSl6Oi-zJLUnLzDKzPyFYryq8rys1IVyosB.png" id="novinka_detail_gal_26485048064101"/>
+       <span class="nazev">
+        Populární kurz Sustainability management startuje v září 2022
+       </span>
+       <span class="perex">
+        Hlásit se je možné už nyní
+       </span>
+       <br class="clear"/>
+      </div>
+      <div class="novinka_detail novinka kategorie_2 novinka_obrazek" id="novinka_detail26485048064082">
+       <img alt="obehove-hospodarstvi" class="obrazek" data-src="/images/450!0/uzel/64082/0001~~y09KzcgvS9XNyC8uyE9JLCouKcsEAA.jpg" id="novinka_detail_gal_26485048064082"/>
+       <span class="nazev">
+        5. ročník kurzu Oběhové hospodářství
+       </span>
+       <span class="perex">
+        Využijte nových možností, které koncept oběhového hospodářství nabízí.
+       </span>
+       <br class="clear"/>
+      </div>
+     </div>
+     <div id="novinky_servis">
+      <div id="novinky_filtr">
+       <span class="icon icon-nastaveni">
+       </span>
+       <ul>
+        <li>
+         <a data-toggle="#novinky_vypis .novinka:not(.novinka_detail)" data-toggle-on=".kategorie_1">
+          Akce VŠCHT Praha
+         </a>
+        </li>
+        <li>
+         <a data-toggle="#novinky_vypis .novinka:not(.novinka_detail)" data-toggle-on=".kategorie_2">
+          Důležité termíny
+         </a>
+        </li>
+        <li>
+         <a data-toggle="#novinky_vypis .novinka:not(.novinka_detail)" data-toggle-on=".kategorie_3">
+          Studentské akce
+         </a>
+        </li>
+        <li>
+         <a data-toggle="#novinky_vypis .novinka:not(.novinka_detail)" data-toggle-on=".kategorie_4">
+          Zábava
+         </a>
+        </li>
+        <li>
+         <a data-toggle="#novinky_vypis .novinka:not(.novinka_detail)" data-toggle-on=".kategorie_5">
+          Věda
+         </a>
+        </li>
+        <li class="archiv">
+         <a href="/novinky">
+          Archiv novinek
+         </a>
+        </li>
+        <li>
+         <a href="?rok=2022">
+          Archiv z roku 2022
+         </a>
+        </li>
+        <li class="nadpis">
+         Nastavení novinek
+        </li>
+       </ul>
+      </div>
+      <a href="?loadall" id="novinky_dalsi">
+       zobrazit další novinky
+      </a>
+     </div>
+    </div>
+    <div id="infoboxy">
+     <div class="infobox zobrazenej uslideru barva_cervena" id="infobox1004">
+      <h3>
+       Informace pro
+      </h3>
+      <ul>
+       <li>
+        <a href="http://studuj.vscht.cz/">
+         Uchazeče
+        </a>
+       </li>
+       <li>
+        <a href="studium">
+         Studenty
+        </a>
+       </li>
+       <li>
+        <a href="/absolventi">
+         Absolventy
+        </a>
+       </li>
+       <li>
+        <a href="/popularizace/projekty">
+         Střední školy
+        </a>
+       </li>
+       <li>
+        <a href="/spoluprace/prumysl-a-firmy">
+         Firmy
+        </a>
+       </li>
+       <li>
+        <a href="http://intranet.vscht.cz/">
+         Zaměstnance (intranet)
+        </a>
+       </li>
+      </ul>
+      <div class="prilohy">
+      </div>
+      <span class="closebox">
+       ×
+      </span>
+      <a class="rozbalbox only_mobile icon" onclick="if($(this).parent().hasClass('rozbalenej')) $(this).text(''); else $(this).text(''); $(this).parent().toggleClass('rozbalenej'); return false;">
+       
+      </a>
+     </div>
+     <div class="infobox zobrazenej barva_modra" id="infobox1358">
+      <h3>
+       Pro studenty
+      </h3>
+      <ul>
+       <li>
+        <a href="https://studuj.vscht.cz/prihlaska">
+         Přijímací řízení
+        </a>
+       </li>
+       <li>
+        <a href="https://student.vscht.cz/index.php">
+         Studijní IS
+        </a>
+       </li>
+       <li>
+        <a href="/studijni-referentky">
+         Studijní referentky/děkanáty
+        </a>
+       </li>
+       <li>
+        <a href="https://edoktorand.vscht.cz/">
+         e-doktorand
+        </a>
+       </li>
+       <li>
+        <a href="http://www.vscht-suz.cz/">
+         Koleje, menza
+        </a>
+       </li>
+       <li>
+        <a href="/studium/studium-v-zahranici">
+         Studium v zahraničí
+        </a>
+       </li>
+       <li>
+        <a href="https://e-learning.vscht.cz/">
+         E-learning
+        </a>
+       </li>
+       <li>
+        <a href="https://pkc.vscht.cz/">
+         Poradenské a kariérní centrum
+        </a>
+       </li>
+       <li>
+        <a href="http://pkc.vscht.cz/poradna/tutori">
+         Studentští tutoři
+        </a>
+       </li>
+       <li>
+        <a href="https://pkc.vscht.cz/uplatneni">
+         Nabídka brigád a zaměstnání
+        </a>
+       </li>
+       <li>
+        <a href="http://cv.vscht.cz/u3v">
+         Univerzita 3. věku
+        </a>
+       </li>
+      </ul>
+      <div class="prilohy">
+      </div>
+      <span class="closebox">
+       ×
+      </span>
+      <a class="rozbalbox only_mobile icon" onclick="if($(this).parent().hasClass('rozbalenej')) $(this).text(''); else $(this).text(''); $(this).parent().toggleClass('rozbalenej'); return false;">
+       
+      </a>
+     </div>
+     <div class="infobox zobrazenej barva_seda" id="infobox1363">
+      <h3>
+       Servisní pracoviště
+      </h3>
+      <ul>
+       <li>
+        <a href="/veda-a-vyzkum/laboratore">
+         Laboratoře
+        </a>
+       </li>
+       <li>
+        <a href="/veda-a-vyzkum/laboratore/akreditovane-laboratore">
+         Akreditované laboratoře
+        </a>
+       </li>
+       <li>
+        <a href="https://clab.vscht.cz">
+         Centrální laboratoře
+        </a>
+       </li>
+       <li>
+        <a href="https://cis.vscht.cz/">
+         Centrum informačních služeb
+        </a>
+       </li>
+       <li>
+        <a href="https://www.chemtk.cz">
+         Chemická knihovna
+        </a>
+       </li>
+       <li>
+        <a href="https://vydavatelstvi.vscht.cz/">
+         Vydavatelství VŠCHT
+        </a>
+       </li>
+       <li>
+        <a href="https://vc.vscht.cz/">
+         Výpočetní centrum
+        </a>
+       </li>
+       <li>
+        <a href="/pivovar">
+         Univerzitní pivovar
+        </a>
+       </li>
+      </ul>
+      <div class="prilohy">
+      </div>
+      <span class="closebox">
+       ×
+      </span>
+      <a class="rozbalbox only_mobile icon" onclick="if($(this).parent().hasClass('rozbalenej')) $(this).text(''); else $(this).text(''); $(this).parent().toggleClass('rozbalenej'); return false;">
+       
+      </a>
+     </div>
+     <div class="infobox zobrazenej barva_seda" id="infobox39903">
+      <h3>
+       Kariéra na VŠCHT Praha
+      </h3>
+      <ul>
+       <li>
+        <a href="/kariera">
+         O zaměstnání na VŠCHT
+        </a>
+       </li>
+       <li>
+        <a href="/uredni-deska/vyberova-rizeni/vyberova-rizeni">
+         Akademické pozice
+        </a>
+       </li>
+       <li>
+        <a href="/veda-a-vyzkum/fond-dagmar-prochazkove">
+         Iniciační granty
+        </a>
+       </li>
+       <li>
+        <a href="/uredni-deska/vyberova-rizeni/vedouci-pozice">
+         Vedoucí pozice
+        </a>
+       </li>
+       <li>
+        <a href="https://phd.vscht.cz/zajemci-o-phd/doktorske-programy">
+         PhD pozice
+        </a>
+       </li>
+       <li>
+        <a href="/uredni-deska/vyberova-rizeni/job-ostatni">
+         Ostatní pracovní místa
+        </a>
+       </li>
+       <li>
+        <a href="/kariera/zahranicni-vyzkumnici">
+         Zahraniční pracovníci na VŠCHT Praha
+        </a>
+       </li>
+       <li>
+        <a href="/kariera/hr-award">
+         HRS4R - příprava na HR award
+        </a>
+       </li>
+      </ul>
+      <div class="prilohy">
+      </div>
+      <span class="closebox">
+       ×
+      </span>
+      <a class="rozbalbox only_mobile icon" onclick="if($(this).parent().hasClass('rozbalenej')) $(this).text(''); else $(this).text(''); $(this).parent().toggleClass('rozbalenej'); return false;">
+       
+      </a>
+     </div>
+     <div class="infobox zobrazenej barva_seda" id="infobox5566">
+      <h3>
+       Mezinárodně uznávané vzdělání
+      </h3>
+      <div class="text">
+       <p>
+        <img alt="DS (originál)" class="img_fancy_no" height="123" src="/images/0!0/uzel/0005566/0001~~cwkGAA.jpg" style="display: block; margin-left: auto; margin-right: auto;" width="87"/>
+       </p>
+       <ul>
+        <li>
+         <a href="/ds-label" rel="follow" title="Diploma Supplement Label">
+          Dodatek k diplomu
+         </a>
+        </li>
+        <li>
+         <a href="/eche" rel="follow" title="Erasmus charter">
+          ERASMUS Charter
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="prilohy">
+      </div>
+      <span class="closebox">
+       ×
+      </span>
+      <a class="rozbalbox only_mobile icon" onclick="if($(this).parent().hasClass('rozbalenej')) $(this).text(''); else $(this).text(''); $(this).parent().toggleClass('rozbalenej'); return false;">
+       
+      </a>
+     </div>
+    </div>
+    <br class="clear"/>
+    <br class="clear"/>
+    <div class="partneri">
+     <div class="partner">
+      <span class="nazev_partnera">
+       Strategický partner
+      </span>
+      <a href="https://www.vscht.cz/spoluprace/prumysl-a-firmy/unipetrol" title="ORLEN Unipetrol">
+       <img alt="ORLEN Unipetrol" src="/images/0!170/uzel/0001243/0002~~8w_ycfXTDc3LLEgtKcrPAQA.png" srcset="/images/0!170/uzel/0001243/0002~~8w_ycfXTDc3LLEgtKcrPAQA.png, /images/0!340/uzel/0001243/0002~~8w_ycfXTDc3LLEgtKcrPAQA.png 2x"/>
+       <span class="only_mobile partner_alt">
+        ORLEN Unipetrol
+       </span>
+      </a>
+     </div>
+     <div class="partner">
+      <span class="nazev_partnera">
+      </span>
+      <a href="https://www.chemaxon.com/" title="ChemAxon">
+       <img alt="ChemAxon" src="/images/0!170/uzel/0022711/chemaxon_ikona.png" srcset="/images/0!170/uzel/0022711/chemaxon_ikona.png, /images/0!340/uzel/0022711/chemaxon_ikona.png 2x"/>
+       <span class="only_mobile partner_alt">
+        ChemAxon
+       </span>
+      </a>
+     </div>
+     <div class="partner">
+      <span class="nazev_partnera">
+       Projects / Projekty
+      </span>
+      <a href="https://www.vscht.cz/veda-a-vyzkum/projekty/resene-projekty/esf" title="Operační program výzkum, vývoj a vzdělávání">
+       <img alt="Operační program výzkum, vývoj a vzdělávání" src="/images/0!170/uzel/0040145/0001~~yy8ICwuLz8lPzwcA.png" srcset="/images/0!170/uzel/0040145/0001~~yy8ICwuLz8lPzwcA.png, /images/0!340/uzel/0040145/0001~~yy8ICwuLz8lPzwcA.png 2x"/>
+       <span class="only_mobile partner_alt">
+        Operační program výzkum, vývoj a vzdělávání
+       </span>
+      </a>
+     </div>
+     <div class="partner">
+      <span class="nazev_partnera">
+      </span>
+      <a href="http://www.technopark-kralupy.cz/" title="Technopark Kralupy">
+       <img alt="Technopark Kralupy" src="/images/0!170/uzel/0005321/TechnoparkKralupy.jpg" srcset="/images/0!170/uzel/0005321/TechnoparkKralupy.jpg, /images/0!340/uzel/0005321/TechnoparkKralupy.jpg 2x"/>
+       <span class="only_mobile partner_alt">
+        Technopark Kralupy
+       </span>
+      </a>
+     </div>
+     <div class="partner">
+      <span class="nazev_partnera">
+      </span>
+      <a href="http://dk.vscht.cz/" title="Zkumavka">
+       <img alt="Zkumavka" src="/images/0!170/uzel/0005441/partneri_Zkumavka.jpg" srcset="/images/0!170/uzel/0005441/partneri_Zkumavka.jpg, /images/0!340/uzel/0005441/partneri_Zkumavka.jpg 2x"/>
+       <span class="only_mobile partner_alt">
+        Zkumavka
+       </span>
+      </a>
+     </div>
+     <div class="partner">
+      <span class="nazev_partnera">
+      </span>
+      <a href="https://www.theparc.eu/" title="The Parc">
+       <img alt="The Parc" src="/images/0!170/uzel/0047060/0001~~C8lIDUgsStbNzM7PSwQA.png" srcset="/images/0!170/uzel/0047060/0001~~C8lIDUgsStbNzM7PSwQA.png, /images/0!340/uzel/0047060/0001~~C8lIDUgsStbNzM7PSwQA.png 2x"/>
+       <span class="only_mobile partner_alt">
+        The Parc
+       </span>
+      </a>
+     </div>
+     <div class="partner">
+      <span class="nazev_partnera">
+      </span>
+      <a href="http://bafa.vscht.cz/" title="Laboratoř forenzní analýzy biologicky aktivních látek">
+       <img alt="Laboratoř forenzní analýzy biologicky aktivních látek" src="/images/0!170/uzel/0010167/partneri_BAFA.jpg" srcset="/images/0!170/uzel/0010167/partneri_BAFA.jpg, /images/0!340/uzel/0010167/partneri_BAFA.jpg 2x"/>
+       <span class="only_mobile partner_alt">
+        Laboratoř forenzní analýzy biologicky aktivních látek
+       </span>
+      </a>
+     </div>
+     <div class="partner">
+      <span class="nazev_partnera">
+      </span>
+      <a href="http://kvalab.vscht.cz/" title="KvaLab">
+       <img alt="KvaLab" src="/images/0!170/uzel/0010808/partneri_KvaLab.jpg" srcset="/images/0!170/uzel/0010808/partneri_KvaLab.jpg, /images/0!340/uzel/0010808/partneri_KvaLab.jpg 2x"/>
+       <span class="only_mobile partner_alt">
+        KvaLab
+       </span>
+      </a>
+     </div>
+     <div class="partner">
+      <span class="nazev_partnera">
+      </span>
+      <a href="https://www.elixirdoskol.cz/l/chemicka-centra/" title="Elixír do škol">
+       <img alt="Elixír do škol" src="/images/0!170/uzel/0064102/0001~~c83JrMgsAgA.png" srcset="/images/0!170/uzel/0064102/0001~~c83JrMgsAgA.png, /images/0!340/uzel/0064102/0001~~c83JrMgsAgA.png 2x"/>
+       <span class="only_mobile partner_alt">
+        Elixír do škol
+       </span>
+      </a>
+     </div>
+     <div class="partner">
+      <span class="nazev_partnera">
+      </span>
+      <a href="http://gro.vscht.cz/" title="GRO">
+       <img alt="GRO" src="/images/0!170/uzel/0005312/GRO.jpg" srcset="/images/0!170/uzel/0005312/GRO.jpg, /images/0!340/uzel/0005312/GRO.jpg 2x"/>
+       <span class="only_mobile partner_alt">
+        GRO
+       </span>
+      </a>
+     </div>
+     <div class="partner">
+      <span class="nazev_partnera">
+      </span>
+      <a href="https://www.scichallenge.eu/" title="SciChallenge">
+       <img alt="SciChallenge" src="/images/0!170/uzel/0029192/88lPz1cIdvZ09nD08XH1c3dVKClKzCsuSCxKzSvRNTCMz8zOz0sEAA.png" srcset="/images/0!170/uzel/0029192/88lPz1cIdvZ09nD08XH1c3dVKClKzCsuSCxKzSvRNTCMz8zOz0sEAA.png, /images/0!340/uzel/0029192/88lPz1cIdvZ09nD08XH1c3dVKClKzCsuSCxKzSvRNTCMz8zOz0sEAA.png 2x"/>
+       <span class="only_mobile partner_alt">
+        SciChallenge
+       </span>
+      </a>
+     </div>
+     <div class="partner">
+      <span class="nazev_partnera">
+      </span>
+      <a href="https://www.nanorobots.cz" title="Pokročilí funkční nanoroboti">
+       <img alt="Pokročilí funkční nanoroboti" src="/images/0!170/uzel/0038895/0001~~c0wpS8xLTk2JTy42is_Mzs9LBAA.png" srcset="/images/0!170/uzel/0038895/0001~~c0wpS8xLTk2JTy42is_Mzs9LBAA.png, /images/0!340/uzel/0038895/0001~~c0wpS8xLTk2JTy42is_Mzs9LBAA.png 2x"/>
+       <span class="only_mobile partner_alt">
+        Pokročilí funkční nanoroboti
+       </span>
+      </a>
+     </div>
+     <div class="partner">
+      <span class="nazev_partnera">
+      </span>
+      <a href="http://eitfoodhub.vscht.cz" title="">
+       <img alt="" src="/images/0!170/uzel/0044091/0001~~S80s0U3Lz0_RzclPzwcA.png" srcset="/images/0!170/uzel/0044091/0001~~S80s0U3Lz0_RzclPzwcA.png, /images/0!340/uzel/0044091/0001~~S80s0U3Lz0_RzclPzwcA.png 2x"/>
+       <span class="only_mobile partner_alt">
+       </span>
+      </a>
+     </div>
+     <div class="partner">
+      <span class="nazev_partnera">
+      </span>
+      <a href="https://www.vscht.cz/pivovar" title="Univerzitní pivovar">
+       <img alt="Univerzitní pivovar" src="/images/0!170/uzel/0046961/0001~~K83LLEstqsosyTu8Vrcgsyy_LLEIAA.png" srcset="/images/0!170/uzel/0046961/0001~~K83LLEstqsosyTu8Vrcgsyy_LLEIAA.png, /images/0!340/uzel/0046961/0001~~K83LLEstqsosyTu8Vrcgsyy_LLEIAA.png 2x"/>
+       <span class="only_mobile partner_alt">
+        Univerzitní pivovar
+       </span>
+      </a>
+     </div>
+    </div>
+    <br class="clear"/>
+   </div>
+  </div>
+ </div>
+ <div id="ppm">
+  <div class="" id="paticka">
+   <div>
+    <a class="mapa" href="https://www.vscht.cz/kontakt" id="patamapa">
+    </a>
+    <div class="budovy">
+     <div class="budova">
+      <span class="pismeno">
+       A
+      </span>
+      <strong>
+       BUDOVA A
+      </strong>
+      <a href="https://telefony.vscht.cz/cs/Department/74">
+       Rektorát
+      </a>
+      ,
+      <a href="https://telefony.vscht.cz/cs/Department/87">
+       oddělení komunikace
+      </a>
+      ,
+      <a href="https://telefony.vscht.cz/cs/Department/76">
+       pedagogické oddělení
+      </a>
+      ,
+      <a href="https://telefony.vscht.cz/cs/Department/16">
+       děkanát FCHT
+      </a>
+      ,
+      <a href="https://telefony.vscht.cz/cs/Department/95">
+       centrum informačních služeb
+      </a>
+     </div>
+     <div class="budova">
+      <span class="pismeno">
+       B
+      </span>
+      <strong>
+       BUDOVA B
+      </strong>
+      <a href="https://telefony.vscht.cz/cs/Department/77">
+       Věda a výzkum
+      </a>
+      ,
+      <a href="https://telefony.vscht.cz/cs/Department/23">
+       děkanát FTOP
+      </a>
+      ,
+      <a href="https://telefony.vscht.cz/cs/Department/33">
+       děkanát FPBT
+      </a>
+      ,
+      <a href="https://telefony.vscht.cz/cs/Department/42">
+       děkanát FCHI
+      </a>
+      ,
+      <a href="https://telefony.vscht.cz/cs/Department/89">
+       výpočetní centrum
+      </a>
+      ,
+      <a href="https://telefony.vscht.cz/cs/Department/84">
+       zahraniční oddělení
+      </a>
+      ,
+      <a href="https://telefony.vscht.cz/cs/Department/75">
+       kvestor
+      </a>
+     </div>
+     <div class="budova">
+      <span class="pismeno">
+       C
+      </span>
+      <strong>
+       BUDOVA C
+      </strong>
+      <a href="https://telefony.vscht.cz/cs/Department/71">
+       Dětský koutek Zkumavka
+      </a>
+      ,
+      <a href="https://www.vscht.cz/fakulty/lekar">
+       praktický lékař
+      </a>
+      ,
+      <a href="https://um.vscht.cz">
+       Ústav matematiky
+      </a>
+     </div>
+     <div class="budova mimo">
+      <span class="pismeno">
+       1
+      </span>
+      <strong>
+       <a href="http://knihovna.vscht.cz/">
+        NÁRODNÍ TECHNICKÁ KNIHOVNA
+       </a>
+      </strong>
+     </div>
+     <div class="budova mimo">
+      <span class="pismeno">
+       2
+      </span>
+      <strong>
+       STUDENTSKÁ KAVÁRNA CARBON
+      </strong>
+     </div>
+    </div>
+   </div>
+   <div class="adresa">
+    <div>
+     VŠCHT Praha
+     <br/>
+     Technická 5
+     <br/>
+     166 28 Praha 6 – Dejvice
+     <br/>
+     IČO: 60461373
+     <br/>
+     DIČ: CZ60461373
+     <br/>
+     <br/>
+     Datová schránka: sp4j9ch
+     <br/>
+     <br/>
+     Copyright VŠCHT Praha
+     <br/>
+     Za informace odpovídá
+     <a href="mailto:webmaster@vscht.cz">
+      Oddělení komunikace
+     </a>
+     , technický správce Výpočetní centrum
+     <br/>
+     <br/>
+     VŠCHT Praha
+     <br>
+      na
+      <a href="https://www.vscht.cz/social-media">
+       sociálních sítích
+      </a>
+      <a class="ico mail" href="mailto:info@vscht.cz">
+       <span class="icon-mail">
+       </span>
+      </a>
+      <a class="ico print" href="javascript:window.print()">
+       <span class="icon-tisk">
+       </span>
+      </a>
+     </br>
+    </div>
+   </div>
+  </div>
+  <a href="?cookie[only_desktop]=1" id="mobile_dektop_sw" style="">
+   zobrazit plnou verzi
+  </a>
+ </div>
+ <script type="text/javascript">
+  only_desktop=0;<!-- Statistika pomoci GA -->
+  var _gaq=_gaq||[];_gaq.push(['_setAccount', 'UA-10822215-1']);_gaq.push(['_setDomainName', 'vscht.cz']);_gaq.push(['_gat._anonymizeIp']);_gaq.push(['_trackPageview']);
+  (function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();
+ </script>
+ <a href="#" id="scroll_top" title="">
+  
+ </a>
+ <div class="only_mobile" id="mobile_over">
+  <div id="mobile_wrap">
+   <div id="mobile_nadpis">
+   </div>
+   <div class="icon-krizek" id="mobile_over_close">
+   </div>
+   <div class="mobile_content" id="mobile_content_menu">
+   </div>
+   <div class="mobile_content" id="mobile_content_jazyky">
+   </div>
+   <div class="mobile_content" id="mobile_content_login">
+   </div>
+   <div class="mobile_content" id="mobile_content_search">
+   </div>
+  </div>
+ </div>
+</body>
+<!-- 
+		Array
+(
+    [init] => 0.00044894218444824
+    [jazyk] => 0.0011351108551025
+    [data] => 0.11406898498535
+    [auth] => 0.14787697792053
+    [www] => 0.14796710014343
+    [body1] => 0.23913598060608
+    [menu1] => 0.23919105529785
+    [menu2] => 0.24203109741211
+    [body2] => 0.24203991889954
+    [finish] => 0.2423300743103
+)
+ IDu:1001		Array
+(
+)
+		Array
+(
+)
+	-->

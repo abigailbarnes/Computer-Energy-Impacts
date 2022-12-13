@@ -1,0 +1,1060 @@
+<!DOCTYPE html>
+<html class="template--home" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <meta content="telephone=no" name="format-detection"/>
+  <title>
+   NBP - Promoting Braille Literacy, Braille Books, Braille Publications, Princeton Braillists Tactile Maps
+  </title>
+  <link href="/dist/assets/images/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+  <link href="/dist/assets/css/vendor.1566316355.css" rel="stylesheet" type="text/css"/>
+  <link href="/dist/assets/css/bundle.1566324861.css" rel="stylesheet" type="text/css"/>
+  <link href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i,900,900i" rel="stylesheet"/>
+  <meta content="n2F1WBXa24rceN_XC7eUyayBMfWMTpfo-A9HAotqyc4" name="google-site-verification">
+   <meta content="0655a145db466c05c3e64ca7edc766fb" name="p:domain_verify">
+    <!-- Global Site Tag (gtag.js) - Google Analytics -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-3009011-1">
+    </script>
+    <script>
+     window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-3009011-1', {
+    
+  });
+
+  gtag('config', 'AW-997848376');
+    </script>
+   </meta>
+  </meta>
+ </head>
+ <body>
+  <div class="wrapper">
+   <header class="header">
+    <a class="sr-only sr-only-focusable" href="#main-content">
+     skip to main content
+    </a>
+    <div class="header__content">
+     <div class="container">
+      <div class="header__inner">
+       <a class="nav-trigger" href="#">
+        <span>
+        </span>
+        <span>
+        </span>
+        <span>
+        </span>
+        <strong>
+         Menu
+        </strong>
+       </a>
+       <a class="logo" href="https://www.nbp.org/ic/nbp/">
+        <img alt="National Braille Press Logo" src="/dist/assets/images/logo@2x.1566316355.png"/>
+       </a>
+       <div class="search">
+        <form action="https://www.nbp.org/ic/nbp/search.html" method="get">
+         <div class="search__content">
+          <div class="search__inner">
+           <label class="search__hidden-label" for="search-q">
+            <span class="visually-hidden">
+             Site Search:
+            </span>
+           </label>
+           <input class="search__field" id="search-q" name="q" type="search" value=""/>
+           <button class="search__btn" id="top-search-btn" type="submit">
+            <span class="ico-search">
+             Search
+            </span>
+           </button>
+          </div>
+          <!-- /.search__inner -->
+         </div>
+         <!-- /.search__content -->
+        </form>
+       </div>
+       <!-- /.search -->
+       <nav class="nav--utilities">
+        <ul>
+         <li class="d-none d-lg-inline-block">
+          <a href="https://www.nbp.org/ic/nbp/about/aboutus/contact.html">
+           <span class="ico-contact">
+           </span>
+           <span>
+            CONTACT
+           </span>
+          </a>
+         </li>
+         <li class="d-inline-block d-lg-none">
+          <a class="js-show-search" href="https://www.nbp.org/ic/nbp/find.html">
+           <span class="ico-search-black mb-2">
+           </span>
+           <span class="ico-label--search">
+            SEARCH
+           </span>
+          </a>
+         </li>
+         <li class="d-none d-lg-inline-block">
+          <a href="https://www.nbp.org/ic/nbp/login.html">
+           <span class="ico-unlocked">
+           </span>
+           <span class="ico-label ico-label--lock">
+            LOG IN
+           </span>
+          </a>
+         </li>
+         <li>
+          <a href="https://www.nbp.org/ic/nbp/cart.html">
+           <span class="ico-cart">
+           </span>
+           <span>
+            CART (0)
+           </span>
+          </a>
+         </li>
+        </ul>
+       </nav>
+       <!-- /.nav-/-utilities -->
+      </div>
+      <!-- /.header__inner -->
+     </div>
+     <!-- /.container -->
+    </div>
+    <!-- /.header__content -->
+    <div class="header__bar">
+     <div class="container">
+      <div class="header__bar-inner">
+       <nav class="nav">
+        <ul>
+         <li>
+          <a href="https://www.nbp.org/ic/nbp/publications/index.html">
+           <span class="sr-only">
+            The Main Menu Bar has seven horizontal menu options. To activate the dropdown menu list for each option, hold down the Insert key and press the CTRL + Enter keys. Then use the up and down arrow keys to navigate the list.
+           </span>
+           Bookstore
+          </a>
+          <ul class="dropdown">
+           <li>
+            <a href="https://www.nbp.org/ic/nbp/publications/hot_off.html">
+             Hot Off the Press
+            </a>
+           </li>
+           <li>
+            <a href="https://www.nbp.org/ic/nbp/publications/all_books.html">
+             All Books and Products
+            </a>
+           </li>
+           <li>
+            <a href="https://www.nbp.org/ic/nbp/publications/category_browse.html">
+             Browse by Category
+            </a>
+           </li>
+           <li>
+            <a href="https://www.nbp.org/ic/nbp/publications/adult_books.html">
+             Books for Adults
+            </a>
+           </li>
+           <li>
+            <a href="https://www.nbp.org/ic/nbp/publications/kids_books.html">
+             Books for Children
+            </a>
+           </li>
+           <li>
+            <a href="https://www.nbp.org/ic/nbp/publications/maps.html">
+             Maps: Princeton Braillists
+            </a>
+           </li>
+           <li>
+            <a href="https://www.nbp.org/ic/nbp/technology/brailleme.html">
+             The Braille Me
+            </a>
+           </li>
+           <li>
+            <a href="https://www.nbp.org/ic/nbp/publications/braille-gifts.html">
+             Jewelry and Gifts
+            </a>
+           </li>
+           <li>
+            <a href="https://www.nbp.org/ic/nbp/education/braille_textbooks.html">
+             Textbook Catalog
+            </a>
+           </li>
+           <li>
+            <a href="https://www.nbp.org/ic/nbp/publications/tvi-toolbox.html">
+             Resources for TVIs
+            </a>
+           </li>
+           <li>
+            <a href="https://www.nbp.org/ic/nbp/publications/customer_service.html">
+             Customer Service &amp; FAQs
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li>
+          <a href="https://www.nbp.org/ic/nbp/programs/index.html">
+           Kids’ Programs
+           <span class="sr-only">
+            Menu link
+           </span>
+          </a>
+          <ul class="dropdown">
+           <li>
+            <a href="https://www.nbp.org/ic/nbp/programs/cbbc/titles.html">
+             Children’s Braille Book Club
+            </a>
+           </li>
+           <li>
+            <a href="https://www.nbp.org/ic/nbp/programs/readbooks/readbooks.html">
+             ReadBooks!
+            </a>
+           </li>
+           <li>
+            <a href="https://www.nbp.org/ic/nbp/programs/gep/ge_index.html">
+             Great Expectations
+            </a>
+           </li>
+           <li>
+            <a href="https://www.nbp.org/ic/nbp/publications/boardbooks.html">
+             Bumpy Basics
+            </a>
+           </li>
+           <li>
+            <a href="https://info.nbp.org/braille-ignition-kits">
+             TVI Braille Ignition Kits
+            </a>
+           </li>
+           <li>
+            <a href="https://www.nbp.org/ic/nbp/programs/science_and_technology.html">
+             Science and Technology
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li>
+          <a href="https://www.nbp.org/ic/nbp/business/index.html">
+           Braille for Business
+           <span class="sr-only">
+            Menu link
+           </span>
+          </a>
+          <ul class="dropdown">
+           <li>
+            <a href="https://www.nbp.org/ic/nbp/business/brailleprinting.html">
+             Braille Printing for Business
+            </a>
+           </li>
+           <li>
+            <a href="https://www.nbp.org/ic/nbp/business/business_card_specs.html">
+             Braille Business Cards
+            </a>
+           </li>
+           <li>
+            <a href="https://info.nbp.org/braille-menus">
+             Braille Menus
+            </a>
+           </li>
+           <li>
+            <a href="https://www.nbp.org/ic/nbp/business/requestaquote.html">
+             Request a Quote
+            </a>
+           </li>
+           <li>
+            <a href="https://info.nbp.org/national-braille-press-client-testimonials">
+             Testimonials
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li>
+          <a href="https://www.nbp.org/ic/nbp/education/index.html">
+           Braille for Education
+           <span class="sr-only">
+            Menu link
+           </span>
+          </a>
+          <ul class="dropdown">
+           <li>
+            <a href="https://www.nbp.org/ic/nbp/education/braille_textbooks.html">
+             Braille Textbooks
+            </a>
+           </li>
+           <li>
+            <a href="https://www.nbp.org/ic/nbp/education/assessments.html">
+             Braille Assessments
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li>
+          <a href="https://www.nbp.org/ic/nbp/technology/index.html">
+           Braille Innovation
+           <span class="sr-only">
+            Menu link
+           </span>
+          </a>
+          <ul class="dropdown">
+           <li>
+            <a href="https://www.nbp.org/ic/nbp/technology/cbi_about.html">
+             About CBI
+            </a>
+           </li>
+           <li>
+            <a href="https://www.nbp.org/ic/nbp/technology/products.html">
+             Products
+            </a>
+           </li>
+           <li>
+            <a href="https://www.nbp.org/ic/nbp/technology/rnd.html">
+             Research &amp; Development
+            </a>
+           </li>
+           <li>
+            <a href="https://www.nbp.org/ic/nbp/technology/tog.html">
+             Touch of Genius Prize
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li>
+          <a href="https://www.nbp.org/ic/nbp/support/index.html">
+           Support Us
+           <span class="sr-only">
+            Menu link
+           </span>
+          </a>
+          <ul class="dropdown">
+           <li>
+            <a href="https://www.nbp.org/ic/nbp/support/makeagift.html">
+             Make a Gift
+            </a>
+           </li>
+           <li>
+            <a href="https://www.nbp.org/ic/nbp/support/planned_gifts.html">
+             Estate Planning
+            </a>
+           </li>
+           <li>
+            <a href="https://www.nbp.org/ic/nbp/support/events.html">
+             Events
+            </a>
+           </li>
+           <li>
+            <a href="https://www.nbp.org/ic/nbp/support/volunteer.html">
+             Volunteer
+            </a>
+           </li>
+           <li>
+            <a href="https://www.nbp.org/ic/nbp/support/corporate.html">
+             Foundations &amp; Corporate Giving
+            </a>
+           </li>
+           <li>
+            <a href="https://www.nbp.org/ic/nbp/support/advocacy.html">
+             Advocacy
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li>
+          <a href="https://www.nbp.org/ic/nbp/about/index.html">
+           About
+           <span class="sr-only">
+            Menu link
+           </span>
+          </a>
+          <ul class="dropdown">
+           <li>
+            <a href="https://www.nbp.org/ic/nbp/about/aboutus.html">
+             About Us
+            </a>
+           </li>
+           <li>
+            <a href="https://www.nbp.org/ic/nbp/about/aboutbraille.html">
+             About Braille
+            </a>
+           </li>
+          </ul>
+         </li>
+        </ul>
+       </nav>
+       <!-- /.nav -->
+       <input class="btn btn--default btn--success" onclick="location.href='https://www.classy.org/give/227428/#!/donation/checkout'" type="button" value="DONATE"/>
+       <a class="d-block d-lg-none btn-user" href="https://www.nbp.org/ic/nbp/login.html">
+        <span class="ico-unlocked-white">
+        </span>
+        <span>
+         LOG IN
+        </span>
+       </a>
+      </div>
+      <!-- /.header__bar-inner -->
+     </div>
+     <!-- /.container -->
+    </div>
+    <!-- /.header__bar -->
+   </header>
+   <!-- /.header -->
+   <main>
+    <div class="intro">
+     <div class="intro__inner">
+      <div class="intro__image" style="background-image: url(/dist/assets/images/temp/intro.1566316355.jpg);">
+      </div>
+      <!-- /.intro__image -->
+      <div class="intro__content">
+       <div class="container">
+        <div class="intro__content-inner">
+         <h1 class="h1">
+          Our Mission
+         </h1>
+         <p>
+          National Braille Press empowers the blind and visually impaired with programs,
+            materials, and technology supporting braille literacy and
+            learning through touch.
+         </p>
+         <input class="btn btn--default btn-primary" onclick="location.href='https://www.nbp.org/ic/nbp/about/aboutus/ourmission.html'" type="button" value="Who We Are"/>
+        </div>
+        <!-- /.intro__content-inner -->
+       </div>
+       <!-- /.container -->
+      </div>
+      <!-- /.intro__content -->
+     </div>
+     <!-- /.intro__inner -->
+     <div class="intro__bar">
+      <div class="container">
+       <div class="intro__bar-inner">
+        <div class="bf d-flex" id="js-braille-feature">
+         <form action="" class="bf__braille-me align-items-center form-inline flex-nowrap" id="js-translate-form" method="post">
+          <button class="btn btn-primary text-uppercase intro__bar-tbtn text-nowrap mr-4" type="submit">
+           Braille ME!
+           <span class="sr-only">
+            Selecting the Braille Me button will transcribe the print in the edit field into braille and display the braille on the banner.
+           </span>
+          </button>
+          <input class="form-control bf__input mr-2" id="braille_me" maxlength="30" type="text" value="Braille Matters">
+           <span style="margin-right:10%;">
+            Input letters only
+           </span>
+          </input>
+         </form>
+         <div class="bf__translate">
+          <button class="btn btn-primary text-uppercase js-translate-btn intro__bar-tbtn mr-4">
+           Decode!
+           <span class="sr-only">
+            Selecting the Decode button transcribes the braille displayed on the banner into print. It then changes from a Decode button to a Braille Me button and places the cursor
+			  into an edit field to enter your own text to have decoded.
+           </span>
+          </button>
+          <span class="bf__text" id="js-braille-text">
+          </span>
+         </div>
+        </div>
+        <a class="link--more link--more-white" href="https://www.nbp.org/ic/nbp/about/aboutbraille/whatisbraille.html">
+         <span>
+          Discover Braille
+         </span>
+         <span class="arrow">
+          <span>
+          </span>
+         </span>
+        </a>
+       </div>
+       <!-- /.intro__bar-inner -->
+      </div>
+      <!-- /.container -->
+     </div>
+     <!-- /.intro__bar -->
+    </div>
+    <!-- /.intro -->
+    <div class="container">
+     <div class="col">
+      <p class="translator-disclaimer mt-3">
+       Braille transcription is an art! Only a certified braille transcriber can create
+      perfect braille. Want to know more? Find out
+       <a href="https://www.nbp.org/ic/nbp/about/aboutus/employment.html">
+        how to become a braille transcriber
+       </a>
+       .
+      </p>
+     </div>
+    </div>
+    <!-- BEGIN CONTENT -->
+    <section class="section section--articles" id="main-content">
+     <div class="container">
+      <div class="articles">
+       <div class="row">
+        <div class="col-md-4">
+         <div class="article article--primary">
+          <!-- section header -->
+          <a class="link--more" href="https://www.nbp.org/ic/nbp/publications/hot_off.html">
+           <h2 class="h3">
+            Shop Our Bookstore
+           </h2>
+           <span class="arrow">
+            <span>
+            </span>
+           </span>
+          </a>
+          <!-- image, used as background for the "cover" feature -->
+          <a class="article__image" href="https://www.nbp.org/ic/nbp/publications/hot_off.html" style="background-image: url(/nbp/images/home/1_braille_books_kids_and_adults.jpg)">
+           <span class="sr-only">
+            Photo of a collection of braille books, for kids and adults
+           </span>
+          </a>
+          <!-- /.article__image -->
+          <!-- the design doesn't have text for top articles, just the title + read -->
+          <div class="article__content">
+           <h3 class="h5">
+            Hot Off the Braille Press
+           </h3>
+           <div>
+            Keep up with our latest publications — cookbooks, technology guides, educational titles, picture books for kids, and much more!
+            <br/>
+           </div>
+           <a class="link--more-secondary" href="https://www.nbp.org/ic/nbp/publications/hot_off.html">
+            <span>
+             Visit Hot Off the Braille Press
+            </span>
+            <span class="arrow">
+            </span>
+           </a>
+          </div>
+          <!-- /.article__content -->
+         </div>
+         <!-- /.article -->
+        </div>
+        <!-- /.col-md-4 -->
+        <div class="col-md-4">
+         <div class="article article--primary">
+          <!-- section header -->
+          <a class="link--more" href="https://www.nbp.org/ic/nbp/business/index.html">
+           <h2 class="h3">
+            Braille for Business
+           </h2>
+           <span class="arrow">
+            <span>
+            </span>
+           </span>
+          </a>
+          <!-- image, used as background for the "cover" feature -->
+          <a class="article__image" href="https://www.nbp.org/ic/nbp/business/index.html" style="background-image: url(/nbp/images/home/2_braillebusinesscard.jpg)">
+           <span class="sr-only">
+            A business card embossed in braille.
+           </span>
+          </a>
+          <!-- /.article__image -->
+          <!-- the design doesn't have text for top articles, just the title + read -->
+          <div class="article__content">
+           <h3 class="h5">
+            Braille Business Solutions
+           </h3>
+           <div>
+            Make a lasting impression with customized business cards and other collateral material with braille.
+           </div>
+           <a class="link--more-secondary" href="https://www.nbp.org/ic/nbp/business/business_card_specs.html">
+            <span>
+             Get Started
+            </span>
+            <span class="arrow">
+            </span>
+           </a>
+          </div>
+          <!-- /.article__content -->
+         </div>
+         <!-- /.article -->
+        </div>
+        <!-- /.col-md-4 -->
+        <div class="col-md-4">
+         <div class="article article--primary">
+          <!-- section header -->
+          <a class="link--more" href="https://www.nbp.org/ic/nbp/support/index.html">
+           <h2 class="h3">
+            Support Us
+           </h2>
+           <span class="arrow">
+            <span>
+            </span>
+           </span>
+          </a>
+          <!-- image, used as background for the "cover" feature -->
+          <a class="article__image" href="https://youtu.be/atOHxdqE-i4" style="background-image: url(/nbp/images/home/3-temp-comcast-psa.jpg)" target="0">
+           <span class="sr-only">
+            A mother watches her daughter reading braille in a still from the new Comcast ad
+           </span>
+          </a>
+          <!-- /.article__image -->
+          <!-- the design doesn't have text for top articles, just the title + read -->
+          <div class="article__content">
+           <h3 class="h5">
+            Braille Literacy
+            <em>
+             <strong>
+              is
+             </strong>
+            </em>
+            Literacy!
+           </h3>
+           <div>
+            Comcast has started airing a new ad highlighting our mission to promote braille literacy in the blind and low vision community.
+           </div>
+           <a class="link--more-secondary" href="https://youtu.be/atOHxdqE-i4" target="0">
+            <span>
+             Watch the new ad here
+            </span>
+            <span class="arrow">
+            </span>
+           </a>
+          </div>
+          <!-- /.article__content -->
+         </div>
+         <!-- /.article -->
+        </div>
+        <!-- /.col-md-4 -->
+        <div class="col-md-4">
+         <div class="article article--primary">
+          <!-- section header -->
+          <a class="link--more" href="https://www.nbp.org/ic/nbp/technology/index.html">
+           <h2 class="h3">
+            Braille Technology
+           </h2>
+           <span class="arrow">
+            <span>
+            </span>
+           </span>
+          </a>
+          <!-- image, used as background for the "cover" feature -->
+          <a class="article__image" href="https://www.nbp.org/ic/nbp/technology/brailleme.html" style="background-image: url(/nbp/images/home/4-technology-braille-me.jpg)">
+           <span class="sr-only">
+            The braille me sits on a green table with an apple nearby
+           </span>
+          </a>
+          <!-- /.article__image -->
+          <!-- the design doesn't have text for top articles, just the title + read -->
+          <div class="article__content">
+           <h3 class="h5">
+            The Braille Me
+           </h3>
+           <div>
+            This refreshable braille reader created by Innovision uses a groundbreaking new technology to power the braille display — allowing us to slash costs.
+           </div>
+           <a class="link--more-secondary" href="https://www.nbp.org/ic/nbp/technology/brailleme.html">
+            <span>
+             Read more about the Braille Me
+            </span>
+            <span class="arrow">
+            </span>
+           </a>
+          </div>
+          <!-- /.article__content -->
+         </div>
+         <!-- /.article -->
+        </div>
+        <!-- /.col-md-4 -->
+        <div class="col-md-4">
+         <div class="article article--primary">
+          <!-- section header -->
+          <a class="link--more" href="https://www.nbp.org/ic/nbp/support/events.html">
+           <h2 class="h3">
+            Attend An Event
+           </h2>
+           <span class="arrow">
+            <span>
+            </span>
+           </span>
+          </a>
+          <!-- image, used as background for the "cover" feature -->
+          <a class="article__image" href="https://share.hsforms.com/1brTQDTehQ_Kudb2EwOLygw1fsnq" style="background-image: url(/nbp/images/support/poetry-circle-gorman.jpg)" target="_blank">
+           <span class="sr-only">
+            photo of poet amanda gorman speaking at the 2021 presidential inauguration
+           </span>
+          </a>
+          <!-- /.article__image -->
+          <!-- the design doesn't have text for top articles, just the title + read -->
+          <div class="article__content">
+           <h3 class="h5">
+            Joy &amp; Wonder Poetry Circle
+           </h3>
+           <div>
+            Join us Thursday, April 21st to read a favorite poem that gives you joy, or just to listen. All who register will receive a braille copy of "New Day's Lyric" by Amanda Gorman and some resources for more wonderful poetry.
+            <br/>
+           </div>
+           <a class="link--more-secondary" href="https://share.hsforms.com/1brTQDTehQ_Kudb2EwOLygw1fsnq" target'"0"="">
+            <span>
+             Register for Joy &amp; Wonder
+            </span>
+            <span class="arrow">
+            </span>
+           </a>
+          </div>
+          <!-- /.article__content -->
+         </div>
+         <!-- /.article -->
+        </div>
+        <!-- /.col-md-4 -->
+        <div class="col-md-4">
+         <div class="article article--primary">
+          <!-- section header -->
+          <a class="link--more" href="https://www.givengain.com/ap/pete-carty-raising-funds-for-national-braille-press/" target="0">
+           <h2 class="h3">
+            What's New
+           </h2>
+           <span class="arrow">
+            <span>
+            </span>
+           </span>
+          </a>
+          <!-- image, used as background for the "cover" feature -->
+          <a class="article__image" href="https://www.givengain.com/ap/pete-carty-raising-funds-for-national-braille-press/" style="background-image: url(/nbp/images/home/peter-marathon-2022.jpg)" target="0">
+           <span class="sr-only">
+            Peter is wearing a white singlet that says "National Braille Press" in print and braille over a gray shirt and red shorts. He is determined and looking straight ahead as he finishes marathon mile number 23.
+           </span>
+          </a>
+          <!-- /.article__image -->
+          <!-- the design doesn't have text for top articles, just the title + read -->
+          <div class="article__content">
+           <h3 class="h5">
+            The Boston Marathon
+           </h3>
+           <div>
+            We're so proud of Team NBP, Peter and Casey, for completing this year's marathon in support of braille literacy. There's still time to help Peter cross his fundraising finish line, too!
+           </div>
+           <a class="link--more-secondary" href="https://www.givengain.com/ap/pete-carty-raising-funds-for-national-braille-press/" target="0">
+            <span>
+             Donate to reach Peter's goal
+            </span>
+           </a>
+           <span class="arrow">
+           </span>
+           <!--
+              <a href="https://www.nbp.org/ic/nbp/about/aboutus/tips.html"
+                 target="_blank"
+                 class="link--more-secondary">
+                <span>Tips to improve your visit</span>
+                <span class="arrow"></span>
+              </a>
+			  -->
+          </div>
+          <!-- /.article__content -->
+         </div>
+         <!-- /.article -->
+        </div>
+        <!-- /.col-md-4 -->
+       </div>
+      </div>
+     </div>
+    </section>
+    <!-- END CONTENT -->
+    <section class="section section--articles-secondary">
+     <div class="container">
+      <header class="section__head text-center">
+       <h2 class="h2">
+        Braille is Literacy
+       </h2>
+      </header>
+      <!-- /.section__head -->
+      <div class="section__body">
+       <div class="article article--secondary">
+        <div class="row">
+         <div class="col-md-8">
+          <a class="article__image" href="https://www.nbp.org/ic/nbp/ALPHCARDS-SINGLE.html" style="background-image: url(/nbp/images/home/reading_starbucks.jpg)">
+           <span class="sr-only">
+            Story time at a local Starbucks. A group of children gather around an adult who is reading a brailled story book. The reader's guide dog, reclining in a chair, also enjoys storytime.
+           </span>
+          </a>
+         </div>
+         <!-- /.col-md-8 -->
+         <div class="col-md-4">
+          <div class="article__content">
+           <h3 class="h3">
+            Braille Alphabet Card
+           </h3>
+           <p>
+            Get Started:
+            <a href="/downloads/alphsamp.pdf">
+             Download a PDF
+            </a>
+            version of the braille alphabet or shop for
+            <a href="https://www.nbp.org/ic/nbp/ALPHCARDS-PACKET.html">
+             classroom packs
+            </a>
+            of embossed alphabet cards.  
+			   First time visitors can order a free embossed
+            <a href="https://www.nbp.org/ic/nbp/ALPHCARDS-SINGLE.html">
+             braille alphabet card
+            </a>
+            .
+           </p>
+           <a class="link--more-secondary" href="https://www.nbp.org/ic/nbp/ALPHCARDS-SINGLE.html">
+            <span class="h5">
+             Take me to the braille alphabet cards
+            </span>
+            <span class="arrow">
+            </span>
+           </a>
+          </div>
+          <!-- /.article__content -->
+         </div>
+         <!-- /.col-md-4 -->
+        </div>
+        <!-- /.row -->
+       </div>
+       <!-- /.article -->
+      </div>
+      <!-- /.section__body -->
+     </div>
+     <!-- /.container -->
+    </section>
+    <!-- /.section section-/-articles-secondary -->
+    <section class="section section--articles-tertiary">
+     <div class="container">
+      <div class="row">
+       <div class="col-md-4">
+        <div class="article article--solid">
+         <a class="article__image" href="https://www.nbp.org/ic/nbp/support/volunteer.html" style="background-image: url(/dist/assets/images/temp/article-image-8.1591874127.jpg)" title="group of volunteers putting collating a children's book">
+          <span class="sr-only">
+           Make a difference (volunteer!)
+          </span>
+         </a>
+         <!-- /.article__image -->
+         <div class="article__content">
+          <h3 class="h4">
+           Volunteer!
+          </h3>
+          <p>
+           <strong>
+            Help put braille books in the hands of blind children.
+           </strong>
+          </p>
+          <a class="link--more-secondary" href="https://www.nbp.org/ic/nbp/support/volunteer.html">
+           <span>
+            Make a difference
+           </span>
+           <span class="arrow">
+           </span>
+          </a>
+         </div>
+         <!-- /.article__content -->
+        </div>
+        <!-- /.article -->
+       </div>
+       <!-- /.col-md-4 -->
+       <div class="col-md-4">
+        <div class="article article--solid">
+         <a class="article__image" href="https://www.nbp.org/ic/nbp/programs/index.html" style="background-image: url(/dist/assets/images/temp/article-image-9.1566316355.jpg)" title="Young blind boy reading the braille he just typed on a Perkins Brailler">
+          <span class="sr-only">
+           Programs Promoting Braille Literacy
+          </span>
+         </a>
+         <!-- /.article__image -->
+         <div class="article__content">
+          <h3 class="h4">
+           Kids Programs
+          </h3>
+          <p>
+           Hands On! Books for Blind Children
+          </p>
+          <a class="link--more-secondary" href="https://www.nbp.org/ic/nbp/programs/index.html">
+           <span>
+            Programs Promoting Braille Literacy
+           </span>
+           <span class="arrow">
+           </span>
+          </a>
+         </div>
+         <!-- /.article__content -->
+        </div>
+        <!-- /.article -->
+       </div>
+       <!-- /.col-md-4 -->
+       <div class="col-md-4">
+        <div class="article article--solid">
+         <a class="article__image" href="https://www.nbp.org/ic/nbp/education/braille_textbooks.html" style="background-image: url(/nbp/images/home/textbook_2.1566317392.jpg)" title="Young woman sitting at a table reading a braille textbook.">
+          <span class="sr-only">
+           Browse our catalog of textbooks
+          </span>
+         </a>
+         <!-- /.article__image -->
+         <div class="article__content">
+          <h3 class="h4">
+           Braille Textbooks
+          </h3>
+          <p>
+           No student wants to be left behind, check out our textbooks.
+          </p>
+          <a class="link--more-secondary" href="https://www.nbp.org/ic/nbp/education/braille_textbooks.html">
+           <span>
+            Browse our catalog of braille textbooks
+           </span>
+           <span class="arrow">
+           </span>
+          </a>
+         </div>
+         <!-- /.article__content -->
+        </div>
+        <!-- /.article -->
+       </div>
+       <!-- /.col-md-4 -->
+      </div>
+      <!-- /.row -->
+     </div>
+     <!-- /.container -->
+    </section>
+    <!-- /.section section-/-articles-tertiary -->
+    <div class="callout callout--product-updates">
+     <div class="container">
+      <div class="row">
+       <div class="col-sm-12">
+        <div class="callout__inner callout__inner--product-updates">
+         <span class="ico-letter">
+         </span>
+         <div class="callout__inner-content">
+          <p>
+           <a class="callout__subscribe-link h2" href="https://share.hsforms.com/1gmahvMoNSkyVitkyjTujTg1fsnq">
+            Sign up for our newsletter
+           </a>
+          </p>
+         </div>
+         <!-- /.callout__inner-content -->
+        </div>
+        <!-- /.callout__inner -->
+       </div>
+       <!-- /.col-lg-5 -->
+      </div>
+      <!-- /.row -->
+     </div>
+     <!-- /.container -->
+    </div>
+    <!-- /.callout -->
+   </main>
+   <footer class="footer footer-condensed">
+    <div class="footer-condensed__inner">
+     <div class="footer-condensed__inner-content">
+      <ul class="footer-condensed__social-items list-unstyled">
+       <li class="footer-condensed__social-item">
+        <a class="footer-condensed__social-link socials__icon" href="https://twitter.com/braillepress">
+         <span class="fab fa-twitter">
+         </span>
+         <span class="sr-only">
+          Twitter
+         </span>
+        </a>
+       </li>
+       <li class="footer-condensed__social-item">
+        <a class="footer-condensed__social-link socials__icon" href="https://www.youtube.com/user/NationalBraillePress?feature=watch">
+         <span class="fab fa-youtube">
+         </span>
+         <span class="sr-only">
+          YouTube
+         </span>
+        </a>
+       </li>
+       <li class="footer-condensed__social-item">
+        <a class="footer-condensed__social-link socials__icon" href="https://www.facebook.com/NationalBraillePress">
+         <span class="fab fa-facebook-square">
+         </span>
+         <span class="sr-only">
+          Facebook
+         </span>
+        </a>
+       </li>
+       <li class="footer-condensed__social-item">
+        <a class="socials__icon" href="https://www.instagram.com/nationalbraillepress/">
+         <span class="fab fa-instagram">
+         </span>
+         <span class="sr-only">
+          Instagram
+         </span>
+        </a>
+       </li>
+      </ul>
+      <ul class="footer-condensed__site-meta-items list-unstyled">
+       <li class="footer-condensed__site-meta-item">
+        <a href="https://www.nbp.org/ic/nbp/sitemap.html">
+         Site Map
+        </a>
+       </li>
+       <li class="footer-condensed__site-meta-item">
+        <a href="https://www.nbp.org/ic/nbp/about/aboutus/privacypolicy.html">
+         Privacy Policy
+        </a>
+       </li>
+       <li class="footer-condensed__site-meta-item">
+        <a href="https://blog.nbp.org/blog">
+         Blog: Inside NBP
+        </a>
+       </li>
+       <li class="footer-condensed__site-meta-item">
+        ©2022 National Braille Press
+       </li>
+      </ul>
+     </div>
+    </div>
+    <!-- /.footer-condensed__inner -->
+    <div class="footer__bar">
+     <a class="logo-foooter" href="https://www.nbp.org/ic/nbp/">
+      <img alt="National Braille Press" src="/dist/assets/images/logo@2x.1566316355.png"/>
+     </a>
+     <div class="footer__bar-inner">
+      <ul>
+       <li>
+        88 Saint Stephen Street
+       </li>
+       <li>
+        Boston, MA
+       </li>
+       <li>
+        02115-4312
+       </li>
+       <li>
+        <a href="tel:888-965-8965">
+         888-965-8965
+        </a>
+       </li>
+      </ul>
+      <a class="link--more-secondary" href="https://www.nbp.org/ic/nbp//about/aboutus/contact.html">
+       <span>
+        Contact Us
+       </span>
+       <span class="arrow">
+       </span>
+      </a>
+      <input class="btn btn--default btn--success" onclick="location.href='https://www.classy.org/give/227428/#!/donation/checkout'" type="button" value="DONATE"/>
+     </div>
+     <!-- /.footer__bar-inner -->
+    </div>
+    <!-- /.footer__bar -->
+   </footer>
+   <!-- /.footer -->
+  </div>
+  <!-- /.wrapper -->
+  <script src="/dist/assets/js/bundle.1566316355.js">
+  </script>
+  <!-- Start of Async HubSpot Analytics Code -->
+  <script>
+   function hubSpotLoaded() {
+    _hsq.push(['addPrivacyConsentListener', consentListener]);
+  }
+
+  function consentListener(consent) {
+    if (consent.allowed === false) {
+      // hook into this if needed
+    }
+  }
+
+  (function(d,s,i,r) {
+    if (d.getElementById(i)){return;}
+    var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
+    n.id=i;n.src='https://js.hs-analytics.net/analytics/'+(Math.ceil(new Date()/r)*r)+'/2416598.js';
+    n.onload=hubSpotLoaded;
+    e.parentNode.insertBefore(n, e);
+  })(document,"script","hs-analytics",300000);
+  </script>
+  <!-- End of Async HubSpot Analytics Code -->
+  <!-- template home-->
+ </body>
+</html>

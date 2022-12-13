@@ -1,0 +1,615 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <title>
+   ÐÑÐ¾ÑÐ¸Ð°ÑÐ¸Ñ Ð¿Ð¾ ÐºÐ»Ð¸Ð½Ð¸ÑÐ½Ð° ÐµÐ»ÐµÐºÑÑÐ¾Ð¼Ð¸Ð¾Ð³ÑÐ°ÑÐ¸Ñ Ð¸ ÐµÐ²Ð¾ÐºÐ¸ÑÐ°Ð½Ð¸ Ð¿Ð¾ÑÐµÐ½ÑÐ¸Ð°Ð»Ð¸
+  </title>
+  <link href="styles/mainstyle.css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="styles/lightbox.css" media="screen" rel="stylesheet" type="text/css"/>
+  <script src="scripts/prototype.js" type="text/javascript">
+  </script>
+  <script src="scripts/scriptaculous.js?load=effects" type="text/javascript">
+  </script>
+  <script src="scripts/lightbox.js" type="text/javascript">
+  </script>
+ </head>
+ <body>
+  <script>
+   <!-- Changes:  Sandeep V. Tamhankar (stamhankar@hotmail.com) -->
+
+/* 1.1.2: Fixed a bug where trailing . in e-mail address was passing
+            (the bug is actually in the weak regexp engine of the browser; I
+            simplified the regexps to make it work).
+   1.1.1: Removed restriction that countries must be preceded by a domain,
+            so abc@host.uk is now legal.  However, there's still the 
+            restriction that an address must end in a two or three letter
+            word.
+     1.1: Rewrote most of the function to conform more closely to RFC 822.
+     1.0: Original  */
+
+<!-- This script and many more are available free online at -->
+<!-- The JavaScript Source!! http://javascript.internet.com -->
+
+<!-- Begin
+function emailCheck (emailStr) {
+/* The following pattern is used to check if the entered e-mail address
+   fits the user@domain format.  It also is used to separate the username
+   from the domain. */
+var emailPat=/^(.+)@(.+)$/
+/* The following string represents the pattern for matching all special
+   characters.  We don't want to allow special characters in the address. 
+   These characters include ( ) < > @ , ; : \ " . [ ]    */
+var specialChars="\\(\\)<>@,;:\\\\\\\"\\.\\[\\]"
+/* The following string represents the range of characters allowed in a 
+   username or domainname.  It really states which chars aren't allowed. */
+var validChars="\[^\\s" + specialChars + "\]"
+/* The following pattern applies if the "user" is a quoted string (in
+   which case, there are no rules about which characters are allowed
+   and which aren't; anything goes).  E.g. "jiminy cricket"@disney.com
+   is a legal e-mail address. */
+var quotedUser="(\"[^\"]*\")"
+/* The following pattern applies for domains that are IP addresses,
+   rather than symbolic names.  E.g. joe@[123.124.233.4] is a legal
+   e-mail address. NOTE: The square brackets are required. */
+var ipDomainPat=/^\[(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})\]$/
+/* The following string represents an atom (basically a series of
+   non-special characters.) */
+var atom=validChars + '+'
+/* The following string represents one word in the typical username.
+   For example, in john.doe@somewhere.com, john and doe are words.
+   Basically, a word is either an atom or quoted string. */
+var word="(" + atom + "|" + quotedUser + ")"
+// The following pattern describes the structure of the user
+var userPat=new RegExp("^" + word + "(\\." + word + ")*$")
+/* The following pattern describes the structure of a normal symbolic
+   domain, as opposed to ipDomainPat, shown above. */
+var domainPat=new RegExp("^" + atom + "(\\." + atom +")*$")
+
+
+/* Finally, let's start trying to figure out if the supplied address is
+   valid. */
+
+/* Begin with the coarse pattern to simply break up user@domain into
+   different pieces that are easy to analyze. */
+var matchArray=emailStr.match(emailPat)
+if (matchArray==null) {
+  /* Too many/few @'s or something; basically, this address doesn't
+     even fit the general mould of a valid e-mail address. */
+	alert("Email Ð°Ð´ÑÐµÑÑÑ Ð¸Ð·Ð³Ð»ÐµÐ¶Ð´Ð° Ð½ÐµÐ¿ÑÐ°Ð²Ð¸Ð»ÐµÐ½ (Ð¿ÑÐ¾Ð²ÐµÑÐµÑÐµ Ð·Ð° @ Ð¸ . )")
+	return false
+}
+var user=matchArray[1]
+var domain=matchArray[2]
+
+// See if "user" is valid 
+if (user.match(userPat)==null) {
+    // user is not valid
+    alert("ÐÐ¾ÑÑÐµÐ±Ð¸ÑÐµÐ»ÑÐºÐ¾ÑÐ¾ Ð¸Ð¼Ðµ Ð¸Ð·Ð³Ð»ÐµÐ¶Ð´Ð° Ð½ÐµÐ¿ÑÐ°Ð²Ð¸Ð»Ð½Ð¾.")
+    return false
+}
+
+/* if the e-mail address is at an IP address (as opposed to a symbolic
+   host name) make sure the IP address is valid. */
+var IPArray=domain.match(ipDomainPat)
+if (IPArray!=null) {
+    // this is an IP address
+	  for (var i=1;i<=4;i++) {
+	    if (IPArray[i]>255) {
+	        alert("ÐÐ¾ÑÐ¾ÑÐµÐ½Ð¸ÑÑ IP Ð°Ð´ÑÐµÑ Ð½Ðµ Ðµ Ð²Ð°Ð»Ð¸Ð´ÐµÐ½!")
+		return false
+	    }
+    }
+    return true
+}
+
+// Domain is symbolic name
+var domainArray=domain.match(domainPat)
+if (domainArray==null) {
+	alert("ÐÐ¾Ð¼ÐµÐ¹Ð½ÑÑ Ð½Ðµ Ðµ Ð²Ð°Ð»Ð¸Ð´ÐµÐ½.")
+    return false
+}
+
+/* domain name seems valid, but now make sure that it ends in a
+   three-letter word (like com, edu, gov) or a two-letter word,
+   representing country (uk, nl), and that there's a hostname preceding 
+   the domain or country. */
+
+/* Now we need to break up the domain to get a count of how many atoms
+   it consists of. */
+var atomPat=new RegExp(atom,"g")
+var domArr=domain.match(atomPat)
+var len=domArr.length
+if (domArr[domArr.length-1].length<2 || 
+    domArr[domArr.length-1].length>3) {
+   // the address must end in a two letter or three letter word.
+   alert("ÐÐ´ÑÐµÑÑÑ ÑÑÑÐ±Ð²Ð° Ð´Ð° Ð¿ÑÐ¸ÐºÐ»ÑÑÐ²Ð° Ñ ÑÑÐ¸Ð±ÑÐºÐ²ÐµÐ½ Ð´Ð¾Ð¼ÐµÐ¹Ð½ Ð¸Ð»Ð¸ Ð´Ð²Ñ-Ð±ÑÐºÐ²ÐµÐ½Ð° ÑÑÑÐ°Ð½Ð°.")
+   return false
+}
+
+// Make sure there's a host name preceding the domain.
+if (len<2) {
+   var errStr="Ð Ð°Ð´ÑÐµÑÐ° Ð»Ð¸Ð¿ÑÐ²Ð° ÑÐ¾ÑÑÐ¸Ð½Ð³!"
+   alert(errStr)
+   return false
+}
+
+// If we've gotten this far, everything's valid!
+return true;
+}
+//  End -->
+  </script>
+  <div id="topWrapper">
+   <a href="#">
+    <img alt="#" src="images/logo.jpg"/>
+   </a>
+  </div>
+  <div id="headerWrapper">
+   <div id="header">
+    <div id="menu">
+     <div id="navigation">
+      <ul>
+       <li>
+        <a href="index.php">
+         ÐÐ°ÑÐ°Ð»Ð¾
+        </a>
+       </li>
+       <li>
+        <a href="indexdetails.php?menu_id=34">
+         ÐÐ° Ð½Ð°Ñ
+        </a>
+        <ul>
+         <li>
+          <a href="indexdetails.php?menu_id=82">
+           ÐÐ° Ð°ÑÐ¾ÑÐ¸Ð°ÑÐ¸ÑÑÐ°
+          </a>
+          <ul>
+           <li>
+            <a href="indexdetails.php?menu_id=92">
+             Ð£Ð¿ÑÐ°Ð²Ð¸ÑÐµÐ»ÐµÐ½ ÑÑÐ²ÐµÑ
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li>
+          <a href="indexdetails.php?menu_id=83">
+           ÐÐµÐ¹Ð½Ð¾ÑÑ
+          </a>
+          <ul>
+           <li>
+            <a href="indexdetails.php?menu_id=87">
+             Ð¡ÑÐ°Ð½Ð´Ð°ÑÑÐ¸ - Ð¾Ð±ÑÐ¸ Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ
+            </a>
+           </li>
+           <li>
+            <a href="indexdetails.php?menu_id=88">
+             Ð¡ÑÐ°Ð½Ð´Ð°ÑÑÐ¸ Ð¿ÑÐ¸ ÑÐ°Ð´Ð¸ÐºÑÐ»Ð¾Ð¿Ð°ÑÐ¸Ñ
+            </a>
+           </li>
+           <li>
+            <a href="indexdetails.php?menu_id=89">
+             Ð¡ÑÐ°Ð½Ð´Ð°ÑÑÐ¸ Ð¿ÑÐ¸ Ð¿Ð½Ð¿
+            </a>
+           </li>
+           <li>
+            <a href="indexdetails.php?menu_id=90">
+             Ð¡ÑÐ°Ð½Ð´Ð°ÑÑÐ¸ Ð¿ÑÐ¸ Ð½ÑÐ¼Ð½
+            </a>
+           </li>
+           <li>
+            <a href="indexdetails.php?menu_id=91">
+             ÐÑÐµÐ¿Ð¾ÑÑÐºÐ¸ Ð¿ÑÐ¸ ÐµÐ½Ð³/ÐµÐ¼Ð³
+            </a>
+           </li>
+          </ul>
+         </li>
+        </ul>
+       </li>
+       <li>
+        <a href="#">
+         Ð§Ð»ÐµÐ½ÑÑÐ²Ð¾
+        </a>
+        <ul>
+         <li>
+          <a href="indexdetails.php?menu_id=79">
+           ÐÐ°Ðº Ð´Ð° ÑÑÐ°Ð½Ð° ÑÐ»ÐµÐ½?
+          </a>
+          <ul>
+          </ul>
+         </li>
+         <li>
+          <a href="indexdetails.php?menu_id=80">
+           Ð§Ð»ÐµÐ½Ð¾Ð²Ðµ
+          </a>
+          <ul>
+          </ul>
+         </li>
+        </ul>
+       </li>
+       <li>
+        <a href="indexdetails.php?menu_id=38">
+         ÐÐ½ÑÐ¾ÑÐ¼Ð°ÑÐ¸Ñ
+        </a>
+        <ul>
+        </ul>
+       </li>
+       <li>
+        <a href="indexdetails.php?menu_id=94">
+         ÐÐ¾Ð½ÑÐµÑÐµÐ½ÑÐ¸Ñ Ð¿Ð¾ ÐµÐ¼Ð³
+        </a>
+        <ul>
+        </ul>
+       </li>
+       <li>
+        <a href="indexdetails.php?menu_id=81">
+         Ð¡Ð¿. "Ð´Ð²Ð¸Ð³Ð°ÑÐµÐ»Ð½Ð¸ Ð½Ð°ÑÑÑÐµÐ½Ð¸Ñ"
+        </a>
+        <ul>
+        </ul>
+       </li>
+       <li>
+        <a href="indexdetails.php?menu_id=36">
+         ÐÐ¾ÐºÑÐ¼ÐµÐ½ÑÐ¸
+        </a>
+        <ul>
+         <li>
+          <a href="indexdetails.php?menu_id=85">
+           ÐÑÑÑÐµÑÐ½Ð¸ Ð¿ÑÐ°Ð²Ð¸Ð»Ð°
+          </a>
+          <ul>
+          </ul>
+         </li>
+         <li>
+          <a href="indexdetails.php?menu_id=86">
+           Ð£ÑÑÐ°Ð² Ð½Ð° Ð°ÑÐ¾ÑÐ¸Ð°ÑÐ¸ÑÑÐ°
+          </a>
+          <ul>
+          </ul>
+         </li>
+        </ul>
+       </li>
+       <li>
+        <a href="indexdetails.php?menu_id=78">
+         ÐÐ¾Ð½ÑÐ°ÐºÑÐ¸
+        </a>
+        <ul>
+        </ul>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div id="obiavi">
+     <p>
+      <span class="titlesObiavi">
+       Ð£Ð²Ð°Ð¶Ð°ÐµÐ¼Ð¸ ÐºÐ¾Ð»ÐµÐ³Ð¸, Ð¸Ð·Ð»ÐµÐ·Ðµ Ð½Ð¾Ð²Ð¸ÑÑ Ð±ÑÐ¾Ð¹ Ð½Ð° ÑÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ "ÐÐ²Ð¸Ð³Ð°ÑÐµÐ»Ð½Ð¸ Ð½Ð°ÑÑÑÐµÐ½Ð¸Ñ", ÐºÐ¾ÐµÑÐ¾ Ð²ÐµÑÐµ Ð¾ÑÐ¸ÑÐ¸Ð°Ð»Ð½Ð¾ Ðµ Ð¾ÑÐ³Ð°Ð½ Ð½Ð° ÐÑÐ¾ÑÐ¸Ð°ÑÐ¸ÑÑÐ°. ÐÐ¾Ð»Ñ, Ð¿ÑÐ±Ð»Ð¸ÐºÑÐ²Ð°Ð¹ÑÐµ ÑÐ²Ð¾Ð¸ ÑÑÐ°ÑÐ¸Ð¸ Ð¸ Ð¸Ð½ÑÐµÑÐµÑÐ½Ð¸ ÑÐ»ÑÑÐ°Ð¸ Ð¾Ñ Ð¿ÑÐ°ÐºÑÐ¸ÐºÐ°ÑÐ°!
+      </span>
+     </p>
+    </div>
+   </div>
+  </div>
+  <div id="contentWrapper">
+   <div id="content">
+    <div class="newsWrapper">
+     <span class="titles">
+      ÐÐ¾Ð±ÑÐµ Ð´Ð¾ÑÐ»Ð¸
+     </span>
+     <table border="0" cellpadding="0" cellspacing="0" width="435">
+      <tr>
+       <td class="newsBg" valign="top" width="49%">
+        22.03.2021
+        <br/>
+        <a href="news_details.php?elem_id=219">
+         ÐÐÐÐ Chapter Chat
+        </a>
+        <br/>
+        Ð£Ð²Ð°Ð¶Ð°ÐµÐ¼Ð¸ ÐºÐ¾Ð»ÐµÐ³Ð¸,
+        <br/>
+        ÐÐºÐ¾ Ð¶ÐµÐ»Ð°ÐµÑÐµ Ð´Ð° Ð¸Ð·Ð¿ÑÐ°ÑÐ¸ÑÐµ Ð¿ÑÐµÐ·ÐµÐ½ÑÐ°ÑÐ¸Ñ, Ð² ÑÐ»ÐµÐ´Ð½Ð¸Ñ ÑÐ°Ð¹Ð» ÑÐµ Ð½Ð°Ð¼ÐµÑÐ¸ÑÐµ Ð¿Ð¾Ð²ÐµÑÐµ Ð¸Ð½ÑÐ¾ÑÐ¼Ð°ÑÐ¸Ñ Ð·Ð° ÑÐµÐ¼Ð¸ÑÐµ Ð¸ Ð¸Ð·Ð¸ÑÐºÐ²Ð°Ð½Ð¸ÑÑÐ° Ð·Ð° Ð¸Ð·Ð³Ð¾ÑÐ²ÑÐ½Ðµ:
+        <a href="/files/Presentation_Instructions_6.pdf">
+         Prese
+        </a>
+       </td>
+       <td class="newsLine" valign="top" width="4%">
+       </td>
+       <td class="newsBg" valign="top" width="49%">
+        06.04.2020
+        <br/>
+        <a href="news_details.php?elem_id=218">
+         Guidance on seeing patients
+        </a>
+        <br/>
+        <p>
+         <a href="https://www.aanem.org/Practice/COVID-19-Guidance" target="_blank">
+          COVID-19 Guidance
+         </a>
+        </p>
+        <p>
+         <a href="https://www.acns.org/practice/covid-19-resources">
+          COVID-19 Resources
+         </a>
+        </p>
+       </td>
+      </tr>
+      <tr>
+       <td class="newsBg" valign="top" width="49%">
+        27.02.2020
+        <br/>
+        <a href="news_details.php?elem_id=217">
+         EMEAC-IFCN: Eduction Scholarships 2020
+        </a>
+        <br/>
+        Read more at
+        <a href="http://ec.ifcn.info/showcontent.aspx?MenuID=1452">
+         http://ec.ifcn.info/showcontent.aspx?MenuID=1452
+        </a>
+       </td>
+       <td class="newsLine" valign="top" width="4%">
+       </td>
+       <td class="newsBg" valign="top" width="49%">
+        16.05.2019
+        <br/>
+        <a href="news_details.php?elem_id=211">
+         EUROPEAN ACADEMY OF NEUROLOGY DAY
+        </a>
+        <br/>
+        15 Ð¼Ð°Ð¹ 2019Ð³
+        <br/>
+        Ð¥Ð¾ÑÐµÐ» ÐÐ½ÑÐµÑÐ½Ð°ÑÐ¸Ð¾Ð½Ð°Ð», ÐÐ»Ð°ÑÐ½Ð¸ Ð¿ÑÑÑÑÐ¸
+        <br/>
+        EAN ÑÐµÐ±ÑÐ°Ð¹Ñ: https://www.ean.org/EAN-Day-in-Bulgaria.4023.0.html
+        <br/>
+       </td>
+      </tr>
+      <tr>
+       <td class="newsBg" valign="top" width="49%">
+        16.05.2019
+        <br/>
+        <a href="news_details.php?elem_id=212">
+         XVIII ÐÐÐ¦ÐÐÐÐÐÐÐ ÐÐÐÐÐ ÐÐ¡ ÐÐ ÐÐÐÐ ÐÐÐÐÐÐ¯
+        </a>
+        <br/>
+        16 – 19 Ð¼Ð°Ð¹ 2019 Ð³.
+        <br/>
+        Ð¥Ð¾ÑÐµÐ» ÐÐ½ÑÐµÑÐ½Ð°ÑÐ¸Ð¾Ð½Ð°Ð», ÐÐ»Ð°ÑÐ½Ð¸ Ð¿ÑÑÑÑÐ¸.
+        <br/>
+       </td>
+       <td class="newsLine" valign="top" width="4%">
+       </td>
+       <td class="newsBg" valign="top" width="49%">
+        16.05.2019
+        <br/>
+        <a href="news_details.php?elem_id=213">
+         5TH EUROPEAN STROKE ORGANISATION CONFERENCEâ (ESOC 2019)
+        </a>
+        <br/>
+        Date: 22 – 24 May 2019
+        <br/>
+        Place: Milan, Italy
+        <br/>
+        Programme Proposals: https://eso-conference.org/2019/scientific-programme/programme-proposals#.Wx522ExuJMs
+        <br/>
+       </td>
+      </tr>
+      <tr>
+      </tr>
+     </table>
+     <hr class="clearfloat"/>
+     <a href="news.php">
+      ÐÑÐµÐ³Ð»ÐµÐ´Ð°Ð¹ Ð°ÑÑÐ¸Ð² Ð½Ð¾Ð²Ð¸Ð½Ð¸ [..]
+     </a>
+     <br class="clearfloat"/>
+     <div class="banner">
+     </div>
+     <div class="banner">
+     </div>
+    </div>
+    <div class="welcome">
+     <p>
+      <span style="font-family: Tahoma; color: #5b5b5b; font-size: 11pt">
+       <v:shapetype coordsize="21600,21600" filled="f" id="_x0000_t75" o:preferrelative="t" o:spt="75" path="m@4@5l@4@11@9@11@9@5xe" stroked="f">
+        <v:stroke joinstyle="miter">
+        </v:stroke>
+        <v:formulas>
+         <v:f eqn="if lineDrawn pixelLineWidth 0">
+         </v:f>
+         <v:f eqn="sum @0 1 0">
+         </v:f>
+         <v:f eqn="sum 0 0 @1">
+         </v:f>
+         <v:f eqn="prod @2 1 2">
+         </v:f>
+         <v:f eqn="prod @3 21600 pixelWidth">
+         </v:f>
+         <v:f eqn="prod @3 21600 pixelHeight">
+         </v:f>
+         <v:f eqn="sum @0 0 1">
+         </v:f>
+         <v:f eqn="prod @6 1 2">
+         </v:f>
+         <v:f eqn="prod @7 21600 pixelWidth">
+         </v:f>
+         <v:f eqn="sum @8 21600 0">
+         </v:f>
+         <v:f eqn="prod @7 21600 pixelHeight">
+         </v:f>
+         <v:f eqn="sum @10 21600 0">
+         </v:f>
+        </v:formulas>
+        <v:path gradientshapeok="t" o:connecttype="rect" o:extrusionok="f">
+        </v:path>
+        <o:lock aspectratio="t" v:ext="edit">
+        </o:lock>
+       </v:shapetype>
+      </span>
+      <span lang="EN-US" style="font-family: Tahoma; color: #5b5b5b; font-size: 11pt; mso-ansi-language: EN-US">
+       <o:p>
+       </o:p>
+      </span>
+     </p>
+     <p style="text-align: justify">
+      <img align="right" alt="" border="0" height="215" hspace="5" src="/files/Image/IMG_Milanov.jpg" width="150"/>
+      Ð£Ð²Ð°Ð¶Ð°ÐµÐ¼Ð¸ ÐºÐ¾Ð»ÐµÐ³Ð¸, Ð½Ð° 22.09.2007 Ð³. Ð² ÐÐ¾ÑÐ¾Ð²ÐµÑ, ÑÐµ ÑÑÑÐµÐ´Ð¸ ÐÑÐ¾ÑÐ¸Ð°ÑÐ¸Ñ Ð¿Ð¾ ÐÐ»Ð¸Ð½Ð¸ÑÐ½Ð° ÐµÐ»ÐµÐºÑÑÐ¾Ð¼Ð¸Ð¾Ð³ÑÐ°ÑÐ¸Ñ Ð¸ ÐÐ²Ð¾ÐºÐ¸ÑÐ°Ð½Ð¸ Ð¿Ð¾ÑÐµÐ½ÑÐ¸Ð°Ð»Ð¸.
+     </p>
+     <p>
+      Ð Ð¿ÑÐ¸ÑÑÑÑÐ²Ð¸Ðµ Ð½Ð° Ð½Ð°Ð´ 50 ÑÐ¿ÐµÑÐ¸Ð°Ð»Ð¸ÑÑÐ¸ Ð½ÐµÐ²ÑÐ¾Ð»Ð¾Ð·Ð¸ Ð±ÑÑÐ° Ð¸Ð·Ð±ÑÐ°Ð½Ð¸: Ð¿ÑÐµÐ´ÑÐµÐ´Ð°ÑÐµÐ» Ð½Ð° Ð°ÑÐ¾ÑÐ¸Ð°ÑÐ¸ÑÑÐ° - Ð¿ÑÐ¾Ñ. Ð´-Ñ ÐÐ²Ð°Ð½ ÐÐ¸Ð»Ð°Ð½Ð¾Ð², Ð·Ð°Ð¼ÐµÑÑÐ½Ð¸Ðº-Ð¿ÑÐµÐ´ÑÐµÐ´Ð°ÑÐµÐ» - Ð´Ð¾Ñ. ÐÐ¾Ð²Ð°ÑÐºÐ¾Ð²Ð°-Ð¡Ð¿Ð°ÑÐ¾Ð²Ð°, ÑÐµÐºÑÐµÑÐ°Ñ - Ð´-Ñ ÐÐµÑÐ¸ÑÐ»Ð°Ð²Ð° ÐÐ¾Ð³Ð´Ð°Ð½Ð¾Ð²Ð°.
+     </p>
+     <p>
+      ÐÑÐ½Ð¾Ð²Ð½Ð° ÑÐµÐ» Ð½Ð° Ð°ÑÐ¾ÑÐ¸Ð°ÑÐ¸ÑÑÐ° Ðµ Ð·Ð°ÑÐ¸ÑÐ° Ð½Ð° Ð¿ÑÐ¾ÑÐµÑÐ¸Ð¾Ð½Ð°Ð»Ð½Ð¸ÑÐµ Ð¸Ð½ÑÐµÑÐµÑÐ¸ Ð½Ð° ÑÐ»ÐµÐ½Ð¾Ð²ÐµÑÐµ Ð¸ Ð¿ÑÐµÐ´ÑÑÐ°Ð²Ð»ÑÐ²Ð°Ð½ÐµÑÐ¾ Ð¸Ð¼ Ð¿ÑÐµÐ´ Ð¾ÑÐ¸ÑÐ¸Ð°Ð»Ð½Ð¸ÑÐµ Ð¸Ð½ÑÑÐ¸ÑÑÑÐ¸Ð¸. Ð¢Ñ Ð¾Ð±ÐµÐ´Ð¸Ð½ÑÐ²Ð° Ð½Ð° Ð´Ð¾Ð±ÑÐ¾Ð²Ð¾Ð»Ð½Ð¸ Ð½Ð°ÑÐ°Ð»Ð° ÑÐ¿ÐµÑÐ¸Ð°Ð»Ð¸ÑÑÐ¸ Ð¾Ñ ÑÐ°Ð·Ð»Ð¸ÑÐ½Ð¸ Ð½Ð°ÑÑÐ½Ð¸ Ð¾Ð±Ð»Ð°ÑÑÐ¸ Ñ Ð¸Ð½ÑÐµÑÐµÑÐ¸ Ð² Ð¾Ð±Ð»Ð°ÑÑÑÐ° Ð½Ð° ÐºÐ»Ð¸Ð½Ð¸ÑÐ½Ð°ÑÐ° ÐµÐ»ÐµÐºÑÑÐ¾Ð¼Ð¸Ð¾Ð³ÑÐ°ÑÐ¸Ñ Ð¸ ÐµÐ²Ð¾ÐºÐ¸ÑÐ°Ð½Ð¸ Ð¿Ð¾ÑÐµÐ½ÑÐ¸Ð°Ð»Ð¸ Ñ Ð¾Ð³Ð»ÐµÐ´ Ð¸Ð·Ð²ÑÑÑÐ²Ð°Ð½Ðµ Ð½Ð° Ð½Ð°ÑÑÐ½Ð¸ ÑÐ°Ð·ÑÐ°Ð±Ð¾ÑÐºÐ¸, Ð²Ð½ÐµÐ´ÑÑÐ²Ð°Ð½Ðµ Ð½Ð° Ð¿Ð¾Ð»ÑÑÐµÐ½Ð¸ÑÐµ ÑÐµÐ·ÑÐ»ÑÐ°ÑÐ¸ Ð² ÐºÐ»Ð¸Ð½Ð¸ÑÐ½Ð°ÑÐ° Ð¿ÑÐ°ÐºÑÐ¸ÐºÐ° Ð¸ ÑÐ°Ð·Ð¿ÑÐ¾ÑÑÑÐ°Ð½ÐµÐ½Ð¸Ðµ Ð½Ð° Ð½Ð°ÑÑÐ½Ð¸ Ð·Ð½Ð°Ð½Ð¸Ñ Ð² ÑÐ°Ð·Ð¸ Ð¾Ð±Ð»Ð°ÑÑ. Ð©Ðµ Ð¾ÑÑÑÐµÑÑÐ²ÑÐ²Ð° Ð´ÐµÐ¹Ð½Ð¾ÑÑ Ð² Ð¿Ð¾Ð»Ð·Ð° Ð½Ð° Ð»ÐµÐºÐ°ÑÐ¸ Ð½ÐµÐ²ÑÐ¾Ð»Ð¾Ð·Ð¸, ÑÐµÑÑÐ¸ÑÐ¸ÑÐ¸ÑÐ°Ð½Ð¸ Ð¿Ð¾ ÐºÐ»Ð¸Ð½Ð¸ÑÐ½Ð° ÐµÐ»ÐµÐºÑÑÐ¾Ð¼Ð¸Ð¾Ð³ÑÐ°ÑÐ¸Ñ Ð¸ Ð½Ð° Ð´ÑÑÐ³Ð¸ Ð»Ð¸ÑÐ°, ÐºÐ¾Ð¸ÑÐ¾ ÑÐ¿ÑÐ°Ð¶Ð½ÑÐ²Ð°Ñ Ð»ÐµÑÐµÐ±Ð½Ð°, Ð¸Ð·ÑÐ»ÐµÐ´Ð¾Ð²Ð°ÑÐµÐ»ÑÐºÐ°, Ð¿ÑÐµÐ¿Ð¾Ð´Ð°Ð²Ð°ÑÐµÐ»ÑÐºÐ° Ð¸ Ð´ÑÑÐ³Ð° Ð¿ÑÐ¾ÑÐµÑÐ¸Ð¾Ð½Ð°Ð»Ð½Ð° Ð´ÐµÐ¹Ð½Ð¾ÑÑ Ð² Ð¾Ð±Ð»Ð°ÑÑÑÐ° Ð½Ð° ÐºÐ»Ð¸Ð½Ð¸ÑÐ½Ð°ÑÐ° ÐµÐ»ÐµÐºÑÑÐ¾Ð¼Ð¸Ð¾Ð³ÑÐ°ÑÐ¸Ñ Ð¸ ÐµÐ²Ð¾ÐºÐ¸ÑÐ°Ð½Ð¸ Ð¿Ð¾ÑÐµÐ½ÑÐ¸Ð°Ð»Ð¸.
+     </p>
+     <p>
+      ÐÑÐ¾ÑÐ¸Ð°ÑÐ¸ÑÑÐ° ÑÐ¸ Ð¿Ð¾ÑÑÐ°Ð²Ñ Ð¸Ð·ÐºÐ»ÑÑÐ¸ÑÐµÐ»Ð½Ð¾ Ð¸Ð´ÐµÐ°Ð»Ð½Ð¸ ÑÐµÐ»Ð¸ Ñ ÑÐµÐ» ÑÐ°Ð·ÑÐ¸ÑÑÐ²Ð°Ð½Ðµ Ð½Ð° Ð½Ð°ÑÑÐ½Ð¸ÑÐµ Ð¿Ð¾Ð·Ð½Ð°Ð½Ð¸Ñ, ÐºÐ°ÑÐ¾ Ð¾ÑÐ³Ð°Ð½Ð¸Ð·Ð¸ÑÐ°Ð½Ðµ Ð½Ð° Ð½Ð°ÑÑÐ½Ð¸ ÑÐ¸Ð¼Ð¿Ð¾Ð·Ð¸ÑÐ¼Ð¸ Ð¸ ÐºÐ¾Ð½Ð³ÑÐµÑÐ¸, Ð¿Ð»Ð°Ð½Ð¸ÑÐ°Ð½Ðµ Ð¸ Ð¿Ð¾Ð´Ð¿Ð¾Ð¼Ð°Ð³Ð°Ð½Ðµ Ð½Ð° Ð½Ð°ÑÑÐ½Ð¸ ÑÐ°Ð·ÑÐ°Ð±Ð¾ÑÐºÐ¸, Ð¾ÑÐ³Ð°Ð½Ð¸Ð·Ð¸ÑÐ°Ð½Ðµ Ð½Ð° Ð¾Ð±ÑÑÐµÐ½Ð¸Ðµ Ð½Ð° Ð»ÐµÐºÐ°ÑÐ¸, ÑÐ°Ð·Ð¿ÑÐ¾ÑÑÑÐ°Ð½ÑÐ²Ð°Ð½Ðµ Ð½Ð° Ð½Ð¾Ð²Ð¾ÑÑÐ¸ Ð² Ð¾Ð±Ð»Ð°ÑÑÑÐ° Ð½Ð° ÐºÐ»Ð¸Ð½Ð¸ÑÐ½Ð°ÑÐ° ÐµÐ»ÐµÐºÑÑÐ¾Ð¼Ð¸Ð¾Ð³ÑÐ°ÑÐ¸Ñ Ð¸ ÐµÐ²Ð¾ÐºÐ¸ÑÐ°Ð½Ð¸ÑÐµ Ð¿Ð¾ÑÐµÐ½ÑÐ¸Ð°Ð»Ð¸ ÑÑÐµÐ´ Ð¿Ð°ÑÐ¸ÐµÐ½ÑÐ¸, Ð²Ð½ÐµÐ´ÑÑÐ²Ð°Ð½Ðµ Ð½Ð° Ð½Ð¾Ð²Ð¸ Ð½Ð°ÑÑÐ½Ð¸ ÑÐ°Ð·ÑÐ°Ð±Ð¾ÑÐºÐ¸ Ð² ÐºÐ»Ð¸Ð½Ð¸ÑÐ½Ð°ÑÐ° Ð¿ÑÐ°ÐºÑÐ¸ÐºÐ°, Ð¿Ð¾Ð´Ð´ÑÑÐ¶Ð°Ð½Ðµ Ð½Ð° ÐºÐ¾Ð½ÑÐ°ÐºÑÐ¸ Ð¸ Ð¸Ð·Ð²ÑÑÑÐ²Ð°Ð½Ðµ Ð½Ð° Ð½Ð°ÑÑÐµÐ½ Ð¾Ð±Ð¼ÐµÐ½ Ñ Ð´ÑÑÐ³Ð¸ ÑÑÐ¾Ð´Ð½Ð¸ Ð¾ÑÐ³Ð°Ð½Ð¸Ð·Ð°ÑÐ¸Ð¸, Ð·Ð°ÑÐ¸ÑÐ° Ð½Ð° Ð¿ÑÐ°Ð²Ð°ÑÐ° Ð½Ð° Ð±Ð¾Ð»Ð½Ð¸ÑÐµ, ÑÑÑÐ°Ð´Ð°ÑÐ¸ Ð¾Ñ Ð·Ð°Ð±Ð¾Ð»ÑÐ²Ð°Ð½Ð¸Ñ Ð½Ð° Ð¿ÐµÑÐ¸ÑÐµÑÐ½Ð°ÑÐ° Ð½ÐµÑÐ²Ð½Ð° ÑÐ¸ÑÑÐµÐ¼Ð° Ð¸ Ð¼ÑÑÐºÑÐ»Ð¸ÑÐµ, ÐºÐ°ÑÐ¾ Ñ Ð¾ÑÐ½Ð¾Ð²Ð½Ð¾ Ð·Ð½Ð°ÑÐµÐ½Ð¸Ðµ Ðµ Ð·Ð°ÑÐ¸ÑÐ°ÑÐ° Ð½Ð° Ð¿ÑÐ°Ð²Ð¾ÑÐ¾ Ð¸Ð¼ Ð½Ð° ÑÑÐ²ÑÐµÐ¼ÐµÐ½Ð½Ð¾, ÐµÑÐµÐºÑÐ¸Ð²Ð½Ð¾ Ð¸ Ð°Ð´ÐµÐºÐ²Ð°ÑÐ½Ð¾ Ð»ÐµÑÐµÐ½Ð¸Ðµ.
+     </p>
+     <p>
+      ÐÑÐ¾ÑÐ¸Ð°ÑÐ¸ÑÑÐ° Ð¿Ð¾ ÐºÐ»Ð¸Ð½Ð¸ÑÐ½Ð° ÐµÐ»ÐµÐºÑÑÐ¾Ð¼Ð¸Ð¾Ð³ÑÐ°ÑÐ¸Ñ Ð¸ ÐµÐ²Ð¾ÐºÐ¸ÑÐ°Ð½Ð¸ Ð¿Ð¾ÑÐµÐ½ÑÐ¸Ð°Ð»Ð¸ Ðµ Ð¿ÑÐ¸ÐµÑÐ° Ð·Ð° ÐºÐ¾Ð»ÐµÐºÑÐ¸Ð²ÐµÐ½ ÑÐ»ÐµÐ½ Ð½Ð° ÐÑÐ»Ð³Ð°ÑÑÐºÐ¾ÑÐ¾ Ð´ÑÑÐ¶ÐµÑÑÐ²Ð¾ Ð¿Ð¾ ÐºÐ»Ð¸Ð½Ð¸ÑÐ½Ð° Ð½ÐµÐ²ÑÐ¾ÑÐ¸Ð·Ð¸Ð¾Ð»Ð¾Ð³Ð¸Ñ Ñ Ð¿ÑÐµÐ´ÑÐµÐ´Ð°ÑÐµÐ» Ð´Ð¾Ñ. Ð´-Ñ ÐÐ»ÐµÐºÑÐ°Ð½Ð´ÑÑ ÐÐ»ÐµÐºÑÐ¸ÐµÐ².
+     </p>
+     <p>
+      Ð§Ð»ÐµÐ½ÑÐ²Ð°Ð½ÐµÑÐ¾ Ð² ÑÐ´ÑÑÐ¶ÐµÐ½Ð¸ÐµÑÐ¾ Ðµ Ð´Ð¾Ð±ÑÐ¾Ð²Ð¾Ð»Ð½Ð¾. Ð§Ð»ÐµÐ½Ð¾Ð²Ðµ Ð¼Ð¾Ð³Ð°Ñ Ð´Ð° ÑÐ°Ð¼Ð¾ Ð»ÐµÐºÐ°ÑÐ¸ Ð½ÐµÐ²ÑÐ¾Ð»Ð¾Ð·Ð¸, Ð¿Ð¾Ð»ÑÑÐ¸Ð»Ð¸ Ð»Ð¸ÑÐµÐ½Ð· Ð·Ð° ÐºÐ»Ð¸Ð½Ð¸ÑÐ½Ð° ÐµÐ»ÐµÐºÑÑÐ¾Ð¼Ð¸Ð¾Ð³ÑÐ°ÑÐ¸Ñ Ð¸/Ð¸Ð»Ð¸ ÐµÐ²Ð¾ÐºÐ¸ÑÐ°Ð½Ð¸ Ð¿Ð¾ÑÐµÐ½ÑÐ¸Ð°Ð»Ð¸, ÐºÐ¾Ð¸ÑÐ¾ ÑÐ¿Ð¾Ð´ÐµÐ»ÑÑ ÑÐµÐ»Ð¸ÑÐµ Ð½Ð° ÑÐ´ÑÑÐ¶ÐµÐ½Ð¸ÐµÑÐ¾ Ð¸ ÑÑÐµÐ´ÑÑÐ²Ð°ÑÐ° Ð·Ð° ÑÑÑÐ½Ð¾ÑÐ¾ Ð¿Ð¾ÑÑÐ¸Ð³Ð°Ð½Ðµ, Ð¸Ð·Ð¿ÑÐ»Ð½ÑÐ²Ð°Ñ Ð½ÐµÐ³Ð¾Ð²Ð¸Ñ ÑÑÑÐ°Ð² Ð¸ Ð¿Ð»Ð°ÑÐ°Ñ ÑÐµÐ´Ð¾Ð²Ð½Ð¾ ÑÐ»ÐµÐ½ÑÐºÐ¸Ñ ÑÐ¸ Ð²Ð½Ð¾Ñ. ÐÐ¾ ÑÐ¾Ð·Ð¸ Ð¼Ð¾Ð¼ÐµÐ½Ñ Ð² ÑÐ´ÑÑÐ¶ÐµÐ½Ð¸ÐµÑÐ¾ ÑÐ»ÐµÐ½ÑÐ²Ð°Ñ 55 Ð°ÐºÑÐ¸Ð²Ð½Ð¸ ÑÐ»ÐµÐ½Ð°. ÐÑÐ°ÐºÐ²Ð° ÑÐµ Ð½Ð° Ð³Ð¾Ð´Ð¸ÑÐ½Ð°ÑÐ° ÑÑÐµÑÐ°, ÐºÐ¾ÑÑÐ¾ ÑÐµ ÑÐµ Ð¿ÑÐ¾Ð²ÐµÐ´Ðµ Ð½Ð° 14-16 Ð½Ð¾ÐµÐ¼Ð²ÑÐ¸ 2008Ð³. Ð² ÐÐ¾ÑÐ¾Ð²ÐµÑ, ÑÐ¾Ð·Ð¸ Ð±ÑÐ¾Ð¹ Ð´Ð° Ð½Ð°ÑÐ°ÑÑÐ½Ðµ.
+      <br/>
+      ÐÐ°Ð½Ð¸Ð¼ ÑÐ»ÐµÐ½Ð¾Ð²ÐµÑÐµ Ð½Ð° ÐÑÐ¾ÑÐ¸Ð°ÑÐ¸ÑÑÐ° Ð¿Ð¾ ÐºÐ»Ð¸Ð½Ð¸ÑÐ½Ð° ÐµÐ»ÐµÐºÑÑÐ¾Ð¼Ð¸Ð¾Ð³ÑÐ°ÑÐ¸Ñ Ð¸ ÐµÐ²Ð¾ÐºÐ¸ÑÐ°Ð½Ð¸ Ð¿Ð¾ÑÐµÐ½ÑÐ¸Ð°Ð»Ð¸ Ð´Ð° Ð¿ÑÐ±Ð»Ð¸ÐºÑÐ²Ð°Ñ Ð² ÑÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ „ÐÐ²Ð¸Ð³Ð°ÑÐµÐ»Ð½Ð¸ Ð½Ð°ÑÑÑÐµÐ½Ð¸Ñ – ÐÑÐ»Ð³Ð°ÑÐ¸Ñ” Ð¸ ÑÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ „ÐÐ»Ð¸Ð½Ð¸ÑÐ½Ð° ÑÐµÑÐ°Ð±Ð¸Ð»Ð¸ÑÐ°ÑÐ¸Ñ”.
+     </p>
+     <p>
+      ÐÐºÐ°Ð´. ÐÐ²Ð°Ð½ ÐÐ¸Ð»Ð°Ð½Ð¾Ð²
+      <br/>
+      ÐÑÐµÐ´ÑÐµÐ´Ð°ÑÐµÐ» Ð½Ð° ÐÑÐ¾ÑÐ¸Ð°ÑÐ¸Ñ Ð¿Ð¾
+      <br/>
+      ÐÐ»Ð¸Ð½Ð¸ÑÐ½Ð° ÐµÐ»ÐµÐºÑÑÐ¾Ð¼Ð¸Ð¾Ð³ÑÐ°ÑÐ¸Ñ
+      <br/>
+      Ð¸ ÐÐ²Ð¾ÐºÐ¸ÑÐ°Ð½Ð¸ Ð¿Ð¾ÑÐµÐ½ÑÐ¸Ð°Ð»Ð¸
+     </p>
+    </div>
+   </div>
+   <div class="clearfloat">
+   </div>
+  </div>
+  <br class="clearfloat"/>
+  <div id="footerWrapper">
+   <div id="footer">
+    <div id="support">
+     <a href="http://www.sopharma.bg" target="_blank">
+      <img alt="Sopharma" border="0" height="81" src="images/sopharma.jpg" width="243"/>
+     </a>
+    </div>
+    <div style="float:right; width:680px">
+     <div class="search">
+      <span style="float: left; margin-right: 12px; height:25px;">
+       Ð¢ÐªÐ Ð¡ÐÐÐ
+      </span>
+      <form action="search_res.php" id="SearchForm" method="post" name="SearchForm" onsubmit="Javascript: return SubmitForm2();">
+       <label>
+        <input id="searchfield" name="searchfield" type="text"/>
+       </label>
+      </form>
+      <img alt="ÑÑÑÑÐµÐ½Ðµ" height="27" onclick="Javascript: SubmitForm();" src="images/inputButton.jpg" width="24"/>
+     </div>
+     <script language="JavaScript">
+      function SubmitForm() {	
+serform = document.getElementById("SearchForm");
+
+	if (serform.searchfield.value == "") {
+			alert("ÐÐ¾Ð»Ñ, Ð²ÑÐ²ÐµÐ´ÐµÑÐµ ÑÑÑÑÐµÐ½Ð°ÑÐ° Ð´ÑÐ¼Ð°");
+			serform.searchfield.focus();
+			
+	} else {
+	
+	window.serform.submit();
+	}
+	
+}
+
+function SubmitForm2() {	
+serform = document.getElementById("SearchForm");
+
+	if (serform.searchfield.value == "") {
+			alert("ÐÐ¾Ð»Ñ, Ð²ÑÐ²ÐµÐ´ÐµÑÐµ ÑÑÑÑÐµÐ½Ð°ÑÐ° Ð´ÑÐ¼Ð°");
+			serform.searchfield.focus();
+		return false;
+	} else {
+	
+		return true;
+	}
+	
+}
+     </script>
+     <div class="bulletin">
+      <!--
+        <span style="float: left; margin-right: 12px; height:25px;"> ÐÐ®ÐÐÐ¢ÐÐ</span>
+            
+            <form id="buletinform" name="buletinform" method="post" action="buletin.php"  onsubmit="Javascript: return btnSubmitBuletinForm2();" >
+            <label>
+             <input name="buletin_mail" type="text"  id="buletin_mail" >
+            </label>
+       
+          
+       
+          </form>
+        <img src="images/inputButton.jpg" alt="Ð±ÑÐ»ÐµÑÐ¸Ð½" width="24" height="27" onclick="Javascript: btnSubmitBuletinForm();"/>
+        -->
+     </div>
+    </div>
+    <div style="float:right; width:600px; margin-top:30px">
+     <a href="http://www.webrix-studio.com" target="_blank">
+      <img align="right" alt="Ð£ÐµÐ± Ð´Ð¸Ð·Ð°Ð¹Ð½ Ð¸ ÑÐ°Ð·ÑÐ°Ð±Ð¾ÑÐºÐ° Webrix - www.webrix-stiduo.com" border="0" src="images/webrix-logo.gif"/>
+     </a>
+     © 2009. Ð¡Ð´ÑÑÐ¶ÐµÐ½Ð¸Ðµ ÐÐÐÐÐ. ÐÑÐ¸ÑÐºÐ¸ Ð¿ÑÐ°Ð²Ð° Ð·Ð°Ð¿Ð°Ð·ÐµÐ½Ð¸
+    </div>
+    <script language="JavaScript">
+     function btnSubmitBuletinForm() {
+ 
+	var form_email = document.getElementById("buletin_mail");
+
+    if (form_email.value == "") {
+
+        alert("ÐÐ¾Ð»Ñ Ð²ÑÐ²ÐµÐ´ÐµÑÐµ e-mail!");
+
+        form_email.focus();
+
+    	
+
+    }	else if ( !emailCheck(form_email.value) ) {
+
+		form_email.focus();
+
+
+	} else {
+												
+		
+		var form_pointer= document.getElementById("buletinform"); 
+		
+	//	form_pointer.submit();
+	}
+}
+
+function btnSubmitBuletinForm2() {
+ 
+	
+	var form_email = document.getElementById("buletin_mail");
+
+    if (form_email.value == "") {
+
+        alert("ÐÐ¾Ð»Ñ Ð²ÑÐ²ÐµÐ´ÐµÑÐµ e-mail!");
+
+        form_email.focus();
+
+    	return false;
+
+    } else if ( !emailCheck(form_email.value) ) {
+
+		form_email.focus();
+
+		return false;
+
+	} else {
+	
+	//	return true;
+		return false;
+	}
+
+
+	
+
+}
+    </script>
+   </div>
+  </div>
+ </body>
+</html>

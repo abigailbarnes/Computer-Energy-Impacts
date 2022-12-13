@@ -1,0 +1,2389 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <!-- 
+	/*
+	    * FK 2014
+	    */
+
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2014 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at http://typo3.org/
+-->
+  <base href="https://www.lok-leipzig.com/"/>
+  <link href="https://www.lok-leipzig.com/fileadmin/template/Public/img/browsericons/favicon.ico" rel="shortcut icon" type="image/x-icon; charset=binary"/>
+  <link href="https://www.lok-leipzig.com/fileadmin/template/Public/img/browsericons/favicon.ico" rel="icon" type="image/x-icon; charset=binary"/>
+  <title>
+   1. FC Lokomotive Leipzig
+  </title>
+  <meta content="TYPO3 6.2 CMS" name="generator"/>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+  <link href="/fileadmin/template/Public/css/loader.css?1652964909" media="all" rel="stylesheet" type="text/css"/>
+  <link href="/fileadmin/template/Public/css/override.css?1576152131" media="all" rel="stylesheet" type="text/css"/>
+  <link href="/fileadmin/template/Public/js/fancybox/jquery.fancybox.css?1411662192" media="all" rel="stylesheet" type="text/css"/>
+  <link href="/fileadmin/template/Public/js/fancybox/helpers/jquery.fancybox-thumbs.css?1411662191" media="all" rel="stylesheet" type="text/css"/>
+  <style type="text/css">
+   /*<![CDATA[*/
+<!-- 
+/*TSFEinlineStyle*/
+/* specific page styles for extension "tx_cssstyledcontent" */
+	.csc-textpic-intext-right-nowrap .csc-textpic-text { margin-right: 510px; }
+	.csc-textpic-intext-left-nowrap .csc-textpic-text { margin-left: 510px; }
+-->
+/*]]>*/
+  </style>
+  <script src="/uploads/tx_t3jquery/jquery-1.11.x-1.10.x-1.1.x-3.0.x.js?1410531886" type="text/javascript">
+  </script>
+  <script src="/typo3conf/ext/sf_banners/Resources/Public/Js/HtmlParser.js?1415111684" type="text/javascript">
+  </script>
+  <script src="/typo3conf/ext/sf_banners/Resources/Public/Js/Postscribe.js?1415111684" type="text/javascript">
+  </script>
+  <script src="/typo3conf/ext/sf_banners/Resources/Public/Js/SfBanners.js?1549455562" type="text/javascript">
+  </script>
+  <script src="/fileadmin/template/Public/js/modernizr.custom.2.8.3.js?1409058411" type="text/javascript">
+  </script>
+  <script src="/fileadmin/template/Public/js/flexslider.js?1430471172" type="text/javascript">
+  </script>
+  <script src="/fileadmin/template/Public/js/video.js?1415719970" type="text/javascript">
+  </script>
+  <script src="/fileadmin/template/Public/js/fancybox/jquery.fancybox.js?1411662193" type="text/javascript">
+  </script>
+  <script src="/fileadmin/template/Public/js/fancybox/helpers/jquery.fancybox-thumbs.js?1411662192" type="text/javascript">
+  </script>
+  <script src="/fileadmin/template/Public/js/fancybox/jquery.mousewheel-3.0.6.pack.js?1411662195" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   /*<![CDATA[*/
+/*_scriptCode*/
+
+			// decrypt helper function
+		function decryptCharcode(n,start,end,offset) {
+			n = n + offset;
+			if (offset > 0 && n > end) {
+				n = start + (n - end - 1);
+			} else if (offset < 0 && n < start) {
+				n = end - (start - n - 1);
+			}
+			return String.fromCharCode(n);
+		}
+			// decrypt string
+		function decryptString(enc,offset) {
+			var dec = "";
+			var len = enc.length;
+			for(var i=0; i < len; i++) {
+				var n = enc.charCodeAt(i);
+				if (n >= 0x2B && n <= 0x3A) {
+					dec += decryptCharcode(n,0x2B,0x3A,offset);	// 0-9 . , - + / :
+				} else if (n >= 0x40 && n <= 0x5A) {
+					dec += decryptCharcode(n,0x40,0x5A,offset);	// A-Z @
+				} else if (n >= 0x61 && n <= 0x7A) {
+					dec += decryptCharcode(n,0x61,0x7A,offset);	// a-z
+				} else {
+					dec += enc.charAt(i);
+				}
+			}
+			return dec;
+		}
+			// decrypt spam-protected emails
+		function linkTo_UnCryptMailto(s) {
+			location.href = decryptString(s,-3);
+		}
+		
+
+/*]]>*/
+  </script>
+  <!--link rel="icon" type="image/gif" href="/fileadmin/template/Public/img/browsericons/favicon.gif" / -->
+  <link href="/fileadmin/template/Public/img/browsericons/favicon.ico" rel="shortcut icon">
+   <link href="/fileadmin/template/Public/img/browsericons/apple-touch-icon-152x152-precomposed.png" rel="apple-touch-icon">
+    <link href="/fileadmin/template/Public/img/browsericons/apple-touch-icon-57x57.png" rel="apple-touch-icon">
+     <link href="/fileadmin/template/Public/img/browsericons/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76">
+      <link href="/fileadmin/template/Public/img/browsericons/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120">
+       <link href="/fileadmin/template/Public/img/browsericons/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152">
+        <meta content="Titel ihrer Webseite" name="application-name">
+         <meta content="#123456" name="msapplication-TileColor">
+          <meta content="fileadmin/template/Public/img/browsericons/metro-tile.png" name="msapplication-TileImage">
+           <meta content="http//domain.de" name="msapplication-starturl"/>
+           <meta content="#123456" name="msapplication-navbutton-color"/>
+           <meta content="width=1280;height=1024" name="msapplication-window"/>
+           <meta content="Titel ihrer Webseite" name="msapplication-tooltip"/>
+           <meta content="/fileadmin/template/Public/img/browsericons/tiny.png" name="msapplication-square70x70logo"/>
+           <meta content="/fileadmin/template/Public/img/browsericons/square.png" name="msapplication-square150x150logo"/>
+           <meta content="/fileadmin/template/Public/img/browsericons/wide.png" name="msapplication-wide310x150logo"/>
+           <meta content="/fileadmin/template/Public/img/browsericons/large.png" name="msapplication-square310x310logo"/>
+           <script type="text/javascript">
+            // Picture element HTML5 shiv
+        document.createElement("picture");
+           </script>
+           <script async="" src="/fileadmin/template/Public/js/picturefill.js" type="text/javascript">
+           </script>
+           <link href="/rss/" rel="alternate" title="RSS-Feed" type="application/rss+xml"/>
+           <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0;" name="viewport"/>
+           <!--[if lt IE 9]>  
+        <script src="/fileadmin/template/Public/js/html5.js"></script>   
+        <script src="/fileadmin/template/Public/js/respond.js"></script> 
+      <![endif]-->
+           <meta content="" property="og:image">
+            <!-- Piwik -->
+            <script type="text/javascript">
+             var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//piwik.lok-leipzig.com/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 1]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+            </script>
+            <noscript>
+             <p>
+              <img alt="" src="//piwik.lok-leipzig.com/piwik.php?idsite=1" style="border:0;"/>
+             </p>
+            </noscript>
+            <!-- End Piwik Code -->
+            <meta content="Home" name="DC.title"/>
+            <meta content="1. FC Lokomotive Leipzig, 2022. All rights reserved." name="copyright"/>
+            <meta content="1. FC Lokomotive Leipzig, 2022. All rights reserved." name="DC.Rights"/>
+            <meta content="de" http-equiv="content-language"/>
+            <meta content="de" name="DC.Language" scheme="NISOZ39.50"/>
+            <link href="mailto:geschaeftsstelle@lok-leipzig.com" rev="made"/>
+            <meta content="geschaeftsstelle@lok-leipzig.com" http-equiv="reply-to"/>
+            <meta content="1. FC Lokomotive Leipzig" name="author"/>
+            <meta content="1. FC Lokomotive Leipzig" name="DC.Creator"/>
+            <meta content="1. FC Lokomotive Leipzig" name="DC.Publisher"/>
+            <meta content="General" name="rating"/>
+            <meta content="2022-05-15T18:48:38+02:00" name="date"/>
+            <meta content="2022-05-15T18:48:38+02:00" name="DC.date"/>
+            <meta content="index,follow" name="robots"/>
+            <link href="https://www.lok-leipzig.com/" rel="start"/>
+            <link href="https://www.lok-leipzig.com/" rel="canonical"/>
+            <script src="/typo3conf/ext/rzautocomplete/res/js/jquery.autocomplete.js" type="text/javascript">
+            </script>
+            <meta content="Home" property="og:title">
+             <meta content="website" property="og:type">
+              <meta content="http://www.lok-leipzig.com/fileadmin/template/Public/img/logo2.png" property="og:image">
+               <meta content="https://www.lok-leipzig.com/" property="og:url">
+                <meta content="1. FC Lokomotive Leipzig" property="og:site_name">
+                 <meta content="Fußball pur" property="og:description">
+                  <meta content="de_DE.utf8" property="og:locale">
+                  </meta>
+                 </meta>
+                </meta>
+               </meta>
+              </meta>
+             </meta>
+            </meta>
+           </meta>
+          </meta>
+         </meta>
+        </meta>
+       </link>
+      </link>
+     </link>
+    </link>
+   </link>
+  </link>
+ </head>
+ <body class="home">
+  <div id="page">
+   <div id="stickylinks">
+    <div class="csc-default" id="c2101">
+     <a class="karten" href="https://www.eventimsports.de/ols/lok-leipzig/" target="_blank" title="zum Ticketshop">
+      Fahrkarten
+     </a>
+     <a class="vip" href="https://www.eventimsports.de/ols/lok-leipzig/de/vip/channel/shop/index" target="_blank" title="VIP-Karten">
+      VIP-Karten
+     </a>
+     <a class="shop" href="https://www.lok-fanshop.com/" target="_blank" title="zum Fanshop">
+      Fanshop
+     </a>
+    </div>
+   </div>
+   <header id="pageheader">
+    <div id="headerTop">
+     <div class="cell">
+      <div id="socialicons">
+       <div class="csc-default" id="c16">
+        <ul>
+         <li>
+          <a class="fa fa-twitter" href="https://twitter.com/1fclokleipzig" target="_blank">
+          </a>
+          |
+         </li>
+         <li>
+          <a class="fa fa-facebook" href="https://www.facebook.com/1fclokleipzig" target="_blank">
+          </a>
+          |
+         </li>
+         <li>
+          <a class="fa fa-youtube-play" href="https://www.youtube.com/lokleipzig" target="_blank">
+          </a>
+          |
+         </li>
+         <li>
+          <a class="fa fa-instagram" href="http://instagram.com/1fclokleipzig" target="_blank">
+          </a>
+          |
+         </li>
+         <li>
+          <a class="fa fa-rss" href="/rss/" target="_blank">
+          </a>
+         </li>
+         <li>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <nav id="topmenu">
+       <ul>
+        <li class="NO first">
+         <a class="rootNO" href="/spenden/" title="Der 1. FC Lok Leipzig freut sich jederzeit über Spenden.">
+          Spenden
+         </a>
+         |
+        </li>
+        <li class="NO middle">
+         <a class="rootNO" href="/presse/" title="Presse">
+          Presse
+         </a>
+         |
+        </li>
+        <li class="NO middle">
+         <a class="rootNO" href="/kontakt/" title="Kontakt">
+          Kontakt
+         </a>
+         |
+        </li>
+        <li class="NO middle">
+         <a class="rootNO" href="/impressum/" title="Impressum">
+          Impressum
+         </a>
+         |
+        </li>
+        <li class="NO last">
+         <a class="rootNO" href="/datenschutz/" title="Datenschutz">
+          Datenschutz
+         </a>
+         |
+        </li>
+       </ul>
+      </nav>
+      <div id="claim">
+       <img alt="" height="100" src="/fileadmin/template/Public/img/claim.png" width="784"/>
+      </div>
+     </div>
+    </div>
+    <div id="headerMiddle">
+     <div class="cell">
+      <div id="searchbox">
+       <form action="/suche/" autocomplete="off" class="searchform" id="tx_rzautocomplete_pi1_form" method="post">
+        <input class="sword" id="tx_rzautocomplete_pi1_word" name="tx_indexedsearch[sword]" onblur="if(this.value==''){this.value='Suche'}" onclick="if(this.value=='Suche')this.value='';" type="text" value="Suche"/>
+        <input class="sbutton" name="tx_indexedsearch[submit_button]" title="suchen" type="submit" value="suchen"/>
+        <input name="tx_indexedsearch[_sections]" type="hidden" value="0"/>
+        <input name="tx_indexedsearch[pointer]" type="hidden" value="0"/>
+        <input name="tx_indexedsearch[ext]" type="hidden" value="0"/>
+        <input name="tx_indexedsearch[lang]" type="hidden" value="0"/>
+       </form>
+       <script type="text/javascript">
+        /* <![CDATA[ */
+          jQuery().ready(function() {
+            jQuery("#tx_rzautocomplete_pi1_word").autocomplete("index.php?eID=rzautocomplete&language=0", {
+              minChars: 3,
+              selectFirst: false,
+              max: 10,
+              autoFill: 0,
+              delay: 400,
+              matchContains: 0,
+              scroll: 1,
+              selectFirst: 1,
+              multiple: 0,
+              multipleSeparator: ", "
+            });
+            jQuery("#tx_rzautocomplete_pi1_word").result(function (event, data, formatted) {
+              jQuery("#tx_rzautocomplete_pi1_form").submit();
+            });
+          });
+        /* ]]> */
+       </script>
+      </div>
+      <div id="pusher">
+       Menu
+      </div>
+      <nav id="mainmenu">
+       <ul class="root">
+        <li class="root IFSUB first p6">
+         <a class="rootIFSUB" href="/verein/news/" title="Verein">
+          Verein
+         </a>
+         <div class="sub1">
+          <ul class="sub1">
+           <li class="sub1 IFSUB first">
+            <a class="sub1IFSUB" href="/verein/news/" title="Hier gibt es alle Vereins-Neuigkeiten des 1. FC Lokomotive Leipzig auf einen Blick.">
+             News
+            </a>
+            <div class="sub2">
+             <ul class="sub2">
+              <li class="sub2 NO last">
+               <a class="sub2NO" href="/verein/news/pressespiegel/" title="Hier im Pressespiegel finden Sie ausgewählte Artikel über den 1. FC Lokomotive Leipzig aus Zeitungen und von anderen Medien.">
+                Pressespiegel
+               </a>
+              </li>
+             </ul>
+            </div>
+           </li>
+           <li class="sub1 NO middle">
+            <a class="sub1NO" href="/verein/leitbild/" title="„Fußball pur.“ heißt der Kernsatz, der ab sofort für die DNA des 1. FC Lokomotive Leipzig stehen wird.">
+             Leitbild
+            </a>
+           </li>
+           <li class="sub1 NO middle">
+            <a class="sub1NO" href="/verein/ansprechpartner/" title="Alle wichtigen Kontaktdaten, Personen, Unterlagen und Informationen zum 1. FC Lok Leipzig gibt es hier.">
+             Ansprechpartner
+            </a>
+           </li>
+           <li class="sub1 IFSUB middle">
+            <a class="sub1IFSUB" href="/verein/geschichte/" title="Die Traditionslinie beim 1. FC Lok Leipzig reicht zurück bis ins Jahr 1893. Als VfB Leipzig wurde die Erste Deutsche Meisterschaft 1903 gefeiert.">
+             Geschichte
+            </a>
+            <div class="sub2">
+             <ul class="sub2">
+              <li class="sub2 NO first">
+               <a class="sub2NO" href="/verein/geschichte/1893-1914-pionierarbeit-unter-der-pickelhaube/" title="Die Traditionslinie beim 1. FC Lok Leipzig reicht zurück bis ins Jahr 1893. Als VfB Leipzig wurde die Erste Deutsche Meisterschaft 1903 gefeiert.">
+                1893 – 1914 | Pionierarbeit unter der Pickelhaube
+               </a>
+              </li>
+              <li class="sub2 NO middle">
+               <a class="sub2NO" href="/verein/geschichte/1918-1944-eine-sensation-der-grauen-maus/" title="Die Traditionslinie beim 1. FC Lok Leipzig reicht zurück bis ins Jahr 1893. Als VfB Leipzig wurde die Erste Deutsche Meisterschaft 1903 gefeiert.">
+                1918 – 1944 | Eine Sensation der grauen Maus
+               </a>
+              </li>
+              <li class="sub2 NO middle">
+               <a class="sub2NO" href="/verein/geschichte/1946-1965-auf-staatlicher-identitaetssuche/" title="Die Traditionslinie beim 1. FC Lok Leipzig reicht zurück bis ins Jahr 1893. Als VfB Leipzig wurde die Erste Deutsche Meisterschaft 1903 gefeiert.">
+                1946 – 1965 | Auf staatlicher Identitätssuche
+               </a>
+              </li>
+              <li class="sub2 NO middle">
+               <a class="sub2NO" href="/verein/geschichte/1966-1991-sphinx-der-oberliga-sternstunden-im-europacup/" title="Die Traditionslinie beim 1. FC Lok Leipzig reicht zurück bis ins Jahr 1893. Als VfB Leipzig wurde die Erste Deutsche Meisterschaft 1903 gefeiert.">
+                1966 – 1991 | "Sphinx" der Oberliga &amp; Sternstunden im Europacup
+               </a>
+              </li>
+              <li class="sub2 NO middle">
+               <a class="sub2NO" href="/verein/geschichte/1991-2004-vom-himmel-in-die-hoelle/" title="Die Traditionslinie beim 1. FC Lok Leipzig reicht zurück bis ins Jahr 1893. Als VfB Leipzig wurde die Erste Deutsche Meisterschaft 1903 gefeiert.">
+                1991 – 2004 | Vom Himmel in die Hölle
+               </a>
+              </li>
+              <li class="sub2 NO middle">
+               <a class="sub2NO" href="/verein/geschichte/2004-2009-wie-ein-phoenix-aus-der-asche/" title="Die Traditionslinie beim 1. FC Lok Leipzig reicht zurück bis ins Jahr 1893. Als VfB Leipzig wurde die Erste Deutsche Meisterschaft 1903 gefeiert.">
+                2004 – 2009 | Wie ein Phönix aus der Asche
+               </a>
+              </li>
+              <li class="sub2 NO middle">
+               <a class="sub2NO" href="/verein/geschichte/2009-heute-unbesiegbarkeit-beinah-aufstieg-und-pokaltriumph/" title="Die Traditionslinie beim 1. FC Lok Leipzig reicht zurück bis ins Jahr 1893. Als VfB Leipzig wurde die Erste Deutsche Meisterschaft 1903 gefeiert.">
+                2009 – Heute | Unbesiegbarkeit, Beinah-Aufstieg und Pokaltriumph
+               </a>
+              </li>
+              <li class="sub2 NO last">
+               <a class="sub2NO" href="/verein/geschichte/statistiken-seit-1896/" title="Hier finden Sie alle Saisonrückblicke des 1. FC Lok/VfB Leipzig in einer ausführlichen Chronik.">
+                Statistiken seit 1896
+               </a>
+              </li>
+             </ul>
+            </div>
+           </li>
+           <li class="sub1 IFSUB middle">
+            <a class="sub1IFSUB" href="/verein/breitensport/" title="Breitensport">
+             Breitensport
+            </a>
+            <div class="sub2">
+             <ul class="sub2">
+              <li class="sub2 NO first">
+               <a class="sub2NO" href="/verein/breitensport/laufgruppe/" title="Laufgruppe">
+                Laufgruppe
+               </a>
+              </li>
+              <li class="sub2 NO middle">
+               <a class="sub2NO" href="/verein/breitensport/traditionsmannschaft/" title="Traditionsmannschaft">
+                Traditionsmannschaft
+               </a>
+              </li>
+              <li class="sub2 NO middle">
+               <a class="sub2NO" href="/verein/breitensport/die-zweite/" title="Hier finden Sie alle Informationen zur 3. Mannschaft des 1. FC Lok Leipzig.">
+                Die Zweite
+               </a>
+              </li>
+              <li class="sub2 NO middle">
+               <a class="sub2NO" href="/verein/breitensport/ue35/" title="Hier finden Sie alle Informationen zur 3. Mannschaft des 1. FC Lok Leipzig.">
+                Ü35
+               </a>
+              </li>
+              <li class="sub2 NO last">
+               <a class="sub2NO" href="/verein/breitensport/volkssport/" title="Volkssport">
+                Volkssport
+               </a>
+              </li>
+             </ul>
+            </div>
+           </li>
+           <li class="sub1 IFSUB middle">
+            <a class="sub1IFSUB" href="/verein/stadion/das-bruno/" title="Seit 1922 ist das Bruno-Plache-Stadion, ursprünglich VfB-Stadion, die Heimstätte des VfB/1. FC Lok Leipzig in Probstheida.">
+             Stadion
+            </a>
+            <div class="sub2">
+             <ul class="sub2">
+              <li class="sub2 NO first">
+               <a class="sub2NO" href="/verein/stadion/das-bruno/" title="Bruno-Plache-Stadion">
+                Das "Bruno"
+               </a>
+              </li>
+              <li class="sub2 NO last">
+               <a class="sub2NO" href="/verein/stadion/stadionfuehrungen/" title="Stadionführungen">
+                Stadionführungen
+               </a>
+              </li>
+             </ul>
+            </div>
+           </li>
+           <li class="sub1 IFSUB middle">
+            <a class="sub1IFSUB" href="/verein/jobs/" title="Ausschreibungen und andere interessante Jobangebote gibt es hier auf der Job-Seite des 1. FC Lok Leipzig.">
+             Jobs
+            </a>
+            <div class="sub2">
+             <ul class="sub2">
+              <li class="sub2 NO first">
+               <a class="sub2NO" href="/verein/jobs/verkaeufer-mwd-im-lok-fanshop/" title="Ausschreibungen und andere interessante Jobangebote gibt es hier auf der Job-Seite des 1. FC Lok Leipzig.">
+                Verkäufer (m/w/d) im Lok-Fanshop
+               </a>
+              </li>
+              <li class="sub2 NO middle">
+               <a class="sub2NO" href="/verein/jobs/vertriebsmitarbeiter-mwd/" title="Ausschreibungen und andere interessante Jobangebote gibt es hier auf der Job-Seite des 1. FC Lok Leipzig.">
+                Vertriebsmitarbeiter (m/w/d)
+               </a>
+              </li>
+              <li class="sub2 NO middle">
+               <a class="sub2NO" href="/verein/jobs/mitarbeiter-mwd-fanshop-zur-aushilfe/" title="Ausschreibungen und andere interessante Jobangebote gibt es hier auf der Job-Seite des 1. FC Lok Leipzig.">
+                Mitarbeiter (m/w/d) Fanshop zur Aushilfe
+               </a>
+              </li>
+              <li class="sub2 NO middle">
+               <a class="sub2NO" href="/verein/jobs/finanzbuchhalter-in/" title="Ausschreibungen und andere interessante Jobangebote gibt es hier auf der Job-Seite des 1. FC Lok Leipzig.">
+                FINANZBUCHHALTER/-IN
+               </a>
+              </li>
+              <li class="sub2 NO middle">
+               <a class="sub2NO" href="/verein/jobs/grafikerin-mwd-ehrenamtlich/" title="Ausschreibungen und andere interessante Jobangebote gibt es hier auf der Job-Seite des 1. FC Lok Leipzig.">
+                GRAFIKER/IN (m/w/d) - EHRENAMTLICH
+               </a>
+              </li>
+              <li class="sub2 NO middle">
+               <a class="sub2NO" href="/verein/jobs/mitarbeiter-in-fanbetreuung-wmd-geringfuegige-beschaeftigung/" title="Ausschreibungen und andere interessante Jobangebote gibt es hier auf der Job-Seite des 1. FC Lok Leipzig.">
+                Mitarbeiter/-in Fanbetreuung (w/m/d) - geringfügige Beschäftigung)
+               </a>
+              </li>
+              <li class="sub2 NO middle">
+               <a class="sub2NO" href="/verein/jobs/leiter-in-sicherheit-mwd-geringfuegige-beschaeftigung/" title="Ausschreibungen und andere interessante Jobangebote gibt es hier auf der Job-Seite des 1. FC Lok Leipzig.">
+                Leiter/-in Sicherheit (m/w/d) - geringfügige Beschäftigung)
+               </a>
+              </li>
+              <li class="sub2 NO middle">
+               <a class="sub2NO" href="/verein/jobs/maskottchen-lokki-sucht-verstaerkung/" title="Ausschreibungen und andere interessante Jobangebote gibt es hier auf der Job-Seite des 1. FC Lok Leipzig.">
+                Maskottchen Lokki sucht Verstärkung!
+               </a>
+              </li>
+              <li class="sub2 NO last">
+               <a class="sub2NO" href="/verein/jobs/nachwuchstrainer-in/" title="Ausschreibungen und andere interessante Jobangebote gibt es hier auf der Job-Seite des 1. FC Lok Leipzig.">
+                Nachwuchstrainer/-in
+               </a>
+              </li>
+             </ul>
+            </div>
+           </li>
+           <li class="sub1 NO last">
+            <a class="sub1NO" href="/verein/wirtschaftsrat/" title="Wirtschaftsrat">
+             Wirtschaftsrat
+            </a>
+           </li>
+          </ul>
+         </div>
+        </li>
+        <li class="root IFSUB middle p856">
+         <a class="rootIFSUB" href="/mitgliedschaft/mitglied-werden/" title="Wer sich beim Probstheidaer Traditionsverein einbringen möchte, dem sei eine Mitgliedschaft beim 1. FC Lok Leipzig ans Herz gelegt.">
+          Mitgliedschaft
+         </a>
+         <div class="sub1">
+          <ul class="sub1">
+           <li class="sub1 NO first">
+            <a class="sub1NO" href="/mitgliedschaft/mitglied-werden/" title="Wer sich beim Probstheidaer Traditionsverein einbringen möchte, dem sei eine Mitgliedschaft beim 1. FC Lok Leipzig ans Herz gelegt.">
+             Mitglied werden!
+            </a>
+           </li>
+           <li class="sub1 NO middle">
+            <a class="sub1NO" href="/mitgliedschaft/lok-mitglieder-abende/" title="Lok-Mitglieder-Abende">
+             Lok-Mitglieder-Abende
+            </a>
+           </li>
+           <li class="sub1 NO middle">
+            <a class="sub1NO" href="/mitgliedschaft/exklusives-vorteilsprogramm/" title="Exklusives Vorteilsprogramm">
+             Exklusives Vorteilsprogramm
+            </a>
+           </li>
+           <li class="sub1 NO middle">
+            <a class="sub1NO" href="/mitgliedschaft/wee-geld-statt-punkte/" title="wee - Geld statt Punkte">
+             wee - Geld statt Punkte
+            </a>
+           </li>
+           <li class="sub1 NO last">
+            <a class="sub1NO" href="/mitgliedschaft/ehrenmitglieder/" title="Unsere Ehrenmitglieder">
+             Ehrenmitglieder
+            </a>
+           </li>
+          </ul>
+         </div>
+        </li>
+        <li class="root IFSUB middle p927">
+         <a class="rootIFSUB" href="/tickets/fahrkarten/" title="Tickets">
+          Tickets
+         </a>
+         <div class="sub1">
+          <ul class="sub1">
+           <li class="sub1 NO first">
+            <a class="sub1NO" href="/tickets/fahrkarten/" title="Hier gibt es alle Informationen zu Fahrkarten (Tagestickets) und Saisonfahrkarten) Dauerkarten für Heimspiele des 1. FC Lok Leipzig im Bruno-Plache-Stadion.">
+             Fahrkarten
+            </a>
+           </li>
+           <li class="sub1 NO last">
+            <a class="sub1NO" href="/tickets/vorverkauf/" title="Hier finden Sie alle Informationen zum Vorverkauf sowie allen Vorverkaufsstellen für Heimspiele des 1. FC Lok Leipzig im Bruno-Plache-Stadion.">
+             Vorverkauf
+            </a>
+           </li>
+          </ul>
+         </div>
+        </li>
+        <li class="root IFSUB middle p7">
+         <a class="rootIFSUB" href="/profis/lok-fahrplan/" title="Profis">
+          Profis
+         </a>
+         <div class="sub1">
+          <ul class="sub1">
+           <li class="sub1 NO first">
+            <a class="sub1NO" href="/profis/lok-fahrplan/" title="Hier gibt es einen Überblick über alle Spiele des 1. FC Lok Leipzig der aktuellen Saison.">
+             Lok-Fahrplan
+            </a>
+           </li>
+           <li class="sub1 NO middle">
+            <a class="sub1NO" href="/profis/regionalliga-nordost/" title="Alle Ansetzungen und Ergebnisse der aktuellen Regionalliga-Saison finden Sie hier.">
+             Regionalliga Nordost
+            </a>
+           </li>
+           <li class="sub1 NO middle">
+            <a class="sub1NO" href="/profis/testspiele/" title="Hier gibt es einen Überblick über alle Spiele des 1. FC Lok Leipzig der aktuellen Saison.">
+             Testspiele
+            </a>
+           </li>
+           <li class="sub1 NO middle">
+            <a class="sub1NO" href="/profis/teamfoto/" title="Hier gibt es alle Informationen zur ersten Mannschaft des 1. FC Lok Leipzig.">
+             Teamfoto
+            </a>
+           </li>
+           <li class="sub1 NO middle">
+            <a class="sub1NO" href="/profis/spieler/" title="Hier finden Sie alle Informationen zu den Spielern des aktuellen Kaders beim 1. FC Lok Leipzig.">
+             Spieler
+            </a>
+           </li>
+           <li class="sub1 NO last">
+            <a class="sub1NO" href="/profis/trainer-funktionsteam/" title="Hier wird das Trainerteam des 1. FC Lok Leipzig vorgestellt.">
+             Trainer + Funktionsteam
+            </a>
+           </li>
+          </ul>
+         </div>
+        </li>
+        <li class="root IFSUB middle p9">
+         <a class="rootIFSUB" href="/nachwuchs/konzept/" title="Nachwuchs">
+          Nachwuchs
+         </a>
+         <div class="sub1">
+          <ul class="sub1">
+           <li class="sub1 NO first">
+            <a class="sub1NO" href="/nachwuchs/konzept/" title="Hier gibt es alle Informationen zur Förderung des Nachwuchses beim 1. FC Lok Leipzig.">
+             Konzept
+            </a>
+           </li>
+           <li class="sub1 NO middle">
+            <a class="sub1NO" href="/nachwuchs/grundlagenbereich/" title="Hier finden Sie alle Informationen zum Nachwuchs-Grundlagenbereich des 1. FC Lok Leipzig.">
+             Grundlagenbereich
+            </a>
+           </li>
+           <li class="sub1 NO middle">
+            <a class="sub1NO" href="/nachwuchs/aufbaubereich/" title="Hier finden Sie alle Informationen zum Nachwuchs-Aufbaubereich des 1. FC Lok Leipzig.">
+             Aufbaubereich
+            </a>
+           </li>
+           <li class="sub1 NO middle">
+            <a class="sub1NO" href="/nachwuchs/leistungsbereich/" title="Hier finden Sie alle Informationen zum Nachwuchs-Leistungsbereich des 1. FC Lok Leipzig.">
+             Leistungsbereich
+            </a>
+           </li>
+           <li class="sub1 NO middle">
+            <a class="sub1NO" href="/nachwuchs/probetraining/" title="Probetraining">
+             Probetraining
+            </a>
+           </li>
+           <li class="sub1 NO middle">
+            <a class="sub1NO" href="/nachwuchs/die-eisenbahner-talente-schule/" title="Die Eisenbahner-Talente-Schule">
+             Die Eisenbahner-Talente-Schule
+            </a>
+           </li>
+           <li class="sub1 NO last">
+            <a class="sub1NO" href="/nachwuchs/die-fussballschule/" title="Hier gibt es alle Informationen zur Fußballschule beim 1. FC Lok Leipzig.">
+             DIE FUSSBALLSCHULE
+            </a>
+           </li>
+          </ul>
+         </div>
+        </li>
+        <li class="root IFSUB middle p10">
+         <a class="rootIFSUB" href="/fans/fanshop/" title="Fans">
+          Fans
+         </a>
+         <div class="sub1">
+          <ul class="sub1">
+           <li class="sub1 NO first">
+            <a class="sub1NO" href="/fans/fanshop/" title="1. FC Lok,FCL,Loksche,Fußball,Leipzig,Tradition,Probstheida,1893,VfB Leipzig,Erster Deutscher Meister,Europapokal,FDGB-Pokal,Karten,Eintrittskarten,VVK,Tickets,Bruno-Plache-Stadion,Fans">
+             Fanshop
+            </a>
+           </li>
+           <li class="sub1 NO middle">
+            <a class="sub1NO" href="/fans/lokruf/" title="Lokruf.radio - das Fanradio des 1. FC Lokomotive Leipzig">
+             Lokruf
+            </a>
+           </li>
+           <li class="sub1 NO middle">
+            <a class="sub1NO" href="/fans/social-media/" title="Hier gibt es alle Informationen zu den blau-gelben Social-Media-Kanälen.">
+             Social Media
+            </a>
+           </li>
+           <li class="sub1 NO middle">
+            <a class="sub1NO" href="/fans/ehrenkodex/" title="Hier finden Sie den Ehrenkodex zur Selbstregulierung innerhalb der Fanszene des 1. FC Lok Leipzig.">
+             Ehrenkodex
+            </a>
+           </li>
+           <li class="sub1 NO middle">
+            <a class="sub1NO" href="/fans/fanprojekt/" title="Das Fanprojekt Leipzig ist eine Einrichtung der kommunalen Kinder- und Jugendhilfe der Stadt Leipzig. Hier stellt es sich vor.">
+             Fanprojekt
+            </a>
+           </li>
+           <li class="sub1 NO middle">
+            <a class="sub1NO" href="/fans/stadionverbot/" title="Informationen zur Stadionverbotsanhörungskommission des 1. FC Lok Leipzig gibt es hier.">
+             Stadionverbot
+            </a>
+           </li>
+           <li class="sub1 NO last">
+            <a class="sub1NO" href="/fans/fan-forum/" title="Hier geht es zum Fan-Forum des 1. FC Lok Leipzig.">
+             Fan-Forum
+            </a>
+           </li>
+          </ul>
+         </div>
+        </li>
+        <li class="root IFSUB middle p11">
+         <a class="rootIFSUB" href="/sponsoren/sponsoring-beim-1-fc-lok/" title="Sponsoren">
+          Sponsoren
+         </a>
+         <div class="sub1">
+          <ul class="sub1">
+           <li class="sub1 NO first">
+            <a class="sub1NO" href="/sponsoren/sponsoring-beim-1-fc-lok/" title="Sponsoring beim 1. FC Lok Leipzig? Hier gibt es alle Informationen dazu.">
+             Sponsoring beim 1. FC Lok
+            </a>
+           </li>
+           <li class="sub1 NO middle">
+            <a class="sub1NO" href="/sponsoren/sponsoren-und-partner/" title="Alle Sponsoren des 1. FC Lok Leipzig gibt es hier im Überblick.">
+             Sponsoren und Partner
+            </a>
+           </li>
+           <li class="sub1 NO middle">
+            <a class="sub1NO" href="/sponsoren/nachwuchs-sponsoren/" title="Helfen Sie mit! Professionelle Jugend- und Nachwuchsarbeit ist ohne finanziellen Aufwand nicht möglich. Die Nachwuchsförderung beim 1. FC Lok Leipzig hat höchste Prioriät. ">
+             Nachwuchs-Sponsoren
+            </a>
+           </li>
+           <li class="sub1 NO last">
+            <a class="sub1NO" href="/sponsoren/club-1966/" title="Helfen Sie mit! Professionelle Jugend- und Nachwuchsarbeit ist ohne finanziellen Aufwand nicht möglich. Die Nachwuchsförderung beim 1. FC Lok Leipzig hat höchste Prioriät. ">
+             Club 1966
+            </a>
+           </li>
+          </ul>
+         </div>
+        </li>
+        <li class="root IFSUB last p924">
+         <a class="rootIFSUB" href="/nestwaerme/nestwaerme/" title="Nestwärme">
+          Nestwärme
+         </a>
+         <div class="sub1">
+          <ul class="sub1">
+           <li class="sub1 NO first">
+            <a class="sub1NO" href="/nestwaerme/nestwaerme/" title="Nestwärme">
+             Nestwärme
+            </a>
+           </li>
+           <li class="sub1 NO middle">
+            <a class="sub1NO" href="/nestwaerme/partnerschaften/" title="Partnerschaften">
+             Partnerschaften
+            </a>
+           </li>
+           <li class="sub1 NO middle">
+            <a class="sub1NO" href="/nestwaerme/herzensprojekte/" title="Herzensprojekte">
+             Herzensprojekte
+            </a>
+           </li>
+           <li class="sub1 NO last">
+            <a class="sub1NO" href="/nestwaerme/blindenfussball/" title="Blindenfußball">
+             Blindenfußball
+            </a>
+           </li>
+          </ul>
+         </div>
+        </li>
+       </ul>
+      </nav>
+      <div id="logo">
+       <a href="/">
+        <img alt="Vereinslogo" height="150" src="/fileadmin/template/Public/img/logo2.png" title="Zur Startseite" width="150"/>
+       </a>
+      </div>
+     </div>
+    </div>
+    <div id="headerBottomStart">
+     <div class="cell">
+      <div class="news-banner-slider flexslider">
+       <div class="slides">
+        <div class="news-item">
+         <a href="/verein/news/detail/article/julian-weigel-verstaerkt-den-1-fc-lok/" title="JULIAN WEIGEL VERSTÄRKT DEN 1. FC LOK">
+          <img alt="" height="435" src="/typo3temp/_processed_/csm_Julian-Weigel-kommt-zur-Loksche_92ba8726da.jpg" width="1280"/>
+         </a>
+         <h4>
+          <a href="/verein/news/detail/article/julian-weigel-verstaerkt-den-1-fc-lok/" title="JULIAN WEIGEL VERSTÄRKT DEN 1. FC LOK">
+           Erster Neuzugang für die nächste Saison fix
+          </a>
+         </h4>
+         <h3>
+          <a href="/verein/news/detail/article/julian-weigel-verstaerkt-den-1-fc-lok/" title="JULIAN WEIGEL VERSTÄRKT DEN 1. FC LOK">
+           JULIAN WEIGEL VERSTÄRKT DEN 1. FC LOK
+          </a>
+         </h3>
+         <span class="morelink">
+          <a href="/verein/news/detail/article/julian-weigel-verstaerkt-den-1-fc-lok/" title="JULIAN WEIGEL VERSTÄRKT DEN 1. FC LOK">
+           mehr erfahren
+          </a>
+         </span>
+        </div>
+        <div class="news-item">
+         <a href="/verein/news/detail/article/dennis-dickmann-verlaengert/" title="DENNIS DICKMANN VERLÄNGERT!">
+          <img alt="" height="435" src="/typo3temp/_processed_/csm_Dennis-Dickmann-vertragsverla__ngerung-www_26928ee040.jpg" width="1280"/>
+         </a>
+         <h4>
+          <a href="/verein/news/detail/article/dennis-dickmann-verlaengert/" title="DENNIS DICKMANN VERLÄNGERT!">
+           Hüter und Torwarttrainer bleibt im Team
+          </a>
+         </h4>
+         <h3>
+          <a href="/verein/news/detail/article/dennis-dickmann-verlaengert/" title="DENNIS DICKMANN VERLÄNGERT!">
+           DENNIS DICKMANN VERLÄNGERT!
+          </a>
+         </h3>
+         <span class="morelink">
+          <a href="/verein/news/detail/article/dennis-dickmann-verlaengert/" title="DENNIS DICKMANN VERLÄNGERT!">
+           mehr erfahren
+          </a>
+         </span>
+        </div>
+        <div class="news-item">
+         <a href="/verein/news/detail/article/stolperstein-verlegung-fuer-juedische-lok-mitglieder/" title="STOLPERSTEINE FÜR JÜDISCHE VFB-MITGLIEDER">
+          <img alt="" height="435" src="/typo3temp/_processed_/csm_Stolperstein-Verlegung-04_f69535a6c7.jpg" width="1280"/>
+         </a>
+         <h4>
+          <a href="/verein/news/detail/article/stolperstein-verlegung-fuer-juedische-lok-mitglieder/" title="STOLPERSTEINE FÜR JÜDISCHE VFB-MITGLIEDER">
+           Ein Geschichtsprojekt unserer C-Jugend und dem Erich-Zeigner-Haus e.V.
+          </a>
+         </h4>
+         <h3>
+          <a href="/verein/news/detail/article/stolperstein-verlegung-fuer-juedische-lok-mitglieder/" title="STOLPERSTEINE FÜR JÜDISCHE VFB-MITGLIEDER">
+           STOLPERSTEINE FÜR JÜDISCHE VFB-MITGLIEDER
+          </a>
+         </h3>
+         <span class="morelink">
+          <a href="/verein/news/detail/article/stolperstein-verlegung-fuer-juedische-lok-mitglieder/" title="STOLPERSTEINE FÜR JÜDISCHE VFB-MITGLIEDER">
+           mehr erfahren
+          </a>
+         </span>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </header>
+   <div id="content">
+    <div class="cell">
+     <div id="sponsoren">
+      <div class="csc-default" id="c120">
+       <div class="img-right img-above">
+        <div class="img-wrap">
+         <div class="row row-images">
+          <div class="col-image csc-textpic-firstcol">
+           <figure class="image">
+            <a href="https://www.kafril.de/" target="_blank">
+             <img alt="" class="img-responsive img-content" height="35" src="/fileadmin/_processed_/csm_logo-kafril-header_a3b95c887b.gif" width="150"/>
+            </a>
+           </figure>
+          </div>
+          <div class="col-image csc-textpic-lastcol">
+           <figure class="image">
+            <a href="http://etl.de/" target="_blank">
+             <img alt="" class="img-responsive img-content" height="37" src="/fileadmin/user_upload/bilder/sponsoren/Logo_ETL_header.png" width="100"/>
+            </a>
+           </figure>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="row">
+      <div class="normal" id="maincontent">
+       <!--TYPO3SEARCH_begin-->
+       <div class="news-list-container">
+        <div class="news-list-item">
+         <div class="top">
+          <a href="/verein/news/detail/article/zukunft-steine-bleibt-und-erhoeht/" title="ZUKUNFT-STEINE BLEIBT UND ERHÖHT!">
+           <img alt="" height="137" src="/typo3temp/_processed_/csm_zukunft_steine_4de58a3a7e.jpg" width="205"/>
+          </a>
+          <div class="title">
+           <h3>
+            Silber-Sponsor intensiviert Engagement
+           </h3>
+           <h2>
+            <a href="/verein/news/detail/article/zukunft-steine-bleibt-und-erhoeht/" title="ZUKUNFT-STEINE BLEIBT UND ERHÖHT!">
+             ZUKUNFT-STEINE BLEIBT UND ERHÖHT!
+            </a>
+           </h2>
+          </div>
+          <div class="morelink">
+           <a href="/verein/news/detail/article/zukunft-steine-bleibt-und-erhoeht/" title="ZUKUNFT-STEINE BLEIBT UND ERHÖHT!">
+           </a>
+          </div>
+          <div class="clearer">
+          </div>
+         </div>
+         <div class="info">
+          <span class="cats">
+           <a href="/verein/news/" title="Verein">
+            Verein
+           </a>
+           , Top3, Top7
+          </span>
+          |
+          <span class="date">
+           16.05.2022
+          </span>
+          | Erst seit Herbst 2021 dabei und schon ein klares Bekenntnis zur Loksche!
+          <br/>
+          ZUKUNFT-STEINE steht zum FCL, verlängert und erhöht das Engagement deutlich. Und die Verlängerung gilt jetzt schon bis...
+          <span class="morelink">
+           <a href="/verein/news/detail/article/zukunft-steine-bleibt-und-erhoeht/" title="ZUKUNFT-STEINE BLEIBT UND ERHÖHT!">
+            mehr erfahren
+           </a>
+          </span>
+         </div>
+        </div>
+        <div class="news-list-item">
+         <div class="top">
+          <a href="/verein/news/detail/article/der-naechste-lok-mitglieder-abend-steht-1/" title="DER NÄCHSTE FAN &amp; MITGLIEDER-ABEND STEHT!">
+           <img alt="" height="137" src="/typo3temp/_processed_/csm_mitgliederabend-01_01_a0d23aee82.jpg" width="205"/>
+          </a>
+          <div class="title">
+           <h3>
+            Talk mit Thomas Löwe, Torsten Kracht und Alexander Voigt am Freitag
+           </h3>
+           <h2>
+            <a href="/verein/news/detail/article/der-naechste-lok-mitglieder-abend-steht-1/" title="DER NÄCHSTE FAN &amp; MITGLIEDER-ABEND STEHT!">
+             DER NÄCHSTE FAN &amp; MITGLIEDER-ABEND STEHT!
+            </a>
+           </h2>
+          </div>
+          <div class="morelink">
+           <a href="/verein/news/detail/article/der-naechste-lok-mitglieder-abend-steht-1/" title="DER NÄCHSTE FAN &amp; MITGLIEDER-ABEND STEHT!">
+           </a>
+          </div>
+          <div class="clearer">
+          </div>
+         </div>
+         <div class="info">
+          <span class="cats">
+           <a href="/verein/news/" title="Verein">
+            Verein
+           </a>
+           , Top3, Top7
+          </span>
+          |
+          <span class="date">
+           16.05.2022
+          </span>
+          | Der nächste Fan &amp; Mitgliederabend findet am
+          <b>
+           Freitag, dem 20. Mai, um 19 Uhr
+          </b>
+          in der Lok-Lounge statt. Wenn das Wetter passt, machen wir daraus eine Open-Air-Veranstaltung vor der Tribüne....
+          <span class="morelink">
+           <a href="/verein/news/detail/article/der-naechste-lok-mitglieder-abend-steht-1/" title="DER NÄCHSTE FAN &amp; MITGLIEDER-ABEND STEHT!">
+            mehr erfahren
+           </a>
+          </span>
+         </div>
+        </div>
+        <div class="news-list-item">
+         <div class="top">
+          <a href="/verein/news/detail/article/verrueckte-saison-endet-mit-sieg/" title="VERRÜCKTE SAISON ENDET MIT SIEG!">
+           <img alt="" height="137" src="/typo3temp/_processed_/csm_20220515_Luckenwalde_482f722c0f.jpg" width="205"/>
+          </a>
+          <div class="title">
+           <h3>
+            1. FC Lok Leipzig - FSV Luckenwalde 3:1 (2:0)
+           </h3>
+           <h2>
+            <a href="/verein/news/detail/article/verrueckte-saison-endet-mit-sieg/" title="VERRÜCKTE SAISON ENDET MIT SIEG!">
+             VERRÜCKTE SAISON ENDET MIT SIEG!
+            </a>
+           </h2>
+          </div>
+          <div class="morelink">
+           <a href="/verein/news/detail/article/verrueckte-saison-endet-mit-sieg/" title="VERRÜCKTE SAISON ENDET MIT SIEG!">
+           </a>
+          </div>
+          <div class="clearer">
+          </div>
+         </div>
+         <div class="info">
+          <span class="cats">
+           <a href="/verein/news/" title="Verein">
+            Verein
+           </a>
+           , Top3, Top7
+          </span>
+          |
+          <span class="date">
+           15.05.2022
+          </span>
+          | Der 1. FC Lok gewann das letzte Saisonspiel gegen den FSV Luckenwalde am Ende verdient mit 3:1. Die über 2.700 Zuschauer im sonnigen Bruno-Plache-Stadion sahen speziell in der 1. Halbzeit eine...
+          <span class="morelink">
+           <a href="/verein/news/detail/article/verrueckte-saison-endet-mit-sieg/" title="VERRÜCKTE SAISON ENDET MIT SIEG!">
+            mehr erfahren
+           </a>
+          </span>
+         </div>
+        </div>
+        <div class="news-list-item">
+         <div class="top">
+          <a href="/verein/news/detail/article/danke-danke-dankeschoen-3/" title="DANKE, DANKE, DANKESCHÖN!">
+           <img alt="" height="137" src="/typo3temp/_processed_/csm_abgaenge-danke-2022-HP_7c3ca7d643.jpg" width="205"/>
+          </a>
+          <div class="title">
+           <h3>
+            Wir sagen danke für alles
+           </h3>
+           <h2>
+            <a href="/verein/news/detail/article/danke-danke-dankeschoen-3/" title="DANKE, DANKE, DANKESCHÖN!">
+             DANKE, DANKE, DANKESCHÖN!
+            </a>
+           </h2>
+          </div>
+          <div class="morelink">
+           <a href="/verein/news/detail/article/danke-danke-dankeschoen-3/" title="DANKE, DANKE, DANKESCHÖN!">
+           </a>
+          </div>
+          <div class="clearer">
+          </div>
+         </div>
+         <div class="info">
+          <span class="cats">
+           <a href="/verein/news/" title="Verein">
+            Verein
+           </a>
+           , Top3, Top7
+          </span>
+          |
+          <span class="date">
+           15.05.2022
+          </span>
+          | Nach den bereits verkündeten Abgang von Robert Berger möchten wir heute weitere Spieler der letzten Saison verabschieden.
+Ein großer Dank geht zuerst an unseren Torhüter Jan-Ole Sievers, der in den...
+          <span class="morelink">
+           <a href="/verein/news/detail/article/danke-danke-dankeschoen-3/" title="DANKE, DANKE, DANKESCHÖN!">
+            mehr erfahren
+           </a>
+          </span>
+         </div>
+        </div>
+        <div class="news-list-browse">
+         <div class="showResultsWrap">
+          News 1 bis 4 von 2708
+         </div>
+         <div class="browseLinksWrap">
+          <span class="disabledLinkWrap">
+           &lt;&lt; Erste
+          </span>
+          <span class="disabledLinkWrap">
+           &lt; zurück
+          </span>
+          <span class="activeLinkWrap">
+           1-4
+          </span>
+          <a href="/browse/1/">
+           5-8
+          </a>
+          <a href="/browse/2/">
+           9-12
+          </a>
+          <a href="/browse/3/">
+           13-16
+          </a>
+          <a href="/browse/4/">
+           17-20
+          </a>
+          <a href="/browse/5/">
+           21-24
+          </a>
+          <a href="/browse/6/">
+           25-28
+          </a>
+          <a href="/browse/1/">
+           vor &gt;
+          </a>
+          <a href="/browse/676/">
+           Letzte &gt;&gt;
+          </a>
+         </div>
+        </div>
+       </div>
+       <div class="csc-default" id="c1771">
+        <div class="text">
+        </div>
+       </div>
+       <div class="csc-default" id="c2208">
+        <div class="csc-header csc-header-n2">
+         <h2>
+          Spende für Deinen 1. FC Lokomotive Leipzig, Verein für Bewegungsspiele e.V.!
+         </h2>
+        </div>
+        <div class="img-center img-below">
+         <div class="text">
+          <div class="csc-body bodytextbox">
+           <footer>
+            <p>
+             Für Deine Unterstützung bekommst Du vom 1. FC Lokomotive Leipzig, Verein für Bewegungsspiele e.V. eine Spendenquittung ausgestellt.
+            </p>
+           </footer>
+          </div>
+         </div>
+         <div class="img-wrap">
+          <div class="img-center-outer">
+           <div class="img-center-inner">
+            <figure class="image">
+             <a class="_blank" href="https://www.paypal.me/lokspende" target="_blank">
+              <img alt="" class="img-responsive img-content" height="90" src="/fileadmin/_processed_/csm_paypal_44bc0f8ab6.jpg" width="300"/>
+             </a>
+            </figure>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="csc-box2" id="c2550">
+        <div class="img-center img-above">
+         <div class="img-wrap">
+          <div class="img-center-outer">
+           <div class="img-center-inner">
+            <figure class="image">
+             <a href="https://www.youtube.com/watch?v=OjtmUCkSBz4" target="_blank">
+              <img alt="" class="img-responsive img-content" height="554" src="/fileadmin/_processed_/csm_sachsenkickTV-video-startseite-1_c482ec7b1c.jpg" width="980"/>
+             </a>
+            </figure>
+           </div>
+          </div>
+         </div>
+         <div class="text">
+          <h2>
+           Auf dem Weg zurück in den Profifußball!
+          </h2>
+          <div class="csc-body bodytextbox">
+           <p>
+            Als Erster Deutscher Meister und ehemaliger Bundesligist ist unser Club fest in der Fußballgeschichte verankert. Die letzten Jahren waren für uns allerdings nicht immer einfach. Der denkbar knapp verpasste Aufstieg in die 3. Liga schmerzte 2020 besonders. Dennoch blicken wir weiterhin optimistisch in die Zukunft - unser mittelfristiges Ziel ist nach wie vor die Rückkehr in den bezahlten Fußball. Jetzt hat SACHSENKICK.TV eine sehr gelungene Bestandsaufnahme der aktuellen Situation bei unserer geliebten Loksche veröffentlicht.
+           </p>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="csc-box2" id="c2141">
+        <div class="img-center img-above">
+         <div class="img-wrap">
+          <div class="img-center-outer">
+           <div class="img-center-inner">
+            <figure class="image">
+             <a href="https://www.youtube.com/watch?v=STLdAbnBBDk" target="_blank">
+              <img alt="" class="img-responsive img-content" height="592" src="/fileadmin/_processed_/csm_start-kannst-du-es-spueren_59abf3af4b.jpg" width="980"/>
+             </a>
+            </figure>
+           </div>
+          </div>
+         </div>
+         <div class="text">
+          <h2>
+           Kannst Du es spüren?
+          </h2>
+          <div class="csc-body bodytextbox">
+           <p>
+            … dann unterstütze den 1. FC Lok so gut es geht. Ob zu den Spielen der Loksche, im Ehrenamt, als offizielles Mitglied oder sogar als Sponsor! Jede helfende Hand wird gebraucht.
+           </p>
+           <p>
+            Jeder, der unterstützen möchte, ist herzlich willkommen:
+            <b>
+             <br/>
+             Gemeinsam in eine blau-gelbe Zukunft!
+            </b>
+           </p>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="csc-default" id="c1767">
+        <div class="csc-header csc-header-n5">
+         <h2>
+          Die letzten Ergebnisse unserer Mannschaften
+         </h2>
+        </div>
+        <div class="csc-body bodytextbox">
+         <p>
+          Es werden nur die Pflichtspielergebnisse aufgeführt.
+         </p>
+         <p>
+          Ergebnisse der E-Junioren und F-Junioren werden nicht genannt.
+         </p>
+         <table class="table" height="528" width="570">
+          <thead>
+           <tr>
+            <th>
+             Team
+            </th>
+            <th scope="col">
+             Heim
+            </th>
+            <th scope="col">
+             Gast
+            </th>
+            <th scope="col">
+             Ergebnis
+            </th>
+           </tr>
+          </thead>
+          <tbody>
+           <tr>
+            <td>
+             Erste
+            </td>
+            <td>
+             1. FC Lok Leipzig
+            </td>
+            <td>
+             FSV 63 Luckenwalde
+            </td>
+            <td>
+             <span class="rot">
+              <span class="gruen">
+               3:1
+              </span>
+             </span>
+            </td>
+           </tr>
+           <tr>
+            <td>
+             A-Jun.
+            </td>
+            <td rowspan="1">
+             JFV Neuseenland
+            </td>
+            <td rowspan="1">
+             1. FC Lok Leipzig
+            </td>
+            <td rowspan="1">
+             <span class="gruen">
+             </span>
+             <span class="gruen">
+              2:3
+             </span>
+            </td>
+           </tr>
+           <tr>
+            <td>
+             B1-Jun.
+            </td>
+            <td rowspan="1">
+             1. FC Lok Leipzig
+            </td>
+            <td rowspan="1">
+             RasenBallsport Leipzig II
+            </td>
+            <td rowspan="1">
+             <b>
+             </b>
+             <span class="rot">
+              1:4
+             </span>
+             <b>
+             </b>
+            </td>
+           </tr>
+           <tr>
+            <td>
+             B2-Jun.
+            </td>
+            <td rowspan="1">
+             1. FC Lok Leipzig II
+            </td>
+            <td rowspan="1">
+             SpG Penig/Herrenhaide/Hartmannsdorf
+            </td>
+            <td rowspan="1">
+             <span class="gruen">
+              5:1
+             </span>
+            </td>
+           </tr>
+           <tr>
+            <td>
+             C1-Jun.
+            </td>
+            <td rowspan="1">
+             FSV Zwickau
+            </td>
+            <td rowspan="1">
+             1. FC Lok Leipzig
+            </td>
+            <td rowspan="1">
+             <span class="rot">
+              <span style="font-weight: normal;">
+              </span>
+             </span>
+             <b>
+              1:1
+             </b>
+            </td>
+           </tr>
+           <tr>
+            <td>
+             C2-Jun.
+            </td>
+            <td rowspan="1">
+             1. FC Lok Leipzig II
+            </td>
+            <td rowspan="1">
+             JFV Mulde-Lossa-Tal
+            </td>
+            <td rowspan="1">
+             <span class="rot">
+             </span>
+             <span class="rot">
+             </span>
+             <span class="rot">
+             </span>
+             <span class="rot gruen">
+              14:0
+             </span>
+            </td>
+           </tr>
+           <tr>
+            <td>
+             D1-Jun.
+            </td>
+            <td rowspan="1">
+             FC Erzgebirge Aue II
+            </td>
+            <td rowspan="1">
+             1. FC Lok Leipzig
+            </td>
+            <td rowspan="1">
+             <span class="rot gruen">
+              <span style="font-weight: normal;">
+              </span>
+             </span>
+             <span class="rot">
+             </span>
+             <span class="gruen">
+              1:2
+             </span>
+             <b>
+              <br/>
+             </b>
+            </td>
+           </tr>
+           <tr>
+            <td>
+             D2-Jun.
+            </td>
+            <td rowspan="1">
+             JFV Neuseenland II
+            </td>
+            <td rowspan="1">
+             1. FC Lok Leipzig II
+            </td>
+            <td rowspan="1">
+             <span class="gruen">
+             </span>
+             <span class="rot">
+              <span class="gruen">
+               1:4
+              </span>
+             </span>
+            </td>
+           </tr>
+           <tr>
+            <td rowspan="1">
+             D3-Jun.
+            </td>
+            <td rowspan="1">
+             1. FC Lok Leipzig III
+            </td>
+            <td rowspan="1">
+             FC Blau-Weiß Leipzig
+            </td>
+            <td rowspan="1">
+             <span class="gruen rot">
+             </span>
+             <b>
+              3:3
+             </b>
+            </td>
+           </tr>
+           <tr>
+            <td rowspan="1">
+             Zweite
+            </td>
+            <td rowspan="1">
+             SV Tapfer 06 Leipzig II
+            </td>
+            <td rowspan="1">
+             1. FC Lok Leipzig II
+            </td>
+            <td rowspan="1">
+             <span class="gruen">
+              <span style="font-weight: normal;">
+              </span>
+             </span>
+             <span class="rot gruen">
+              1:2
+             </span>
+            </td>
+           </tr>
+           <tr>
+            <td>
+             Dritte
+            </td>
+            <td rowspan="1">
+             SV Liebertwolkwitz 1858 II
+            </td>
+            <td rowspan="1">
+             SpG Turbine Leipzig II/1. FC Lok Leipzig III
+            </td>
+            <td rowspan="1">
+             <span class="rot">
+             </span>
+             <span style="font-weight: normal;">
+              <span class="gruen">
+               <span style="font-weight: normal;">
+               </span>
+              </span>
+             </span>
+             <span class="rot">
+              23:1
+             </span>
+            </td>
+           </tr>
+           <tr>
+            <td>
+             Ü35
+            </td>
+            <td rowspan="1">
+             SSV Markranstädt
+            </td>
+            <td rowspan="1">
+             1. FC Lok Leipzig
+            </td>
+            <td rowspan="1">
+             <span class="rot">
+              4:2
+             </span>
+            </td>
+           </tr>
+           <tr>
+            <td>
+             FZS
+            </td>
+            <td rowspan="1">
+             1. FC Lok Leipzig
+            </td>
+            <td rowspan="1">
+             FC Kickers Leipzig
+            </td>
+            <td rowspan="1">
+             <span class="rot">
+             </span>
+             <b>
+              1:1
+             </b>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+        </div>
+       </div>
+       <div class="csc-box1" id="c1766">
+        <div class="img-center img-above">
+         <div class="img-wrap">
+          <div class="img-center-outer">
+           <div class="img-center-inner">
+            <figure class="image">
+             <a href="/verein/geschichte/">
+              <img alt="" class="img-responsive img-content" height="395" src="/fileadmin/user_upload/bilder/startseitenteaser/x1.jpg" width="620"/>
+             </a>
+            </figure>
+           </div>
+          </div>
+         </div>
+         <div class="text">
+          <h2>
+           Fußball in Leipzig-Probstheida. Gelebte Tradition seit 125 Jahren.
+          </h2>
+          <div class="csc-body bodytextbox">
+           <p>
+            Hier klicken und mehr zur Probstheidaer Geschichte erfahren...
+           </p>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="csc-box2" id="c2432">
+        <div class="img-center img-above">
+         <div class="img-wrap">
+          <div class="img-center-outer">
+           <div class="img-center-inner">
+            <figure class="image">
+             <a href="https://open.spotify.com/show/4aPvfR4CfCQw7cBpCb0fiz" target="_blank">
+              <img alt="" class="img-responsive img-content" height="460" src="/fileadmin/_processed_/csm_lokcast-Logo-1_b9acba1c5b.jpg" width="980"/>
+             </a>
+            </figure>
+           </div>
+          </div>
+         </div>
+         <div class="text">
+          <h2>
+           LOKCAST
+          </h2>
+          <div class="csc-body bodytextbox">
+           <p>
+            Der offizielle Podcast des 1. FC Lokomotive Leipzig...
+           </p>
+          </div>
+         </div>
+        </div>
+       </div>
+       <!--TYPO3SEARCH_end-->
+       <div id="contentbanner">
+        <div class="tx-sf-banners">
+         <script type="text/javascript">
+          var banners = new BannerPlacement(1, 0, 9001, '495', '1', 'random', 'banners-odc4mwrmn', '334a8637f5207f5010ce8bd3e117382acc22226b');
+         </script>
+         <div id="banners-odc4mwrmn">
+         </div>
+        </div>
+       </div>
+      </div>
+      <aside id="sidebar">
+       <div id="sidebarContent">
+        <div class="csc-default head1" id="c1501">
+         <div class="csc-header csc-header-n1">
+          <h3 class="csc-firstHeader">
+           Letztes Spiel
+          </h3>
+         </div>
+         <div class="cfcleague-matchtable small">
+          <div class="date">
+           So, 15.05.22 - 13:00 Uhr
+           <br/>
+           <span style="font-weight:normal">
+            (Bruno-Plache-Stadion)
+           </span>
+           <br/>
+          </div>
+          <div class="round">
+           38. Spieltag
+          </div>
+          <div class="both">
+           <div class="left">
+            <img alt="" height="100" src="/fileadmin/_processed_/csm_1FC_Lokomotive_Leipzig_200x200px_2689face3c.png" width="100"/>
+            <span>
+             1. FC Lokomotive Leipzig
+            </span>
+           </div>
+           <div class="right">
+            <img alt="" height="100" src="/fileadmin/_processed_/csm_Logo_FSV_63_Luckenwalde_300099e43f.gif" width="100"/>
+            <span>
+             FSV 63 Luckenwalde
+            </span>
+           </div>
+           <div class="lok_result_sidebox">
+            <a href="/profis/spielbericht/?cfc_league_fe%5BmatchId%5D=6708&amp;cHash=bfd16d0d1f60987f07ce41340c81e7c0">
+             3 : 1
+            </a>
+           </div>
+           <div class="lok_reportlink_sidebox">
+            <a href="/profis/spielbericht/?cfc_league_fe%5BmatchId%5D=6708&amp;cHash=bfd16d0d1f60987f07ce41340c81e7c0">
+             Spielbericht
+            </a>
+            <br/>
+            <span>
+             <a href="/profis/ticker-popup/?cfc_league_fe%5BmatchId%5D=6708&amp;cHash=bfd16d0d1f60987f07ce41340c81e7c0">
+              Ticker
+             </a>
+            </span>
+           </div>
+          </div>
+          <div class="result">
+           <a href="/profis/spielbericht/?cfc_league_fe%5BmatchId%5D=6708&amp;cHash=bfd16d0d1f60987f07ce41340c81e7c0">
+            3 : 1
+           </a>
+           <a href="/profis/spielbericht/?cfc_league_fe%5BmatchId%5D=6708&amp;cHash=bfd16d0d1f60987f07ce41340c81e7c0">
+            3 : 1
+           </a>
+           <br/>
+           <br/>
+          </div>
+         </div>
+        </div>
+        <div class="csc-default head1" id="c335">
+         <div class="csc-header csc-header-n2">
+          <h3>
+           Tabelle
+          </h3>
+         </div>
+         <div class="cfcleague-leaguetable">
+          <table class="table table-striped smalltable">
+           <tr class="cfcleague-leaguetable-row0 cfcleague-leaguetable-row cfcleague-leaguetable-marker_blau">
+            <td class="position">
+             <span class="actpos">
+              1
+             </span>
+             .
+             <span class="oldpos">
+              (
+              <span>
+               1
+              </span>
+              )
+             </span>
+            </td>
+            <td class="tendenz">
+             <span>
+             </span>
+            </td>
+            <td class="name">
+             BFC Dynamo
+            </td>
+            <td class="differenz">
+             <span title="Tordifferenz">
+              52
+             </span>
+            </td>
+            <td class="punkte">
+             <span title="Punkte">
+              82
+             </span>
+            </td>
+           </tr>
+           <tr class="cfcleague-leaguetable-row1 cfcleague-leaguetable-row cfcleague-leaguetable-marker_">
+            <td class="position">
+             <span class="actpos">
+              2
+             </span>
+             .
+             <span class="oldpos">
+              (
+              <span>
+               2
+              </span>
+              )
+             </span>
+            </td>
+            <td class="tendenz">
+             <span>
+             </span>
+            </td>
+            <td class="name">
+             FC Carl Zeiss Jena
+            </td>
+            <td class="differenz">
+             <span title="Tordifferenz">
+              36
+             </span>
+            </td>
+            <td class="punkte">
+             <span title="Punkte">
+              76
+             </span>
+            </td>
+           </tr>
+           <tr class="cfcleague-leaguetable-row0 cfcleague-leaguetable-row cfcleague-leaguetable-marker_">
+            <td class="position">
+             <span class="actpos">
+              3
+             </span>
+             .
+             <span class="oldpos">
+              (
+              <span>
+               4
+              </span>
+              )
+             </span>
+            </td>
+            <td class="tendenz">
+             <span>
+             </span>
+            </td>
+            <td class="name">
+             FC Energie Cottbus
+            </td>
+            <td class="differenz">
+             <span title="Tordifferenz">
+              50
+             </span>
+            </td>
+            <td class="punkte">
+             <span title="Punkte">
+              74
+             </span>
+            </td>
+           </tr>
+           <tr class="cfcleague-leaguetable-row1 cfcleague-leaguetable-row cfcleague-leaguetable-marker_">
+            <td class="position">
+             <span class="actpos">
+              4
+             </span>
+             .
+             <span class="oldpos">
+              (
+              <span>
+               3
+              </span>
+              )
+             </span>
+            </td>
+            <td class="tendenz">
+             <span>
+             </span>
+            </td>
+            <td class="name">
+             VSG Altglienicke
+            </td>
+            <td class="differenz">
+             <span title="Tordifferenz">
+              33
+             </span>
+            </td>
+            <td class="punkte">
+             <span title="Punkte">
+              72
+             </span>
+            </td>
+           </tr>
+           <tr class="cfcleague-leaguetable-row0 cfcleague-leaguetable-row cfcleague-leaguetable-marker_">
+            <td class="position">
+             <span class="actpos">
+              5
+             </span>
+             .
+             <span class="oldpos">
+              (
+              <span>
+               5
+              </span>
+              )
+             </span>
+            </td>
+            <td class="tendenz">
+             <span>
+             </span>
+            </td>
+            <td class="name">
+             Chemnitzer FC
+            </td>
+            <td class="differenz">
+             <span title="Tordifferenz">
+              30
+             </span>
+            </td>
+            <td class="punkte">
+             <span title="Punkte">
+              72
+             </span>
+            </td>
+           </tr>
+           <tr class="cfcleague-leaguetable-row1 cfcleague-leaguetable-rowTeam cfcleague-leaguetable-row cfcleague-leaguetable-marker_">
+            <td class="position">
+             <span class="actpos">
+              6
+             </span>
+             .
+             <span class="oldpos">
+              (
+              <span>
+               6
+              </span>
+              )
+             </span>
+            </td>
+            <td class="tendenz">
+             <span>
+             </span>
+            </td>
+            <td class="name">
+             1. FC Lokomotive Leipzig
+            </td>
+            <td class="differenz">
+             <span title="Tordifferenz">
+              29
+             </span>
+            </td>
+            <td class="punkte">
+             <span title="Punkte">
+              71
+             </span>
+            </td>
+           </tr>
+           <tr class="cfcleague-leaguetable-row0 cfcleague-leaguetable-row cfcleague-leaguetable-marker_">
+            <td class="position">
+             <span class="actpos">
+              7
+             </span>
+             .
+             <span class="oldpos">
+              (
+              <span>
+               7
+              </span>
+              )
+             </span>
+            </td>
+            <td class="tendenz">
+             <span>
+             </span>
+            </td>
+            <td class="name">
+             Berliner AK 07
+            </td>
+            <td class="differenz">
+             <span title="Tordifferenz">
+              17
+             </span>
+            </td>
+            <td class="punkte">
+             <span title="Punkte">
+              69
+             </span>
+            </td>
+           </tr>
+           <tr class="cfcleague-leaguetable-row1 cfcleague-leaguetable-row cfcleague-leaguetable-marker_">
+            <td class="position">
+             <span class="actpos">
+              8
+             </span>
+             .
+             <span class="oldpos">
+              (
+              <span>
+               8
+              </span>
+              )
+             </span>
+            </td>
+            <td class="tendenz">
+             <span>
+             </span>
+            </td>
+            <td class="name">
+             Hertha BSC II
+            </td>
+            <td class="differenz">
+             <span title="Tordifferenz">
+              20
+             </span>
+            </td>
+            <td class="punkte">
+             <span title="Punkte">
+              60
+             </span>
+            </td>
+           </tr>
+           <tr class="cfcleague-leaguetable-row0 cfcleague-leaguetable-row cfcleague-leaguetable-marker_">
+            <td class="position">
+             <span class="actpos">
+              9
+             </span>
+             .
+             <span class="oldpos">
+              (
+              <span>
+               9
+              </span>
+              )
+             </span>
+            </td>
+            <td class="tendenz">
+             <span>
+             </span>
+            </td>
+            <td class="name">
+             BSG Chemie Leipzig
+            </td>
+            <td class="differenz">
+             <span title="Tordifferenz">
+              -1
+             </span>
+            </td>
+            <td class="punkte">
+             <span title="Punkte">
+              56
+             </span>
+            </td>
+           </tr>
+           <tr class="cfcleague-leaguetable-row1 cfcleague-leaguetable-row cfcleague-leaguetable-marker_">
+            <td class="position">
+             <span class="actpos">
+              10
+             </span>
+             .
+             <span class="oldpos">
+              (
+              <span>
+               12
+              </span>
+              )
+             </span>
+            </td>
+            <td class="tendenz">
+             <span>
+             </span>
+            </td>
+            <td class="name">
+             Tennis Borussia Berlin
+            </td>
+            <td class="differenz">
+             <span title="Tordifferenz">
+              9
+             </span>
+            </td>
+            <td class="punkte">
+             <span title="Punkte">
+              53
+             </span>
+            </td>
+           </tr>
+           <tr class="cfcleague-leaguetable-row0 cfcleague-leaguetable-row cfcleague-leaguetable-marker_">
+            <td class="position">
+             <span class="actpos">
+              11
+             </span>
+             .
+             <span class="oldpos">
+              (
+              <span>
+               10
+              </span>
+              )
+             </span>
+            </td>
+            <td class="tendenz">
+             <span>
+             </span>
+            </td>
+            <td class="name">
+             SV Babelsberg 03
+            </td>
+            <td class="differenz">
+             <span title="Tordifferenz">
+              4
+             </span>
+            </td>
+            <td class="punkte">
+             <span title="Punkte">
+              53
+             </span>
+            </td>
+           </tr>
+           <tr class="cfcleague-leaguetable-row1 cfcleague-leaguetable-row cfcleague-leaguetable-marker_">
+            <td class="position">
+             <span class="actpos">
+              12
+             </span>
+             .
+             <span class="oldpos">
+              (
+              <span>
+               11
+              </span>
+              )
+             </span>
+            </td>
+            <td class="tendenz">
+             <span>
+             </span>
+            </td>
+            <td class="name">
+             FSV 63 Luckenwalde
+            </td>
+            <td class="differenz">
+             <span title="Tordifferenz">
+              8
+             </span>
+            </td>
+            <td class="punkte">
+             <span title="Punkte">
+              50
+             </span>
+            </td>
+           </tr>
+           <tr class="cfcleague-leaguetable-row0 cfcleague-leaguetable-row cfcleague-leaguetable-marker_">
+            <td class="position">
+             <span class="actpos">
+              13
+             </span>
+             .
+             <span class="oldpos">
+              (
+              <span>
+               13
+              </span>
+              )
+             </span>
+            </td>
+            <td class="tendenz">
+             <span>
+             </span>
+            </td>
+            <td class="name">
+             SV Lichtenberg 47
+            </td>
+            <td class="differenz">
+             <span title="Tordifferenz">
+              -15
+             </span>
+            </td>
+            <td class="punkte">
+             <span title="Punkte">
+              44
+             </span>
+            </td>
+           </tr>
+           <tr class="cfcleague-leaguetable-row1 cfcleague-leaguetable-row cfcleague-leaguetable-marker_">
+            <td class="position">
+             <span class="actpos">
+              14
+             </span>
+             .
+             <span class="oldpos">
+              (
+              <span>
+               14
+              </span>
+              )
+             </span>
+            </td>
+            <td class="tendenz">
+             <span>
+             </span>
+            </td>
+            <td class="name">
+             ZFC Meuselwitz
+            </td>
+            <td class="differenz">
+             <span title="Tordifferenz">
+              -12
+             </span>
+            </td>
+            <td class="punkte">
+             <span title="Punkte">
+              41
+             </span>
+            </td>
+           </tr>
+           <tr class="cfcleague-leaguetable-row0 cfcleague-leaguetable-row cfcleague-leaguetable-marker_">
+            <td class="position">
+             <span class="actpos">
+              15
+             </span>
+             .
+             <span class="oldpos">
+              (
+              <span>
+               15
+              </span>
+              )
+             </span>
+            </td>
+            <td class="tendenz">
+             <span>
+             </span>
+            </td>
+            <td class="name">
+             VfB Germania Halberstadt
+            </td>
+            <td class="differenz">
+             <span title="Tordifferenz">
+              -20
+             </span>
+            </td>
+            <td class="punkte">
+             <span title="Punkte">
+              41
+             </span>
+            </td>
+           </tr>
+           <tr class="cfcleague-leaguetable-row1 cfcleague-leaguetable-row cfcleague-leaguetable-marker_">
+            <td class="position">
+             <span class="actpos">
+              16
+             </span>
+             .
+             <span class="oldpos">
+              (
+              <span>
+               16
+              </span>
+              )
+             </span>
+            </td>
+            <td class="tendenz">
+             <span>
+             </span>
+            </td>
+            <td class="name">
+             FC Eilenburg
+            </td>
+            <td class="differenz">
+             <span title="Tordifferenz">
+              -38
+             </span>
+            </td>
+            <td class="punkte">
+             <span title="Punkte">
+              33
+             </span>
+            </td>
+           </tr>
+           <tr class="cfcleague-leaguetable-row0 cfcleague-leaguetable-row cfcleague-leaguetable-marker_">
+            <td class="position">
+             <span class="actpos">
+              17
+             </span>
+             .
+             <span class="oldpos">
+              (
+              <span>
+               18
+              </span>
+              )
+             </span>
+            </td>
+            <td class="tendenz">
+             <span>
+             </span>
+            </td>
+            <td class="name">
+             FSV Union Fürstenwalde
+            </td>
+            <td class="differenz">
+             <span title="Tordifferenz">
+              -40
+             </span>
+            </td>
+            <td class="punkte">
+             <span title="Punkte">
+              33
+             </span>
+            </td>
+           </tr>
+           <tr class="cfcleague-leaguetable-row1 cfcleague-leaguetable-row cfcleague-leaguetable-marker_rot">
+            <td class="position">
+             <span class="actpos">
+              18
+             </span>
+             .
+             <span class="oldpos">
+              (
+              <span>
+               17
+              </span>
+              )
+             </span>
+            </td>
+            <td class="tendenz">
+             <span>
+             </span>
+            </td>
+            <td class="name">
+             FSV Optik Rathenow
+            </td>
+            <td class="differenz">
+             <span title="Tordifferenz">
+              -33
+             </span>
+            </td>
+            <td class="punkte">
+             <span title="Punkte">
+              30
+             </span>
+            </td>
+           </tr>
+           <tr class="cfcleague-leaguetable-row0 cfcleague-leaguetable-row cfcleague-leaguetable-marker_rot">
+            <td class="position">
+             <span class="actpos">
+              19
+             </span>
+             .
+             <span class="oldpos">
+              (
+              <span>
+               19
+              </span>
+              )
+             </span>
+            </td>
+            <td class="tendenz">
+             <span>
+             </span>
+            </td>
+            <td class="name">
+             VfB Auerbach
+            </td>
+            <td class="differenz">
+             <span title="Tordifferenz">
+              -50
+             </span>
+            </td>
+            <td class="punkte">
+             <span title="Punkte">
+              23
+             </span>
+            </td>
+           </tr>
+           <tr class="cfcleague-leaguetable-row1 cfcleague-leaguetable-row cfcleague-leaguetable-marker_rot">
+            <td class="position">
+             <span class="actpos">
+              20
+             </span>
+             .
+             <span class="oldpos">
+              (
+              <span>
+               20
+              </span>
+              )
+             </span>
+            </td>
+            <td class="tendenz">
+             <span>
+             </span>
+            </td>
+            <td class="name">
+             SV Tasmania Berlin
+            </td>
+            <td class="differenz">
+             <span title="Tordifferenz">
+              -79
+             </span>
+            </td>
+            <td class="punkte">
+             <span title="Punkte">
+              17
+             </span>
+            </td>
+           </tr>
+          </table>
+         </div>
+        </div>
+        <div class="csc-default" id="c2306">
+         <div class="csc-header csc-header-n3">
+          <h3>
+           Spende für Deinen 1. FC Lokomotive Leipzig, Verein für Bewegungsspiele e.V.!
+          </h3>
+         </div>
+         <div class="img-center img-below">
+          <div class="text">
+          </div>
+          <div class="img-wrap">
+           <div class="img-center-outer">
+            <div class="img-center-inner">
+             <figure class="image">
+              <a class="_blank" href="https://www.paypal.me/lokspende" target="_blank">
+               <img alt="" class="img-responsive img-content" height="120" src="/fileadmin/_processed_/csm_paypal_e61fb07934.jpg" width="400"/>
+              </a>
+             </figure>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="csc-default" id="c2431">
+        </div>
+       </div>
+       <div id="sidebarbanner" in-mobile-after="#maincontent" in-mobile-class="mobile" in-standard-after="#sidebarContent" in-standard-class="standard" intent="">
+        <div class="tx-sf-banners">
+         <script type="text/javascript">
+          var banners = new BannerPlacement(1, 0, 9001, '495', '2', 'random', 'banners-ztqyowrkm', 'b94ef57bc5652a21b0c7a16e72b158ed60435b15');
+         </script>
+         <div id="banners-ztqyowrkm">
+         </div>
+        </div>
+       </div>
+      </aside>
+     </div>
+     <div id="offsitebanner">
+      <div class="tx-sf-banners">
+       <script type="text/javascript">
+        var banners = new BannerPlacement(1, 0, 9001, '495', '3', 'random', 'banners-oge3mwu1y', 'da7088d3959e8d7b1b69ca119547844b0638771e');
+       </script>
+       <div id="banners-oge3mwu1y">
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div id="prefooter">
+    <div class="cell">
+     <div id="claim2">
+     </div>
+    </div>
+   </div>
+   <footer id="pagefooter">
+    <div class="cell">
+     <div class="csc-default" id="c196">
+      <div class="img-center img-above">
+       <div class="img-wrap">
+        <div class="img-center-outer">
+         <div class="img-center-inner">
+          <div class="row row-images">
+           <div class="col-image csc-textpic-firstcol">
+            <figure class="image">
+             <a href="https://www.kafril.de/" target="_blank">
+              <img alt="" class="img-responsive img-content" height="102" src="/fileadmin/user_upload/bilder/Banner_und_Icons/logo-kafril-footer165.png" width="165"/>
+             </a>
+            </figure>
+           </div>
+           <div class="col-image">
+            <figure class="image">
+             <a href="http://www.apotheken.de/club/99085/germania-apotheke/kontakt/" target="_blank">
+              <img alt="" class="img-responsive img-content" height="102" src="/fileadmin/user_upload/bilder/sponsoren/footerlogos/11_footer_germania-Apotheke6.png" width="146"/>
+             </a>
+            </figure>
+           </div>
+           <div class="col-image">
+            <figure class="image">
+             <a href="https://ib-beyer-leipzig.de/" target="_blank">
+              <img alt="" class="img-responsive img-content" height="90" src="/fileadmin/user_upload/bilder/sponsoren/footerlogos/IB-Hubert-Beyer-white-90-1.png" width="81"/>
+             </a>
+            </figure>
+           </div>
+           <div class="col-image csc-textpic-lastcol">
+            <figure class="image">
+             <a href="http://www.zoo-leipzig.de" target="_blank">
+              <img alt="" class="img-responsive img-content" height="102" src="/fileadmin/user_upload/bilder/sponsoren/footerlogos/29_footer_zooleipzig15.png" width="146"/>
+             </a>
+            </figure>
+           </div>
+          </div>
+          <div class="row row-images">
+           <div class="col-image csc-textpic-firstcol">
+            <figure class="image">
+             <a href="https://www.wee.com/de/de/home" target="_blank">
+              <img alt="" class="img-responsive img-content" height="102" src="/fileadmin/user_upload/bilder/sponsoren/Signalgeber/wee_white_small.png" width="146"/>
+             </a>
+            </figure>
+           </div>
+           <div class="col-image">
+            <figure class="image">
+             <a href="https://eu.puma.com/de/de/home" target="_blank">
+              <img alt="" class="img-responsive img-content" height="86" src="/fileadmin/user_upload/bilder/sponsoren/footerlogos/puma-white-2.png" width="160"/>
+             </a>
+            </figure>
+           </div>
+           <div class="col-image">
+            <figure class="image">
+             <a href="http://www.wosz-fan-shop.de" target="_blank">
+              <img alt="" class="img-responsive img-content" height="102" src="/fileadmin/user_upload/bilder/sponsoren/footerlogos/27_footer_sport-for-teams-wosz13.png" width="146"/>
+             </a>
+            </figure>
+           </div>
+           <div class="col-image csc-textpic-lastcol">
+            <figure class="image">
+             <a href="http://www.doehne-geruest.de" target="_blank">
+              <img alt="" class="img-responsive img-content" height="102" src="/fileadmin/user_upload/bilder/sponsoren/footerlogos/21_footer_geruestbau-doehne7.png" width="146"/>
+             </a>
+            </figure>
+           </div>
+          </div>
+          <div class="row row-images">
+           <div class="col-image csc-textpic-firstcol">
+            <figure class="image">
+             <a href="http://www.etl.de" target="_blank">
+              <img alt="" class="img-responsive img-content" height="96" src="/fileadmin/user_upload/bilder/Banner_und_Icons/02_footer_ETL-138.png" width="138"/>
+             </a>
+            </figure>
+           </div>
+           <div class="col-image">
+            <figure class="image">
+             <a href="http://www.eg-potsdam.de/" target="_blank">
+              <img alt="" class="img-responsive img-content" height="65" src="/fileadmin/_processed_/csm_EGP_white_0a9ab85e47.png" width="222"/>
+             </a>
+            </figure>
+           </div>
+           <div class="col-image">
+            <figure class="image">
+             <a href="http://www.amz-automobile.de/" target="_blank">
+              <img alt="" class="img-responsive img-content" height="69" src="/fileadmin/_processed_/csm_opel-amz-2020-2_7a6d9dd3f9.png" width="223"/>
+             </a>
+            </figure>
+           </div>
+           <div class="col-image csc-textpic-lastcol">
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <img height="1" src="https://ad1.adfarm1.adition.com/tagging?type=image&amp;network=3342&amp;tag[lok_leipzig_vistis.websiteURL]=https://www.lok-leipzig.com/" width="1">
+   <script src="/fileadmin/template/Public/js/firstjq.js?1564755370" type="text/javascript">
+   </script>
+   <script src="/fileadmin/template/Public/js/underscore-min.js?1564754294" type="text/javascript">
+   </script>
+   <script src="/fileadmin/template/Public/js/intention.js?1564754292" type="text/javascript">
+   </script>
+   <script src="/fileadmin/template/Public/js/context.js?1564754524" type="text/javascript">
+   </script>
+   <script src="/fileadmin/template/Public/js/myscript.js?1644950171" type="text/javascript">
+   </script>
+  </img>
+ </body>
+</html>

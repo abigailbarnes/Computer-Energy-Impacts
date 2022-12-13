@@ -1,0 +1,2988 @@
+<!DOCTYPE html>
+<html lang="ru">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   ГТРК Вятка - новости Кирова и Кировской области
+  </title>
+  <meta content="Главные новости Кирова, Кировской области, России. Происшествия, политика, образование,  медицина, спорт, погода. Актуальное интервью, мнения экспертов. Прямой эфир выпусков новостей Вести Киров." name="description"/>
+  <meta content="киров, новости кирова, вести кировская область, вести киров, последние новости киров, актуальное интервью киров, информационный портал кирова" name="keywords"/>
+  <meta content="STRC Vyatka" name="generator"/>
+  <link href="https://www.gtrk-vyatka.ru/index.php?do=opensearch" rel="search" title="ГТРК Вятка - новости Кирова и Кировской области" type="application/opensearchdescription+xml"/>
+  <link href="https://www.gtrk-vyatka.ru/" rel="canonical"/>
+  <link href="https://www.gtrk-vyatka.ru/rss.xml" rel="alternate" title="ГТРК Вятка - новости Кирова и Кировской области" type="application/rss+xml"/>
+  <link href="/engine/classes/min/index.php?charset=utf-8&amp;f=engine/editor/css/default.css&amp;v=26" rel="stylesheet" type="text/css"/>
+  <script src="/engine/classes/min/index.php?charset=utf-8&amp;g=general&amp;v=26">
+  </script>
+  <script defer="" src="/engine/classes/min/index.php?charset=utf-8&amp;f=engine/classes/js/jqueryui.js,engine/classes/js/dle_js.js,engine/classes/js/lazyload.js&amp;v=26">
+  </script>
+  <meta content="true" name="HandheldFriendly"/>
+  <meta content="telephone=no" name="format-detection"/>
+  <meta content="user-scalable=0, initial-scale=1.0, maximum-scale=1.0, width=device-width" name="viewport"/>
+  <meta content="yes" name="apple-mobile-web-app-capable"/>
+  <meta content="default" name="apple-mobile-web-app-status-bar-style"/>
+  <meta content="noyaca" name="robots"/>
+  <meta content="website" property="og:type"/>
+  <meta content="ГТРК Вятка - новости Кирова и Кировской области" property="og:site_name"/>
+  <meta content="ГТРК Вятка - новости Кирова и Кировской области" property="og:title"/>
+  <meta content="ГТРК Вятка - новости Кирова и Кировской области, главные события, происшествия, мнения. Смотрите Вести Кировская область в прямом эфире, полный архив тематических теле и радиопередач, газета Эфир, программа передач." property="og:description"/>
+  <meta content="https://www.gtrk-vyatka.ru/" property="og:url"/>
+  <meta content="ru_RU" property="og:locale"/>
+  <meta content="https://www.gtrk-vyatka.ru/logo500.png" property="og:image"/>
+  <link href="/templates/gtrk2019/images/favicons/favicon.ico" rel="shortcut icon"/>
+  <link href="/templates/gtrk2019/images/favicons/apple-icon-57x57.png" rel="apple-touch-icon" sizes="57x57"/>
+  <link href="/templates/gtrk2019/images/favicons/apple-icon-60x60.png" rel="apple-touch-icon" sizes="60x60"/>
+  <link href="/templates/gtrk2019/images/favicons/apple-icon-72x72.png" rel="apple-touch-icon" sizes="72x72"/>
+  <link href="/templates/gtrk2019/images/favicons/apple-icon-76x76.png" rel="apple-touch-icon" sizes="76x76"/>
+  <link href="/templates/gtrk2019/images/favicons/apple-icon-114x114.png" rel="apple-touch-icon" sizes="114x114"/>
+  <link href="/templates/gtrk2019/images/favicons/apple-icon-120x120.png" rel="apple-touch-icon" sizes="120x120"/>
+  <link href="/templates/gtrk2019/images/favicons/apple-icon-144x144.png" rel="apple-touch-icon" sizes="144x144"/>
+  <link href="/templates/gtrk2019/images/favicons/apple-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+  <link href="/templates/gtrk2019/images/favicons/apple-icon-180x180.png" rel="apple-touch-icon" sizes="180x180"/>
+  <link href="/templates/gtrk2019/images/favicons/android-icon-192x192.png" rel="icon" sizes="192x192" type="image/png"/>
+  <link href="/templates/gtrk2019/images/favicons/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+  <link href="/templates/gtrk2019/images/favicons/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png"/>
+  <link href="/templates/gtrk2019/images/favicons/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+  <link href="/templates/gtrk2019/images/favicons/manifest.json" rel="manifest"/>
+  <meta content="#ffffff" name="msapplication-TileColor"/>
+  <meta content="/templates/gtrk2019/images/favicons/ms-icon-144x144.png" name="msapplication-TileImage"/>
+  <meta content="#ffffff" name="theme-color"/>
+  <meta content="on" http-equiv="x-dns-prefetch-control"/>
+  <link href="//www.google-analytics.com" rel="dns-prefetch"/>
+  <link crossorigin="" href="//www.google-analytics.com" rel="preconnect"/>
+  <link href="//mc.yandex.ru" rel="dns-prefetch"/>
+  <link crossorigin="" href="//mc.yandex.ru" rel="preconnect"/>
+  <link href="//an.yandex.ru" rel="dns-prefetch"/>
+  <link crossorigin="" href="//an.yandex.ru" rel="preconnect"/>
+  <link href="//vk.com" rel="dns-prefetch"/>
+  <link crossorigin="" href="//vk.com" rel="preconnect"/>
+  <link href="//top-fwz1.mail.ru" rel="dns-prefetch"/>
+  <link crossorigin="" href="//top-fwz1.mail.ru" rel="preconnect"/>
+  <link href="//yastatic.net" rel="dns-prefetch"/>
+  <link crossorigin="" href="//yastatic.net" rel="preconnect"/>
+  <link href="//www.tns-counter.ru" rel="dns-prefetch"/>
+  <link crossorigin="" href="//www.tns-counter.ru" rel="preconnect"/>
+  <link href="//counter.yadro.ru" rel="dns-prefetch"/>
+  <link crossorigin="" href="//counter.yadro.ru" rel="preconnect"/>
+  <link href="//apis.google.com" rel="dns-prefetch"/>
+  <link crossorigin="" href="//apis.google.com" rel="preconnect"/>
+  <link href="//www.facebook.com" rel="dns-prefetch"/>
+  <link crossorigin="" href="//www.facebook.com" rel="preconnect"/>
+  <link href="/engine/classes/min/index.php?charset=utf-8&amp;f=/templates/gtrk2019/css/engine.css,/templates/gtrk2019/css/styles.css,/templates/gtrk2019/css/base.min.css,/templates/gtrk2019/css/override.css&amp;v=19" rel="stylesheet" type="text/css">
+   <script defer="" src="/engine/classes/min/index.php?charset=utf-8&amp;f=/templates/gtrk2019/js/jsall.js&amp;v=02">
+   </script>
+   <script type="application/ld+json">
+    [{ "@context": "http://schema.org", "@type": "WebSite", "name": "ГТРК Вятка - новости Кирова и Кировской области", "alternateName": "gtrk-vyatka.ru", "url": "https://www.gtrk-vyatka.ru/" },  {"@context": "http://schema.org", "@type": "NewsArticle", "headline":"ГТРК Вятка - новости Кирова и Кировской области", "description":"ГТРК Вятка - новости Кирова и Кировской области, главные события, происшествия, мнения. Смотрите Вести Кировская область в прямом эфире, полный архив тематических теле и радиопередач, газета Эфир, программа передач.", "mainEntityOfPage":{ "@type":"WebPage", "@id":"https://www.gtrk-vyatka.ru/" }, "image": { "@type": "ImageObject", "url": "/logo500.png", "width": 500, "height": 500 }, "author": { "@type": "Organization", "name": "ГТРК Вятка" }, "publisher": { "@type": "Organization", "name": "ГТРК Вятка", "description": "Новости Кирова и Кировской области", "logo": { "@type": "ImageObject", "url": "/logo500.png", "width": 500, "height": 500 } }, "datePublished": "2019-06-21T01:20:30+03:00", "dateModified": "2020-06-01T09:23:40+03:00" }, {"@context": "http://schema.org", "@type":"Organization", "name":"Филиал ФГУП ВГТРК ГТРК \"Вятка\"", "url":"https://www.gtrk-vyatka.ru/", "logo":"/logo500.png", "description": "ГТРК Вятка - новости Кирова и Кировской области, главные события, происшествия, мнения. Смотрите Вести Кировская область в прямом эфире, полный архив тематических теле и радиопередач, газета Эфир, программа передач.", "address": { "@type": "PostalAddress", "addressLocality": "Киров, Россия", "postalCode": "610002", "streetAddress": "ул Урицкого, д.34"}, "contactPoint" : [{ "@type" : "ContactPoint", "telephone" : "+78332-64-94-65", "contactType" : "Приемная директора" },{ "@type" : "ContactPoint", "telephone" : "+78332-67-63-00", "contactType" : "Служба новостей"}],  "sameAs":[ "https://vk.com/vesti_ko", "https://vk.com/gtrk_vyatka", "https://www.facebook.com/gtrk.vyatka", "https://www.facebook.com/vesti.ko", "https://www.youtube.com/channel/UCX0OihyFVvw6bCbNmyj41dA", "https://www.instagram.com/gtrkvyatka", "https://twitter.com/gtrk_vyatka", "https://ok.ru/gtrkvyatka"  ]} ]
+   </script>
+   <!--[if IE]><link href="/templates/gtrk2019/css/ie-style.css" type="text/css" rel="stylesheet" /> <![endif]-->
+   <!--noindex-->
+   <meta content="C-RMcHFJAaiPi41z4LI67RY2pMKQ00NaUvd38Z4qXrw" name="google-site-verification">
+    <script async="" data-ad-client="ca-pub-5325220682383587" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+    </script>
+    <meta content="ec5831a77ad9f242" name="wmail-verification">
+     <meta content="03f97ca58fd7aa02" name="yandex-verification">
+      <!-- Yandex.RTB -->
+      <script>
+       window.yaContextCb=window.yaContextCb||[]
+      </script>
+      <script async="" src="https://yandex.ru/ads/system/context.js">
+      </script>
+      <!-- GoogleAnalytics -->
+      <script>
+       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-43051015-2','gtrk-vyatka.ru');ga('send','pageview');
+      </script>
+      <!-- /GoogleAnalytics -->
+      <!-- tns-counter.ru -->
+      <script>
+       (function(win, doc, cb){(win[cb] = win[cb] || []).push(function() {try {tnsCounterVgtrk_ru = new TNS.TnsCounter({'account':'vgtrk_ru', 'tmsec': 'gtrk_vyatka'});} catch(e){}});var tnsscript = doc.createElement('script');tnsscript.type = 'text/javascript';tnsscript.async = true;tnsscript.src = ('https:' == doc.location.protocol ? 'https:' : 'http:') +'//www.tns-counter.ru/tcounter.js';var s = doc.getElementsByTagName('script')[0];s.parentNode.insertBefore(tnsscript, s);})(window, this.document,'tnscounter_callback');
+      </script>
+      <!--/ tns-counter.ru -->
+      <!-- Yandex.Metrika counter ГТРК-->
+      <script>
+       (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})(window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(56317756, "init",{clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true });
+      </script>
+      <!-- /Yandex.Metrika counter -->
+      <!-- Yandex.Metrika counter ВГТРК -->
+      <script>
+       (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})(window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(55382026, "init",{clickmap:true, trackLinks:true, accurateTrackBounce:true });
+      </script>
+      <!-- /Yandex.Metrika counter -->
+      <!-- Rating Mail.ru counter -->
+      <script>
+       var _tmr=window._tmr||(window._tmr=[]);_tmr.push({id:"1425557",type:"pageView",start:(new Date()).getTime()});(function(d,w,id){if(d.getElementById(id))return;var ts=d.createElement("script");ts.type="text/javascript";ts.async=true;ts.id=id;ts.src="https://top-fwz1.mail.ru/js/code.js";var f=function(){var s=d.getElementsByTagName("script")[0];s.parentNode.insertBefore(ts,s)};if(w.opera=="[object Opera]"){d.addEventListener("DOMContentLoaded",f,false)}else{f()}})(document,window,"topmailru-code");
+      </script>
+      <!-- //Rating Mail.ru counter -->
+      <!--/noindex-->
+     </meta>
+    </meta>
+   </meta>
+  </link>
+ </head>
+ <body>
+  <script>
+   <!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = '2781bd47c732a105104d896d20bea9699c720fc3';
+var dle_group      = 5;
+var dle_skin       = 'gtrk2019';
+var dle_wysiwyg    = '1';
+var quick_wysiwyg  = '0';
+var dle_act_lang   = ["Да", "Нет", "Ввод", "Отмена", "Сохранить", "Удалить", "Загрузка. Пожалуйста, подождите..."];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+var dle_confirm    = 'Подтверждение';
+var dle_prompt     = 'Ввод информации';
+var dle_req_field  = 'Заполните все необходимые поля';
+var dle_del_agree  = 'Вы действительно хотите удалить? Данное действие невозможно будет отменить';
+var dle_spam_agree = 'Вы действительно хотите отметить пользователя как спамера? Это приведёт к удалению всех его комментариев';
+var dle_complaint  = 'Укажите текст Вашей жалобы для администрации:';
+var dle_big_text   = 'Выделен слишком большой участок текста.';
+var dle_orfo_title = 'Укажите комментарий для администрации к найденной ошибке на странице';
+var dle_p_send     = 'Отправить';
+var dle_p_send_ok  = 'Уведомление успешно отправлено';
+var dle_save_ok    = 'Изменения успешно сохранены. Обновить страницу?';
+var dle_reply_title= 'Ответ на комментарий';
+var dle_tree_comm  = '0';
+var dle_del_news   = 'Удалить статью';
+var dle_sub_agree  = 'Вы действительно хотите подписаться на комментарии к данной публикации?';
+var dle_captcha_type  = '0';
+var allow_dle_delete_news   = false;
+var dle_search_delay   = false;
+var dle_search_value   = '';
+jQuery(function($){
+FastSearch();
+});
+//-->
+  </script>
+  <div class="page">
+   <div itemscope="" itemtype="https://schema.org/Organization">
+    <link href="https://www.gtrk-vyatka.ru" itemprop="url"/>
+    <meta content="ГТРК Вятка" itemprop="name"/>
+    <meta content="Новости Кирова и Кировской области, главные события, происшествия, мнения. Смотрите Вести Кировская область в прямом эфире, полный архив тематических теле и радиопередач, газета Эфир, программа передач." itemprop="description"/>
+    <meta content="г.Киров, ул.Урицкого, д.34" itemprop="address"/>
+    <meta content="+7(8332)64-94-65" itemprop="telephone"/>
+    <div itemprop="logo" itemscope="" itemtype="https://www.schema.org/ImageObject">
+     <link href="/logo500.png" itemprop="url contentUrl"/>
+     <meta content="500" itemprop="width"/>
+     <meta content="500" itemprop="height"/>
+    </div>
+   </div>
+   <div class="mobile-menu__wrp">
+    <div class="mobile-menu__toprow">
+     <div class="mobile-menu__hamburger hamburger hamburger--collapse js-mobile-toggle">
+      <div class="hamburger-box">
+       <div class="hamburger-inner">
+       </div>
+      </div>
+     </div>
+     <div class="mobile-menu__search">
+      <div class="search__body">
+       <div class="ya-site-form ya-site-form_inited_no" data-bem='{"action":"https://www.gtrk-vyatka.ru/search.html","arrow":false,"bg":"transparent","fontsize":12,"fg":"#000000","language":"ru","logo":"rb","publicname":"поиск по www.gtrk-vyatka.ru","suggest":true,"target":"_self","tld":"ru","type":2,"usebigdictionary":false,"searchid":2132402,"input_fg":"#333333","input_bg":"#ffffff","input_fontStyle":"normal","input_fontWeight":"normal","input_placeholder":"поиск по сайту","input_placeholderColor":"#cccccc","input_borderColor":"#ffffff"}'>
+        <form accept-charset="utf-8" action="https://yandex.ru/search/site/" method="get" target="_self">
+         <input name="searchid" type="hidden" value="2132402"/>
+         <input name="l10n" type="hidden" value="ru"/>
+         <input name="reqenc" type="hidden" value=""/>
+         <input name="text" type="search" value=""/>
+         <input type="submit" value="Найти"/>
+        </form>
+       </div>
+       <style type="text/css">
+        .ya-page_js_yes .ya-site-form_inited_no { display: none; }
+				.ya-site-form__submit {
+					display: none!important;
+				}
+				.mobile-menu__search input {
+					padding: 0!important;
+					margin: 0!important;
+					height: auto!important;
+					background-color: #fff!important;
+				}
+       </style>
+       <script type="text/javascript">
+        (function(w,d,c){var s=d.createElement('script'),h=d.getElementsByTagName('script')[0],e=d.documentElement;if((' '+e.className+' ').indexOf(' ya-page_js_yes ')===-1){e.className+=' ya-page_js_yes';}s.type='text/javascript';s.async=true;s.charset='utf-8';s.src=(d.location.protocol==='https:'?'https:':'http:')+'//site.yandex.net/v2.0/js/all.js';h.parentNode.insertBefore(s,h);(w[c]||(w[c]=[])).push(function(){Ya.Site.Form.init()})})(window,document,'yandex_site_callbacks');
+       </script>
+       <div class="search__toggle js-mobilesearch-submit">
+        <svg class="search__icon">
+         <use xlink:href="/templates/gtrk2019/images/icons/sprite.svg#search">
+         </use>
+        </svg>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="mobile-menu__inner">
+     <div class="mobile-menu__menu">
+      <ul class="mainmenu-row__menu-list">
+       <li class="mainmenu-row__menu-item">
+        <div class="mainmenu-row__menu-link">
+         <a data-hover="Новости" href="/vesti/">
+          Новости
+         </a>
+        </div>
+        <ul class="mainmenu-row__menu-child">
+         <div class="mainmenu-row__menu-subitem-row">
+          <div class="mainmenu-row__menu-subitem-col">
+           <li class="mainmenu-row__menu-subitem">
+            <a href="/vesti/politcs/">
+             Политика
+            </a>
+           </li>
+           <li class="mainmenu-row__menu-subitem">
+            <a href="/vesti/economics/">
+             Экономика
+            </a>
+           </li>
+           <li class="mainmenu-row__menu-subitem">
+            <a href="/vesti/incidents/">
+             Происшествия
+            </a>
+           </li>
+           <li class="mainmenu-row__menu-subitem">
+            <a href="/vesti/education/">
+             Образование
+            </a>
+           </li>
+           <li class="mainmenu-row__menu-subitem">
+            <a href="/vesti/society/">
+             Общество
+            </a>
+           </li>
+           <li class="mainmenu-row__menu-subitem">
+            <a href="/vesti/culture/">
+             Культура
+            </a>
+           </li>
+           <li class="mainmenu-row__menu-subitem">
+            <a href="/vesti/medicine/">
+             Медицина
+            </a>
+           </li>
+           <li class="mainmenu-row__menu-subitem">
+            <a href="/vesti/transport/">
+             Транспорт
+            </a>
+           </li>
+          </div>
+          <div class="mainmenu-row__menu-subitem-col">
+           <li class="mainmenu-row__menu-subitem">
+            <a href="/vesti/priroda/">
+             Природа
+            </a>
+           </li>
+           <li class="mainmenu-row__menu-subitem">
+            <a href="/vesti/religy/">
+             Религия
+            </a>
+           </li>
+           <li class="mainmenu-row__menu-subitem">
+            <a href="/vesti/sport/">
+             Спорт
+            </a>
+           </li>
+           <li class="mainmenu-row__menu-subitem">
+            <a href="/vesti/selo/">
+             Село
+            </a>
+           </li>
+           <li class="mainmenu-row__menu-subitem">
+            <a href="/vesti/communal/">
+             ЖКХ
+            </a>
+           </li>
+           <li class="mainmenu-row__menu-subitem">
+            <a href="/vesti/gtrk/">
+             ГТРК Вятка
+            </a>
+           </li>
+           <li class="mainmenu-row__menu-subitem">
+            <a href="/vesti/week/">
+             Итоги недели
+            </a>
+           </li>
+           <li class="mainmenu-row__menu-subitem">
+            <a href="/archive/">
+             Архив новостей
+            </a>
+           </li>
+          </div>
+         </div>
+        </ul>
+       </li>
+       <li class="mainmenu-row__menu-item">
+        <div class="mainmenu-row__menu-link">
+         <a data-hover="ТВ" href="/proect/">
+          ТВ
+         </a>
+        </div>
+        <ul class="mainmenu-row__menu-child">
+         <div class="mainmenu-row__menu-subitem-row">
+          <div class="mainmenu-row__menu-subitem-col">
+           <li class="mainmenu-row__menu-subitem">
+            <a href="/vesti/vko/">
+             Вести. Кировская область
+            </a>
+           </li>
+           <li class="mainmenu-row__menu-subitem">
+            <a href="/vesti/vk/">
+             Вести. Киров
+            </a>
+           </li>
+           <li class="mainmenu-row__menu-subitem">
+            <a href="/proect/vestiinterview/">
+             Вести. Интервью
+            </a>
+           </li>
+           <li class="mainmenu-row__menu-subitem">
+            <a href="/vesti/week/vsport/">
+             Вести. Спорт
+            </a>
+           </li>
+           <li class="mainmenu-row__menu-subitem">
+            <a href="/vesti/week/itogi/">
+             Вести. События недели
+            </a>
+           </li>
+           <li class="mainmenu-row__menu-subitem">
+            <a href="/vesti/week/vdch/">
+             Вести. Дежурная часть
+            </a>
+           </li>
+           <li class="mainmenu-row__menu-subitem">
+            <a href="/proect/agro/">
+             Вести. Агро
+            </a>
+           </li>
+           <li class="mainmenu-row__menu-subitem">
+            <a href="/proect/pravo/">
+             Вести. Право
+            </a>
+           </li>
+           <li class="mainmenu-row__menu-subitem">
+            <a href="/proect/economy/">
+             Вести. Экономика
+            </a>
+           </li>
+           <li class="mainmenu-row__menu-subitem">
+            <a href="/proect/supermama/">
+             Супермама
+            </a>
+           </li>
+           <li class="mainmenu-row__menu-subitem">
+            <a href="/proect/ai/">
+             Актуальное интервью
+            </a>
+           </li>
+          </div>
+          <div class="mainmenu-row__menu-subitem-col">
+           <li class="mainmenu-row__menu-subitem">
+            <a href="/proect/mreporter/">
+             Мобильный репортер
+            </a>
+           </li>
+           <li class="mainmenu-row__menu-subitem">
+            <a href="/proect/pobeda70/75letpobedy/">
+             75 лет Победы
+            </a>
+           </li>
+           <li class="mainmenu-row__menu-subitem">
+            <a href="/proect/travel/">
+             Поехали, посмотрим!
+            </a>
+           </li>
+           <li class="mainmenu-row__menu-subitem">
+            <a href="/proect/specrep/">
+             Специальный репортаж
+            </a>
+           </li>
+           <li class="mainmenu-row__menu-subitem">
+            <a href="/proect/documentary/">
+             Документальные фильмы
+            </a>
+           </li>
+           <li class="mainmenu-row__menu-subitem">
+            <a href="/proect/direct-line/">
+             Прямая линия
+            </a>
+           </li>
+           <li class="mainmenu-row__menu-subitem">
+            <a href="/vesti/week/nkulture/">
+             Новости культуры. Вятка
+            </a>
+           </li>
+           <li class="mainmenu-row__menu-subitem">
+            <a href="/proect/school/">
+             Школа здравого смысла
+            </a>
+           </li>
+           <li class="mainmenu-row__menu-subitem">
+            <a href="/proect/guberniya/">
+             Губерния
+            </a>
+           </li>
+           <li class="mainmenu-row__menu-subitem">
+            <a href="/proect/vb/">
+             Вектор безопасности
+            </a>
+           </li>
+           <li class="mainmenu-row__menu-subitem">
+            <a href="/proect/oder/">
+             Иные проекты
+            </a>
+           </li>
+          </div>
+         </div>
+        </ul>
+       </li>
+       <li class="mainmenu-row__menu-item">
+        <div class="mainmenu-row__menu-link">
+         <a data-hover="Радио" href="/radio/">
+          Радио
+         </a>
+        </div>
+        <ul class="mainmenu-row__menu-child">
+         <li class="mainmenu-row__menu-subitem">
+          <a href="/radio/rus/">
+           "Радио России" 106,3 МГц
+          </a>
+         </li>
+         <li class="mainmenu-row__menu-subitem">
+          <a href="/radio/mayak/">
+           Радио "Маяк" 101,4 МГц
+          </a>
+         </li>
+         <li class="mainmenu-row__menu-subitem">
+          <a href="/radio/vesti-fm/">
+           Радио "Вести FM" 105,3 МГц
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="mainmenu-row__menu-item">
+        <div class="mainmenu-row__menu-link">
+         <a data-hover="Газета" href="/gazeta/">
+          Газета
+         </a>
+        </div>
+       </li>
+       <li class="mainmenu-row__menu-item">
+        <div class="mainmenu-row__menu-link">
+         <a data-hover="Вятка 24" href="/live/vyatka24/">
+          Вятка 24
+         </a>
+        </div>
+       </li>
+      </ul>
+      <ul>
+       <li>
+        <a href="https://www.gtrk-vyatka.ru/about/">
+         О компании
+         <span style="float: right;">
+          0
+         </span>
+        </a>
+       </li>
+       <li>
+        <a href="https://www.gtrk-vyatka.ru/uslugi/">
+         Наши услуги
+         <span style="float: right;">
+          0
+         </span>
+        </a>
+       </li>
+       <li>
+        <a href="https://www.gtrk-vyatka.ru/obyavlenie/">
+         Объявления
+         <span style="float: right;">
+          0
+         </span>
+        </a>
+       </li>
+       <li>
+        <a href="https://www.gtrk-vyatka.ru/program/">
+         Программа передач
+         <span style="float: right;">
+          0
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mobile-menu__social">
+      <a class="social-link" href="https://vk.com/gtrk_vyatka" target="_blank">
+       <svg class="social-vk">
+        <use xlink:href="/templates/gtrk2019/images/icons/sprite.svg#vk">
+        </use>
+       </svg>
+      </a>
+      <a class="social-link" href="https://t.me/vesti_ko" target="_blank">
+       <svg class="social-tg">
+        <use xlink:href="/templates/gtrk2019/images/icons/sprite.svg#tg">
+        </use>
+       </svg>
+      </a>
+      <a class="social-link" href="https://www.youtube.com/channel/UCX0OihyFVvw6bCbNmyj41dA" target="_blank">
+       <svg class="social-yt">
+        <use xlink:href="/templates/gtrk2019/images/icons/sprite.svg#yt">
+        </use>
+       </svg>
+      </a>
+     </div>
+    </div>
+   </div>
+   <header class="header">
+    <div class="mobile-row">
+     <div class="mobile-row__logo">
+      <a href="/">
+       <img alt="" src="/templates/gtrk2019/images/logo_m.png"/>
+      </a>
+     </div>
+     <div class="mobile-row__wrp">
+      <div class="mobile-row__inner">
+       <div class="mobile-row__live">
+        <div class="livewidget">
+         <a href="/live.html">
+          <svg class="livewidget__icon">
+           <use xlink:href="/templates/gtrk2019/images/icons/sprite.svg#play">
+           </use>
+          </svg>
+          <span class="livewidget__text">
+           Прямой эфир
+          </span>
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="mobile-row__hotnews-body js-hotnews">
+       <span class="hotnews__item">
+        <svg class="hotnews__icon">
+         <use xlink:href="/templates/gtrk2019/images/icons/sprite.svg#news">
+         </use>
+        </svg>
+        <a href="https://www.gtrk-vyatka.ru/2022/05/19/">
+         <span class="hotnews__date">
+          19 май 20:19
+         </span>
+        </a>
+        <a class="hotnews__link" href="https://www.gtrk-vyatka.ru/vesti/society/73215-v-rossii-planirujut-obedinit-pensionnyj-fond-i-fond-socialnogo-strahovanija.html" title="В России планируют объединить Пенсионный фонд и Фонд социального страхования">
+         В России планируют объединить Пенсионный фонд и Фонд социального страхования
+        </a>
+       </span>
+       <span class="hotnews__item">
+        <svg class="hotnews__icon">
+         <use xlink:href="/templates/gtrk2019/images/icons/sprite.svg#news">
+         </use>
+        </svg>
+        <a href="https://www.gtrk-vyatka.ru/2022/05/19/">
+         <span class="hotnews__date">
+          19 май 19:15
+         </span>
+        </a>
+        <a class="hotnews__link" href="https://www.gtrk-vyatka.ru/vesti/society/73221-v-kirove-otmetili-100-letie-pionerskogo-dvizhenija.html" title="В Кирове отметили 100-летие пионерского движения">
+         В Кирове отметили 100-летие пионерского движения
+        </a>
+       </span>
+       <span class="hotnews__item">
+        <svg class="hotnews__icon">
+         <use xlink:href="/templates/gtrk2019/images/icons/sprite.svg#news">
+         </use>
+        </svg>
+        <a href="https://www.gtrk-vyatka.ru/2022/05/19/">
+         <span class="hotnews__date">
+          19 май 19:02
+         </span>
+        </a>
+        <a class="hotnews__link" href="https://www.gtrk-vyatka.ru/vesti/society/73216-na-kirovskih-zheleznodorozhnyh-pereezdah-sokratilos-chislo-narushenij-pdd.html" title="На кировских железнодорожных переездах сократилось число нарушений ПДД">
+         На кировских железнодорожных переездах сократилось число нарушений ПДД
+        </a>
+       </span>
+       <span class="hotnews__item">
+        <svg class="hotnews__icon">
+         <use xlink:href="/templates/gtrk2019/images/icons/sprite.svg#news">
+         </use>
+        </svg>
+        <a href="https://www.gtrk-vyatka.ru/2022/05/19/">
+         <span class="hotnews__date">
+          19 май 18:45
+         </span>
+        </a>
+        <a class="hotnews__link" href="https://www.gtrk-vyatka.ru/vesti/culture/73223-obrazcovyj-horovoj-kollektiv-klassika-proshel-v-polufinal-vserossijskogo-konkursa-bitva-horov.html" title="Образцовый хоровой коллектив «Классика» прошел в полуфинал всероссийского конкурса «Битва хоров»">
+         Образцовый хоровой коллектив «Классика» прошел в полуфинал всероссийского конкурса «Битва хоров»
+        </a>
+       </span>
+       <span class="hotnews__item">
+        <svg class="hotnews__icon">
+         <use xlink:href="/templates/gtrk2019/images/icons/sprite.svg#news">
+         </use>
+        </svg>
+        <a href="https://www.gtrk-vyatka.ru/2022/05/19/">
+         <span class="hotnews__date">
+          19 май 18:23
+         </span>
+        </a>
+        <a class="hotnews__link" href="https://www.gtrk-vyatka.ru/vesti/incidents/73220-byvshij-rukovoditel-kompanii-zastrojschika-vozmestil-uscherb-65-kirovchanam.html" title="Бывший руководитель компании-застройщика возместил ущерб 65 кировчанам">
+         Бывший руководитель компании-застройщика возместил ущерб 65 кировчанам
+        </a>
+       </span>
+       <span class="hotnews__item">
+        <svg class="hotnews__icon">
+         <use xlink:href="/templates/gtrk2019/images/icons/sprite.svg#news">
+         </use>
+        </svg>
+        <a href="https://www.gtrk-vyatka.ru/2022/05/19/">
+         <span class="hotnews__date">
+          19 май 18:15
+         </span>
+        </a>
+        <a class="hotnews__link" href="https://www.gtrk-vyatka.ru/vesti/education/73222-studenty-kirovskogo-medkolledzha-stali-pobediteljami-interaktivnogo-konkursa-speshu-na-pomosch-pervym.html" title="Студенты кировского медколледжа стали победителями интерактивного конкурса «Спешу на помощь первым»">
+         Студенты кировского медколледжа стали победителями интерактивного конкурса «Спешу на помощь первым»
+        </a>
+       </span>
+       <span class="hotnews__item">
+        <svg class="hotnews__icon">
+         <use xlink:href="/templates/gtrk2019/images/icons/sprite.svg#news">
+         </use>
+        </svg>
+        <a href="https://www.gtrk-vyatka.ru/2022/05/19/">
+         <span class="hotnews__date">
+          19 май 17:10
+         </span>
+        </a>
+        <a class="hotnews__link" href="https://www.gtrk-vyatka.ru/vesti/society/73214-v-kirove-proshlo-pervoe-v-jetom-godu-raspredelenie-kvartir-dlja-detej-sirot.html" title="В Кирове прошло первое в этом году распределение квартир для детей-сирот">
+         В Кирове прошло первое в этом году распределение квартир для детей-сирот
+        </a>
+       </span>
+       <span class="hotnews__item">
+        <svg class="hotnews__icon">
+         <use xlink:href="/templates/gtrk2019/images/icons/sprite.svg#news">
+         </use>
+        </svg>
+        <a href="https://www.gtrk-vyatka.ru/2022/05/19/">
+         <span class="hotnews__date">
+          19 май 16:45
+         </span>
+        </a>
+        <a class="hotnews__link" href="https://www.gtrk-vyatka.ru/vesti/priroda/73213-v-kirovskoj-oblasti-objavili-meteopreduprezhdenie.html" title="В Кировской области объявили метеопредупреждение">
+         В Кировской области объявили метеопредупреждение
+        </a>
+       </span>
+       <span class="hotnews__item">
+        <svg class="hotnews__icon">
+         <use xlink:href="/templates/gtrk2019/images/icons/sprite.svg#news">
+         </use>
+        </svg>
+        <a href="https://www.gtrk-vyatka.ru/2022/05/19/">
+         <span class="hotnews__date">
+          19 май 16:30
+         </span>
+        </a>
+        <a class="hotnews__link" href="https://www.gtrk-vyatka.ru/vesti/culture/73209-v-jaranskom-rajone-nachali-restavrirovat-ognetovskij-zamok.html" title="В Яранском районе начали реставрировать Огнётовский замок">
+         В Яранском районе начали реставрировать Огнётовский замок
+        </a>
+       </span>
+       <span class="hotnews__item">
+        <svg class="hotnews__icon">
+         <use xlink:href="/templates/gtrk2019/images/icons/sprite.svg#news">
+         </use>
+        </svg>
+        <a href="https://www.gtrk-vyatka.ru/2022/05/19/">
+         <span class="hotnews__date">
+          19 май 16:02
+         </span>
+        </a>
+        <a class="hotnews__link" href="https://www.gtrk-vyatka.ru/vesti/society/73212-kirovskaja-kukla-puteshestvennica-poluchila-nacionalnuju-premiju-zolotoj-medvezhonok.html" title="Кировская кукла-путешественница получила Национальную премию «Золотой медвежонок»">
+         Кировская кукла-путешественница получила Национальную премию «Золотой медвежонок»
+        </a>
+       </span>
+       <!-- TODO: switch days 7 -->
+      </div>
+     </div>
+    </div>
+    <div class="top-row">
+     <div class="top-row__inner">
+      <div class="top-row__menu">
+       <ul class="topmenu">
+        ﻿
+        <li class="topmenu__item">
+         <a class="topmenu__link" href="/about/history/">
+          О компании
+         </a>
+         <ul class="topmenu__child">
+          <li class="topmenu__item">
+           <a class="topmenu__link" href="/about/komanda/">
+            Наша команда
+           </a>
+          </li>
+          <li class="topmenu__item">
+           <a class="topmenu__link" href="/about/chanels/">
+            Каналы вещания
+           </a>
+          </li>
+          <li class="topmenu__item">
+           <a class="topmenu__link" href="/about/best/">
+            Наши достижения
+           </a>
+          </li>
+          <li class="topmenu__item">
+           <a class="topmenu__link" href="/about/contacts/">
+            Контакты
+           </a>
+          </li>
+          <li class="topmenu__item">
+           <a class="topmenu__link" href="/about/vacancy/">
+            Вакансии
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="topmenu__item">
+         <a class="topmenu__link" href="/uslugi">
+          Наши услуги
+         </a>
+        </li>
+        <li class="topmenu__item">
+         <a class="topmenu__link" href="/fdbk">
+          Обратная связь
+         </a>
+        </li>
+        <li class="topmenu__item">
+         <a class="topmenu__link" href="/fdrek">
+          Заявка на рекламу
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="top-row__widgets">
+       <div class="widget-usd">
+        <div class="icon">
+         $
+        </div>
+        <span>
+         62,4
+        </span>
+       </div>
+       <div class="widget-eur">
+        <div class="icon">
+         €
+        </div>
+        <span>
+         64,94
+        </span>
+       </div>
+       <div class="widget-time">
+        19 мая
+        <span class="js-widget-time">
+         23:16
+        </span>
+       </div>
+      </div>
+      <div class="top-row__social">
+       <a class="social-link" href="https://vk.com/vesti_ko" target="_blank">
+        <svg class="social-vk">
+         <use xlink:href="/templates/gtrk2019/images/icons/sprite.svg#vk">
+         </use>
+        </svg>
+       </a>
+       <a class="social-link" href="https://t.me/vesti_ko" target="_blank">
+        <svg class="social-tg">
+         <use xlink:href="/templates/gtrk2019/images/icons/sprite.svg#tg">
+         </use>
+        </svg>
+       </a>
+       <a class="social-link" href="https://ok.ru/gtrkvyatka" target="_blank">
+        <svg class="social-ok">
+         <use xlink:href="/templates/gtrk2019/images/icons/sprite.svg#ok">
+         </use>
+        </svg>
+       </a>
+       <a class="social-link" href="https://www.youtube.com/channel/UCX0OihyFVvw6bCbNmyj41dA" target="_blank">
+        <svg class="social-yt">
+         <use xlink:href="/templates/gtrk2019/images/icons/sprite.svg#yt">
+         </use>
+        </svg>
+       </a>
+      </div>
+     </div>
+    </div>
+    <div class="mainmenu-row">
+     <div class="mainmenu-row__inner">
+      <div class="mainmenu-row__logo">
+       <a href="/">
+        <img alt="" src="/templates/gtrk2019/images/logo.png"/>
+       </a>
+      </div>
+      <div class="mainmenu-row__body">
+       <div class="mainmenu-row__menu">
+        <ul class="mainmenu-row__menu-list">
+         <li class="mainmenu-row__menu-item">
+          <div class="mainmenu-row__menu-link">
+           <a data-hover="Новости" href="/vesti/">
+            Новости
+           </a>
+          </div>
+          <ul class="mainmenu-row__menu-child">
+           <div class="mainmenu-row__menu-subitem-row">
+            <div class="mainmenu-row__menu-subitem-col">
+             <li class="mainmenu-row__menu-subitem">
+              <a href="/vesti/politcs/">
+               Политика
+              </a>
+             </li>
+             <li class="mainmenu-row__menu-subitem">
+              <a href="/vesti/economics/">
+               Экономика
+              </a>
+             </li>
+             <li class="mainmenu-row__menu-subitem">
+              <a href="/vesti/incidents/">
+               Происшествия
+              </a>
+             </li>
+             <li class="mainmenu-row__menu-subitem">
+              <a href="/vesti/education/">
+               Образование
+              </a>
+             </li>
+             <li class="mainmenu-row__menu-subitem">
+              <a href="/vesti/society/">
+               Общество
+              </a>
+             </li>
+             <li class="mainmenu-row__menu-subitem">
+              <a href="/vesti/culture/">
+               Культура
+              </a>
+             </li>
+             <li class="mainmenu-row__menu-subitem">
+              <a href="/vesti/medicine/">
+               Медицина
+              </a>
+             </li>
+             <li class="mainmenu-row__menu-subitem">
+              <a href="/vesti/transport/">
+               Транспорт
+              </a>
+             </li>
+            </div>
+            <div class="mainmenu-row__menu-subitem-col">
+             <li class="mainmenu-row__menu-subitem">
+              <a href="/vesti/priroda/">
+               Природа
+              </a>
+             </li>
+             <li class="mainmenu-row__menu-subitem">
+              <a href="/vesti/religy/">
+               Религия
+              </a>
+             </li>
+             <li class="mainmenu-row__menu-subitem">
+              <a href="/vesti/sport/">
+               Спорт
+              </a>
+             </li>
+             <li class="mainmenu-row__menu-subitem">
+              <a href="/vesti/selo/">
+               Село
+              </a>
+             </li>
+             <li class="mainmenu-row__menu-subitem">
+              <a href="/vesti/communal/">
+               ЖКХ
+              </a>
+             </li>
+             <li class="mainmenu-row__menu-subitem">
+              <a href="/vesti/gtrk/">
+               ГТРК Вятка
+              </a>
+             </li>
+             <li class="mainmenu-row__menu-subitem">
+              <a href="/vesti/week/">
+               Итоги недели
+              </a>
+             </li>
+             <li class="mainmenu-row__menu-subitem">
+              <a href="/archive/">
+               Архив новостей
+              </a>
+             </li>
+            </div>
+           </div>
+          </ul>
+         </li>
+         <li class="mainmenu-row__menu-item">
+          <div class="mainmenu-row__menu-link">
+           <a data-hover="ТВ" href="/proect/">
+            ТВ
+           </a>
+          </div>
+          <ul class="mainmenu-row__menu-child">
+           <div class="mainmenu-row__menu-subitem-row">
+            <div class="mainmenu-row__menu-subitem-col">
+             <li class="mainmenu-row__menu-subitem">
+              <a href="/vesti/vko/">
+               Вести. Кировская область
+              </a>
+             </li>
+             <li class="mainmenu-row__menu-subitem">
+              <a href="/vesti/vk/">
+               Вести. Киров
+              </a>
+             </li>
+             <li class="mainmenu-row__menu-subitem">
+              <a href="/proect/vestiinterview/">
+               Вести. Интервью
+              </a>
+             </li>
+             <li class="mainmenu-row__menu-subitem">
+              <a href="/vesti/week/vsport/">
+               Вести. Спорт
+              </a>
+             </li>
+             <li class="mainmenu-row__menu-subitem">
+              <a href="/vesti/week/itogi/">
+               Вести. События недели
+              </a>
+             </li>
+             <li class="mainmenu-row__menu-subitem">
+              <a href="/vesti/week/vdch/">
+               Вести. Дежурная часть
+              </a>
+             </li>
+             <li class="mainmenu-row__menu-subitem">
+              <a href="/proect/agro/">
+               Вести. Агро
+              </a>
+             </li>
+             <li class="mainmenu-row__menu-subitem">
+              <a href="/proect/pravo/">
+               Вести. Право
+              </a>
+             </li>
+             <li class="mainmenu-row__menu-subitem">
+              <a href="/proect/economy/">
+               Вести. Экономика
+              </a>
+             </li>
+             <li class="mainmenu-row__menu-subitem">
+              <a href="/proect/supermama/">
+               Супермама
+              </a>
+             </li>
+             <li class="mainmenu-row__menu-subitem">
+              <a href="/proect/ai/">
+               Актуальное интервью
+              </a>
+             </li>
+            </div>
+            <div class="mainmenu-row__menu-subitem-col">
+             <li class="mainmenu-row__menu-subitem">
+              <a href="/proect/mreporter/">
+               Мобильный репортер
+              </a>
+             </li>
+             <li class="mainmenu-row__menu-subitem">
+              <a href="/proect/pobeda70/75letpobedy/">
+               75 лет Победы
+              </a>
+             </li>
+             <li class="mainmenu-row__menu-subitem">
+              <a href="/proect/travel/">
+               Поехали, посмотрим!
+              </a>
+             </li>
+             <li class="mainmenu-row__menu-subitem">
+              <a href="/proect/specrep/">
+               Специальный репортаж
+              </a>
+             </li>
+             <li class="mainmenu-row__menu-subitem">
+              <a href="/proect/documentary/">
+               Документальные фильмы
+              </a>
+             </li>
+             <li class="mainmenu-row__menu-subitem">
+              <a href="/proect/direct-line/">
+               Прямая линия
+              </a>
+             </li>
+             <li class="mainmenu-row__menu-subitem">
+              <a href="/vesti/week/nkulture/">
+               Новости культуры. Вятка
+              </a>
+             </li>
+             <li class="mainmenu-row__menu-subitem">
+              <a href="/proect/school/">
+               Школа здравого смысла
+              </a>
+             </li>
+             <li class="mainmenu-row__menu-subitem">
+              <a href="/proect/guberniya/">
+               Губерния
+              </a>
+             </li>
+             <li class="mainmenu-row__menu-subitem">
+              <a href="/proect/vb/">
+               Вектор безопасности
+              </a>
+             </li>
+             <li class="mainmenu-row__menu-subitem">
+              <a href="/proect/oder/">
+               Иные проекты
+              </a>
+             </li>
+            </div>
+           </div>
+          </ul>
+         </li>
+         <li class="mainmenu-row__menu-item">
+          <div class="mainmenu-row__menu-link">
+           <a data-hover="Радио" href="/radio/">
+            Радио
+           </a>
+          </div>
+          <ul class="mainmenu-row__menu-child">
+           <li class="mainmenu-row__menu-subitem">
+            <a href="/radio/rus/">
+             "Радио России" 106,3 МГц
+            </a>
+           </li>
+           <li class="mainmenu-row__menu-subitem">
+            <a href="/radio/mayak/">
+             Радио "Маяк" 101,4 МГц
+            </a>
+           </li>
+           <li class="mainmenu-row__menu-subitem">
+            <a href="/radio/vesti-fm/">
+             Радио "Вести FM" 105,3 МГц
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="mainmenu-row__menu-item">
+          <div class="mainmenu-row__menu-link">
+           <a data-hover="Газета" href="/gazeta/">
+            Газета
+           </a>
+          </div>
+         </li>
+         <li class="mainmenu-row__menu-item">
+          <div class="mainmenu-row__menu-link">
+           <a data-hover="Вятка 24" href="/live/vyatka24/">
+            Вятка 24
+           </a>
+          </div>
+         </li>
+        </ul>
+        <div class="search">
+         <div class="search__body js-search__body search__body_hidden">
+          <div class="search__toggle js-search-toggle">
+           <svg class="search__icon">
+            <use xlink:href="/templates/gtrk2019/images/icons/sprite.svg#search">
+            </use>
+           </svg>
+          </div>
+          <div class="search__form" id="q_search" style="height:34px; min-width:200px;">
+           <!-- Код Яндекса -->
+           <div class="ya-site-form ya-site-form_inited_no" data-bem='{"action":"https://www.gtrk-vyatka.ru/search.html","arrow":false,"bg":"transparent","fontsize":14,"fg":"#000000","language":"ru","logo":"rb","publicname":"поиск по www.gtrk-vyatka.ru","suggest":true,"target":"_blank","tld":"ru","type":2,"usebigdictionary":false,"searchid":2132402,"input_fg":"#353535","input_bg":"#ffffff","input_fontStyle":"normal","input_fontWeight":"normal","input_placeholder":"Поиск по сайту...","input_placeholderColor":"#999999","input_borderColor":"#ffffff"}'>
+            <form accept-charset="utf-8" action="https://yandex.ru/search/site/" method="get" target="_blank">
+             <input name="searchid" type="hidden" value="2132402"/>
+             <input name="l10n" type="hidden" value="ru"/>
+             <input name="reqenc" type="hidden" value=""/>
+             <input name="text" type="search" value=""/>
+             <input type="submit" value="Найти"/>
+            </form>
+           </div>
+           <style type="text/css">
+            .ya-page_js_yes .ya-site-form_inited_no {
+										display: none;
+									}
+									/* Наши стили */
+									.ya-site-form__submit {
+										display: none!important;
+									}
+									.search__form input {
+										padding: 0!important;
+										margin: 0!important;
+										height: auto!important;
+										background-color: #fff!important;
+									}
+									.search__form table {
+										border-spacing: 0!important;
+									}
+									.search__form td {
+										padding: 0!important;
+									}
+           </style>
+           <script type="text/javascript">
+            (function(w,d,c){var s=d.createElement('script'),h=d.getElementsByTagName('script')[0],e=d.documentElement;if((' '+e.className+' ').indexOf(' ya-page_js_yes ')===-1){e.className+=' ya-page_js_yes';}s.type='text/javascript';s.async=true;s.charset='utf-8';s.src=(d.location.protocol==='https:'?'https:':'http:')+'//site.yandex.net/v2.0/js/all.js';h.parentNode.insertBefore(s,h);(w[c]||(w[c]=[])).push(function(){Ya.Site.Form.init()})})(window,document,'yandex_site_callbacks');
+           </script>
+           <!-- /Код Яндекса -->
+          </div>
+         </div>
+        </div>
+        <div class="mainmenu-row__menu mainmenu-row__menu_live">
+         <ul class="mainmenu-row__menu-list">
+          <li class="mainmenu-row__menu-item">
+           <div class="mainmenu-row__menu-link">
+            <a data-hover="Прямой эфир" href="/live/">
+             Прямой эфир
+            </a>
+           </div>
+           <ul class="mainmenu-row__menu-child">
+            <li class="mainmenu-row__menu-subitem">
+             <a href="/live/vyatka24/">
+              Вятка 24
+             </a>
+            </li>
+            <li class="mainmenu-row__menu-subitem">
+             <a href="/live/vko/">
+              Россия 1 Вятка
+             </a>
+            </li>
+            <li class="mainmenu-row__menu-subitem">
+             <a href="/live/r24/">
+              Россия 24 Вятка
+             </a>
+            </li>
+            <li class="mainmenu-row__menu-subitem">
+             <a href="/radio/mayak/">
+              Радио Маяк в Кирове
+             </a>
+            </li>
+            <li class="mainmenu-row__menu-subitem">
+             <a href="/radio/vesti-fm/">
+              Радио ВестиFM в Кирове
+             </a>
+            </li>
+            <li class="mainmenu-row__menu-subitem">
+             <a href="/radio/rus/">
+              Радио России в Кирове
+             </a>
+            </li>
+           </ul>
+          </li>
+         </ul>
+        </div>
+       </div>
+       <div class="mainmenu-row__hotnews">
+        <div class="mainmenu-row__hotnews-body js-hotnews">
+         <span class="hotnews__item">
+          <svg class="hotnews__icon">
+           <use xlink:href="/templates/gtrk2019/images/icons/sprite.svg#news">
+           </use>
+          </svg>
+          <a href="https://www.gtrk-vyatka.ru/2022/05/19/">
+           <span class="hotnews__date">
+            19 май 20:19
+           </span>
+          </a>
+          <a class="hotnews__link" href="https://www.gtrk-vyatka.ru/vesti/society/73215-v-rossii-planirujut-obedinit-pensionnyj-fond-i-fond-socialnogo-strahovanija.html" title="В России планируют объединить Пенсионный фонд и Фонд социального страхования">
+           В России планируют объединить Пенсионный фонд и Фонд социального страхования
+          </a>
+         </span>
+         <span class="hotnews__item">
+          <svg class="hotnews__icon">
+           <use xlink:href="/templates/gtrk2019/images/icons/sprite.svg#news">
+           </use>
+          </svg>
+          <a href="https://www.gtrk-vyatka.ru/2022/05/19/">
+           <span class="hotnews__date">
+            19 май 19:15
+           </span>
+          </a>
+          <a class="hotnews__link" href="https://www.gtrk-vyatka.ru/vesti/society/73221-v-kirove-otmetili-100-letie-pionerskogo-dvizhenija.html" title="В Кирове отметили 100-летие пионерского движения">
+           В Кирове отметили 100-летие пионерского движения
+          </a>
+         </span>
+         <span class="hotnews__item">
+          <svg class="hotnews__icon">
+           <use xlink:href="/templates/gtrk2019/images/icons/sprite.svg#news">
+           </use>
+          </svg>
+          <a href="https://www.gtrk-vyatka.ru/2022/05/19/">
+           <span class="hotnews__date">
+            19 май 19:02
+           </span>
+          </a>
+          <a class="hotnews__link" href="https://www.gtrk-vyatka.ru/vesti/society/73216-na-kirovskih-zheleznodorozhnyh-pereezdah-sokratilos-chislo-narushenij-pdd.html" title="На кировских железнодорожных переездах сократилось число нарушений ПДД">
+           На кировских железнодорожных переездах сократилось число нарушений ПДД
+          </a>
+         </span>
+         <span class="hotnews__item">
+          <svg class="hotnews__icon">
+           <use xlink:href="/templates/gtrk2019/images/icons/sprite.svg#news">
+           </use>
+          </svg>
+          <a href="https://www.gtrk-vyatka.ru/2022/05/19/">
+           <span class="hotnews__date">
+            19 май 18:45
+           </span>
+          </a>
+          <a class="hotnews__link" href="https://www.gtrk-vyatka.ru/vesti/culture/73223-obrazcovyj-horovoj-kollektiv-klassika-proshel-v-polufinal-vserossijskogo-konkursa-bitva-horov.html" title="Образцовый хоровой коллектив «Классика» прошел в полуфинал всероссийского конкурса «Битва хоров»">
+           Образцовый хоровой коллектив «Классика» прошел в полуфинал всероссийского конкурса «Битва хоров»
+          </a>
+         </span>
+         <span class="hotnews__item">
+          <svg class="hotnews__icon">
+           <use xlink:href="/templates/gtrk2019/images/icons/sprite.svg#news">
+           </use>
+          </svg>
+          <a href="https://www.gtrk-vyatka.ru/2022/05/19/">
+           <span class="hotnews__date">
+            19 май 18:23
+           </span>
+          </a>
+          <a class="hotnews__link" href="https://www.gtrk-vyatka.ru/vesti/incidents/73220-byvshij-rukovoditel-kompanii-zastrojschika-vozmestil-uscherb-65-kirovchanam.html" title="Бывший руководитель компании-застройщика возместил ущерб 65 кировчанам">
+           Бывший руководитель компании-застройщика возместил ущерб 65 кировчанам
+          </a>
+         </span>
+         <span class="hotnews__item">
+          <svg class="hotnews__icon">
+           <use xlink:href="/templates/gtrk2019/images/icons/sprite.svg#news">
+           </use>
+          </svg>
+          <a href="https://www.gtrk-vyatka.ru/2022/05/19/">
+           <span class="hotnews__date">
+            19 май 18:15
+           </span>
+          </a>
+          <a class="hotnews__link" href="https://www.gtrk-vyatka.ru/vesti/education/73222-studenty-kirovskogo-medkolledzha-stali-pobediteljami-interaktivnogo-konkursa-speshu-na-pomosch-pervym.html" title="Студенты кировского медколледжа стали победителями интерактивного конкурса «Спешу на помощь первым»">
+           Студенты кировского медколледжа стали победителями интерактивного конкурса «Спешу на помощь первым»
+          </a>
+         </span>
+         <span class="hotnews__item">
+          <svg class="hotnews__icon">
+           <use xlink:href="/templates/gtrk2019/images/icons/sprite.svg#news">
+           </use>
+          </svg>
+          <a href="https://www.gtrk-vyatka.ru/2022/05/19/">
+           <span class="hotnews__date">
+            19 май 17:10
+           </span>
+          </a>
+          <a class="hotnews__link" href="https://www.gtrk-vyatka.ru/vesti/society/73214-v-kirove-proshlo-pervoe-v-jetom-godu-raspredelenie-kvartir-dlja-detej-sirot.html" title="В Кирове прошло первое в этом году распределение квартир для детей-сирот">
+           В Кирове прошло первое в этом году распределение квартир для детей-сирот
+          </a>
+         </span>
+         <span class="hotnews__item">
+          <svg class="hotnews__icon">
+           <use xlink:href="/templates/gtrk2019/images/icons/sprite.svg#news">
+           </use>
+          </svg>
+          <a href="https://www.gtrk-vyatka.ru/2022/05/19/">
+           <span class="hotnews__date">
+            19 май 16:45
+           </span>
+          </a>
+          <a class="hotnews__link" href="https://www.gtrk-vyatka.ru/vesti/priroda/73213-v-kirovskoj-oblasti-objavili-meteopreduprezhdenie.html" title="В Кировской области объявили метеопредупреждение">
+           В Кировской области объявили метеопредупреждение
+          </a>
+         </span>
+         <span class="hotnews__item">
+          <svg class="hotnews__icon">
+           <use xlink:href="/templates/gtrk2019/images/icons/sprite.svg#news">
+           </use>
+          </svg>
+          <a href="https://www.gtrk-vyatka.ru/2022/05/19/">
+           <span class="hotnews__date">
+            19 май 16:30
+           </span>
+          </a>
+          <a class="hotnews__link" href="https://www.gtrk-vyatka.ru/vesti/culture/73209-v-jaranskom-rajone-nachali-restavrirovat-ognetovskij-zamok.html" title="В Яранском районе начали реставрировать Огнётовский замок">
+           В Яранском районе начали реставрировать Огнётовский замок
+          </a>
+         </span>
+         <span class="hotnews__item">
+          <svg class="hotnews__icon">
+           <use xlink:href="/templates/gtrk2019/images/icons/sprite.svg#news">
+           </use>
+          </svg>
+          <a href="https://www.gtrk-vyatka.ru/2022/05/19/">
+           <span class="hotnews__date">
+            19 май 16:02
+           </span>
+          </a>
+          <a class="hotnews__link" href="https://www.gtrk-vyatka.ru/vesti/society/73212-kirovskaja-kukla-puteshestvennica-poluchila-nacionalnuju-premiju-zolotoj-medvezhonok.html" title="Кировская кукла-путешественница получила Национальную премию «Золотой медвежонок»">
+           Кировская кукла-путешественница получила Национальную премию «Золотой медвежонок»
+          </a>
+         </span>
+         <!-- TODO: switch days 7 -->
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </header>
+   <div class="mainvideo-row">
+    <div class="mainvideo-row__inner">
+     <!--TODO: dayCount -->
+     <div class="mainvideo-row__item">
+      <div class="mainvideo-row__item-link">
+       <a href="https://www.gtrk-vyatka.ru/vesti/society/73221-v-kirove-otmetili-100-letie-pionerskogo-dvizhenija.html" title="В Кирове отметили 100-летие пионерского движения">
+        <span class="mainvideo-row__item-link-mark">
+         Смотреть видео
+        </span>
+        <svg class="mainvideo-row__icon">
+         <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#play">
+         </use>
+        </svg>
+       </a>
+      </div>
+      <div class="mainvideo-row__item-title">
+       <a class="mainvideo-row__item-title-link" href="https://www.gtrk-vyatka.ru/vesti/society/73221-v-kirove-otmetili-100-letie-pionerskogo-dvizhenija.html" title="В Кирове отметили 100-летие пионерского движения">
+        <span>
+         В Кирове отметили 100-летие пионерского движения
+        </span>
+       </a>
+      </div>
+      <a class="mainvideo-row__item-imglink" href="https://www.gtrk-vyatka.ru/vesti/society/73221-v-kirove-otmetili-100-letie-pionerskogo-dvizhenija.html">
+       <img alt="В Кирове отметили 100-летие пионерского движения" src="/uploads/base/692x400/d19555f0e36871884d0bc1707d389dbc_local.jpg" title="В Кирове отметили 100-летие пионерского движения"/>
+      </a>
+     </div>
+     <div class="mainvideo-row__item">
+      <div class="mainvideo-row__item-link">
+       <a href="https://www.gtrk-vyatka.ru/vesti/culture/73223-obrazcovyj-horovoj-kollektiv-klassika-proshel-v-polufinal-vserossijskogo-konkursa-bitva-horov.html" title="Образцовый хоровой коллектив «Классика» прошел в полуфинал всероссийского конкурса «Битва хоров»">
+        <span class="mainvideo-row__item-link-mark">
+         Смотреть видео
+        </span>
+        <svg class="mainvideo-row__icon">
+         <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#play">
+         </use>
+        </svg>
+       </a>
+      </div>
+      <div class="mainvideo-row__item-title">
+       <a class="mainvideo-row__item-title-link" href="https://www.gtrk-vyatka.ru/vesti/culture/73223-obrazcovyj-horovoj-kollektiv-klassika-proshel-v-polufinal-vserossijskogo-konkursa-bitva-horov.html" title="Образцовый хоровой коллектив «Классика» прошел в полуфинал всероссийского конкурса «Битва хоров»">
+        <span>
+         Образцовый хоровой коллектив «Классика» прошел в полуфинал всероссийского конкурса «Битва…
+        </span>
+       </a>
+      </div>
+      <a class="mainvideo-row__item-imglink" href="https://www.gtrk-vyatka.ru/vesti/culture/73223-obrazcovyj-horovoj-kollektiv-klassika-proshel-v-polufinal-vserossijskogo-konkursa-bitva-horov.html">
+       <img alt="Образцовый хоровой коллектив «Классика» прошел в полуфинал всероссийского конкурса «Битва хоров»" src="/uploads/base/692x400/d06e4628d55a7ac8c9e5b8e384d94453_local.jpg" title="Образцовый хоровой коллектив «Классика» прошел в полуфинал всероссийского конкурса «Битва хоров»"/>
+      </a>
+     </div>
+     <div class="mainvideo-row__item">
+      <div class="mainvideo-row__item-link">
+       <a href="https://www.gtrk-vyatka.ru/vesti/education/73222-studenty-kirovskogo-medkolledzha-stali-pobediteljami-interaktivnogo-konkursa-speshu-na-pomosch-pervym.html" title="Студенты кировского медколледжа стали победителями интерактивного конкурса «Спешу на помощь первым»">
+        <span class="mainvideo-row__item-link-mark">
+         Смотреть видео
+        </span>
+        <svg class="mainvideo-row__icon">
+         <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#play">
+         </use>
+        </svg>
+       </a>
+      </div>
+      <div class="mainvideo-row__item-title">
+       <a class="mainvideo-row__item-title-link" href="https://www.gtrk-vyatka.ru/vesti/education/73222-studenty-kirovskogo-medkolledzha-stali-pobediteljami-interaktivnogo-konkursa-speshu-na-pomosch-pervym.html" title="Студенты кировского медколледжа стали победителями интерактивного конкурса «Спешу на помощь первым»">
+        <span>
+         Студенты кировского медколледжа стали победителями интерактивного конкурса «Спешу на…
+        </span>
+       </a>
+      </div>
+      <a class="mainvideo-row__item-imglink" href="https://www.gtrk-vyatka.ru/vesti/education/73222-studenty-kirovskogo-medkolledzha-stali-pobediteljami-interaktivnogo-konkursa-speshu-na-pomosch-pervym.html">
+       <img alt="Студенты кировского медколледжа стали победителями интерактивного конкурса «Спешу на помощь первым»" src="/uploads/base/692x400/70445f490d852ec333d0b597054279fd_local.jpg" title="Студенты кировского медколледжа стали победителями интерактивного конкурса «Спешу на помощь первым»"/>
+      </a>
+     </div>
+     <div class="mainvideo-row__item">
+      <div class="mainvideo-row__item-link">
+       <a href="https://www.gtrk-vyatka.ru/vesti/culture/73209-v-jaranskom-rajone-nachali-restavrirovat-ognetovskij-zamok.html" title="В Яранском районе начали реставрировать Огнётовский замок">
+        <span class="mainvideo-row__item-link-mark">
+         Смотреть видео
+        </span>
+        <svg class="mainvideo-row__icon">
+         <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#play">
+         </use>
+        </svg>
+       </a>
+      </div>
+      <div class="mainvideo-row__item-title">
+       <a class="mainvideo-row__item-title-link" href="https://www.gtrk-vyatka.ru/vesti/culture/73209-v-jaranskom-rajone-nachali-restavrirovat-ognetovskij-zamok.html" title="В Яранском районе начали реставрировать Огнётовский замок">
+        <span>
+         В Яранском районе начали реставрировать Огнётовский замок
+        </span>
+       </a>
+      </div>
+      <a class="mainvideo-row__item-imglink" href="https://www.gtrk-vyatka.ru/vesti/culture/73209-v-jaranskom-rajone-nachali-restavrirovat-ognetovskij-zamok.html">
+       <img alt="В Яранском районе начали реставрировать Огнётовский замок" src="/uploads/base/692x400/4aca423b302f385bd5733943e5d9067b_local.jpg" title="В Яранском районе начали реставрировать Огнётовский замок"/>
+      </a>
+     </div>
+     <div class="mainvideo-row__item">
+      <div class="mainvideo-row__item-title">
+       <a class="mainvideo-row__item-title-link" href="https://www.gtrk-vyatka.ru/vesti/society/73212-kirovskaja-kukla-puteshestvennica-poluchila-nacionalnuju-premiju-zolotoj-medvezhonok.html" title="Кировская кукла-путешественница получила Национальную премию «Золотой медвежонок»">
+        <span>
+         Кировская кукла-путешественница получила Национальную премию «Золотой медвежонок»
+        </span>
+       </a>
+      </div>
+      <a class="mainvideo-row__item-imglink" href="https://www.gtrk-vyatka.ru/vesti/society/73212-kirovskaja-kukla-puteshestvennica-poluchila-nacionalnuju-premiju-zolotoj-medvezhonok.html">
+       <img alt="Кировская кукла-путешественница получила Национальную премию «Золотой медвежонок»" src="/uploads/base/692x400/4f5704bee27e859ce03917ef12e94e69_local.jpg" title="Кировская кукла-путешественница получила Национальную премию «Золотой медвежонок»"/>
+      </a>
+     </div>
+    </div>
+   </div>
+   <div class="main">
+    <div class="head-big-ben">
+     <a href="https://www.gtrk-vyatka.ru/marafon/">
+      <picture>
+       <source media="(max-width: 480px)" srcset="/uploads/ba/mara_480.webp /uploads/ba/mara_760.webp 2x" type="image/webp"/>
+       <source media="(min-width: 481px) and (max-width: 767px)" srcset="/uploads/ba/mara_760.webp /uploads/ba/mara_1300.webp 2x" type="image/webp"/>
+       <source srcset="/uploads/ba/mara_1300.webp" type="image/webp"/>
+       <img alt="С ЧЕГО НАЧИНАЕТСЯ РОДИНА" src="/uploads/ba/mara_1300.gif"/>
+      </picture>
+     </a>
+    </div>
+    <div class="content_top">
+    </div>
+    <section class="content">
+     <div class="mainside">
+      <div class="block">
+       <h2 class="sidetitle">
+        <a href="/vesti/">
+         Последние новости
+        </a>
+       </h2>
+       <div class="main-grid__wrp">
+        <div class="main-grid__item main-grid__item-fixed">
+         <div class="main-grid__img">
+          <a class="main-grid__img-link" href="https://www.gtrk-vyatka.ru/vesti/education/73175-v-kirovskoj-oblasti-nazvali-imena-liderov-xxi-veka.html" title="В Кировской области назвали имена «Лидеров XXI века»">
+           <img alt="В Кировской области назвали имена «Лидеров XXI века»" src="/uploads/base/297x167/227deacae76c289818e93612001f627a_local.jpg" title="В Кировской области назвали имена «Лидеров XXI века»">
+           </img>
+          </a>
+         </div>
+         <div class="main-grid__name">
+          <h3 class="main-grid__name-title">
+           <a href="https://www.gtrk-vyatka.ru/vesti/education/73175-v-kirovskoj-oblasti-nazvali-imena-liderov-xxi-veka.html" title="В Кировской области назвали имена «Лидеров XXI века»">
+            В Кировской области назвали имена «Лидеров XXI века»
+           </a>
+          </h3>
+          <div class="main-grid__name-subrow">
+           <span class="main-grid__name-meta" title="Дата публикации: 20:00 18 мая 2022">
+            <svg class="main-grid__name-meta__icon">
+             <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#calendar">
+             </use>
+            </svg>
+            18.05.2022, 20:00
+           </span>
+           <span class="main-grid__name-meta" title="Количество просмотров">
+            <svg class="main-grid__name-meta__icon">
+             <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#view">
+             </use>
+            </svg>
+            1562
+           </span>
+          </div>
+         </div>
+        </div>
+        <div class="main-grid__item main-grid__item-fixed">
+         <div class="main-grid__img">
+          <a class="main-grid__img-link" href="https://www.gtrk-vyatka.ru/vesti/gtrk/73092-podvedeny-itogi-okruzhnogo-jetapa-vserossijskogo-pesennogo-marafon-festivalja-s-chego-nachinaetsja-rodina.html" title="Подведены итоги окружного этапа Всероссийского песенного марафон-фестиваля «С чего начинается Родина»">
+           <img alt="Подведены итоги окружного этапа Всероссийского песенного марафон-фестиваля «С чего начинается Родина»" src="/uploads/base/297x167/7059dc7d8c755009924d51e97a35bd5e_local.jpg" title="Подведены итоги окружного этапа Всероссийского песенного марафон-фестиваля «С чего начинается Родина»">
+           </img>
+          </a>
+         </div>
+         <div class="main-grid__name">
+          <h3 class="main-grid__name-title">
+           <a href="https://www.gtrk-vyatka.ru/vesti/gtrk/73092-podvedeny-itogi-okruzhnogo-jetapa-vserossijskogo-pesennogo-marafon-festivalja-s-chego-nachinaetsja-rodina.html" title="Подведены итоги окружного этапа Всероссийского песенного марафон-фестиваля «С чего начинается Родина»">
+            Подведены итоги окружного этапа Всероссийского песенного марафон-фестиваля «С чего начинается Родина»
+           </a>
+          </h3>
+          <div class="main-grid__name-subrow">
+           <span class="main-grid__name-meta" title="Дата публикации: 18:04 16 мая 2022">
+            <svg class="main-grid__name-meta__icon">
+             <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#calendar">
+             </use>
+            </svg>
+            16.05.2022, 18:04
+           </span>
+           <span class="main-grid__name-meta" title="Количество просмотров">
+            <svg class="main-grid__name-meta__icon">
+             <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#view">
+             </use>
+            </svg>
+            3535
+           </span>
+          </div>
+         </div>
+        </div>
+        <div class="main-grid__item">
+         <div class="main-grid__img">
+          <a class="main-grid__img-link" href="https://www.gtrk-vyatka.ru/vesti/society/73215-v-rossii-planirujut-obedinit-pensionnyj-fond-i-fond-socialnogo-strahovanija.html" title="В России планируют объединить Пенсионный фонд и Фонд социального страхования">
+           <img alt="В России планируют объединить Пенсионный фонд и Фонд социального страхования" src="/uploads/base/297x167/b06c6ad6d8fd6296307bdbba79a1226a_local.jpg" title="В России планируют объединить Пенсионный фонд и Фонд социального страхования">
+           </img>
+          </a>
+         </div>
+         <div class="main-grid__name">
+          <h3 class="main-grid__name-title">
+           <a href="https://www.gtrk-vyatka.ru/vesti/society/73215-v-rossii-planirujut-obedinit-pensionnyj-fond-i-fond-socialnogo-strahovanija.html" title="В России планируют объединить Пенсионный фонд и Фонд социального страхования">
+            В России планируют объединить Пенсионный фонд и Фонд социального страхования
+           </a>
+          </h3>
+          <div class="main-grid__name-subrow">
+           <span class="main-grid__name-meta" title="Дата публикации: 20:19 19 мая 2022">
+            <svg class="main-grid__name-meta__icon">
+             <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#calendar">
+             </use>
+            </svg>
+            19.05.2022, 20:19
+           </span>
+           <span class="main-grid__name-meta" title="Количество просмотров">
+            <svg class="main-grid__name-meta__icon">
+             <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#view">
+             </use>
+            </svg>
+            347
+           </span>
+          </div>
+         </div>
+        </div>
+        <div class="main-grid__item">
+         <div class="main-grid__img">
+          <a class="main-grid__img-link" href="https://www.gtrk-vyatka.ru/vesti/society/73221-v-kirove-otmetili-100-letie-pionerskogo-dvizhenija.html" title="В Кирове отметили 100-летие пионерского движения">
+           <svg class="mainvideo-row__icon">
+            <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#play">
+            </use>
+           </svg>
+           <img alt="В Кирове отметили 100-летие пионерского движения" src="/uploads/base/297x167/8ba1cae36cf2e78eccc868d8c21cff82_local.jpg" title="В Кирове отметили 100-летие пионерского движения">
+           </img>
+          </a>
+         </div>
+         <div class="main-grid__name">
+          <h3 class="main-grid__name-title">
+           <a href="https://www.gtrk-vyatka.ru/vesti/society/73221-v-kirove-otmetili-100-letie-pionerskogo-dvizhenija.html" title="В Кирове отметили 100-летие пионерского движения">
+            В Кирове отметили 100-летие пионерского движения
+           </a>
+          </h3>
+          <div class="main-grid__name-subrow">
+           <span class="main-grid__name-meta" title="Дата публикации: 19:15 19 мая 2022">
+            <svg class="main-grid__name-meta__icon">
+             <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#calendar">
+             </use>
+            </svg>
+            19.05.2022, 19:15
+           </span>
+           <span class="main-grid__name-meta" title="Количество просмотров">
+            <svg class="main-grid__name-meta__icon">
+             <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#view">
+             </use>
+            </svg>
+            436
+           </span>
+          </div>
+         </div>
+        </div>
+        <div class="main-grid__item">
+         <div class="main-grid__img">
+          <a class="main-grid__img-link" href="https://www.gtrk-vyatka.ru/vesti/society/73216-na-kirovskih-zheleznodorozhnyh-pereezdah-sokratilos-chislo-narushenij-pdd.html" title="На кировских железнодорожных переездах сократилось число нарушений ПДД">
+           <img alt="На кировских железнодорожных переездах сократилось число нарушений ПДД" src="/uploads/base/297x167/a7ee3c12283c9c377e105fc7dcd58aba_local.jpg" title="На кировских железнодорожных переездах сократилось число нарушений ПДД">
+           </img>
+          </a>
+         </div>
+         <div class="main-grid__name">
+          <h3 class="main-grid__name-title">
+           <a href="https://www.gtrk-vyatka.ru/vesti/society/73216-na-kirovskih-zheleznodorozhnyh-pereezdah-sokratilos-chislo-narushenij-pdd.html" title="На кировских железнодорожных переездах сократилось число нарушений ПДД">
+            На кировских железнодорожных переездах сократилось число нарушений ПДД
+           </a>
+          </h3>
+          <div class="main-grid__name-subrow">
+           <span class="main-grid__name-meta" title="Дата публикации: 19:02 19 мая 2022">
+            <svg class="main-grid__name-meta__icon">
+             <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#calendar">
+             </use>
+            </svg>
+            19.05.2022, 19:02
+           </span>
+           <span class="main-grid__name-meta" title="Количество просмотров">
+            <svg class="main-grid__name-meta__icon">
+             <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#view">
+             </use>
+            </svg>
+            158
+           </span>
+          </div>
+         </div>
+        </div>
+        <div class="main-grid__item">
+         <div class="main-grid__img">
+          <a class="main-grid__img-link" href="https://www.gtrk-vyatka.ru/vesti/culture/73223-obrazcovyj-horovoj-kollektiv-klassika-proshel-v-polufinal-vserossijskogo-konkursa-bitva-horov.html" title="Образцовый хоровой коллектив «Классика» прошел в полуфинал всероссийского конкурса «Битва хоров»">
+           <svg class="mainvideo-row__icon">
+            <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#play">
+            </use>
+           </svg>
+           <img alt="Образцовый хоровой коллектив «Классика» прошел в полуфинал всероссийского конкурса «Битва хоров»" src="/uploads/base/297x167/be42eac766923a9788876dd00b3bcfd8_local.jpg" title="Образцовый хоровой коллектив «Классика» прошел в полуфинал всероссийского конкурса «Битва хоров»">
+           </img>
+          </a>
+         </div>
+         <div class="main-grid__name">
+          <h3 class="main-grid__name-title">
+           <a href="https://www.gtrk-vyatka.ru/vesti/culture/73223-obrazcovyj-horovoj-kollektiv-klassika-proshel-v-polufinal-vserossijskogo-konkursa-bitva-horov.html" title="Образцовый хоровой коллектив «Классика» прошел в полуфинал всероссийского конкурса «Битва хоров»">
+            Образцовый хоровой коллектив «Классика» прошел в полуфинал всероссийского конкурса «Битва хоров»
+           </a>
+          </h3>
+          <div class="main-grid__name-subrow">
+           <span class="main-grid__name-meta" title="Дата публикации: 18:45 19 мая 2022">
+            <svg class="main-grid__name-meta__icon">
+             <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#calendar">
+             </use>
+            </svg>
+            19.05.2022, 18:45
+           </span>
+           <span class="main-grid__name-meta" title="Количество просмотров">
+            <svg class="main-grid__name-meta__icon">
+             <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#view">
+             </use>
+            </svg>
+            172
+           </span>
+          </div>
+         </div>
+        </div>
+        <div class="main-grid__item">
+         <div class="main-grid__img">
+          <a class="main-grid__img-link" href="https://www.gtrk-vyatka.ru/vesti/incidents/73220-byvshij-rukovoditel-kompanii-zastrojschika-vozmestil-uscherb-65-kirovchanam.html" title="Бывший руководитель компании-застройщика возместил ущерб 65 кировчанам">
+           <img alt="Бывший руководитель компании-застройщика возместил ущерб 65 кировчанам" src="/uploads/base/297x167/7cc2a1100db8ee90c7202d8fe40254f1_local.jpg" title="Бывший руководитель компании-застройщика возместил ущерб 65 кировчанам">
+           </img>
+          </a>
+         </div>
+         <div class="main-grid__name">
+          <h3 class="main-grid__name-title">
+           <a href="https://www.gtrk-vyatka.ru/vesti/incidents/73220-byvshij-rukovoditel-kompanii-zastrojschika-vozmestil-uscherb-65-kirovchanam.html" title="Бывший руководитель компании-застройщика возместил ущерб 65 кировчанам">
+            Бывший руководитель компании-застройщика возместил ущерб 65 кировчанам
+           </a>
+          </h3>
+          <div class="main-grid__name-subrow">
+           <span class="main-grid__name-meta" title="Дата публикации: 18:23 19 мая 2022">
+            <svg class="main-grid__name-meta__icon">
+             <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#calendar">
+             </use>
+            </svg>
+            19.05.2022, 18:23
+           </span>
+           <span class="main-grid__name-meta" title="Количество просмотров">
+            <svg class="main-grid__name-meta__icon">
+             <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#view">
+             </use>
+            </svg>
+            194
+           </span>
+          </div>
+         </div>
+        </div>
+        <div class="main-grid__item">
+         <div class="main-grid__img">
+          <a class="main-grid__img-link" href="https://www.gtrk-vyatka.ru/vesti/education/73222-studenty-kirovskogo-medkolledzha-stali-pobediteljami-interaktivnogo-konkursa-speshu-na-pomosch-pervym.html" title="Студенты кировского медколледжа стали победителями интерактивного конкурса «Спешу на помощь первым»">
+           <svg class="mainvideo-row__icon">
+            <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#play">
+            </use>
+           </svg>
+           <img alt="Студенты кировского медколледжа стали победителями интерактивного конкурса «Спешу на помощь первым»" src="/uploads/base/297x167/7ce693334a5a3e86b1d60eaed5c3b9e7_local.jpg" title="Студенты кировского медколледжа стали победителями интерактивного конкурса «Спешу на помощь первым»">
+           </img>
+          </a>
+         </div>
+         <div class="main-grid__name">
+          <h3 class="main-grid__name-title">
+           <a href="https://www.gtrk-vyatka.ru/vesti/education/73222-studenty-kirovskogo-medkolledzha-stali-pobediteljami-interaktivnogo-konkursa-speshu-na-pomosch-pervym.html" title="Студенты кировского медколледжа стали победителями интерактивного конкурса «Спешу на помощь первым»">
+            Студенты кировского медколледжа стали победителями интерактивного конкурса «Спешу на помощь первым»
+           </a>
+          </h3>
+          <div class="main-grid__name-subrow">
+           <span class="main-grid__name-meta" title="Дата публикации: 18:15 19 мая 2022">
+            <svg class="main-grid__name-meta__icon">
+             <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#calendar">
+             </use>
+            </svg>
+            19.05.2022, 18:15
+           </span>
+           <span class="main-grid__name-meta" title="Количество просмотров">
+            <svg class="main-grid__name-meta__icon">
+             <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#view">
+             </use>
+            </svg>
+            244
+           </span>
+          </div>
+         </div>
+        </div>
+        <div class="main-grid__item">
+         <div class="main-grid__img">
+          <a class="main-grid__img-link" href="https://www.gtrk-vyatka.ru/vesti/society/73214-v-kirove-proshlo-pervoe-v-jetom-godu-raspredelenie-kvartir-dlja-detej-sirot.html" title="В Кирове прошло первое в этом году распределение квартир для детей-сирот">
+           <img alt="В Кирове прошло первое в этом году распределение квартир для детей-сирот" src="/uploads/base/297x167/bfaa0c74abb976c7a8a7929fe447ae4b_local.jpg" title="В Кирове прошло первое в этом году распределение квартир для детей-сирот"/>
+          </a>
+         </div>
+         <div class="main-grid__name">
+          <h3 class="main-grid__name-title">
+           <a href="https://www.gtrk-vyatka.ru/vesti/society/73214-v-kirove-proshlo-pervoe-v-jetom-godu-raspredelenie-kvartir-dlja-detej-sirot.html" title="В Кирове прошло первое в этом году распределение квартир для детей-сирот">
+            В Кирове прошло первое в этом году распределение квартир для детей-сирот
+           </a>
+          </h3>
+          <div class="main-grid__name-subrow">
+           <span class="main-grid__name-meta" title="Дата публикации: 17:10 19 мая 2022">
+            <svg class="main-grid__name-meta__icon">
+             <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#calendar">
+             </use>
+            </svg>
+            19.05.2022, 17:10
+           </span>
+           <span class="main-grid__name-meta" title="Количество просмотров">
+            <svg class="main-grid__name-meta__icon">
+             <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#view">
+             </use>
+            </svg>
+            245
+           </span>
+          </div>
+         </div>
+        </div>
+        <div class="main-grid__item">
+         <div class="main-grid__img">
+          <a class="main-grid__img-link" href="https://www.gtrk-vyatka.ru/vesti/priroda/73213-v-kirovskoj-oblasti-objavili-meteopreduprezhdenie.html" title="В Кировской области объявили метеопредупреждение">
+           <img alt="В Кировской области объявили метеопредупреждение" src="/uploads/base/297x167/002acdca3d65b5c56f975603f28610a4_local.jpg" title="В Кировской области объявили метеопредупреждение"/>
+          </a>
+         </div>
+         <div class="main-grid__name">
+          <h3 class="main-grid__name-title">
+           <a href="https://www.gtrk-vyatka.ru/vesti/priroda/73213-v-kirovskoj-oblasti-objavili-meteopreduprezhdenie.html" title="В Кировской области объявили метеопредупреждение">
+            В Кировской области объявили метеопредупреждение
+           </a>
+          </h3>
+          <div class="main-grid__name-subrow">
+           <span class="main-grid__name-meta" title="Дата публикации: 16:45 19 мая 2022">
+            <svg class="main-grid__name-meta__icon">
+             <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#calendar">
+             </use>
+            </svg>
+            19.05.2022, 16:45
+           </span>
+           <span class="main-grid__name-meta" title="Количество просмотров">
+            <svg class="main-grid__name-meta__icon">
+             <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#view">
+             </use>
+            </svg>
+            817
+           </span>
+          </div>
+         </div>
+        </div>
+        <div class="main-grid__item">
+         <div class="main-grid__img">
+          <a class="main-grid__img-link" href="https://www.gtrk-vyatka.ru/vesti/culture/73209-v-jaranskom-rajone-nachali-restavrirovat-ognetovskij-zamok.html" title="В Яранском районе начали реставрировать Огнётовский замок">
+           <svg class="mainvideo-row__icon">
+            <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#play">
+            </use>
+           </svg>
+           <img alt="В Яранском районе начали реставрировать Огнётовский замок" src="/uploads/base/297x167/30726e5b6a2b0e71f2b773cb9f62cf35_local.jpg" title="В Яранском районе начали реставрировать Огнётовский замок"/>
+          </a>
+         </div>
+         <div class="main-grid__name">
+          <h3 class="main-grid__name-title">
+           <a href="https://www.gtrk-vyatka.ru/vesti/culture/73209-v-jaranskom-rajone-nachali-restavrirovat-ognetovskij-zamok.html" title="В Яранском районе начали реставрировать Огнётовский замок">
+            В Яранском районе начали реставрировать Огнётовский замок
+           </a>
+          </h3>
+          <div class="main-grid__name-subrow">
+           <span class="main-grid__name-meta" title="Дата публикации: 16:30 19 мая 2022">
+            <svg class="main-grid__name-meta__icon">
+             <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#calendar">
+             </use>
+            </svg>
+            19.05.2022, 16:30
+           </span>
+           <span class="main-grid__name-meta" title="Количество просмотров">
+            <svg class="main-grid__name-meta__icon">
+             <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#view">
+             </use>
+            </svg>
+            406
+           </span>
+          </div>
+         </div>
+        </div>
+        <div class="main-grid__item">
+         <div class="main-grid__img">
+          <a class="main-grid__img-link" href="https://www.gtrk-vyatka.ru/vesti/society/73212-kirovskaja-kukla-puteshestvennica-poluchila-nacionalnuju-premiju-zolotoj-medvezhonok.html" title="Кировская кукла-путешественница получила Национальную премию «Золотой медвежонок»">
+           <img alt="Кировская кукла-путешественница получила Национальную премию «Золотой медвежонок»" src="/uploads/base/297x167/42049645c565c14cbb9d2d73718d1d5b_local.jpg" title="Кировская кукла-путешественница получила Национальную премию «Золотой медвежонок»"/>
+          </a>
+         </div>
+         <div class="main-grid__name">
+          <h3 class="main-grid__name-title">
+           <a href="https://www.gtrk-vyatka.ru/vesti/society/73212-kirovskaja-kukla-puteshestvennica-poluchila-nacionalnuju-premiju-zolotoj-medvezhonok.html" title="Кировская кукла-путешественница получила Национальную премию «Золотой медвежонок»">
+            Кировская кукла-путешественница получила Национальную премию «Золотой медвежонок»
+           </a>
+          </h3>
+          <div class="main-grid__name-subrow">
+           <span class="main-grid__name-meta" title="Дата публикации: 16:02 19 мая 2022">
+            <svg class="main-grid__name-meta__icon">
+             <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#calendar">
+             </use>
+            </svg>
+            19.05.2022, 16:02
+           </span>
+           <span class="main-grid__name-meta" title="Количество просмотров">
+            <svg class="main-grid__name-meta__icon">
+             <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#view">
+             </use>
+            </svg>
+            251
+           </span>
+          </div>
+         </div>
+        </div>
+        <div class="main-grid__item">
+         <div class="main-grid__img">
+          <a class="main-grid__img-link" href="https://www.gtrk-vyatka.ru/vesti/culture/73210-v-slobodskom-obnaruzhili-starinnyj-derevjannyj-drenazh.html" title="В Слободском обнаружили старинный деревянный дренаж">
+           <svg class="mainvideo-row__icon">
+            <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#play">
+            </use>
+           </svg>
+           <img alt="В Слободском обнаружили старинный деревянный дренаж" src="/uploads/base/297x167/5f9e1437357b789e5b5bcb388aeb77f9_local.jpg" title="В Слободском обнаружили старинный деревянный дренаж"/>
+          </a>
+         </div>
+         <div class="main-grid__name">
+          <h3 class="main-grid__name-title">
+           <a href="https://www.gtrk-vyatka.ru/vesti/culture/73210-v-slobodskom-obnaruzhili-starinnyj-derevjannyj-drenazh.html" title="В Слободском обнаружили старинный деревянный дренаж">
+            В Слободском обнаружили старинный деревянный дренаж
+           </a>
+          </h3>
+          <div class="main-grid__name-subrow">
+           <span class="main-grid__name-meta" title="Дата публикации: 15:30 19 мая 2022">
+            <svg class="main-grid__name-meta__icon">
+             <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#calendar">
+             </use>
+            </svg>
+            19.05.2022, 15:30
+           </span>
+           <span class="main-grid__name-meta" title="Количество просмотров">
+            <svg class="main-grid__name-meta__icon">
+             <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#view">
+             </use>
+            </svg>
+            292
+           </span>
+          </div>
+         </div>
+        </div>
+        <div class="main-grid__item">
+         <div class="main-grid__img">
+          <a class="main-grid__img-link" href="https://www.gtrk-vyatka.ru/vesti/priroda/73201-ornitologi-prizvali-kirovchan-ne-trogat-vypavshih-iz-gnezda-ptencov.html" title="Орнитологи призвали кировчан не трогать выпавших из гнезда птенцов">
+           <svg class="mainvideo-row__icon">
+            <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#play">
+            </use>
+           </svg>
+           <img alt="Орнитологи призвали кировчан не трогать выпавших из гнезда птенцов" src="/uploads/base/297x167/3ac175ca54a408830ca9a9ecbb682baf_local.jpg" title="Орнитологи призвали кировчан не трогать выпавших из гнезда птенцов"/>
+          </a>
+         </div>
+         <div class="main-grid__name">
+          <h3 class="main-grid__name-title">
+           <a href="https://www.gtrk-vyatka.ru/vesti/priroda/73201-ornitologi-prizvali-kirovchan-ne-trogat-vypavshih-iz-gnezda-ptencov.html" title="Орнитологи призвали кировчан не трогать выпавших из гнезда птенцов">
+            Орнитологи призвали кировчан не трогать выпавших из гнезда птенцов
+           </a>
+          </h3>
+          <div class="main-grid__name-subrow">
+           <span class="main-grid__name-meta" title="Дата публикации: 15:00 19 мая 2022">
+            <svg class="main-grid__name-meta__icon">
+             <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#calendar">
+             </use>
+            </svg>
+            19.05.2022, 15:00
+           </span>
+           <span class="main-grid__name-meta" title="Количество просмотров">
+            <svg class="main-grid__name-meta__icon">
+             <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#view">
+             </use>
+            </svg>
+            278
+           </span>
+          </div>
+         </div>
+        </div>
+        <div class="main-grid__item">
+         <div class="main-grid__img">
+          <a class="main-grid__img-link" href="https://www.gtrk-vyatka.ru/vesti/society/73208-u-kirovchan-ostalos-12-dnej-chtoby-progolosovat-za-obekty-blagoustrojstva.html" title="У кировчан осталось 12 дней, чтобы проголосовать за объекты благоустройства">
+           <img alt="У кировчан осталось 12 дней, чтобы проголосовать за объекты благоустройства" src="/uploads/base/297x167/34d1a75258478549e7419c412c5c82ed_local.jpg" title="У кировчан осталось 12 дней, чтобы проголосовать за объекты благоустройства"/>
+          </a>
+         </div>
+         <div class="main-grid__name">
+          <h3 class="main-grid__name-title">
+           <a href="https://www.gtrk-vyatka.ru/vesti/society/73208-u-kirovchan-ostalos-12-dnej-chtoby-progolosovat-za-obekty-blagoustrojstva.html" title="У кировчан осталось 12 дней, чтобы проголосовать за объекты благоустройства">
+            У кировчан осталось 12 дней, чтобы проголосовать за объекты благоустройства
+           </a>
+          </h3>
+          <div class="main-grid__name-subrow">
+           <span class="main-grid__name-meta" title="Дата публикации: 14:49 19 мая 2022">
+            <svg class="main-grid__name-meta__icon">
+             <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#calendar">
+             </use>
+            </svg>
+            19.05.2022, 14:49
+           </span>
+           <span class="main-grid__name-meta" title="Количество просмотров">
+            <svg class="main-grid__name-meta__icon">
+             <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#view">
+             </use>
+            </svg>
+            241
+           </span>
+          </div>
+         </div>
+        </div>
+        <div class="main-grid__item">
+         <div class="main-grid__img">
+          <a class="main-grid__img-link" href="https://www.gtrk-vyatka.ru/vesti/sport/73199-v-kirove-startoval-chempionat-rossii-po-akrobatike.html" title="В Кирове стартовал чемпионат России по спортивной акробатике">
+           <svg class="mainvideo-row__icon">
+            <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#play">
+            </use>
+           </svg>
+           <img alt="В Кирове стартовал чемпионат России по спортивной акробатике" src="/uploads/base/297x167/a989988ea361cf7a4a71f35596cf4804_local.jpg" title="В Кирове стартовал чемпионат России по спортивной акробатике"/>
+          </a>
+         </div>
+         <div class="main-grid__name">
+          <h3 class="main-grid__name-title">
+           <a href="https://www.gtrk-vyatka.ru/vesti/sport/73199-v-kirove-startoval-chempionat-rossii-po-akrobatike.html" title="В Кирове стартовал чемпионат России по спортивной акробатике">
+            В Кирове стартовал чемпионат России по спортивной акробатике
+           </a>
+          </h3>
+          <div class="main-grid__name-subrow">
+           <span class="main-grid__name-meta" title="Дата публикации: 14:30 19 мая 2022">
+            <svg class="main-grid__name-meta__icon">
+             <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#calendar">
+             </use>
+            </svg>
+            19.05.2022, 14:30
+           </span>
+           <span class="main-grid__name-meta" title="Количество просмотров">
+            <svg class="main-grid__name-meta__icon">
+             <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#view">
+             </use>
+            </svg>
+            1487
+           </span>
+          </div>
+         </div>
+        </div>
+        <div class="main-grid__item">
+         <div class="main-grid__img">
+          <a class="main-grid__img-link" href="https://www.gtrk-vyatka.ru/vesti/medicine/73206-kirovskie-vrachi-pomogli-zhenschine-pohudet-na-44-kg.html" title="Кировские врачи помогли женщине похудеть на 44 кг">
+           <img alt="Кировские врачи помогли женщине похудеть на 44 кг" src="/uploads/base/297x167/6547a8a6633c2714f874938d7eb54796_local.jpg" title="Кировские врачи помогли женщине похудеть на 44 кг"/>
+          </a>
+         </div>
+         <div class="main-grid__name">
+          <h3 class="main-grid__name-title">
+           <a href="https://www.gtrk-vyatka.ru/vesti/medicine/73206-kirovskie-vrachi-pomogli-zhenschine-pohudet-na-44-kg.html" title="Кировские врачи помогли женщине похудеть на 44 кг">
+            Кировские врачи помогли женщине похудеть на 44 кг
+           </a>
+          </h3>
+          <div class="main-grid__name-subrow">
+           <span class="main-grid__name-meta" title="Дата публикации: 14:11 19 мая 2022">
+            <svg class="main-grid__name-meta__icon">
+             <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#calendar">
+             </use>
+            </svg>
+            19.05.2022, 14:11
+           </span>
+           <span class="main-grid__name-meta" title="Количество просмотров">
+            <svg class="main-grid__name-meta__icon">
+             <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#view">
+             </use>
+            </svg>
+            967
+           </span>
+          </div>
+         </div>
+        </div>
+        <div class="main-grid__item">
+         <div class="main-grid__img">
+          <a class="main-grid__img-link" href="https://www.gtrk-vyatka.ru/vesti/sport/73198-posle-pereryva-vozrozhden-chempionat-kirovskoj-oblasti-po-hokkeju-sredi-vzroslyh-muzhskih-komand.html" title="После перерыва возрожден чемпионат Кировской области по хоккею среди взрослых мужских команд">
+           <svg class="mainvideo-row__icon">
+            <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#play">
+            </use>
+           </svg>
+           <img alt="После перерыва возрожден чемпионат Кировской области по хоккею среди взрослых мужских команд" src="/uploads/base/297x167/75a53b971fea769dd0d63c54321d662c_local.jpg" title="После перерыва возрожден чемпионат Кировской области по хоккею среди взрослых мужских команд"/>
+          </a>
+         </div>
+         <div class="main-grid__name">
+          <h3 class="main-grid__name-title">
+           <a href="https://www.gtrk-vyatka.ru/vesti/sport/73198-posle-pereryva-vozrozhden-chempionat-kirovskoj-oblasti-po-hokkeju-sredi-vzroslyh-muzhskih-komand.html" title="После перерыва возрожден чемпионат Кировской области по хоккею среди взрослых мужских команд">
+            После перерыва возрожден чемпионат Кировской области по хоккею среди взрослых мужских команд
+           </a>
+          </h3>
+          <div class="main-grid__name-subrow">
+           <span class="main-grid__name-meta" title="Дата публикации: 14:00 19 мая 2022">
+            <svg class="main-grid__name-meta__icon">
+             <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#calendar">
+             </use>
+            </svg>
+            19.05.2022, 14:00
+           </span>
+           <span class="main-grid__name-meta" title="Количество просмотров">
+            <svg class="main-grid__name-meta__icon">
+             <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#view">
+             </use>
+            </svg>
+            216
+           </span>
+          </div>
+         </div>
+        </div>
+        <div class="main-grid__item">
+         <div class="main-grid__img">
+          <a class="main-grid__img-link" href="https://www.gtrk-vyatka.ru/vesti/society/73203-v-novovjatske-pochtili-pamjat-geroja-sovetskogo-sojuza-aleksandra-oparina.html" title="В Нововятске почтили память Героя Советского Союза Александра Опарина">
+           <img alt="В Нововятске почтили память Героя Советского Союза Александра Опарина" src="/uploads/base/297x167/a18d91a5078f9fd773806bb9745022ea_local.jpg" title="В Нововятске почтили память Героя Советского Союза Александра Опарина"/>
+          </a>
+         </div>
+         <div class="main-grid__name">
+          <h3 class="main-grid__name-title">
+           <a href="https://www.gtrk-vyatka.ru/vesti/society/73203-v-novovjatske-pochtili-pamjat-geroja-sovetskogo-sojuza-aleksandra-oparina.html" title="В Нововятске почтили память Героя Советского Союза Александра Опарина">
+            В Нововятске почтили память Героя Советского Союза Александра Опарина
+           </a>
+          </h3>
+          <div class="main-grid__name-subrow">
+           <span class="main-grid__name-meta" title="Дата публикации: 13:45 19 мая 2022">
+            <svg class="main-grid__name-meta__icon">
+             <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#calendar">
+             </use>
+            </svg>
+            19.05.2022, 13:45
+           </span>
+           <span class="main-grid__name-meta" title="Количество просмотров">
+            <svg class="main-grid__name-meta__icon">
+             <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#view">
+             </use>
+            </svg>
+            213
+           </span>
+          </div>
+         </div>
+        </div>
+        <div class="main-grid__item">
+         <div class="main-grid__img">
+          <a class="main-grid__img-link" href="https://www.gtrk-vyatka.ru/vesti/economics/73197-v-kirovstate-soobschili-o-podorozhanii-produktov-na-35-procenta-za-mesjac.html" title="В Кировстате сообщили о подорожании продуктов на 3,5 процента за месяц">
+           <svg class="mainvideo-row__icon">
+            <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#play">
+            </use>
+           </svg>
+           <img alt="В Кировстате сообщили о подорожании продуктов на 3,5 процента за месяц" src="/uploads/base/297x167/4f5e1cf36af0fd35ceb71bdb5fa7d7fe_local.jpg" title="В Кировстате сообщили о подорожании продуктов на 3,5 процента за месяц"/>
+          </a>
+         </div>
+         <div class="main-grid__name">
+          <h3 class="main-grid__name-title">
+           <a href="https://www.gtrk-vyatka.ru/vesti/economics/73197-v-kirovstate-soobschili-o-podorozhanii-produktov-na-35-procenta-za-mesjac.html" title="В Кировстате сообщили о подорожании продуктов на 3,5 процента за месяц">
+            В Кировстате сообщили о подорожании продуктов на 3,5 процента за месяц
+           </a>
+          </h3>
+          <div class="main-grid__name-subrow">
+           <span class="main-grid__name-meta" title="Дата публикации: 13:30 19 мая 2022">
+            <svg class="main-grid__name-meta__icon">
+             <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#calendar">
+             </use>
+            </svg>
+            19.05.2022, 13:30
+           </span>
+           <span class="main-grid__name-meta" title="Количество просмотров">
+            <svg class="main-grid__name-meta__icon">
+             <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#view">
+             </use>
+            </svg>
+            246
+           </span>
+          </div>
+         </div>
+        </div>
+        <div class="main-grid__item">
+         <div class="main-grid__img">
+          <a class="main-grid__img-link" href="https://www.gtrk-vyatka.ru/vesti/priroda/73200-v-obektiv-fotolovushki-nurgusha-popal-ljubopytnyj-mishka.html" title="В объектив фотоловушки «Нургуша» попал любопытный мишка">
+           <svg class="mainvideo-row__icon">
+            <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#play">
+            </use>
+           </svg>
+           <img alt="В объектив фотоловушки «Нургуша» попал любопытный мишка" src="/uploads/base/297x167/c85e6ee4458de9d4c5f7a6d55406c937_local.jpg" title="В объектив фотоловушки «Нургуша» попал любопытный мишка"/>
+          </a>
+         </div>
+         <div class="main-grid__name">
+          <h3 class="main-grid__name-title">
+           <a href="https://www.gtrk-vyatka.ru/vesti/priroda/73200-v-obektiv-fotolovushki-nurgusha-popal-ljubopytnyj-mishka.html" title="В объектив фотоловушки «Нургуша» попал любопытный мишка">
+            В объектив фотоловушки «Нургуша» попал любопытный мишка
+           </a>
+          </h3>
+          <div class="main-grid__name-subrow">
+           <span class="main-grid__name-meta" title="Дата публикации: 13:07 19 мая 2022">
+            <svg class="main-grid__name-meta__icon">
+             <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#calendar">
+             </use>
+            </svg>
+            19.05.2022, 13:07
+           </span>
+           <span class="main-grid__name-meta" title="Количество просмотров">
+            <svg class="main-grid__name-meta__icon">
+             <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#view">
+             </use>
+            </svg>
+            226
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+       <a class="slidetitlenn" href="/vesti/page/2/">
+        Ещё новости
+       </a>
+      </div>
+      <script>
+       jQuery(function($){$.get("/templates/gtrk2019/images/sprite.svg",function(data){var div=document.createElement("div");div.innerHTML=new XMLSerializer().serializeToString(data.documentElement);document.body.insertBefore(div,document.body.childNodes[0])})});
+      </script>
+      <script>
+       $(document).ready(function(){var peritem=2;if($(window).width()>767){peritem=4}$(".owl-carousel").owlCarousel({"items":peritem,"loop":true,"nav":true,"autoplay":true,"autoplayTimeout":5000,"autoplayHoverPause":true,"dots":false})});
+      </script>
+     </div>
+     <aside class="rightside">
+      <div class="block last_block">
+       <h4 class="sidetitle" id="vnside">
+        <a href="https://www.gtrk-vyatka.ru/live/vyatka24/">
+         Вятка 24
+        </a>
+       </h4>
+       <div class="main-grid__wrp">
+        <div class="main-grid__item_vn">
+         <div class="main-grid__img_vn">
+          <a class="main-grid__img-link_vn" href="https://www.gtrk-vyatka.ru/live/vyatka24/">
+           <div class="main-grid__img-bg_vn" style="background-image:url(https://www.gtrk-vyatka.ru/uploads/posts/2021-03/thumbs/1616483220_vyatka24.jpg)">
+            <svg class="mainvideo-row__icon">
+             <use xlink:href="/templates/gtrk2019/images/icons/sprite.svg#play">
+             </use>
+            </svg>
+           </div>
+          </a>
+          <div class="projects-item__cat_vn">
+           <a class="vn_a" href="https://www.gtrk-vyatka.ru/live/vyatka24/">
+            Вятка 24
+           </a>
+          </div>
+         </div>
+         <div class="main-grid__name">
+          <h3 class="main-grid__name-title">
+           <a href="https://www.gtrk-vyatka.ru/live/vyatka24/">
+            Смотрите Вятка 24 - новый интернет-проект ГТРК "Вятка"
+           </a>
+          </h3>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="block last_block">
+       <h4 class="sidetitle" id="vnside">
+        <a href="/blogs/vkadre/">
+         Авторский блог
+        </a>
+       </h4>
+       <div class="main-grid__wrp">
+        <div class="main-grid__item_vn">
+         <div class="main-grid__img_vn">
+          <a class="main-grid__img-link_vn" href="https://www.gtrk-vyatka.ru/blogs/vkadre/">
+           <div class="main-grid__img-bg_vn" style="background-image:url(https://www.gtrk-vyatka.ru/uploads/posts/2022-02/1645173539_istorija01_00125.jpg)">
+            <svg class="mainvideo-row__icon">
+             <use xlink:href="/templates/gtrk2019/images/icons/sprite.svg#play">
+             </use>
+            </svg>
+           </div>
+          </a>
+          <div class="projects-item__cat_vn">
+           <a class="vn_a" href="https://www.gtrk-vyatka.ru/blogs/vkadre/">
+            История: в кадре и за кадром
+           </a>
+          </div>
+         </div>
+         <div class="main-grid__name">
+          <h3 class="main-grid__name-title">
+           <a href="https://www.gtrk-vyatka.ru/blogs/vkadre/">
+            Авторская рубрика режиссера телевидения и автора программ по истории и краеведению Алексея Фоминых
+           </a>
+          </h3>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="block last_block">
+       <h4 class="sidetitle" id="vnside">
+        <a href="/proect/">
+         Интервью
+        </a>
+       </h4>
+       <div class="main-grid__wrp">
+        <div class="main-grid__item_vn">
+         <div class="main-grid__img_vn">
+          <a class="main-grid__img-link_vn" href="https://www.gtrk-vyatka.ru/proect/ai/73132-intervju-s-rukovoditelem-lesoohrany-ruslanom-sibagatulinym-17052022.html">
+           <div class="main-grid__img-bg_vn" style="background-image:url(https://www.gtrk-vyatka.ru/uploads/posts/2022-05/medium/1652794981_hd-project_00_01_15_13_still043.jpg)">
+            <svg class="mainvideo-row__icon">
+             <use xlink:href="/templates/gtrk2019/images/icons/sprite.svg#play">
+             </use>
+            </svg>
+           </div>
+          </a>
+          <div class="projects-item__cat_vn">
+           <a class="vn_a" href="https://www.gtrk-vyatka.ru/proect/ai/">
+            Актуальное интервью
+           </a>
+          </div>
+         </div>
+         <div class="main-grid__name">
+          <h3 class="main-grid__name-title">
+           <a href="https://www.gtrk-vyatka.ru/proect/ai/73132-intervju-s-rukovoditelem-lesoohrany-ruslanom-sibagatulinym-17052022.html">
+            Интервью с руководителем «Лесоохраны» Русланом Сибагатулиным (17.05.2022)
+           </a>
+          </h3>
+         </div>
+        </div>
+        <div class="main-grid__item_vn">
+         <div class="main-grid__img_vn">
+          <a class="main-grid__img-link_vn" href="https://www.gtrk-vyatka.ru/proect/utro/73169-intervju-s-avtorom-proekta-team-laboratorija-otkrytyj-fakultet-kirillom-tolstuhinym18052022.html">
+           <div class="main-grid__img-bg_vn" style="background-image:url(https://www.gtrk-vyatka.ru/uploads/posts/2022-05/medium/1652875999_tolstuhin.jpg)">
+            <svg class="mainvideo-row__icon">
+             <use xlink:href="/templates/gtrk2019/images/icons/sprite.svg#play">
+             </use>
+            </svg>
+           </div>
+          </a>
+          <div class="projects-item__cat_vn">
+           <a class="vn_a" href="https://www.gtrk-vyatka.ru/proect/utro/">
+            Доброе утро. Интервью
+           </a>
+          </div>
+         </div>
+         <div class="main-grid__name">
+          <h3 class="main-grid__name-title">
+           <a href="https://www.gtrk-vyatka.ru/proect/utro/73169-intervju-s-avtorom-proekta-team-laboratorija-otkrytyj-fakultet-kirillom-tolstuhinym18052022.html">
+            Интервью с автором проекта team-лаборатория «Открытый факультет» Кириллом Толстухиным(18.05.2022)
+           </a>
+          </h3>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="block last_block" id="ln1">
+       <h4 class="sidetitle">
+        <a href="/vesti">
+         Лента новостей
+        </a>
+       </h4>
+       <ul class="lastnews">
+        <li class="lastnews__item">
+         <span class="lastnews__date" title="20:00 18 май 2022">
+          18/05
+         </span>
+         <a class="lastnews__link" href="https://www.gtrk-vyatka.ru/vesti/education/73175-v-kirovskoj-oblasti-nazvali-imena-liderov-xxi-veka.html" title="В Кировской области назвали имена «Лидеров XXI века»">
+          В Кировской области назвали имена «Лидеров XXI века»
+         </a>
+        </li>
+        <li class="lastnews__item">
+         <span class="lastnews__date" title="18:04 16 май 2022">
+          16/05
+         </span>
+         <a class="lastnews__link" href="https://www.gtrk-vyatka.ru/vesti/gtrk/73092-podvedeny-itogi-okruzhnogo-jetapa-vserossijskogo-pesennogo-marafon-festivalja-s-chego-nachinaetsja-rodina.html" title="Подведены итоги окружного этапа Всероссийского песенного марафон-фестиваля «С чего начинается Родина»">
+          Подведены итоги окружного этапа Всероссийского песенного марафон-фестиваля «С чего начинается Родина»
+         </a>
+        </li>
+        <li class="lastnews__item">
+         <span class="lastnews__date" title="20:19 19 май 2022">
+          20:19
+         </span>
+         <a class="lastnews__link" href="https://www.gtrk-vyatka.ru/vesti/society/73215-v-rossii-planirujut-obedinit-pensionnyj-fond-i-fond-socialnogo-strahovanija.html" title="В России планируют объединить Пенсионный фонд и Фонд социального страхования">
+          В России планируют объединить Пенсионный фонд и Фонд социального страхования
+         </a>
+        </li>
+        <li class="lastnews__item">
+         <span class="lastnews__date" title="19:15 19 май 2022">
+          19:15
+         </span>
+         <a class="lastnews__link" href="https://www.gtrk-vyatka.ru/vesti/society/73221-v-kirove-otmetili-100-letie-pionerskogo-dvizhenija.html" title="В Кирове отметили 100-летие пионерского движения">
+          В Кирове отметили 100-летие пионерского движения
+         </a>
+        </li>
+        <li class="lastnews__item">
+         <span class="lastnews__date" title="19:02 19 май 2022">
+          19:02
+         </span>
+         <a class="lastnews__link" href="https://www.gtrk-vyatka.ru/vesti/society/73216-na-kirovskih-zheleznodorozhnyh-pereezdah-sokratilos-chislo-narushenij-pdd.html" title="На кировских железнодорожных переездах сократилось число нарушений ПДД">
+          На кировских железнодорожных переездах сократилось число нарушений ПДД
+         </a>
+        </li>
+        <li class="lastnews__item">
+         <span class="lastnews__date" title="18:45 19 май 2022">
+          18:45
+         </span>
+         <a class="lastnews__link" href="https://www.gtrk-vyatka.ru/vesti/culture/73223-obrazcovyj-horovoj-kollektiv-klassika-proshel-v-polufinal-vserossijskogo-konkursa-bitva-horov.html" title="Образцовый хоровой коллектив «Классика» прошел в полуфинал всероссийского конкурса «Битва хоров»">
+          Образцовый хоровой коллектив «Классика» прошел в полуфинал всероссийского конкурса «Битва хоров»
+         </a>
+        </li>
+        <li class="lastnews__item">
+         <span class="lastnews__date" title="18:23 19 май 2022">
+          18:23
+         </span>
+         <a class="lastnews__link" href="https://www.gtrk-vyatka.ru/vesti/incidents/73220-byvshij-rukovoditel-kompanii-zastrojschika-vozmestil-uscherb-65-kirovchanam.html" title="Бывший руководитель компании-застройщика возместил ущерб 65 кировчанам">
+          Бывший руководитель компании-застройщика возместил ущерб 65 кировчанам
+         </a>
+        </li>
+        <li class="lastnews__item">
+         <a href="/vesti">
+          Все новости
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="advcont block" id="ln100">
+       <h2 class="catblack">
+        Реклама
+       </h2>
+       <!-- Yandex.RTB R-A-50346-4 -->
+       <div id="yandex_rtb_R-A-50346-4">
+       </div>
+       <script>
+        window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.render({
+    renderTo: 'yandex_rtb_R-A-50346-4',
+    blockId: 'R-A-50346-4'
+  })
+})
+       </script>
+      </div>
+     </aside>
+    </section>
+    <section class="projects-wrp">
+     <h3 class="projects-title">
+      <a href="/proect">
+       ПРОЕКТЫ ТВ
+      </a>
+     </h3>
+     <div class="projects-row owl-carousel">
+      <div class="projects-item">
+       <div class="projects-item__img">
+        <a class="projects-item__img-link" href="https://www.gtrk-vyatka.ru/proect/artsee/73218-iskusstvo-uvidet-istorija-odnoj-kartiny-jeskiz-k-tragedii-a-s-pushkina-kamennyj-gost-1914-god.html" title="Искусство увидеть… История одной картины: Эскиз к трагедии А. С. Пушкина «Каменный гость» 1914 год">
+         <img alt="Искусство увидеть… История одной картины: Эскиз к трагедии А. С. Пушкина «Каменный гость» 1914 год" src="/uploads/base/297x167/0216c04661003332258c0032b68914b7_local.jpg" title="Искусство увидеть… История одной картины: Эскиз к трагедии А. С. Пушкина «Каменный гость» 1914 год"/>
+         <svg class="projects-item__img__icon">
+          <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#play">
+          </use>
+         </svg>
+        </a>
+        <div class="projects-item__cat">
+         <a href="/proect/artsee/">
+          Искусство увидеть
+         </a>
+        </div>
+       </div>
+       <div class="projects-item__name">
+        <h5 class="projects-item__name-title">
+         <a href="https://www.gtrk-vyatka.ru/proect/artsee/73218-iskusstvo-uvidet-istorija-odnoj-kartiny-jeskiz-k-tragedii-a-s-pushkina-kamennyj-gost-1914-god.html" title="Искусство увидеть… История одной картины: Эскиз к трагедии А. С. Пушкина «Каменный гость» 1914 год">
+          Искусство увидеть… История одной картины: Эскиз к трагедии А. С. Пушкина «Каменный гость» 1914 год
+         </a>
+        </h5>
+       </div>
+      </div>
+      <div class="projects-item">
+       <div class="projects-item__img">
+        <a class="projects-item__img-link" href="https://www.gtrk-vyatka.ru/proect/utro/73169-intervju-s-avtorom-proekta-team-laboratorija-otkrytyj-fakultet-kirillom-tolstuhinym18052022.html" title="Интервью с автором проекта team-лаборатория «Открытый факультет» Кириллом Толстухиным(18.05.2022)">
+         <img alt="Интервью с автором проекта team-лаборатория «Открытый факультет» Кириллом Толстухиным(18.05.2022)" src="/uploads/base/297x167/bbb84eb9e745690313792c324ab309fc_local.jpg" title="Интервью с автором проекта team-лаборатория «Открытый факультет» Кириллом Толстухиным(18.05.2022)"/>
+         <svg class="projects-item__img__icon">
+          <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#play">
+          </use>
+         </svg>
+        </a>
+        <div class="projects-item__cat">
+         <a href="/proect/utro/">
+          Доброе утро. Интервью
+         </a>
+        </div>
+       </div>
+       <div class="projects-item__name">
+        <h5 class="projects-item__name-title">
+         <a href="https://www.gtrk-vyatka.ru/proect/utro/73169-intervju-s-avtorom-proekta-team-laboratorija-otkrytyj-fakultet-kirillom-tolstuhinym18052022.html" title="Интервью с автором проекта team-лаборатория «Открытый факультет» Кириллом Толстухиным(18.05.2022)">
+          Интервью с автором проекта team-лаборатория «Открытый факультет» Кириллом Толстухиным(18.05.2022)
+         </a>
+        </h5>
+       </div>
+      </div>
+      <div class="projects-item">
+       <div class="projects-item__img">
+        <a class="projects-item__img-link" href="https://www.gtrk-vyatka.ru/proect/utro/73134-intervju-s-masterom-sporta-rossii-po-begu-trenerom-olgoj-horikovoj-17052022.html" title="Интервью с мастером спорта России по бегу, тренером Ольгой Хориковой (17.05.2022)">
+         <img alt="Интервью с мастером спорта России по бегу, тренером Ольгой Хориковой (17.05.2022)" src="/uploads/base/297x167/9e0c8d883a969bcf2aff54b9b1e857d3_local.jpg" title="Интервью с мастером спорта России по бегу, тренером Ольгой Хориковой (17.05.2022)"/>
+         <svg class="projects-item__img__icon">
+          <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#play">
+          </use>
+         </svg>
+        </a>
+        <div class="projects-item__cat">
+         <a href="/proect/utro/">
+          Доброе утро. Интервью
+         </a>
+        </div>
+       </div>
+       <div class="projects-item__name">
+        <h5 class="projects-item__name-title">
+         <a href="https://www.gtrk-vyatka.ru/proect/utro/73134-intervju-s-masterom-sporta-rossii-po-begu-trenerom-olgoj-horikovoj-17052022.html" title="Интервью с мастером спорта России по бегу, тренером Ольгой Хориковой (17.05.2022)">
+          Интервью с мастером спорта России по бегу, тренером Ольгой Хориковой (17.05.2022)
+         </a>
+        </h5>
+       </div>
+      </div>
+      <div class="projects-item">
+       <div class="projects-item__img">
+        <a class="projects-item__img-link" href="https://www.gtrk-vyatka.ru/proect/ai/73132-intervju-s-rukovoditelem-lesoohrany-ruslanom-sibagatulinym-17052022.html" title="Интервью с руководителем «Лесоохраны» Русланом Сибагатулиным (17.05.2022)">
+         <img alt="Интервью с руководителем «Лесоохраны» Русланом Сибагатулиным (17.05.2022)" src="/uploads/base/297x167/7da2f5006341e0bafac7f7e934aba9fa_local.jpg" title="Интервью с руководителем «Лесоохраны» Русланом Сибагатулиным (17.05.2022)"/>
+         <svg class="projects-item__img__icon">
+          <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#play">
+          </use>
+         </svg>
+        </a>
+        <div class="projects-item__cat">
+         <a href="/proect/ai/">
+          Актуальное интервью
+         </a>
+        </div>
+       </div>
+       <div class="projects-item__name">
+        <h5 class="projects-item__name-title">
+         <a href="https://www.gtrk-vyatka.ru/proect/ai/73132-intervju-s-rukovoditelem-lesoohrany-ruslanom-sibagatulinym-17052022.html" title="Интервью с руководителем «Лесоохраны» Русланом Сибагатулиным (17.05.2022)">
+          Интервью с руководителем «Лесоохраны» Русланом Сибагатулиным (17.05.2022)
+         </a>
+        </h5>
+       </div>
+      </div>
+      <div class="projects-item">
+       <div class="projects-item__img">
+        <a class="projects-item__img-link" href="https://www.gtrk-vyatka.ru/proect/school/73070-shkola-zdravogo-smysla-14052022.html" title="Школа здравого смысла (14.05.2022)">
+         <img alt="Школа здравого смысла (14.05.2022)" src="/uploads/base/297x167/8b4900b6e152bd4ce613927bbb4955f1_local.jpg" title="Школа здравого смысла (14.05.2022)"/>
+         <svg class="projects-item__img__icon">
+          <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#play">
+          </use>
+         </svg>
+        </a>
+        <div class="projects-item__cat">
+         <a href="/proect/school/">
+          Школа здравого смысла
+         </a>
+        </div>
+       </div>
+       <div class="projects-item__name">
+        <h5 class="projects-item__name-title">
+         <a href="https://www.gtrk-vyatka.ru/proect/school/73070-shkola-zdravogo-smysla-14052022.html" title="Школа здравого смысла (14.05.2022)">
+          Школа здравого смысла (14.05.2022)
+         </a>
+        </h5>
+       </div>
+      </div>
+      <div class="projects-item">
+       <div class="projects-item__img">
+        <a class="projects-item__img-link" href="https://www.gtrk-vyatka.ru/proect/mreporter/73069-mobilnyj-reporter-13052022.html" title="Мобильный репортер (13.05.2022)">
+         <img alt="Мобильный репортер (13.05.2022)" src="/uploads/base/297x167/6bc49e30bf6c4a82e784ca77be7ef7c2_local.jpg" title="Мобильный репортер (13.05.2022)"/>
+         <svg class="projects-item__img__icon">
+          <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#play">
+          </use>
+         </svg>
+        </a>
+        <div class="projects-item__cat">
+         <a href="/proect/mreporter/">
+          Мобильный репортер
+         </a>
+        </div>
+       </div>
+       <div class="projects-item__name">
+        <h5 class="projects-item__name-title">
+         <a href="https://www.gtrk-vyatka.ru/proect/mreporter/73069-mobilnyj-reporter-13052022.html" title="Мобильный репортер (13.05.2022)">
+          Мобильный репортер (13.05.2022)
+         </a>
+        </h5>
+       </div>
+      </div>
+      <div class="projects-item">
+       <div class="projects-item__img">
+        <a class="projects-item__img-link" href="https://www.gtrk-vyatka.ru/proect/artsee/73014-iskusstvo-uvidetistorija-odnoj-kartiny-guljanie-1910-god.html" title="Искусство увидеть…История одной картины: «Гуляние» 1910 год">
+         <img alt="Искусство увидеть…История одной картины: «Гуляние» 1910 год" src="/uploads/base/297x167/2bdfcea9541bfe6e928e851672fc21d4_local.jpg" title="Искусство увидеть…История одной картины: «Гуляние» 1910 год"/>
+         <svg class="projects-item__img__icon">
+          <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#play">
+          </use>
+         </svg>
+        </a>
+        <div class="projects-item__cat">
+         <a href="/proect/artsee/">
+          Искусство увидеть
+         </a>
+        </div>
+       </div>
+       <div class="projects-item__name">
+        <h5 class="projects-item__name-title">
+         <a href="https://www.gtrk-vyatka.ru/proect/artsee/73014-iskusstvo-uvidetistorija-odnoj-kartiny-guljanie-1910-god.html" title="Искусство увидеть…История одной картины: «Гуляние» 1910 год">
+          Искусство увидеть…История одной картины: «Гуляние» 1910 год
+         </a>
+        </h5>
+       </div>
+      </div>
+      <div class="projects-item">
+       <div class="projects-item__img">
+        <a class="projects-item__img-link" href="https://www.gtrk-vyatka.ru/proect/utro/73005-intervju-s-glavnym-pulmonologom-kirovskoj-oblasti-elenoj-gerte-13052022.html" title="Интервью с главным пульмонологом Кировской области Еленой Гертье (13.05.2022)">
+         <img alt="Интервью с главным пульмонологом Кировской области Еленой Гертье (13.05.2022)" src="/uploads/base/297x167/84f015226405425cb05ccaa58c44c01d_local.jpg" title="Интервью с главным пульмонологом Кировской области Еленой Гертье (13.05.2022)"/>
+         <svg class="projects-item__img__icon">
+          <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#play">
+          </use>
+         </svg>
+        </a>
+        <div class="projects-item__cat">
+         <a href="/proect/utro/">
+          Доброе утро. Интервью
+         </a>
+        </div>
+       </div>
+       <div class="projects-item__name">
+        <h5 class="projects-item__name-title">
+         <a href="https://www.gtrk-vyatka.ru/proect/utro/73005-intervju-s-glavnym-pulmonologom-kirovskoj-oblasti-elenoj-gerte-13052022.html" title="Интервью с главным пульмонологом Кировской области Еленой Гертье (13.05.2022)">
+          Интервью с главным пульмонологом Кировской области Еленой Гертье (13.05.2022)
+         </a>
+        </h5>
+       </div>
+      </div>
+      <div class="projects-item">
+       <div class="projects-item__img">
+        <a class="projects-item__img-link" href="https://www.gtrk-vyatka.ru/proect/oder/73000-afisha-13052022.html" title="Афиша (13.05.2022)">
+         <img alt="Афиша (13.05.2022)" src="/uploads/base/297x167/01a5cd9e912234668e38ff2936f4451c_local.jpg" title="Афиша (13.05.2022)"/>
+         <svg class="projects-item__img__icon">
+          <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#play">
+          </use>
+         </svg>
+        </a>
+        <div class="projects-item__cat">
+         <a href="/proect/oder/">
+          Иные проекты
+         </a>
+        </div>
+       </div>
+       <div class="projects-item__name">
+        <h5 class="projects-item__name-title">
+         <a href="https://www.gtrk-vyatka.ru/proect/oder/73000-afisha-13052022.html" title="Афиша (13.05.2022)">
+          Афиша (13.05.2022)
+         </a>
+        </h5>
+       </div>
+      </div>
+      <div class="projects-item">
+       <div class="projects-item__img">
+        <a class="projects-item__img-link" href="https://www.gtrk-vyatka.ru/proect/utro/72972-intervju-s-rukovoditelem-proektnogo-ofisa-ministerstva-sporta-i-molodezhnoj-politiki-kirovskoj-oblasti-viktoriej-stolbovoj-12052022.html" title="Интервью с руководителем Проектного офиса министерства спорта и молодежной политики Кировской области Викторией Столбовой (12.05.2022)">
+         <img alt="Интервью с руководителем Проектного офиса министерства спорта и молодежной политики Кировской области Викторией Столбовой (12.05.2022)" src="/uploads/base/297x167/e3280396dc3edbd8a804a118f2c7cc8f_local.jpg" title="Интервью с руководителем Проектного офиса министерства спорта и молодежной политики Кировской области Викторией Столбовой (12.05.2022)"/>
+         <svg class="projects-item__img__icon">
+          <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#play">
+          </use>
+         </svg>
+        </a>
+        <div class="projects-item__cat">
+         <a href="/proect/utro/">
+          Доброе утро. Интервью
+         </a>
+        </div>
+       </div>
+       <div class="projects-item__name">
+        <h5 class="projects-item__name-title">
+         <a href="https://www.gtrk-vyatka.ru/proect/utro/72972-intervju-s-rukovoditelem-proektnogo-ofisa-ministerstva-sporta-i-molodezhnoj-politiki-kirovskoj-oblasti-viktoriej-stolbovoj-12052022.html" title="Интервью с руководителем Проектного офиса министерства спорта и молодежной политики Кировской области Викторией Столбовой (12.05.2022)">
+          Интервью с руководителем Проектного офиса министерства спорта и молодежной политики Кировской области Викторией Столбовой (12.05.2022)
+         </a>
+        </h5>
+       </div>
+      </div>
+      <div class="projects-item">
+       <div class="projects-item__img">
+        <a class="projects-item__img-link" href="https://www.gtrk-vyatka.ru/proect/utro/72934-intervju-s-rukovoditelem-muzeja-narodnoj-pamjati-goroda-slobodskogo-marinoj-kolevatyh-11052022.html" title="Интервью с руководителем Музея народной памяти города Слободского Мариной Колеватых (11.05.2022)">
+         <img alt="Интервью с руководителем Музея народной памяти города Слободского Мариной Колеватых (11.05.2022)" src="/uploads/base/297x167/606e7d52da96b2ea4d6557db207b6dfa_local.jpg" title="Интервью с руководителем Музея народной памяти города Слободского Мариной Колеватых (11.05.2022)"/>
+         <svg class="projects-item__img__icon">
+          <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#play">
+          </use>
+         </svg>
+        </a>
+        <div class="projects-item__cat">
+         <a href="/proect/utro/">
+          Доброе утро. Интервью
+         </a>
+        </div>
+       </div>
+       <div class="projects-item__name">
+        <h5 class="projects-item__name-title">
+         <a href="https://www.gtrk-vyatka.ru/proect/utro/72934-intervju-s-rukovoditelem-muzeja-narodnoj-pamjati-goroda-slobodskogo-marinoj-kolevatyh-11052022.html" title="Интервью с руководителем Музея народной памяти города Слободского Мариной Колеватых (11.05.2022)">
+          Интервью с руководителем Музея народной памяти города Слободского Мариной Колеватых (11.05.2022)
+         </a>
+        </h5>
+       </div>
+      </div>
+      <div class="projects-item">
+       <div class="projects-item__img">
+        <a class="projects-item__img-link" href="https://www.gtrk-vyatka.ru/proect/oder/72933-provereno-na-sebe-dispanserizacija-11052022.html" title="Проверено на себе. Диспансеризация (11.05.2022)">
+         <img alt="Проверено на себе. Диспансеризация (11.05.2022)" src="/uploads/base/297x167/7cbcd28447acc9a6d647ddacd6cb3d8b_local.jpg" title="Проверено на себе. Диспансеризация (11.05.2022)"/>
+         <svg class="projects-item__img__icon">
+          <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#play">
+          </use>
+         </svg>
+        </a>
+        <div class="projects-item__cat">
+         <a href="/proect/oder/">
+          Иные проекты
+         </a>
+        </div>
+       </div>
+       <div class="projects-item__name">
+        <h5 class="projects-item__name-title">
+         <a href="https://www.gtrk-vyatka.ru/proect/oder/72933-provereno-na-sebe-dispanserizacija-11052022.html" title="Проверено на себе. Диспансеризация (11.05.2022)">
+          Проверено на себе. Диспансеризация (11.05.2022)
+         </a>
+        </h5>
+       </div>
+      </div>
+      <div class="projects-item">
+       <div class="projects-item__img">
+        <a class="projects-item__img-link" href="https://www.gtrk-vyatka.ru/proect/oder/72932-istorija-odnogo-zdanija-staryj-most-cherez-vjatku-11052022.html" title="История одного здания. Старый мост через Вятку (11.05.2022)">
+         <img alt="История одного здания. Старый мост через Вятку (11.05.2022)" src="/uploads/base/297x167/cee10396a57f89d0cdc48bba1647cfd9_local.jpg" title="История одного здания. Старый мост через Вятку (11.05.2022)"/>
+         <svg class="projects-item__img__icon">
+          <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#play">
+          </use>
+         </svg>
+        </a>
+        <div class="projects-item__cat">
+         <a href="/proect/oder/">
+          Иные проекты
+         </a>
+        </div>
+       </div>
+       <div class="projects-item__name">
+        <h5 class="projects-item__name-title">
+         <a href="https://www.gtrk-vyatka.ru/proect/oder/72932-istorija-odnogo-zdanija-staryj-most-cherez-vjatku-11052022.html" title="История одного здания. Старый мост через Вятку (11.05.2022)">
+          История одного здания. Старый мост через Вятку (11.05.2022)
+         </a>
+        </h5>
+       </div>
+      </div>
+      <div class="projects-item">
+       <div class="projects-item__img">
+        <a class="projects-item__img-link" href="https://www.gtrk-vyatka.ru/proect/vestiinterview/72931-vesti-intervju-s-prezidentom-vjatskogo-gosudarstvennogo-universiteta-valeriem-jungbljudom-10052022.html" title="Вести. Интервью с президентом Вятского государственного университета Валерием Юнгблюдом (10.05.2022)">
+         <img alt="Вести. Интервью с президентом Вятского государственного университета Валерием Юнгблюдом (10.05.2022)" src="/uploads/base/297x167/33feeaaf286622a430f97f475dd6b21d_local.jpg" title="Вести. Интервью с президентом Вятского государственного университета Валерием Юнгблюдом (10.05.2022)"/>
+         <svg class="projects-item__img__icon">
+          <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#play">
+          </use>
+         </svg>
+        </a>
+        <div class="projects-item__cat">
+         <a href="/proect/vestiinterview/">
+          Вести. Интервью
+         </a>
+        </div>
+       </div>
+       <div class="projects-item__name">
+        <h5 class="projects-item__name-title">
+         <a href="https://www.gtrk-vyatka.ru/proect/vestiinterview/72931-vesti-intervju-s-prezidentom-vjatskogo-gosudarstvennogo-universiteta-valeriem-jungbljudom-10052022.html" title="Вести. Интервью с президентом Вятского государственного университета Валерием Юнгблюдом (10.05.2022)">
+          Вести. Интервью с президентом Вятского государственного университета Валерием Юнгблюдом (10.05.2022)
+         </a>
+        </h5>
+       </div>
+      </div>
+      <div class="projects-item">
+       <div class="projects-item__img">
+        <a class="projects-item__img-link" href="https://www.gtrk-vyatka.ru/proect/specrep/72880-prazdnichnye-meroprijatija-v-gorode-kirove-9-maja-2022-goda.html" title="Праздничные мероприятия в городе Кирове 9 мая 2022 года">
+         <img alt="Праздничные мероприятия в городе Кирове 9 мая 2022 года" src="/uploads/base/297x167/26f5e1eb23dd5724ce1c64dfe6e340b3_local.jpg" title="Праздничные мероприятия в городе Кирове 9 мая 2022 года"/>
+         <svg class="projects-item__img__icon">
+          <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#play">
+          </use>
+         </svg>
+        </a>
+        <div class="projects-item__cat">
+         <a href="/proect/specrep/">
+          Специальный репортаж
+         </a>
+        </div>
+       </div>
+       <div class="projects-item__name">
+        <h5 class="projects-item__name-title">
+         <a href="https://www.gtrk-vyatka.ru/proect/specrep/72880-prazdnichnye-meroprijatija-v-gorode-kirove-9-maja-2022-goda.html" title="Праздничные мероприятия в городе Кирове 9 мая 2022 года">
+          Праздничные мероприятия в городе Кирове 9 мая 2022 года
+         </a>
+        </h5>
+       </div>
+      </div>
+     </div>
+    </section>
+    <section class="content">
+     <div class="mainside itogi">
+      <div class="block">
+       <h2 class="sidetitle">
+        Итоговые программы
+       </h2>
+       <div class="main-grid__wrp">
+        <div class="main-grid-itogi__item">
+         <div class="main-grid__img">
+          <a class="main-grid__img-link" href="https://www.gtrk-vyatka.ru/vesti/week/itogi/62183-vesti-sobytija-nedeli-05072021-11072021.html" title="Вести. События недели (05.07.2021 - 11.07.2021)">
+           <img alt="Вести. События недели (05.07.2021 - 11.07.2021)" src="/uploads/base/297x167/3951626ff1a08e7f20fc77a28240d676_local.png" title="Вести. События недели (05.07.2021 - 11.07.2021)"/>
+           <svg class="mainvideo-row__icon">
+            <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#play">
+            </use>
+           </svg>
+          </a>
+         </div>
+         <div class="main-grid__name">
+          <h3 class="main-grid__name-title">
+           <a href="https://www.gtrk-vyatka.ru/vesti/week/itogi/62183-vesti-sobytija-nedeli-05072021-11072021.html" title="Вести. События недели (05.07.2021 - 11.07.2021)">
+            Вести. События недели (05.07.2021 - 11.07.2021)
+           </a>
+          </h3>
+         </div>
+        </div>
+        <div class="main-grid-itogi__item">
+         <div class="main-grid__img">
+          <a class="main-grid__img-link" href="https://www.gtrk-vyatka.ru/vesti/week/nkulture/73119-novosti-kultury-vjatka-16052022.html" title="Новости культуры ВЯТКА (16.05.2022)">
+           <img alt="Новости культуры ВЯТКА (16.05.2022)" src="/uploads/base/297x167/2e3f763aaa38c2f9888f649e16405489_local.jpg" title="Новости культуры ВЯТКА (16.05.2022)"/>
+           <svg class="mainvideo-row__icon">
+            <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#play">
+            </use>
+           </svg>
+          </a>
+         </div>
+         <div class="main-grid__name">
+          <h3 class="main-grid__name-title">
+           <a href="https://www.gtrk-vyatka.ru/vesti/week/nkulture/73119-novosti-kultury-vjatka-16052022.html" title="Новости культуры ВЯТКА (16.05.2022)">
+            Новости культуры ВЯТКА (16.05.2022)
+           </a>
+          </h3>
+         </div>
+        </div>
+        <div class="main-grid-itogi__item">
+         <div class="main-grid__img">
+          <a class="main-grid__img-link" href="https://www.gtrk-vyatka.ru/vesti/week/vsport/73068-vesti-sport-15052022.html" title="Вести. Спорт (15.05.2022)">
+           <img alt="Вести. Спорт (15.05.2022)" src="/uploads/base/297x167/e1d4c11ef285d0929540439985ee079e_local.png" title="Вести. Спорт (15.05.2022)"/>
+           <svg class="mainvideo-row__icon">
+            <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#play">
+            </use>
+           </svg>
+          </a>
+         </div>
+         <div class="main-grid__name">
+          <h3 class="main-grid__name-title">
+           <a href="https://www.gtrk-vyatka.ru/vesti/week/vsport/73068-vesti-sport-15052022.html" title="Вести. Спорт (15.05.2022)">
+            Вести. Спорт (15.05.2022)
+           </a>
+          </h3>
+         </div>
+        </div>
+        <div class="main-grid-itogi__item">
+         <div class="main-grid__img">
+          <a class="main-grid__img-link" href="https://www.gtrk-vyatka.ru/vesti/week/vdch/73012-vesti-dezhurnaja-chast-13052022.html" title="Вести. Дежурная часть (13.05.2022)">
+           <img alt="Вести. Дежурная часть (13.05.2022)" src="/uploads/base/297x167/ef51853e676b1c709a0b6929ea76a8e6_local.png" title="Вести. Дежурная часть (13.05.2022)"/>
+           <svg class="mainvideo-row__icon">
+            <use xlink:href="https://www.gtrk-vyatka.ru/templates/gtrk2019/images/icons/sprite.svg#play">
+            </use>
+           </svg>
+          </a>
+         </div>
+         <div class="main-grid__name">
+          <h3 class="main-grid__name-title">
+           <a href="https://www.gtrk-vyatka.ru/vesti/week/vdch/73012-vesti-dezhurnaja-chast-13052022.html" title="Вести. Дежурная часть (13.05.2022)">
+            Вести. Дежурная часть (13.05.2022)
+           </a>
+          </h3>
+         </div>
+        </div>
+        <strong>
+        </strong>
+       </div>
+      </div>
+     </div>
+    </section>
+    <section class="holding-wrp">
+     <h4 class="holding-title">
+      Мы крупнейший медиа-холдинг
+     </h4>
+     <div class="holding-container">
+      <div class="holding-item">
+       <a class="holding-item__link" href="/program/russia/" title="Телеканал РОССИЯ 1">
+        <img alt="Телеканал РОССИЯ 1" class="holding-item__img" src="/templates/gtrk2019/images/holding-logos/L1.png" title="Телеканал РОССИЯ 1"/>
+       </a>
+      </div>
+      <div class="holding-item">
+       <a class="holding-item__link" href="/program/rik/" title="Телеканал РОССИЯ 24">
+        <img alt="Телеканал РОССИЯ 24" class="holding-item__img" src="/templates/gtrk2019/images/holding-logos/L2.png" title="Телеканал РОССИЯ 24"/>
+       </a>
+      </div>
+      <div class="holding-item">
+       <a class="holding-item__link" href="/live/vyatka24" title="Вятка 24">
+        <img alt="Вятка 24" class="holding-item__img" src="/templates/gtrk2019/images/holding-logos/L3.png" title="Вятка 24"/>
+       </a>
+      </div>
+      <div class="holding-item">
+       <a class="holding-item__link" href="/radio/rus/" title="Радио РОССИИ в Кирове 106,3 FM">
+        <img alt="Радио РОССИИ в Кирове 106,3 FM" class="holding-item__img" src="/templates/gtrk2019/images/holding-logos/L6.png" title="Радио РОССИИ в Кирове 106,3 FM"/>
+       </a>
+      </div>
+      <div class="holding-item">
+       <a class="holding-item__link" href="/radio/mayak/" title="Радио МАЯК в Кирове 101,4 FM">
+        <img alt="Радио МАЯК в Кирове 101,4 FM" class="holding-item__img" src="/templates/gtrk2019/images/holding-logos/L4.png" title="Радио МАЯК в Кирове 101,4 FM"/>
+       </a>
+      </div>
+      <div class="holding-item">
+       <a class="holding-item__link" href="/radio/vesti-fm/" title="Вести FM в Кирове 105,3 FM">
+        <img alt="Вести FM в Кирове 105,3 FM" class="holding-item__img" src="/templates/gtrk2019/images/holding-logos/L5.png" title="Вести FM в Кирове 105,3 FM"/>
+       </a>
+      </div>
+      <div class="holding-item">
+       <a class="holding-item__link" href="/gazeta/" title="Газета Эфир">
+        <img alt="Газета Эфир" class="holding-item__img" src="/templates/gtrk2019/images/holding-logos/L7.png" title="Газета Эфир"/>
+       </a>
+      </div>
+     </div>
+    </section>
+   </div>
+   <footer class="footer">
+    <div class="footer-navrow">
+     <div class="footer-navrow__inner">
+      <ul class="footer-nav">
+       <li class="footer-nav__item">
+        <a class="footer-nav__link" href="/">
+         Главная
+        </a>
+        <li class="footer-nav__item">
+         <a class="footer-nav__link" href="/vesti/">
+          Новости
+         </a>
+         <li class="footer-nav__item">
+          <a class="footer-nav__link" href="/archive/">
+           Архив новостей
+          </a>
+          <li class="footer-nav__item">
+           <a class="footer-nav__link" href="/proect/">
+            Проекты ТВ
+           </a>
+          </li>
+          <li class="footer-nav__item">
+           <a class="footer-nav__link" href="/live/vyatka24/">
+            Вятка 24
+           </a>
+          </li>
+          <li class="footer-nav__item">
+           <a class="footer-nav__link" href="/live/">
+            Прямой эфир
+           </a>
+          </li>
+          <li class="footer-nav__item">
+           <a class="footer-nav__link" href="/radio/">
+            Радио
+           </a>
+          </li>
+          <li class="footer-nav__item">
+           <a class="footer-nav__link" href="/uslugi/">
+            Наши услуги
+           </a>
+          </li>
+          <li class="footer-nav__item">
+           <a class="footer-nav__link" href="/obyavlenie/">
+            Объявления
+           </a>
+          </li>
+          <li class="footer-nav__item">
+           <a class="footer-nav__link" href="/about/komanda/">
+            Наша команда
+           </a>
+          </li>
+          <li class="footer-nav__item">
+           <a class="footer-nav__link" href="/program/">
+            Программа передач
+           </a>
+          </li>
+         </li>
+        </li>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <!--noindex-->
+    <div class="footer-text">
+     <div class="footer-text__inner hidden-phone hidden-tablet" data-nosnippet="">
+      <p>
+       На сайте функционирует система коррекции ошибок. Обнаружив неточность в тексте, выделите ее и нажмите Ctrl+Enter.
+      </p>
+     </div>
+    </div>
+    <div class="footer-copyright">
+     <div class="footer-copyright__inner" data-nosnippet="">
+      © Филиал ФГУП ВГТРК ГТРК «Вятка»,  2006 - 2021
+      <p>
+       Сетевое издание «Государственный Интернет-Канал «Россия». Свидетельство о регистрации СМИ Эл № ФС 77-59166 от 22.08.2014. Выдано Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций.  Учредитель (соучредители) – федеральное государственное унитарное предприятие «Всероссийская государственная телевизионная и радиовещательная компания». Главный редактор - Панина Е.В.  Адрес электронной почты и телефон редакции ГТРК «Вятка»: vesti@gtrk-vyatka.ru, (8332) 37-76-75.
+      </p>
+      <p>
+       16 +
+      </p>
+      <p>
+       Все права на любые материалы, опубликованные на сайте, защищены в соответствии с российским и международным законодательством об авторском праве и смежных правах. При любом использовании текстовых, аудио-, фото- и видеоматериалов ссылка на "
+       <a href="https://www.gtrk-vyatka.ru">
+        ГТРК Вятка
+       </a>
+       " обязательна. При полной или частичной перепечатке текстовых материалов в интернете гиперссылка на "
+       <a href="/">
+        www.gtrk-vyatka.ru
+       </a>
+       " обязательна. Телефон программы "Вести.  Кировская область" : (8332) 67-63-00, Реклама на сайте: т.67-67-00.  Разработка и техническое сопровождение сайта: группа компьютерного обеспечения ГТРК "Вятка".
+      </p>
+     </div>
+    </div>
+    <div class="footer-counters">
+     <div class="footer-counters__inner">
+      <div class="counters">
+       <ul>
+        <li>
+         <!-- Rating Mail.ru logo -->
+         <a href="https://top.mail.ru/jump?from=1425557">
+          <img alt="Top.Mail.Ru" height="31" src="https://top-fwz1.mail.ru/counter?id=1425557;t=418;l=1" style="border:0;" width="88"/>
+         </a>
+         <!-- //Rating Mail.ru logo -->
+        </li>
+        <li>
+         <!--LiveInternet counter-->
+         <script type="text/javascript">
+          <!--
+document.write("<a href='https://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t14.1;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'></a>")
+//-->
+         </script>
+         <!--/LiveInternet-->
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <!--/noindex-->
+   </footer>
+  </div>
+  <div class="soc-board-place">
+   <div class="soc-board-place__inner">
+    <div class="soc-board">
+     <a class="soc-board__block soc-board__block_with_hover" data-url="https://t.me/vesti_ko" href="https://t.me/vesti_ko" target="_blank">
+      <div class="soc-board__image">
+       <img alt="" src="/uploads/logo_tg.png"/>
+      </div>
+      <div class="soc-board__content">
+       <div class="soc-board__title">
+        Подпишитесь на Telegram ГТРК Вятка
+       </div>
+       <div class="soc-board__summary">
+        Еще больше новостей в удобном формате
+       </div>
+      </div>
+      <div class="soc-board__arrow">
+      </div>
+     </a>
+    </div>
+   </div>
+  </div>
+  <!-- Medhill -->
+  <img height="1" src="https://px201.medhills.ru/s.gif?mh_id=1ce68800b2dc0a9f0a887d1b64fb5c3c&amp;mh_news=ГТРК Вятка - новости Кирова и Кировской области&amp;mh_tags=киров, новости кирова, вести кировская область, вести кирова&amp;mh_page=https://www.gtrk-vyatka.ru" width="1"/>
+  <!--End Medhill -->
+ </body>
+</html>
+<!-- STRC Vyatka -->

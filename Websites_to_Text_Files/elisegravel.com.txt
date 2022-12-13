@@ -1,0 +1,1105 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+	"http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html profile="http://www.w3.org/1999/xhtml/vocab">
+ <head profile="">
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
+   Elise Gravel | auteure – illustratrice
+  </title>
+  <link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"/>
+  <!-- This site is optimized with the Yoast SEO plugin v12.0 - https://yoast.com/wordpress/plugins/seo/ -->
+  <meta content="auteure - illustratrice" name="description">
+   <link href="http://elisegravel.com/" rel="canonical">
+    <link href="http://elisegravel.com/page/2/" rel="next"/>
+    <meta content="fr_FR" property="og:locale"/>
+    <meta content="website" property="og:type"/>
+    <meta content="Elise Gravel | auteure - illustratrice" property="og:title"/>
+    <meta content="auteure - illustratrice" property="og:description"/>
+    <meta content="http://elisegravel.com/" property="og:url"/>
+    <meta content="Elise Gravel" property="og:site_name"/>
+    <meta content="summary" name="twitter:card"/>
+    <meta content="auteure - illustratrice" name="twitter:description"/>
+    <meta content="Elise Gravel | auteure - illustratrice" name="twitter:title"/>
+    <meta content="@EliseGravel" name="twitter:site"/>
+    <script class="yoast-schema-graph yoast-schema-graph--main" type="application/ld+json">
+     {"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"http://elisegravel.com/#website","url":"http://elisegravel.com/","name":"Elise Gravel","publisher":{"@id":"http://elisegravel.com/#/schema/person/ba7cb0cc0d66dcca2336a892306db01d"},"potentialAction":{"@type":"SearchAction","target":"http://elisegravel.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"CollectionPage","@id":"http://elisegravel.com/#webpage","url":"http://elisegravel.com/","inLanguage":"fr-FR","name":"Elise Gravel | auteure - illustratrice","isPartOf":{"@id":"http://elisegravel.com/#website"},"about":{"@id":"http://elisegravel.com/#/schema/person/ba7cb0cc0d66dcca2336a892306db01d"},"description":"auteure - illustratrice"}]}
+    </script>
+    <!-- / Yoast SEO plugin. -->
+    <link href="//ajax.googleapis.com" rel="dns-prefetch"/>
+    <link href="//s.w.org" rel="dns-prefetch"/>
+    <script type="text/javascript">
+     window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/elisegravel.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.15"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])?!1:!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+    </script>
+    <style type="text/css">
+     img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+    </style>
+    <link href="http://elisegravel.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.15" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+    <link href="//elisegravel.com/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-list-horizontal/style.css?ver=1" id="wpml-legacy-horizontal-list-0-css" media="all" rel="stylesheet" type="text/css"/>
+    <link href="http://elisegravel.com/wp-content/plugins/wpml-translation-management/res/css/admin-bar-style.css?ver=2.9.5" id="wpml-tm-admin-bar-css" media="all" rel="stylesheet" type="text/css"/>
+    <link href="http://elisegravel.com/wp-content/themes/egravel/css/bootstrap.min.css?ver=1499271114" id="eg-bootstrap.min-css" media="all" rel="stylesheet" type="text/css"/>
+    <link href="http://elisegravel.com/wp-content/themes/egravel/css/lightbox.css?ver=1499271114" id="eg-lightbox-css" media="all" rel="stylesheet" type="text/css"/>
+    <link href="http://elisegravel.com/wp-content/themes/egravel/css/style.css?ver=1567109668" id="eg-style-css" media="all" rel="stylesheet" type="text/css"/>
+    <link href="http://elisegravel.com/wp-content/themes/egravel/css/forms.css?ver=1499271114" id="eg-forms-css" media="all" rel="stylesheet" type="text/css"/>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js?ver=2.1.3" type="text/javascript">
+    </script>
+    <link href="http://elisegravel.com/wp-json/" rel="https://api.w.org/"/>
+    <link href="http://elisegravel.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+    <link href="http://elisegravel.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+    <meta content="WordPress 5.2.15" name="generator"/>
+    <meta content="WPML ver:4.3.11 stt:1,4;" name="generator"/>
+    <link href="http://elisegravel.com/wp-content/themes/egravel/favicon/apple-icon-57x57.png" rel="apple-touch-icon" sizes="57x57"/>
+    <link href="http://elisegravel.com/wp-content/themes/egravel/favicon/apple-icon-60x60.png" rel="apple-touch-icon" sizes="60x60"/>
+    <link href="http://elisegravel.com/wp-content/themes/egravel/favicon/apple-icon-72x72.png" rel="apple-touch-icon" sizes="72x72"/>
+    <link href="http://elisegravel.com/wp-content/themes/egravel/favicon/apple-icon-76x76.png" rel="apple-touch-icon" sizes="76x76"/>
+    <link href="http://elisegravel.com/wp-content/themes/egravel/favicon/apple-icon-114x114.png" rel="apple-touch-icon" sizes="114x114"/>
+    <link href="http://elisegravel.com/wp-content/themes/egravel/favicon/apple-icon-120x120.png" rel="apple-touch-icon" sizes="120x120"/>
+    <link href="http://elisegravel.com/wp-content/themes/egravel/favicon/apple-icon-144x144.png" rel="apple-touch-icon" sizes="144x144"/>
+    <link href="http://elisegravel.com/wp-content/themes/egravel/favicon/apple-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+    <link href="http://elisegravel.com/wp-content/themes/egravel/favicon/apple-icon-180x180.png" rel="apple-touch-icon" sizes="180x180"/>
+    <link href="http://elisegravel.com/wp-content/themes/egravel/favicon/android-icon-192x192.png" rel="icon" sizes="192x192" type="image/png"/>
+    <link href="http://elisegravel.com/wp-content/themes/egravel/favicon/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+    <link href="http://elisegravel.com/wp-content/themes/egravel/favicon/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png"/>
+    <link href="http://elisegravel.com/wp-content/themes/egravel/favicon/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+    <link href="http://elisegravel.com/wp-content/themes/egravel/favicon/manifest.json" rel="manifest"/>
+    <meta content="#ffffff" name="msapplication-TileColor"/>
+    <meta content="http://elisegravel.com/wp-content/themes/egravel/favicon/ms-icon-144x144.png" name="msapplication-TileImage"/>
+    <meta content="hR3EhGbUV5EkznQFLXm9k2bx3y5ZaxHLCQ2n4L_8bwM" name="google-site-verification">
+     <meta content="#ffffff" name="theme-color"/>
+     <!-- HTML5 element support for IE6-8 -->
+     <!--[if lt IE 9]>
+	<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+    </meta>
+   </link>
+  </meta>
+ </head>
+ <body class="blog lang-fr i18n-fr locale-fr_FR node-type-article">
+  <div id="skip-link">
+   <a class="element-invisible element-focusable" href="#main-content">
+    Skip to main content
+   </a>
+  </div>
+  <header class="navbar container navbar-default" id="navbar-mobile" role="banner">
+   <div class="container">
+    <div class="navbar-header">
+     <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse" type="button">
+      <span class="sr-only">
+       Toggle navigation
+      </span>
+      <span class="icon-bar">
+      </span>
+      <span class="icon-bar">
+      </span>
+      <span class="icon-bar">
+      </span>
+     </button>
+     <div class="mb-button">
+      <a class="linksbar" href="#">
+       <span class="glyphicon glyphicon-link">
+       </span>
+      </a>
+     </div>
+     <div class="mb-button">
+      <a class="socialbar" href="#">
+       <span class="glyphicon glyphicon-share">
+       </span>
+      </a>
+     </div>
+     <div class="mb-button">
+      <a class="searchbar" href="#" style="display: inline;">
+       <span class="glyphicon glyphicon-search">
+       </span>
+      </a>
+     </div>
+     <div class="mb-button" id="mobilelangswitcher">
+      <a href="#">
+      </a>
+     </div>
+    </div>
+    <div class="navbar-collapse collapse">
+     <nav role="navigation">
+      <div class="region region-navigation">
+       <section class="block block-system block-menu clearfix" id="block-system-main-menu">
+        <h2 class="block-title">
+         Menu principal
+        </h2>
+        <ul class="menu nav">
+         <li class="left active active-trail">
+          <a class="menu-blog active active-trail" href="http://elisegravel.com">
+           Blog
+          </a>
+         </li>
+         <li class="left">
+          <a class="menu-portfolios" href="http://elisegravel.com/portfolio/">
+           Portfolio
+          </a>
+         </li>
+         <li class="left">
+          <a class="menu-boutique" href="http://elisegravel.com/boutique/">
+           Boutique
+          </a>
+         </li>
+         <li class="left">
+          <a class="menu-bio" href="http://elisegravel.com/bio/">
+           Info - Bio
+          </a>
+         </li>
+         <li class="left last">
+          <a class="menu-contact last" href="http://elisegravel.com/contactez-nous/">
+           Contact
+          </a>
+         </li>
+        </ul>
+       </section>
+       <!-- /.block -->
+      </div>
+     </nav>
+    </div>
+   </div>
+  </header>
+  <section class="mobile-menu" id="searchbar">
+   <div class="container">
+    <div class="row">
+     <div class="col-xs-12">
+      <form accept-charset="UTF-8" action="http://elisegravel.com" class="form-search content-search" id="search-block-form--2" method="get">
+       <div>
+        <div>
+         <h2 class="element-invisible">
+          Formulaire de recherche
+         </h2>
+         <div class="input-group">
+          <input class="form-control form-text" id="edit-search-block-form--4" maxlength="128" name="s" placeholder="Rechercher" size="15" title="Indiquer les termes à rechercher" type="text" value=""/>
+          <span class="input-group-btn">
+           <button class="btn btn-default" type="submit">
+            Rechercher
+           </button>
+          </span>
+         </div>
+         <button class="element-invisible btn btn-primary form-submit" id="edit-submit--3" name="op" type="submit" value="Rechercher">
+          Rechercher
+         </button>
+        </div>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+  </section>
+  <section class="mobile-menu" id="socialbar">
+   <div class="container">
+    <div class="row">
+     <div class="col-xs-12">
+      <ul class="links">
+       <li class="menu-576 first">
+        <a class="facebook" href="http://www.facebook.com/pages/Elise-Gravel-auteure-illustratrice/119308226420" target="_blank">
+         Facebook
+        </a>
+       </li>
+       <li class="menu-577">
+        <a class="twitter" href="http://twitter.com/EliseGravel" target="_blank">
+         Twitter
+        </a>
+       </li>
+       <li class="menu-578">
+        <a class="instagram" href="http://instagram.com/elise_gravel" target="_blank">
+         Instagram
+        </a>
+       </li>
+       <li class="menu-579">
+        <a class="pinterest" href="http://pinterest.com/elisegravel/" target="_blank">
+         Pinterest
+        </a>
+       </li>
+       <li class="menu-580">
+        <a class="surtonmur" href="http://surtonmur.com/categorie-produit/elise-gravel-fr/toutes-les-images/" target="_blank">
+         Sur Ton Mur
+        </a>
+       </li>
+       <li class="menu-581">
+        <a class="tumblr" href="https://www.tumblr.com/blog/elisegravel" target="_blank">
+         Tumblr
+        </a>
+       </li>
+       <li class="menu-582 last">
+        <a class="goodreads" href="https://www.goodreads.com/author/show/1261967.Elise_Gravel" target="_blank">
+         Goodreads
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+  </section>
+  <section class="mobile-menu" id="linksbar">
+   <div class="container">
+    <div class="row">
+     <div class="col-xs-12">
+      <div class="view view-links view-id-links view-display-id-block view-dom-id-ec6f47601325442e83f85f60e8eeb09e">
+       <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+         <div class="views-field views-field-nothing">
+          <span class="field-content">
+           <div class="row">
+            <div class="col-xs-12">
+             <a href="http://www.editions400coups.com">
+              Les 400 coups
+             </a>
+            </div>
+           </div>
+          </span>
+         </div>
+        </div>
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+         <div class="views-field views-field-nothing">
+          <span class="field-content">
+           <div class="row">
+            <div class="col-xs-12">
+             <a href="http://www.isabellearsenault.com">
+              Isabelle Arsenault
+             </a>
+            </div>
+           </div>
+          </span>
+         </div>
+        </div>
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+         <div class="views-field views-field-nothing">
+          <span class="field-content">
+           <div class="row">
+            <div class="col-xs-12">
+             <a href="http://www.harkavagrant.com/index.php">
+              Kate Beaton
+             </a>
+            </div>
+           </div>
+          </span>
+         </div>
+        </div>
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+         <div class="views-field views-field-nothing">
+          <span class="field-content">
+           <div class="row">
+            <div class="col-xs-12">
+             <a href="http://irisboudreaublog.blogspot.ca">
+              Iris Boudreau
+             </a>
+            </div>
+           </div>
+          </span>
+         </div>
+        </div>
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+         <div class="views-field views-field-nothing">
+          <span class="field-content">
+           <div class="row">
+            <div class="col-xs-12">
+             <a href="https://www.instagram.com/gretathunberg/">
+              Greta Thunberg
+             </a>
+            </div>
+           </div>
+          </span>
+         </div>
+        </div>
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+         <div class="views-field views-field-nothing">
+          <span class="field-content">
+           <div class="row">
+            <div class="col-xs-12">
+             <a href="http://www.lisahanawalt.com/">
+              Lisa Hanawalt
+             </a>
+            </div>
+           </div>
+          </span>
+         </div>
+        </div>
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+         <div class="views-field views-field-nothing">
+          <span class="field-content">
+           <div class="row">
+            <div class="col-xs-12">
+             <a href="https://www.jilliantamaki.com/">
+              Jillian Tamaki
+             </a>
+            </div>
+           </div>
+          </span>
+         </div>
+        </div>
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+         <div class="views-field views-field-nothing">
+          <span class="field-content">
+           <div class="row">
+            <div class="col-xs-12">
+             <a href="https://twitter.com/beatonna?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">
+              Kate Beaton
+             </a>
+            </div>
+           </div>
+          </span>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </section>
+  <header id="page-header" role="banner">
+   <div class="container">
+    <a class="logo" href="http://elisegravel.com" title="Accueil">
+     <img alt="Accueil" class="img-responsive" src="http://elisegravel.com/wp-content/themes/egravel/images/logo_elise-gravel.png"/>
+    </a>
+    <p class="lead">
+     auteure - illustratrice
+    </p>
+   </div>
+  </header>
+  <!-- /#page-header -->
+  <header class="navbar container navbar-default" id="navbar" role="banner">
+   <div class="container">
+    <div class="navbar-collapse collapse">
+     <nav role="navigation">
+      <div class="region region-navigation">
+       <div class="region region-navigation">
+        <section class="block block-system block-menu clearfix" id="block-system-main-menu">
+         <h2 class="block-title">
+          Menu principal
+         </h2>
+         <ul class="menu nav">
+          <li class="left active active-trail">
+           <a class="menu-blog active active-trail" href="http://elisegravel.com">
+            Blog
+           </a>
+          </li>
+          <li class="left">
+           <a class="menu-portfolios" href="http://elisegravel.com/portfolio/">
+            Portfolio
+           </a>
+          </li>
+          <li class="left">
+           <a class="menu-boutique" href="http://elisegravel.com/boutique/">
+            Boutique
+           </a>
+          </li>
+          <li class="left">
+           <a class="menu-bio" href="http://elisegravel.com/bio/">
+            Info - Bio
+           </a>
+          </li>
+          <li class="left last">
+           <a class="menu-contact last" href="http://elisegravel.com/contactez-nous/">
+            Contact
+           </a>
+          </li>
+         </ul>
+        </section>
+        <!-- /.block -->
+       </div>
+      </div>
+     </nav>
+    </div>
+   </div>
+  </header>
+  <div class="main-container container">
+   <div class="row">
+    <section class="col-xs-12 col-md-8">
+     <a id="main-content">
+     </a>
+     <div class="region region-content">
+      <section class="block block-system clearfix" id="block-system-main">
+       <div class="view view-home view-id-home view-display-id-page view-dom-id-d8a334882e95efb0ec127efe02cd1ee8">
+        <div class="view-content">
+         <div class="views-row views-row-1 views-row-odd views-row-first">
+          <div class="col-xs-12 col-sm-12 node node-article">
+           <h2>
+            <a href="http://elisegravel.com/blog/6159/">
+            </a>
+           </h2>
+           <p>
+            Bonjour! Je suis une auteure et illustratrice de livres jeunesse. Je vis au Canada et j’écris en français et en anglais. J’ai publié plus d’une
+            <a href="http://elisegravel.com/livres/mes-livres/">
+             cinquantaine de livres
+            </a>
+            . J’aime aussi offrir gratuitement des
+            <a href="http://elisegravel.com/livres/affiches-a-imprimer/">
+             bandes dessinées à imprimer
+            </a>
+            pour aider les profs et les parents à aborder certains sujets avec leurs enfants, comme la diversité, le consentement, les stéréotypes de genre, la tolérance, la protection de l’environnement, etc. Vous trouverez tout ça dans
+            <a href="http://elisegravel.com/boutique/">
+             ma boutique
+            </a>
+            .
+           </p>
+           <p>
+            <a href="http://elisegravel.com/boutique/">
+             <img alt="" class="alignnone size-full wp-image-6160" height="410" sizes="(max-width: 1190px) 100vw, 1190px" src="http://elisegravel.com/wp-content/uploads/2019/09/Screen_Shot_2019-09-03_at_4.27.19_PM.png" srcset="http://elisegravel.com/wp-content/uploads/2019/09/Screen_Shot_2019-09-03_at_4.27.19_PM.png 1190w, http://elisegravel.com/wp-content/uploads/2019/09/Screen_Shot_2019-09-03_at_4.27.19_PM-300x103.png 300w, http://elisegravel.com/wp-content/uploads/2019/09/Screen_Shot_2019-09-03_at_4.27.19_PM-768x265.png 768w, http://elisegravel.com/wp-content/uploads/2019/09/Screen_Shot_2019-09-03_at_4.27.19_PM-1024x353.png 1024w, http://elisegravel.com/wp-content/uploads/2019/09/Screen_Shot_2019-09-03_at_4.27.19_PM-700x241.png 700w" width="1190"/>
+            </a>
+           </p>
+          </div>
+         </div>
+         <div class="views-row views-row-1 views-row-odd views-row-first">
+          <div class="col-xs-12 col-sm-12 node node-article">
+           <h2>
+            <a href="http://elisegravel.com/blog/detresse/">
+             De l’aide pour nos jeunes en détresse
+            </a>
+           </h2>
+           <p>
+            À imprimer pour aider nos jeunes en difficulté. Si vous habitez une autre région que le Québec, masquez ma dernière case et remplacez-la par vos ressources d’aide psychosociale locales. Certains ados cachent bien leur souffrance; mieux vaut donner accès à ces ressources à tous les jeunes, qu’ils expriment de la détresse ou pas. Pour imprimer,
+            <a href="http://elisegravel.com/wp-content/uploads/2022/03/Untitled_Artwork_6.jpg">
+             cliquez ici.
+            </a>
+           </p>
+           <p>
+            Tel-Jeunes: 1-800-263-2266
+            <br/>
+            Jeunesse, j’écoute: 1-800-668-6868
+           </p>
+           <p>
+            <a href="http://elisegravel.com/wp-content/uploads/2022/03/Untitled_Artwork_6.jpg">
+             <img alt="" class="alignnone size-full wp-image-7898" height="3300" sizes="(max-width: 2550px) 100vw, 2550px" src="http://elisegravel.com/wp-content/uploads/2022/03/Untitled_Artwork_6.jpg" srcset="http://elisegravel.com/wp-content/uploads/2022/03/Untitled_Artwork_6.jpg 2550w, http://elisegravel.com/wp-content/uploads/2022/03/Untitled_Artwork_6-232x300.jpg 232w, http://elisegravel.com/wp-content/uploads/2022/03/Untitled_Artwork_6-768x994.jpg 768w, http://elisegravel.com/wp-content/uploads/2022/03/Untitled_Artwork_6-791x1024.jpg 791w, http://elisegravel.com/wp-content/uploads/2022/03/Untitled_Artwork_6-700x906.jpg 700w" width="2550"/>
+            </a>
+            vaut donner accès à ces ressources à tous les jeunes, qu’ils expriment de la détresse ou pas. Pour imprimer,
+            <a href="http://elisegravel.com/wp-content/uploads/2022/03/Untitled_Artwork_6.jpg">
+             cliquez ici.
+            </a>
+           </p>
+          </div>
+         </div>
+         <div class="views-row views-row-1 views-row-odd views-row-first">
+          <div class="col-xs-12 col-sm-12 node node-article">
+           <h2>
+            <a href="http://elisegravel.com/blog/etudes/">
+             Pourquoi certaines études scientifiques sont prises plus au sérieux que d’autres?
+            </a>
+           </h2>
+           <p>
+            Voici une petite bande dessinée que j’ai créée avec mon frère le scientifique! On y enseigne aux jeunes pourquoi les médias et les experts font davantage confiance à certaines études scientifiques qu’à d’autres. Non, ce n’est pas parce qu’on essaie de réduire les chercheurs qu’on n’aime pas au silence! La révision par les pairs permet de s’assurer que les études sont bien faites avant de les publier dans les journaux.
+           </p>
+           <p>
+            Parents, profs, éducateurs et éducatrices, bibliothécaires, vous pouvez imprimer cette affiche gratuitement à des fins éducatives. Aucune utilisation commerciale ne sera permise.
+           </p>
+           <p>
+            Vous pouvez la télécharger
+            <a href="http://elisegravel.com/wp-content/uploads/2022/03/Untitled_Artwork_5.jpg">
+             ici
+            </a>
+            . Pour voir mes autres affiches gratuites, c’est
+            <a href="http://elisegravel.com/livres/affiches-a-imprimer/">
+             par ici
+            </a>
+            . Pour voir mes livres, c’est
+            <a href="http://elisegravel.com/livres/mes-livres/">
+             par ici
+            </a>
+            .
+           </p>
+           <p>
+            <a href="http://elisegravel.com/wp-content/uploads/2022/03/Untitled_Artwork_5.jpg">
+             <img alt="" class="alignnone size-full wp-image-7893" height="3300" sizes="(max-width: 2550px) 100vw, 2550px" src="http://elisegravel.com/wp-content/uploads/2022/03/Untitled_Artwork_5.jpg" srcset="http://elisegravel.com/wp-content/uploads/2022/03/Untitled_Artwork_5.jpg 2550w, http://elisegravel.com/wp-content/uploads/2022/03/Untitled_Artwork_5-232x300.jpg 232w, http://elisegravel.com/wp-content/uploads/2022/03/Untitled_Artwork_5-768x994.jpg 768w, http://elisegravel.com/wp-content/uploads/2022/03/Untitled_Artwork_5-791x1024.jpg 791w, http://elisegravel.com/wp-content/uploads/2022/03/Untitled_Artwork_5-700x906.jpg 700w" width="2550"/>
+            </a>
+           </p>
+          </div>
+         </div>
+         <div class="views-row views-row-1 views-row-odd views-row-first">
+          <div class="col-xs-12 col-sm-12 node node-article">
+           <h2>
+            <a href="http://elisegravel.com/blog/les-calins-cest-pour-tout-le-monde/">
+             Les câlins, c’est pour tout le monde!
+            </a>
+           </h2>
+           <p>
+            Voici une petite bande dessinée que j’ai créée pour enseigner aux jeunes que l’affection entre garçons, c’est normal et positif (avec consentement, évidemment). Les câlins, ce n’est pas que pour les filles et les mamans!
+           </p>
+           <p>
+            Parents, profs, éducateurs et éducatrices, bibliothécaires, vous pouvez imprimer cette affiche gratuitement à des fins éducatives. Aucune utilisation commerciale ne sera permise.
+           </p>
+           <p>
+            Vous pouvez la télécharger
+            <a href="http://elisegravel.com/wp-content/uploads/2022/03/Untitled_Artwork_2.jpg">
+             ici
+            </a>
+            . Pour voir mes autres affiches gratuites, c’est
+            <a href="http://elisegravel.com/livres/affiches-a-imprimer/">
+             par ici
+            </a>
+            . Pour voir mes livres, c’est
+            <a href="http://elisegravel.com/livres/mes-livres/">
+             par ici
+            </a>
+            .
+           </p>
+           <p>
+            <a href="http://elisegravel.com/wp-content/uploads/2022/03/Untitled_Artwork_2.jpg">
+             <img alt="" class="alignnone size-full wp-image-7884" height="3300" sizes="(max-width: 2550px) 100vw, 2550px" src="http://elisegravel.com/wp-content/uploads/2022/03/Untitled_Artwork_2.jpg" srcset="http://elisegravel.com/wp-content/uploads/2022/03/Untitled_Artwork_2.jpg 2550w, http://elisegravel.com/wp-content/uploads/2022/03/Untitled_Artwork_2-232x300.jpg 232w, http://elisegravel.com/wp-content/uploads/2022/03/Untitled_Artwork_2-768x994.jpg 768w, http://elisegravel.com/wp-content/uploads/2022/03/Untitled_Artwork_2-791x1024.jpg 791w, http://elisegravel.com/wp-content/uploads/2022/03/Untitled_Artwork_2-700x906.jpg 700w" width="2550"/>
+            </a>
+           </p>
+          </div>
+         </div>
+         <div class="views-row views-row-1 views-row-odd views-row-first">
+          <div class="col-xs-12 col-sm-12 node node-article">
+           <h2>
+            <a href="http://elisegravel.com/blog/9-facons-de-faire-preuve-de-gentillesse/">
+             9 façons de faire preuve de gentillesse
+            </a>
+           </h2>
+           <p>
+            <a href="http://elisegravel.com/wp-content/uploads/2022/02/Untitled_Artwork_11.jpg">
+             <img alt="" class="alignnone size-full wp-image-7829" height="3399" sizes="(max-width: 2624px) 100vw, 2624px" src="http://elisegravel.com/wp-content/uploads/2022/02/Untitled_Artwork_11.jpg" srcset="http://elisegravel.com/wp-content/uploads/2022/02/Untitled_Artwork_11.jpg 2624w, http://elisegravel.com/wp-content/uploads/2022/02/Untitled_Artwork_11-232x300.jpg 232w, http://elisegravel.com/wp-content/uploads/2022/02/Untitled_Artwork_11-768x995.jpg 768w, http://elisegravel.com/wp-content/uploads/2022/02/Untitled_Artwork_11-791x1024.jpg 791w, http://elisegravel.com/wp-content/uploads/2022/02/Untitled_Artwork_11-700x907.jpg 700w" width="2624"/>
+            </a>
+           </p>
+           <p>
+            Voici une petite bande dessinée que j’ai créée pour donner aux ejeunes des idées de gestes simples qui rendront la vie des autres plus agréable.
+           </p>
+           <p>
+            Idées d’activités en classe à partir de cette image:
+           </p>
+           <p>
+            • Demandez aux jeunes d’illustrer d’autres façons d’être gentil.
+           </p>
+           <p>
+            • À la fin de la journée, invitez les jeunes à réfléchir à tous les gestes gentils dont ils ont été témoins à l’école.
+           </p>
+           <p>
+            Parents, profs, éducateurs et éducatrices, bibliothécaires, vous pouvez imprimer cette affiche gratuitement à des fins éducatives. Aucune utilisation commerciale ne sera permise.
+           </p>
+           <p>
+            Vous pouvez la télécharger
+            <a href="http://elisegravel.com/wp-content/uploads/2022/02/Untitled_Artwork_11.jpg">
+             ici
+            </a>
+            . Pour voir mes autres affiches gratuites, c’est
+            <a href="http://elisegravel.com/livres/affiches-a-imprimer/">
+             par ici
+            </a>
+            . Pour voir mes livres, c’est
+            <a href="http://elisegravel.com/livres/mes-livres/">
+             par ici
+            </a>
+            .
+           </p>
+           <p>
+           </p>
+          </div>
+         </div>
+         <div class="views-row views-row-1 views-row-odd views-row-first">
+          <div class="col-xs-12 col-sm-12 node node-article">
+           <h2>
+            <a href="http://elisegravel.com/blog/avant-de-commenter-sur-les-medias-sociaux/">
+             Avant de commenter sur les médias sociaux
+            </a>
+           </h2>
+           <p>
+            Voici une petite bande dessinée que j’ai créée pour enseigner aux jeunes (et à certains adultes) comment s’assurer qu’on ne fait pas de mal aux autres ou à soi-même avant de commenter sur les médias sociaux. Tout ce qu’on publie peut se retourner contre nous; mieux vaut être prudent que regretter!
+           </p>
+           <p>
+            Parents, profs, éducateurs et éducatrices, bibliothécaires, vous pouvez imprimer cette affiche gratuitement à des fins éducatives. Aucune utilisation commerciale ne sera permise.
+           </p>
+           <p>
+            Vous pouvez la télécharger
+            <a href="http://elisegravel.com/wp-content/uploads/2022/02/Ne_tiquette.jpeg">
+             ici
+            </a>
+            . Pour voir mes autres affiches gratuites, c’est
+            <a href="http://elisegravel.com/livres/affiches-a-imprimer/">
+             par ici
+            </a>
+            . Pour voir mes livres, c’est
+            <a href="http://elisegravel.com/livres/mes-livres/">
+             par ici
+            </a>
+            .
+           </p>
+           <p>
+            <img alt="" class="alignnone size-full wp-image-7803" height="3300" sizes="(max-width: 2550px) 100vw, 2550px" src="http://elisegravel.com/wp-content/uploads/2022/02/Ne_tiquette.jpeg" srcset="http://elisegravel.com/wp-content/uploads/2022/02/Ne_tiquette.jpeg 2550w, http://elisegravel.com/wp-content/uploads/2022/02/Ne_tiquette-232x300.jpeg 232w, http://elisegravel.com/wp-content/uploads/2022/02/Ne_tiquette-768x994.jpeg 768w, http://elisegravel.com/wp-content/uploads/2022/02/Ne_tiquette-791x1024.jpeg 791w, http://elisegravel.com/wp-content/uploads/2022/02/Ne_tiquette-700x906.jpeg 700w" width="2550"/>
+           </p>
+          </div>
+         </div>
+         <div class="views-row views-row-1 views-row-odd views-row-first">
+          <div class="col-xs-12 col-sm-12 node node-article">
+           <h2>
+            <a href="http://elisegravel.com/blog/toutes-mes-emotions-sont-valides/">
+             Toutes mes émotions sont valides
+            </a>
+           </h2>
+           <p>
+            Voici une petite bande dessinée que j’ai créée pour enseigner aux jeunes (et à certains adultes) que toutes les émotions sont valides et importantes.
+           </p>
+           <p>
+            Parents, profs, éducateurs et éducatrices, bibliothécaires, vous pouvez imprimer cette affiche gratuitement à des fins éducatives. Aucune utilisation commerciale ne sera permise.
+           </p>
+           <p>
+            Vous pouvez la télécharger
+            <a href="http://elisegravel.com/wp-content/uploads/2022/01/Untitled_Artwork_23.jpg">
+             ici
+            </a>
+            . Pour voir mes autres affiches gratuites, c’est
+            <a href="http://elisegravel.com/livres/affiches-a-imprimer/">
+             par ici
+            </a>
+            . Pour voir mes livres, c’est
+            <a href="http://elisegravel.com/livres/mes-livres/">
+             par ici
+            </a>
+            .
+           </p>
+           <p>
+            <a href="http://elisegravel.com/wp-content/uploads/2022/01/Untitled_Artwork_23.jpg">
+             <img alt="" class="alignnone size-full wp-image-7796" height="2143" sizes="(max-width: 1847px) 100vw, 1847px" src="http://elisegravel.com/wp-content/uploads/2022/01/Untitled_Artwork_23.jpg" srcset="http://elisegravel.com/wp-content/uploads/2022/01/Untitled_Artwork_23.jpg 1847w, http://elisegravel.com/wp-content/uploads/2022/01/Untitled_Artwork_23-259x300.jpg 259w, http://elisegravel.com/wp-content/uploads/2022/01/Untitled_Artwork_23-768x891.jpg 768w, http://elisegravel.com/wp-content/uploads/2022/01/Untitled_Artwork_23-883x1024.jpg 883w, http://elisegravel.com/wp-content/uploads/2022/01/Untitled_Artwork_23-700x812.jpg 700w" width="1847"/>
+            </a>
+           </p>
+          </div>
+         </div>
+         <div class="views-row views-row-1 views-row-odd views-row-first">
+          <div class="col-xs-12 col-sm-12 node node-article">
+           <h2>
+            <a href="http://elisegravel.com/blog/onfim/">
+             Onfim
+            </a>
+           </h2>
+           <p>
+            Voici un livre numérique gratuit pour les enseignant.e.s et les parents! C’est l’histoire vraie d’Onfim, un petit garçon de 6 ou 7 ans qui vivait en Russie il y a 700 ans, qui adorait dessiner et dont les oeuvres ont été préservées dans l’argile.
+           </p>
+           <p>
+            Aucune utilisation commerciale n’est autorisée, mais vous pouvez l’imprimer et même le relier pour la classe ou la maison. Cliquez
+            <a href="http://elisegravel.com/livres/pdf/">
+             ICI
+            </a>
+            pour télécharger le livre en format PDF basse résolution ou pour voir mes autres livres numériques gratuits.
+           </p>
+           <p>
+            <img alt="" class="alignnone size-full wp-image-7690" height="2293" sizes="(max-width: 1772px) 100vw, 1772px" src="http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_01.jpg" srcset="http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_01.jpg 1772w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_01-232x300.jpg 232w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_01-768x994.jpg 768w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_01-791x1024.jpg 791w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_01-700x906.jpg 700w" width="1772"/>
+            <img alt="" class="alignnone size-full wp-image-7692" height="1146" sizes="(max-width: 886px) 100vw, 886px" src="http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_02.jpg" srcset="http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_02.jpg 886w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_02-232x300.jpg 232w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_02-768x993.jpg 768w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_02-792x1024.jpg 792w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_02-700x905.jpg 700w" width="886"/>
+            <img alt="" class="alignnone size-full wp-image-7694" height="1146" sizes="(max-width: 886px) 100vw, 886px" src="http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_03.jpg" srcset="http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_03.jpg 886w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_03-232x300.jpg 232w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_03-768x993.jpg 768w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_03-792x1024.jpg 792w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_03-700x905.jpg 700w" width="886"/>
+            <img alt="" class="alignnone size-full wp-image-7696" height="1146" sizes="(max-width: 886px) 100vw, 886px" src="http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_04.jpg" srcset="http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_04.jpg 886w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_04-232x300.jpg 232w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_04-768x993.jpg 768w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_04-792x1024.jpg 792w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_04-700x905.jpg 700w" width="886"/>
+            <img alt="" class="alignnone size-full wp-image-7698" height="1146" sizes="(max-width: 886px) 100vw, 886px" src="http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_05.jpg" srcset="http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_05.jpg 886w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_05-232x300.jpg 232w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_05-768x993.jpg 768w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_05-792x1024.jpg 792w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_05-700x905.jpg 700w" width="886"/>
+            <img alt="" class="alignnone size-full wp-image-7700" height="1146" sizes="(max-width: 886px) 100vw, 886px" src="http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_06.jpg" srcset="http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_06.jpg 886w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_06-232x300.jpg 232w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_06-768x993.jpg 768w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_06-792x1024.jpg 792w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_06-700x905.jpg 700w" width="886"/>
+            <img alt="" class="alignnone size-full wp-image-7702" height="1146" sizes="(max-width: 886px) 100vw, 886px" src="http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_07.jpg" srcset="http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_07.jpg 886w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_07-232x300.jpg 232w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_07-768x993.jpg 768w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_07-792x1024.jpg 792w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_07-700x905.jpg 700w" width="886"/>
+            <img alt="" class="alignnone size-full wp-image-7704" height="1146" sizes="(max-width: 886px) 100vw, 886px" src="http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_08.jpg" srcset="http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_08.jpg 886w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_08-232x300.jpg 232w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_08-768x993.jpg 768w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_08-792x1024.jpg 792w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_08-700x905.jpg 700w" width="886"/>
+            <img alt="" class="alignnone size-full wp-image-7706" height="1146" sizes="(max-width: 886px) 100vw, 886px" src="http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_09.jpg" srcset="http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_09.jpg 886w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_09-232x300.jpg 232w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_09-768x993.jpg 768w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_09-792x1024.jpg 792w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_09-700x905.jpg 700w" width="886"/>
+            <img alt="" class="alignnone size-full wp-image-7708" height="1146" sizes="(max-width: 886px) 100vw, 886px" src="http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_10.jpg" srcset="http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_10.jpg 886w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_10-232x300.jpg 232w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_10-768x993.jpg 768w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_10-792x1024.jpg 792w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_10-700x905.jpg 700w" width="886"/>
+            <img alt="" class="alignnone size-full wp-image-7710" height="1146" sizes="(max-width: 886px) 100vw, 886px" src="http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_11.jpg" srcset="http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_11.jpg 886w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_11-232x300.jpg 232w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_11-768x993.jpg 768w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_11-792x1024.jpg 792w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_11-700x905.jpg 700w" width="886"/>
+            <img alt="" class="alignnone size-full wp-image-7712" height="1146" sizes="(max-width: 886px) 100vw, 886px" src="http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_12.jpg" srcset="http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_12.jpg 886w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_12-232x300.jpg 232w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_12-768x993.jpg 768w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_12-792x1024.jpg 792w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_12-700x905.jpg 700w" width="886"/>
+            <img alt="" class="alignnone size-full wp-image-7714" height="1146" sizes="(max-width: 886px) 100vw, 886px" src="http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_13.jpg" srcset="http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_13.jpg 886w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_13-232x300.jpg 232w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_13-768x993.jpg 768w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_13-792x1024.jpg 792w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_13-700x905.jpg 700w" width="886"/>
+            <img alt="" class="alignnone size-full wp-image-7716" height="1146" sizes="(max-width: 886px) 100vw, 886px" src="http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_14.jpg" srcset="http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_14.jpg 886w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_14-232x300.jpg 232w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_14-768x993.jpg 768w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_14-792x1024.jpg 792w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_14-700x905.jpg 700w" width="886"/>
+            <img alt="" class="alignnone size-full wp-image-7718" height="1146" sizes="(max-width: 886px) 100vw, 886px" src="http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_15.jpg" srcset="http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_15.jpg 886w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_15-232x300.jpg 232w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_15-768x993.jpg 768w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_15-792x1024.jpg 792w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_15-700x905.jpg 700w" width="886"/>
+            <img alt="" class="alignnone size-full wp-image-7729" height="3300" sizes="(max-width: 2550px) 100vw, 2550px" src="http://elisegravel.com/wp-content/uploads/2021/12/Onfim-16.jpg" srcset="http://elisegravel.com/wp-content/uploads/2021/12/Onfim-16.jpg 2550w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim-16-232x300.jpg 232w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim-16-768x994.jpg 768w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim-16-791x1024.jpg 791w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim-16-700x906.jpg 700w" width="2550"/>
+            <img alt="" class="alignnone size-full wp-image-7722" height="1146" sizes="(max-width: 886px) 100vw, 886px" src="http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_17.jpg" srcset="http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_17.jpg 886w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_17-232x300.jpg 232w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_17-768x993.jpg 768w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_17-792x1024.jpg 792w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_17-700x905.jpg 700w" width="886"/>
+            <img alt="" class="alignnone size-full wp-image-7724" height="1145" sizes="(max-width: 886px) 100vw, 886px" src="http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_18.jpg" srcset="http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_18.jpg 886w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_18-232x300.jpg 232w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_18-768x993.jpg 768w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_18-792x1024.jpg 792w, http://elisegravel.com/wp-content/uploads/2021/12/Onfim_Page_18-700x905.jpg 700w" width="886"/>
+            <br/>
+            Voici d’autres idées d’activités inspirées par cette lecture:
+           </p>
+           <p>
+            – Copie l’alphabet cyrillique et trouve les lettres qui ressemblent aux nôtres.
+           </p>
+           <p>
+            – Fais un dessin sur un morceau d’écorce de bouleau, puis enterre-le pour les archéologues du futur.
+           </p>
+           <p>
+            – Imagine plus de détails sur la vie d’Onfim. Est-ce qu’il avait des frères et soeurs? Est-ce qu’il faisait du sport? Qu’est-ce qu’il aimait manger?
+           </p>
+           <p>
+            – Si tu pouvais poser des questions à Onfim pour en savoir plus sur sa vie, qu’est-ce que tu lui demanderais?
+           </p>
+          </div>
+         </div>
+         <div class="views-row views-row-1 views-row-odd views-row-first">
+          <div class="col-xs-12 col-sm-12 node node-article">
+           <h2>
+            <a href="http://elisegravel.com/blog/je-fais-de-mon-mieux/">
+             Je fais de mon mieux
+            </a>
+           </h2>
+           <p>
+            Voici une petite bande dessinée que j’ai créée pour enseigner aux enfants (et à certains adultes) que faire des erreurs ne diminue en rien notre valeur.
+           </p>
+           <p>
+            Parents, profs, éducateurs et éducatrices, bibliothécaires, vous pouvez imprimer cette affiche gratuitement à des fins éducatives. Aucune utilisation commerciale ne sera permise.
+           </p>
+           <p>
+            Vous pouvez la télécharger
+            <a href="http://elisegravel.com/wp-content/uploads/2021/09/Re_pe_te_.jpg">
+             ici
+            </a>
+            . Pour voir mes autres affiches gratuites, c’est
+            <a href="http://elisegravel.com/livres/affiches-a-imprimer/">
+             par ici
+            </a>
+            . Pour voir mes livres, c’est
+            <a href="http://elisegravel.com/livres/mes-livres/">
+             par ici
+            </a>
+            .
+           </p>
+           <p>
+            <img alt="" class="alignnone size-full wp-image-7661" height="2143" sizes="(max-width: 1847px) 100vw, 1847px" src="http://elisegravel.com/wp-content/uploads/2021/09/Re_pe_te_.jpg" srcset="http://elisegravel.com/wp-content/uploads/2021/09/Re_pe_te_.jpg 1847w, http://elisegravel.com/wp-content/uploads/2021/09/Re_pe_te_-259x300.jpg 259w, http://elisegravel.com/wp-content/uploads/2021/09/Re_pe_te_-768x891.jpg 768w, http://elisegravel.com/wp-content/uploads/2021/09/Re_pe_te_-883x1024.jpg 883w, http://elisegravel.com/wp-content/uploads/2021/09/Re_pe_te_-700x812.jpg 700w" width="1847"/>
+           </p>
+          </div>
+         </div>
+         <div class="views-row views-row-1 views-row-odd views-row-first">
+          <div class="col-xs-12 col-sm-12 node node-article">
+           <h2>
+            <a href="http://elisegravel.com/blog/la-science-ne-ment-pas/">
+             La science ne ment pas
+            </a>
+           </h2>
+           <p>
+            La science ne nous ment pas, elle poursuit ses recherches en arrive à de nouvelles conclusions si elle découvre de nouvelles données.
+           </p>
+           <p>
+            <img alt="" class="alignnone size-full wp-image-7652" height="3300" sizes="(max-width: 2550px) 100vw, 2550px" src="http://elisegravel.com/wp-content/uploads/2021/06/Science_ne_ment_pas.jpg" srcset="http://elisegravel.com/wp-content/uploads/2021/06/Science_ne_ment_pas.jpg 2550w, http://elisegravel.com/wp-content/uploads/2021/06/Science_ne_ment_pas-232x300.jpg 232w, http://elisegravel.com/wp-content/uploads/2021/06/Science_ne_ment_pas-768x994.jpg 768w, http://elisegravel.com/wp-content/uploads/2021/06/Science_ne_ment_pas-791x1024.jpg 791w, http://elisegravel.com/wp-content/uploads/2021/06/Science_ne_ment_pas-700x906.jpg 700w" width="2550"/>
+           </p>
+           <p>
+            Changer d’idée face à de nouvelles informations ne veut pas dire qu’on a menti quand on n’avait pas accès à ces informations. Changer d’idée, c’est intelligent (et difficile). Ça demande de l’ouverture d’esprit, de la souplesse et de l’humilité.
+           </p>
+           <div class="kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x c1et5uql">
+            <div dir="auto">
+             Oui, il existe certains scientifiques malhonnêtes, peu professionnels, biaisés ou guidés par des intentions commerciales. Ça arrive, mais ces individus ne sont pas « La Science »: ce sont simplement de mauvais scientifiques. La communauté scientifique travaille constamment à évaluer la méthodologie et la validité des recherches de ses membres (ce qu’on appelle « évaluation par les pairs »). Généralement, les conclusions d’études bâclées, biaisées ou malhonnêtes seront réfutées par d’autres scientifiques.
+            </div>
+           </div>
+           <div class="o9v6fnle cxmmr5t8 oygrvhab hcukyx3x c1et5uql">
+            <div dir="auto">
+             Si certaines conclusions scientifiques ne sont pas écoutées ou sont critiquées par le reste de la communauté, ne font pas consensus ou ne sont pas médiatisées, ça ne veut pas dire qu’on les muselle: ça veut dire que les scientifiques qui les ont présentées n’ont pas réussi à convaincre le reste de la communauté de la qualité de leurs recherches.
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="views-row views-row-1 views-row-odd views-row-first">
+          <div class="col-xs-12 col-sm-12 node node-article">
+           <h2>
+            <a href="http://elisegravel.com/blog/positions-de-lecture/">
+             Positions de lecture
+            </a>
+           </h2>
+           <p>
+            Laquelle est la vôtre, et lesquelles ai-je oubliées?
+            <img alt="" class="alignnone size-full wp-image-7639" height="3300" sizes="(max-width: 2550px) 100vw, 2550px" src="http://elisegravel.com/wp-content/uploads/2021/06/Positions_lecture.jpg" srcset="http://elisegravel.com/wp-content/uploads/2021/06/Positions_lecture.jpg 2550w, http://elisegravel.com/wp-content/uploads/2021/06/Positions_lecture-232x300.jpg 232w, http://elisegravel.com/wp-content/uploads/2021/06/Positions_lecture-768x994.jpg 768w, http://elisegravel.com/wp-content/uploads/2021/06/Positions_lecture-791x1024.jpg 791w, http://elisegravel.com/wp-content/uploads/2021/06/Positions_lecture-700x906.jpg 700w" width="2550"/>
+           </p>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="text-center">
+        <ul class="pagination bottom">
+         <li class="page active">
+          <a href="http://elisegravel.com/">
+           1
+          </a>
+         </li>
+         <li class="page">
+          <a href="http://elisegravel.com/page/2/">
+           2
+          </a>
+         </li>
+         <li class="page">
+          <a href="http://elisegravel.com/page/3/">
+           3
+          </a>
+         </li>
+         <li class="page">
+          <a href="http://elisegravel.com/page/4/">
+           4
+          </a>
+         </li>
+         <li class="page">
+          <a href="http://elisegravel.com/page/5/">
+           5
+          </a>
+         </li>
+         <li class="pager-ellipsis disabled">
+          <span>
+           …
+          </span>
+         </li>
+         <li class="next last">
+          <a href="http://elisegravel.com/page/2/">
+           suivant ›
+          </a>
+         </li>
+        </ul>
+       </div>
+      </section>
+     </div>
+    </section>
+    <aside class="col-xs-12 col-md-4" role="complementary">
+     <div class="region region-sidebar-second">
+      <section class="block block-locale clearfix" id="block-locale-language">
+       <h2 class="block-title">
+        Langues
+       </h2>
+       <ul class="language-switcher-locale-url">
+        <li class="fr active">
+         <a class="language-link" href="http://elisegravel.com" rel="alternate" title="Français" xml:lang="fr">
+          Français
+         </a>
+        </li>
+        <li class="en">
+         <a class="language-link" href="http://elisegravel.com/en/" rel="alternate" title="English" xml:lang="en">
+          English
+         </a>
+        </li>
+       </ul>
+      </section>
+      <!-- /.block -->
+      <section class="block block-block clearfix" id="block-block-1">
+       <p>
+        <img alt="" class="img-responsive" src="http://elisegravel.com/wp-content/themes/egravel/images/img_follow-me_fr.png"/>
+       </p>
+      </section>
+      <!-- /.block -->
+      <section class="block block-menu clearfix" id="block-menu-menu-social-media">
+       <ul class="menu nav">
+        <li class="first leaf">
+         <a class="facebook" href="http://www.facebook.com/pages/Elise-Gravel-auteure-illustratrice/119308226420" target="_blank">
+          Facebook
+         </a>
+        </li>
+        <li class="leaf">
+         <a class="twitter" href="http://twitter.com/EliseGravel" target="_blank">
+          Twitter
+         </a>
+        </li>
+        <li class="leaf">
+         <a class="instagram" href="http://instagram.com/elise_gravel" target="_blank">
+          Instagram
+         </a>
+        </li>
+        <li class="leaf">
+         <a class="pinterest" href="http://pinterest.com/elisegravel/" target="_blank">
+          Pinterest
+         </a>
+        </li>
+        <li class="leaf">
+         <a class="surtonmur" href="http://surtonmur.com/categorie-produit/elise-gravel-fr/toutes-les-images/" target="_blank">
+          Sur Ton Mur
+         </a>
+        </li>
+        <!--<li class="leaf"><a href="https://www.tumblr.com/blog/elisegravel" class="tumblr" target="_blank">Tumblr</a></li>-->
+        <li class="leaf">
+         <a class="goodreads" href="https://www.goodreads.com/author/show/1261967.Elise_Gravel" target="_blank">
+          Goodreads
+         </a>
+        </li>
+        <li class="last leaf">
+         <a class="reddit" href="https://www.reddit.com/user/EliseGravel" target="_blank">
+          Reddit
+         </a>
+        </li>
+       </ul>
+      </section>
+      <!-- /.block -->
+      <section class="block block-block clearfix" id="block-block-4">
+       <p>
+        <img alt="" class="dots" src="http://elisegravel.com/wp-content/themes/egravel/images/dots_top.png"/>
+       </p>
+       <a href="http://elisegravel.com/livres/mes-livres/">
+        <div class="meslivres">
+        </div>
+       </a>
+       <p>
+        <img alt="" class="dots" src="http://elisegravel.com/wp-content/themes/egravel/images/dots_bottom.png"/>
+       </p>
+       <p>
+        <a href="#">
+         <img alt="" src="http://elisegravel.com/wp-content/themes/egravel/images/link_gens-inspirants_fr.png"/>
+        </a>
+       </p>
+      </section>
+      <!-- /.block -->
+      <section class="block block-views clearfix" id="block-views-links-block">
+       <div class="view view-links view-id-links view-display-id-block view-dom-id-16d20c43857085a02dbb4d9f2711f312">
+        <div class="view-content">
+         <div class="views-row views-row-1 views-row-odd views-row-first">
+          <div class="views-field views-field-nothing">
+           <span class="field-content">
+            <div class="row">
+             <div class="col-xs-12">
+              <a href="http://www.editions400coups.com">
+               Les 400 coups
+              </a>
+             </div>
+            </div>
+           </span>
+          </div>
+         </div>
+         <div class="views-row views-row-1 views-row-odd views-row-first">
+          <div class="views-field views-field-nothing">
+           <span class="field-content">
+            <div class="row">
+             <div class="col-xs-12">
+              <a href="http://www.isabellearsenault.com">
+               Isabelle Arsenault
+              </a>
+             </div>
+            </div>
+           </span>
+          </div>
+         </div>
+         <div class="views-row views-row-1 views-row-odd views-row-first">
+          <div class="views-field views-field-nothing">
+           <span class="field-content">
+            <div class="row">
+             <div class="col-xs-12">
+              <a href="http://www.harkavagrant.com/index.php">
+               Kate Beaton
+              </a>
+             </div>
+            </div>
+           </span>
+          </div>
+         </div>
+         <div class="views-row views-row-1 views-row-odd views-row-first">
+          <div class="views-field views-field-nothing">
+           <span class="field-content">
+            <div class="row">
+             <div class="col-xs-12">
+              <a href="http://irisboudreaublog.blogspot.ca">
+               Iris Boudreau
+              </a>
+             </div>
+            </div>
+           </span>
+          </div>
+         </div>
+         <div class="views-row views-row-1 views-row-odd views-row-first">
+          <div class="views-field views-field-nothing">
+           <span class="field-content">
+            <div class="row">
+             <div class="col-xs-12">
+              <a href="https://www.instagram.com/gretathunberg/">
+               Greta Thunberg
+              </a>
+             </div>
+            </div>
+           </span>
+          </div>
+         </div>
+         <div class="views-row views-row-1 views-row-odd views-row-first">
+          <div class="views-field views-field-nothing">
+           <span class="field-content">
+            <div class="row">
+             <div class="col-xs-12">
+              <a href="http://www.lisahanawalt.com/">
+               Lisa Hanawalt
+              </a>
+             </div>
+            </div>
+           </span>
+          </div>
+         </div>
+         <div class="views-row views-row-1 views-row-odd views-row-first">
+          <div class="views-field views-field-nothing">
+           <span class="field-content">
+            <div class="row">
+             <div class="col-xs-12">
+              <a href="https://www.jilliantamaki.com/">
+               Jillian Tamaki
+              </a>
+             </div>
+            </div>
+           </span>
+          </div>
+         </div>
+         <div class="views-row views-row-1 views-row-odd views-row-first">
+          <div class="views-field views-field-nothing">
+           <span class="field-content">
+            <div class="row">
+             <div class="col-xs-12">
+              <a href="https://twitter.com/beatonna?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">
+               Kate Beaton
+              </a>
+             </div>
+            </div>
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+      <!-- /.block -->
+      <section class="block block-block clearfix" id="block-block-6">
+       <p>
+        <img alt="" class="dots" src="http://elisegravel.com/wp-content/themes/egravel/images/dots_top.png"/>
+       </p>
+       <p>
+        <img alt="" class="dots" src="http://elisegravel.com/wp-content/themes/egravel/images/search_title_fr.png"/>
+       </p>
+      </section>
+      <!-- /.block -->
+      <section class="block block-search clearfix" id="block-search-form">
+       <form accept-charset="UTF-8" action="http://elisegravel.com" class="form-search content-search" id="search-block-form" method="get">
+        <div>
+         <div>
+          <h2 class="element-invisible">
+           Formulaire de recherche
+          </h2>
+          <div class="input-group">
+           <input class="form-control form-text" id="edit-search-block-form--2" maxlength="128" name="s" placeholder="Rechercher" size="15" title="Indiquer les termes à rechercher" type="text" value=""/>
+           <span class="input-group-btn">
+            <button class="btn btn-default" type="submit">
+             Rechercher
+            </button>
+           </span>
+          </div>
+          <button class="element-invisible btn btn-primary form-submit" id="edit-submit--2" name="op" type="submit" value="Rechercher">
+           Rechercher
+          </button>
+         </div>
+        </div>
+       </form>
+      </section>
+      <!-- /.block -->
+     </div>
+    </aside>
+    <!-- /#sidebar-second -->
+   </div>
+  </div>
+  <footer class="footer container">
+  </footer>
+  <script src="http://platform.twitter.com/widgets.js">
+  </script>
+  <script>
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function()
+	{ (i[r].q=i[r].q||[]).push(arguments)}
+		,i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-7724410-5', 'auto');
+	ga('send', 'pageview');
+  </script>
+  <script>
+   (function($){
+        $('img').attr('data-pin-no-hover', true);
+        $('.view-content img').removeAttr('data-pin-no-hover')
+        $('.node-article img').removeAttr('data-pin-no-hover')
+    })(jQuery);
+  </script>
+  <script async="" data-pin-hover="true" data-pin-lang="fr" data-pin-tall="true" defer="" src="//assets.pinterest.com/js/pinit.js">
+  </script>
+  <script src="http://elisegravel.com/wp-content/themes/egravel/js/bootstrap.min.js?ver=5.2.15" type="text/javascript">
+  </script>
+  <script src="http://elisegravel.com/wp-content/themes/egravel/js/isotope.pkgd.min.js?ver=5.2.15" type="text/javascript">
+  </script>
+  <script src="http://elisegravel.com/wp-content/themes/egravel/js/lightbox.js?ver=5.2.15" type="text/javascript">
+  </script>
+  <script src="http://elisegravel.com/wp-content/themes/egravel/js/custom.js?ver=5.2.15" type="text/javascript">
+  </script>
+  <script src="http://elisegravel.com/wp-includes/js/wp-embed.min.js?ver=5.2.15" type="text/javascript">
+  </script>
+ </body>
+</html>

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="ja" xml:lang="ja" xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <title>
+   -ãã¼ã ãã¼ã¸å¶ä½ã¯ãã¥ã¼ã¤ãããè¶³ç«åºã-
+  </title>
+  <meta content="ãã¼ã ãã¼ã¸å¶ä½ã¯è¶³ç«åºã®ãã¥ã¼ã¤ããã«ãä»»ããã ãã" name="description"/>
+  <meta content="ãã¼ã ãã¼ã¸å¶ä½,ãã¥ã¼ã¤ãã,è¶³ç«åº" name="keyword"/>
+  <meta content="sWorDiECLXWifDSXZ625d4mYWYWcA3T253QZw6fpGeE" name="google-site-verification"/>
+  <meta content="text/css" http-equiv="content-style-type"/>
+  <meta content="text/javascript" http-equiv="content-script-type"/>
+  <link href="/css/screen.css" media="screen" rel="stylesheet" type="text/css"/>
+  <link href="/css/print.css" media="print" rel="stylesheet" type="text/css"/>
+  <script type="text/javascript">
+   var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-11793202-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+  </script>
+ </head>
+ <body>
+  <div id="container">
+   <h1>
+    <a href="/">
+     ãã¼ã ãã¼ã¸å¶ä½ã¯ãã¥ã¼ã¤ãã
+    </a>
+   </h1>
+   <div id="header">
+    <h2>
+     ãã¼ã ãã¼ã¸å¶ä½ï¼ï¼·ï¼¥ï¼¢ãã¼ã±ãã£ã³ã°ã¯ãä»»ããã ãã
+    </h2>
+    <p id="copy">
+     è¶³ç«åºã®ãã¼ã ãã¼ã¸å¶ä½ä¼ç¤¾ãæ ªå¼ä¼ç¤¾ãã¥ã¼ã¤ãã
+    </p>
+    <ul id="headlink">
+     <li class="tag2">
+      <a href="/information">
+       ä¼ç¤¾æ¦è¦
+      </a>
+     </li>
+     <li class="tag1">
+      <a href="/">
+       ããããã¼ã¸
+      </a>
+     </li>
+    </ul>
+    <div id="Navigation">
+     <ul class="nav">
+      <li>
+       <a class="menu01" href="/works">
+        ãã¼ã ãã¼ã¸å¶ä½ä¼ç¤¾ãã¥ã¼ã¤ããã®ãã¼ã ãã¼ã¸å¶ä½
+       </a>
+      </li>
+      <li>
+       <a class="menu02" href="/seo/">
+        ãã¼ã ãã¼ã¸å¶ä½ä¼ç¤¾ãã¥ã¼ã¤ããã®SEOå¯¾ç­
+       </a>
+      </li>
+      <li>
+       <a class="menu03" href="/solution/">
+        ãã¼ã ãã¼ã¸å¶ä½ä¼ç¤¾ãã¥ã¼ã¤ããã®ã½ãªã¥ã¼ã·ã§ã³äºæ¥­
+       </a>
+      </li>
+      <li>
+       <a class="menu04" href="/business/">
+        ãã¼ã ãã¼ã¸å¶ä½ä¼ç¤¾ãã¥ã¼ã¤ããã®ãã¸ãã¹ãã¼ããã¼
+       </a>
+      </li>
+      <li>
+       <a class="menu05" href="/inquiry/">
+        ãã¼ã ãã¼ã¸å¶ä½ä¼ç¤¾ãã¥ã¼ã¤ããã¸ã®ãåãåãã
+       </a>
+      </li>
+     </ul>
+    </div>
+    <!--/Navigation-->
+   </div>
+   <!--/header-->
+   <div class="index" id="main">
+    <div style="float: left; margin: 0 0 0 -3px;">
+     <img alt="ãã¼ã ãã¼ã¸å¶ä½ä¼ç¤¾ãã¥ã¼ã¤ããã¯æ²¢å±±ã®ãï¼ããçæ§ã«ãå±ããããã¾ã" src="/images/main.png" style="display: block; width: 100%;"/>
+    </div>
+    <div id="results_area">
+     <div id="results_list">
+      <div class="results">
+       <a href="http://compass-box.com/" target="_blank">
+        <img alt="ã¬ã³ã¿ã«ã«ãã§ ã³ã³ãã¹ããã¯ã¹" src="./works/thumb/compass.png" width="130"/>
+       </a>
+       <h3>
+        ãã¼ã ãã¼ã¸å¶ä½
+       </h3>
+       <h4>
+        ã¬ã³ã¿ã«ã«ãã§ ã³ã³ãã¹ããã¯ã¹æ§
+       </h4>
+      </div>
+      <div class="results">
+       <a href="http://houmano-nishino.com/" target="_blank">
+        <img alt="è¨ªåãããµã¼ã¸ã®è¥¿é" src="./works/thumb/nishino.png" width="130"/>
+       </a>
+       <h3>
+        ãã¼ã ãã¼ã¸å¶ä½
+       </h3>
+       <h4>
+        è¥¿éå¨å®è¨ªåãããµã¼ã¸é¢æ§
+       </h4>
+      </div>
+      <div class="results">
+       <a href="http://www.holigon.com/" target="_blank">
+        <img alt="HOLIGON å å·éä¸æ§ã®ãã¼ã ãã¼ã¸" src="./works/thumb/holigon.gif" width="130"/>
+       </a>
+       <h3>
+        11.12ãã¼ã ãã¼ã¸å¶ä½
+       </h3>
+       <h4>
+        HOLIGON å å·éä¸æ§
+       </h4>
+      </div>
+      <div class="results">
+       <a href="http://tsurinavi-kun.com/" target="_blank">
+        <img alt="é£ãããããã»å¤§æ¼æå»è¡¨" src="./works/thumb/tsurinavi_1.jpg" width="130"/>
+       </a>
+       <h3>
+        ã·ã¹ãã å¶ä½
+       </h3>
+       <h4>
+        é£ããããã
+       </h4>
+      </div>
+      <div class="results">
+       <a href="http://www.recovery-mm.com/" target="_blank">
+        <img alt="è¨ªåãããµã¼ã¸ ãªã«ããªã¼æ§ã®ãã¼ã ãã¼ã¸" src="./works/thumb/recovery_mm.jpg" width="130"/>
+       </a>
+       <h3>
+        ãã¼ã ãã¼ã¸å¶ä½(SEO)
+       </h3>
+       <h4>
+        è¨ªåãããµã¼ã¸ ãªã«ããªã¼æ§
+       </h4>
+      </div>
+     </div>
+     <div id="result_right">
+      <a href="http://huit-com.jp/works/performance.php">
+       <img alt="å¶ä½å®ç¸¾ããã£ã¨è¦ã" src="./images/more.png"/>
+      </a>
+     </div>
+    </div>
+    <!--/results_area-->
+   </div>
+   <!--/main-->
+   <div id="index_area">
+    <h2 id="news">
+     ãã¥ã¼ã¤ããããã®ãç¥ãã
+    </h2>
+    <dl class="topic">
+     <dt>
+      2022.4.27
+     </dt>
+     <dd>
+      ãã´ã¼ã«ãã³ã¦ã£ã¼ã¯ä¼æ¥­ã®ãç¥ããã
+      <br/>
+      å¹³ç´ ã¯æ ¼å¥ã®ãå¼ãç«ã¦ãè³ãåãå¾¡ç¤¼ç³ãä¸ãã¾ãã
+      <br/>
+      èª ã«åæãªãããä»¥ä¸ã®æéãä¼æ¥­ã¨ããã¦ããã ãã¾ãã
+      <br/>
+      <br/>
+      GWä¼æ¥­æ¥ãï¼ã4/29(é)ï½5/8(æ¥)
+      <br/>
+      <br/>
+      èª ã«åæãªããä¸è¨ã®æéä¸­ã¯ãä¼ã¿ã¨ããã¦ããã ãã¾ãã
+      <br/>
+      ãåãåãããã©ã¼ã ããã®ãåãåããã¯éå¸¸éããåããããã¾ãããæéä¸­ã«é ãã¾ããåå®¹ã®ãåç­ã¯ã 5æ9æ¥(æ)ä»¥éã«é æ¬¡ãå¯¾å¿ã»ãåç­ããã¦é ãã¾ãã
+      <br/>
+      ãè¿·æãããããã¾ããããçè§£ã®ç¨å®ãããé¡ãç³ãä¸ãã¾ãã
+     </dd>
+    </dl>
+   </div>
+   <!--news_area-->
+   <div id="link">
+    <a href="/">
+     ããããã¼ã¸
+    </a>
+    ï½
+    <a href="/works/">
+     ãã¼ã ãã¼ã¸å¶ä½ã«ã¤ãã¦
+    </a>
+    ï½
+    <a href="/seo/">
+     ï¼³ï¼¥ï¼¯å¯¾ç­ã«ã¤ãã¦
+    </a>
+    ï½
+    <a href="/business/">
+     ãã¸ãã¹ãã¼ããã¼åé
+    </a>
+    ï½
+    <a href="/inquiry/">
+     ãåãåãã
+    </a>
+   </div>
+   <!--/link-->
+  </div>
+  <!--/container-->
+  <div id="footer">
+   <div id="footBox">
+    <p id="copyright">
+     Copyrights © 2022 HuIT,inc. All Right Reserved.
+    </p>
+   </div>
+  </div>
+  <!--footer-->
+ </body>
+</html>

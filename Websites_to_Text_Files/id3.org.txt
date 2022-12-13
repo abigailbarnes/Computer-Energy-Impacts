@@ -1,0 +1,541 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+ <head>
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <meta content="text/html;charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="index,follow" name="robots"/>
+  <title>
+   Home - ID3.org
+  </title>
+  <script src="/moin_static199/common/js/common.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   <!--
+var search_hint = "Search";
+//-->
+  </script>
+  <link charset="utf-8" href="/moin_static199/moniker/css/common.css" media="all" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="/moin_static199/moniker/css/screen.css" media="screen" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="/moin_static199/moniker/css/print.css" media="print" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="/moin_static199/moniker/css/projection.css" media="projection" rel="stylesheet" type="text/css"/>
+  <!-- css only for MS IE6/IE7 browsers -->
+  <!--[if lt IE 8]>
+   <link rel="stylesheet" type="text/css" charset="utf-8" media="all" href="/moin_static199/moniker/css/msie.css">
+<![endif]-->
+  <link href="/Home?action=rss_rc&amp;unique=1&amp;ddiffs=1" rel="alternate" title="ID3.org Recent Changes" type="application/rss+xml"/>
+  <script src="/moin_static199/moniker/js/actionmenuoptions.js" type="text/javascript">
+  </script>
+  <link href="/Home" rel="Start"/>
+  <link href="/Home?action=raw" rel="Alternate" title="Wiki Markup"/>
+  <link href="/Home?action=print" media="print" rel="Alternate" title="Print View"/>
+  <link href="/FindPage" rel="Search"/>
+  <link href="/TitleIndex" rel="Index"/>
+  <link href="/WordIndex" rel="Glossary"/>
+  <link href="/HelpOnFormatting" rel="Help"/>
+ </head>
+ <body dir="ltr" lang="en">
+  <center>
+   <script type="text/javascript">
+    <!--
+google_ad_client = "pub-1408728402565238";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "ffffff";
+google_color_bg = "FFFFFF";
+google_color_link = "DD6600";
+google_color_text = "000000";
+google_color_url = "DD6600";
+//-->
+   </script>
+   <script src="https://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+   </script>
+  </center>
+  <div id="username">
+   welcome:
+   <a href="/Home?action=login" id="login" rel="nofollow">
+    please sign in
+   </a>
+  </div>
+  <div id="header">
+   <div id="logo">
+    <a href="/Home">
+     <img alt="ID3.org Logo" src="https://id3.org/images/id3v2.gif"/>
+     The Audience is informed
+    </a>
+   </div>
+  </div>
+  <div id="sidebar">
+   <div class="sidepanel">
+    <h1>
+     Quick Links
+    </h1>
+    <ul id="navibar">
+     <li class="wikilink current">
+      <a href="/Home">
+       Home
+      </a>
+     </li>
+     <li class="wikilink">
+      <a href="/Introduction">
+       Introduction
+      </a>
+     </li>
+     <li class="wikilink">
+      <a href="/Developer%20Information">
+       Developer Information
+      </a>
+     </li>
+     <li class="wikilink">
+      <a href="/Implementations">
+       Implementations
+      </a>
+     </li>
+     <li class="wikilink">
+      <a href="/Compliance%20Issues">
+       Compliance Issues
+      </a>
+     </li>
+     <li class="wikilink">
+      <a href="/Contributors">
+       Contributors
+      </a>
+     </li>
+     <li class="wikilink">
+      <a href="/FAQ">
+       FAQ
+      </a>
+     </li>
+     <li class="wikilink">
+      <a href="/MailingList">
+       MailingList
+      </a>
+     </li>
+     <li class="wikilink">
+      <a href="/RecentChanges">
+       RecentChanges
+      </a>
+     </li>
+     <li class="wikilink">
+      <a href="/FindPage">
+       FindPage
+      </a>
+     </li>
+     <li class="wikilink">
+      <a href="/HelpContents">
+       HelpContents
+      </a>
+     </li>
+    </ul>
+   </div>
+   <div class="sidepanel">
+    <h1>
+     Search Wiki
+    </h1>
+    <form action="/Home" id="searchform" method="get">
+     <div>
+      <input name="action" type="hidden" value="fullsearch"/>
+      <input name="context" type="hidden" value="180"/>
+      <input alt="this" id="searchinput" name="value" onblur="searchBlur(this)" onchange="searchChange(this)" onfocus="searchFocus(this)" onkeyup="searchChange(this)" type="text" value=""/>
+      <div id="searchbuttons">
+       <input alt="Search Titles" id="titlesearch" name="titlesearch" type="submit" value="Titles"/>
+       <input alt="Search Full Text" id="fullsearch" name="fullsearch" type="submit" value="Text"/>
+      </div>
+     </div>
+    </form>
+    <script type="text/javascript">
+     // Initialize search form
+// var f = document.getElementById('searchform');
+// f.getElementsByTagName('label')[0].style.display = 'none';
+var e = document.getElementById('searchinput');
+e.value = "";
+searchChange(e);
+searchBlur(e);
+    </script>
+   </div>
+   <div class="sidepanel">
+    <h1>
+     Page Tools
+    </h1>
+    <ul class="editbar">
+     <li>
+      <span class="disabled">
+       Page Locked
+      </span>
+     </li>
+     <li class="toggleCommentsButton" style="display:none;">
+      <a class="nbcomment" href="#" onclick="toggleComments();return false;">
+       Comments
+      </a>
+     </li>
+     <li>
+      <a href="/Home?action=info" rel="nofollow">
+       page history
+      </a>
+     </li>
+     <li>
+      <a href="/Home?action=AttachFile" rel="nofollow">
+       upload &amp; manage files
+      </a>
+     </li>
+     <li>
+      <div class="togglelink" id="togglelink" onclick="toggleMenu('menu1')">
+       [ more options ]
+      </div>
+      <div id="menu1">
+       <ul>
+        <li>
+         <a href="/Home?action=raw">
+          Raw Text
+         </a>
+        </li>
+        <li>
+         <a href="/Home?action=print">
+          Print View
+         </a>
+        </li>
+        <li>
+         <a href="/Home?action=RenderAsDocbook">
+          Render as Docbook
+         </a>
+        </li>
+        <li>
+         <a href="/Home?action=refresh">
+          Delete Cache
+         </a>
+        </li>
+        <li>
+         <a href="/Home?action=SpellCheck">
+          Check Spelling
+         </a>
+        </li>
+        <li>
+         <a href="/Home?action=LikePages">
+          Like Pages
+         </a>
+        </li>
+        <li>
+         <a href="/Home?action=LocalSiteMap">
+          Local Site Map
+         </a>
+        </li>
+        <li class="disabled">
+         Rename Page
+        </li>
+        <li class="disabled">
+         Delete Page
+        </li>
+        <li class="disabled">
+         Subscribe User
+        </li>
+        <li class="disabled">
+         Remove Spam
+        </li>
+        <li class="disabled">
+         revert to this revision
+        </li>
+        <li class="disabled">
+         Package Pages
+        </li>
+        <li>
+         <a href="/Home?action=SyncPages">
+          Sync Pages
+         </a>
+        </li>
+        <li class="disabled">
+        </li>
+        <li>
+         <a href="/Home?action=Load">
+          Load
+         </a>
+        </li>
+        <li>
+         <a href="/Home?action=Save">
+          Save
+         </a>
+        </li>
+        <li>
+         <a href="/Home?action=SlideShow">
+          SlideShow
+         </a>
+        </li>
+       </ul>
+      </div>
+     </li>
+    </ul>
+   </div>
+  </div>
+  <div dir="ltr" id="page" lang="en">
+   <span id="pagelocation">
+    location:
+    <a class="backlink" href="/Home" rel="nofollow">
+     Home
+    </a>
+   </span>
+   <div dir="ltr" id="content" lang="en">
+    <span class="anchor" id="top">
+    </span>
+    <span class="anchor" id="line-1">
+    </span>
+    <p class="line867">
+     <h2 id="Welcome">
+      Welcome
+     </h2>
+     <span class="anchor" id="line-2">
+     </span>
+     <p class="line874">
+      ID3 tags provide the Title, Artist, Year, Genre and other great information when you're listening to music. Here you will find the current standards documents; pointers to software libraries in just about every language and other information you can use to enhance your MP3 audio library.
+      <span class="anchor" id="line-3">
+      </span>
+      <span class="anchor" id="line-4">
+      </span>
+      <p class="line862">
+       ID3 tags are the audio file data standard for MP3 files in active use by software and hardware developers around the world.  ID3 tags are supported in software such as
+       <a class="http" href="http://itunes.com">
+        iTunes
+       </a>
+       ,
+       <a class="http" href="http://www.microsoft.com/windows/windowsmedia/">
+        Windows Media Player
+       </a>
+       ,
+       <a class="http" href="http://winamp.com/">
+        Winamp
+       </a>
+       ,
+       <a class="http" href="http://www.videolan.org/">
+        VLC
+       </a>
+       , and hardware players like the
+       <a class="http" href="http://www.apple.com/ipod">
+        iPod
+       </a>
+       ,
+       <a class="http" href="http://us.creative.com/p/mp3player">
+        Creative Zen
+       </a>
+       ,
+       <a class="http" href="http://www.samsung.com/us/mobile/mp3-players">
+        Samsung Galaxy
+       </a>
+       , and
+       <a class="http" href="http://store.sony.com/walkman-mp3-players/cat-27-catid-All-MP3-Players">
+        Sony Walkman
+       </a>
+       .
+       <span class="anchor" id="line-5">
+       </span>
+       <span class="anchor" id="line-6">
+       </span>
+       <p class="line862">
+        An ID3 tag is a data container within an MP3 audio file stored in a prescribed format. This data commonly contains the Artist name, Song title, Year and Genre of the current audio file.  This website contains the format standards information for the ID3 tagging data container.  If you've read this far and are confused, check the
+        <a href="/ID3v2Easy">
+         ID3v2Easy
+        </a>
+        page for a short, low-tech introduction.
+        <span class="anchor" id="line-7">
+        </span>
+        <span class="anchor" id="line-8">
+        </span>
+        <p class="line862">
+         While there are legacy and future standards for ID3 tags, the most popular version implemented today is ID3
+         <a href="/id3v2.3.0">
+          version 2.3
+         </a>
+         .  A follow on version,
+         <a href="/id3v2.4.0-structure">
+          2.4
+         </a>
+         , is
+         <span class="anchor" id="line-9">
+         </span>
+         documented on this website but has not achieved popular status due to some disagreements on some of the revisions and the tremendous inertia present in the software and hardware marketplace.
+         <span class="anchor" id="line-10">
+         </span>
+         <span class="anchor" id="line-11">
+         </span>
+         <p class="line862">
+          Consumers should read the
+          <a href="/Introduction">
+           Introduction
+          </a>
+          where the basics of the ID3 tagging format and its history are covered.  On that page are links to basic technical information about how ID3 tags work. The
+          <a href="/FAQ">
+           Frequently Asked Questions (FAQ)
+          </a>
+          page contains some additional items of interest.
+          <span class="anchor" id="line-12">
+          </span>
+          <span class="anchor" id="line-13">
+          </span>
+          <p class="line862">
+           Developers who are new to the ID3 tag format may want to jump directly to the
+           <a href="/ID3v2Easy">
+            ID3v2 made easy
+           </a>
+           page for quick low tech introduction. Those interested in getting right into the thick of the standard should check out the
+           <a href="/Developer%20Information">
+            Developer Information
+           </a>
+           page. Software developers will find ID3 tag manipulation libraries under
+           <a href="/Implementations">
+            Implementations
+           </a>
+           .
+           <span class="anchor" id="line-14">
+           </span>
+           <span class="anchor" id="line-15">
+           </span>
+           <p class="line862">
+            The technical aspects of ID3 tagging are discussed on the
+            <a href="/MailingList">
+             ID3v2 Developers Mailing List
+            </a>
+            .
+            <span class="anchor" id="line-16">
+            </span>
+            <span class="anchor" id="line-17">
+            </span>
+            <p class="line867">
+             <h2 id="News">
+              News
+             </h2>
+             <span class="anchor" id="line-18">
+             </span>
+             <p class="line862">
+              2013-11-17 New server. User account creation is disabled due to incredible amounts of spam, contact
+              <a href="/DanONeill">
+               me
+              </a>
+              directly if you want an account.
+              <br/>
+              <span class="anchor" id="line-19">
+              </span>
+              2012-10-08 Unexpected server move and upgrade was forced upon this site. The existing theme was not compatible with
+              <a href="/MoinMoin">
+               MoinMoin
+              </a>
+              1.9.3 so we're using a new theme that just works. The mailing list will be up in a few days.
+              <br/>
+              <span class="anchor" id="line-20">
+              </span>
+              2012-06-13
+              <a class="http" href="http://twitter.com/id3">
+               http://twitter.com/id3
+              </a>
+              ID3 on twitter
+              <br/>
+              <span class="anchor" id="line-21">
+              </span>
+              2009-01-12
+              <a class="http" href="http://download.microsoft.com/download/F/D/B/FDBFC5A5-51CD-4C8D-9F18-7BCC3810498E/Windows%207%20Beta%20Release%20Notes.htm#ID0E6G">
+               Microsoft Windows 7 Beta may damage MP3 files
+              </a>
+              <br/>
+              <span class="anchor" id="line-22">
+              </span>
+              2008-04-23
+              <a class="http" href="http://www.gracenote.com/company_info/press/042208/">
+               Sony Corporation of America to Acquire Gracenote
+              </a>
+              <br/>
+              <span class="anchor" id="line-23">
+              </span>
+              2007-02-03 IdSharp .NET 2.0 tag library alpha release - see
+              <a href="/Developer%20Information">
+               Developer Information Work In Progress
+              </a>
+              <br/>
+              <span class="anchor" id="line-24">
+              </span>
+              2006-10-22
+              <a href="/id3v2-accessibility-1.0">
+               ID3 Accessibily Tags, 1.0 final
+              </a>
+              is available
+              <br/>
+              <span class="anchor" id="line-25">
+              </span>
+              2006-10-01
+              <a href="/id3v2-accessibility-1.0-draft3">
+               ID3 Accessiblity Tags, 1.0 draft 3
+              </a>
+              is available
+              <br/>
+              <span class="anchor" id="line-26">
+              </span>
+              2006-01-01
+              <a href="/id3v2-chapters-1.0">
+               ID3 Chapter frame Tags
+              </a>
+              (think podcast)
+              <br/>
+              <span class="anchor" id="line-27">
+              </span>
+              2005-12-18
+              <a href="/Compliance%20Issues">
+               A list of applications
+              </a>
+              that don't comply exactly to the tag specification.
+              <span class="anchor" id="line-28">
+              </span>
+              <span class="anchor" id="bottom">
+              </span>
+             </p>
+            </p>
+           </p>
+          </p>
+         </p>
+        </p>
+       </p>
+      </p>
+     </p>
+    </p>
+   </div>
+   <p class="info" dir="ltr" id="pageinfo" lang="en">
+    Home  (last edited 2020-04-21 01:58:43 by
+    <span title="DanONeill @ 127.0.0.1[127.0.0.1]">
+     <a href="/DanONeill" title="DanONeill @ 127.0.0.1[127.0.0.1]">
+      DanONeill
+     </a>
+    </span>
+    )
+   </p>
+   <div id="pagebottom">
+   </div>
+  </div>
+  <center>
+   <a href="/Copyright">
+    Copyright
+   </a>
+   © 1998-2020 by their respective owners
+  </center>
+  <div id="footer">
+   <ul id="credits">
+    <li>
+     <a href="http://moinmo.in/" title="This site uses the MoinMoin Wiki software.">
+      MoinMoin Powered
+     </a>
+    </li>
+    <li>
+     <a href="http://moinmo.in/Python" title="MoinMoin is written in Python.">
+      Python Powered
+     </a>
+    </li>
+    <li>
+     <a href="http://moinmo.in/GPL" title="MoinMoin is GPL licensed.">
+      GPL licensed
+     </a>
+    </li>
+    <li>
+     <a href="http://validator.w3.org/check?uri=referer" title="Click here to validate this page.">
+      Valid HTML 4.01
+     </a>
+    </li>
+   </ul>
+  </div>
+ </body>
+</html>

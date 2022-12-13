@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+ <head>
+  <title>
+   Turfpremium - Tabuladas - Guia de Entrenadores, Criadores y Caballerizas, Resultados, Programas, Estadísticas - Turf Argentino
+  </title>
+  <!-- Modifica la etiqueta HTML para que incluya los atributos itemscope y itemtype. -->
+  <div itemscope="" itemtype="http://schema.org/Service">
+  </div>
+  <!-- Agrega las tres etiquetas siguientes en la sección "head". -->
+  <meta content="Turfpremium Web" itemprop="name"/>
+  <meta content="Turf Argentino, Tabuladas, Hipódromo, Resultados, Programas, Estadísticas, Potrillos, Potrancas, SPC, La Plata, San Isidro, Palermo, HAPSA, Turf para Moviles, Guía de Entrenadores, Caballerizas, Criadores" itemprop="description"/>
+  <meta content="https://turfpremium.com.ar/images/favicon.ico" itemprop="image"/>
+  <meta content="Argentino, Turf, Tabuladas, Resultados, Hipódromo, Programas, Estadísticas, Potrillos, Potrancas, SPC, La Plata, San Isidro, Palermo, HAPSA, Turf para Moviles " name="classification"/>
+  <meta content="Página de Turf, Estadísticas, Resultados, Programas, San Isidro, La Plata, Palermo, La Punta, Independencia, Las Flores, Córdoba Azul, Tandil" name="description"/>
+  <meta content="global" name="distribution"/>
+  <meta content="PHP" name="generator"/>
+  <meta content="Turf Argentino, Turf,  Resultados, Resultados, Programas, Programas, Estadísticas,
+						Potrillos, Potrancas, SPC, La Plata, San Isidro, Palermo, HAPSA, Turf para Moviles " name="keywords"/>
+  <meta content="general" name="rating"/>
+  <meta content="1 day" name="Revisit"/>
+  <meta content="all" name="robots"/>
+  <meta content="_top" http-equiv="Window-target"/>
+  <meta content="4D2B6DE69514F9C803136F96767EFAB7" name="msvalidate.01">
+   <meta content="width=device-width, initial-scale=1" name="viewport"/>
+   <link href="https://turfpremium.com.ar/web/favicon.ico" rel="shortcut icon"/>
+   <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+    <meta content="https://www.turfpremium.com.ar/web/web/menu3.php" property="og:url">
+     <script>
+      !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+     </script>
+     <link href="styles/style8.css" rel="stylesheet" type="text/css">
+      <!-- Smartsupp Live Chat script -->
+      <script type="text/javascript">
+       var _smartsupp = _smartsupp || {};
+_smartsupp.key = 'd6bbe33a96b363ad93f3ba0d6522a6d2b24b7662';
+window.smartsupp||(function(d) {
+  var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
+  s=d.getElementsByTagName('script')[0];c=d.createElement('script');
+  c.type='text/javascript';c.charset='utf-8';c.async=true;
+  c.src='//www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
+})(document);
+      </script>
+      <script src="jquery-3.2.1.min.js" type="text/javascript">
+      </script>
+      <script async="" src="//pagead2.googlesyndication.com/
+pagead/js/adsbygoogle.js">
+      </script>
+      <script>
+       (adsbygoogle = window.adsbygoogle || []).push({
+google_ad_client: "pub-4193943605954079",
+enable_page_level_ads: true
+});
+      </script>
+     </link>
+    </meta>
+   </meta>
+  </meta>
+ </head>
+ <body>
+  <script>
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-52414984-1', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+  </script>
+  <h1>
+   Turfpremium - Tabuladas - Resultados - Estadísticas - Guía de Criadores, Caballerizas y Entrenadores - Servicios
+   <span>
+    <font color="Blue">
+     Change language:
+    </font>
+    <a href="menu3.php?idi=en">
+     English
+     <font color="Blue">
+      <br/>
+      Alterar idioma:
+     </font>
+     <a href="menu3.php?idi=pt">
+      Portugues
+     </a>
+    </a>
+   </span>
+  </h1>
+  <div class="example">
+   <ul class="nav">
+    <li>
+     <a class="home" href="../mobile/index.php?idi=es">
+      Ir Pág Celular
+     </a>
+    </li>
+    <li>
+     <a class="menucarre" href="vercarrera.php?idi=es">
+      <span class="parpadea2">
+       <strong>
+        Transmitiendo en Vivo
+       </strong>
+      </span>
+     </a>
+    </li>
+    <li>
+     <a class="menu" href="servicios/ventasspc/index.php?idme=7&amp;idi=es">
+      Ventas SPC
+     </a>
+    </li>
+    <li>
+     <a class="menu" href="gral/inscriptos/index.php?idi=es">
+      Inscriptos
+      <br/>
+      Ratificados
+     </a>
+    </li>
+    <li>
+     <a class="menu" href="gral/progra/index.php?idi=es">
+      Programas
+     </a>
+    </li>
+    <li>
+     <a class="menu" href="gral/resul/index.php?idi=es">
+      Resultados
+     </a>
+    </li>
+    <li>
+     <a class="menu" href="gral/progra/webretiradosfinal.php?idi=es">
+      Retirados
+     </a>
+    </li>
+    <li>
+     <a class="menu" href="esta/index.php?idi=es">
+      Estadísticas:
+      <font color="blue">
+       30/4
+      </font>
+     </a>
+    </li>
+    <li>
+     <a class="menu" href="gral/susp/index.php?idi=es">
+      Suspendidos:
+      <font color="blue">
+       10/5
+      </font>
+     </a>
+    </li>
+    <li>
+     <a class="menu" href="gral/guias/index.php?idi=es">
+      Guías
+     </a>
+    </li>
+    <li>
+     <a class="menu" href="servicios/index.php?idi=es">
+      Servicios
+     </a>
+    </li>
+    <li>
+     <a class="menu" href="gral/corre/index.php?idi=es">
+      ¿Cuando corre?
+     </a>
+    </li>
+    <li>
+     <a class="menu" href="campana/index.php?idi=es">
+      Campañas
+     </a>
+    </li>
+    <li>
+     <a class="menu" href="utta/index.php?idi=es">
+      Rincón UTTA
+     </a>
+    </li>
+    <li>
+     <a class="menuprov" href="indexprov.php?idi=es">
+      Hipódromos Provinciales
+     </a>
+    </li>
+   </ul>
+  </div>
+  <div class="exampleborra">
+   <ul class="nav">
+    <li>
+     <a class="menupubli">
+      Criadores, Caballerizas (Stud) y Entrenadores, Publiciten en la
+      <b>
+       Única Guia del Turf
+      </b>
+      .	Server Nuevo
+     </a>
+    </li>
+   </ul>
+  </div>
+  <div class="exampleborra">
+   <ul align="center" class="nav">
+   </ul>
+  </div>
+  <div class="exampleborra">
+   <ul class="nav">
+    <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+    </script>
+    <!-- Turf1 -->
+    <ins class="adsbygoogle" data-ad-client="ca-pub-4193943605954079" data-ad-slot="3121392341" style="display:inline-block;width:728px;height:90px">
+    </ins>
+    <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+   </ul>
+  </div>
+  <div class="exampleborra">
+   <ul class="nav">
+   </ul>
+  </div>
+  <!---
+<style type="text/css">
+  .mercapagosus {
+	-moz-box-shadow: 0px -1px 0px 0px #f0f7fa;
+	-webkit-box-shadow: 0px -1px 0px 0px #f0f7fa;
+	box-shadow: 0px -1px 0px 0px #f0f7fa;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #33bdef), color-stop(1, #019ad2));
+	background:-moz-linear-gradient(top, #33bdef 5%, #019ad2 100%);
+	background:-webkit-linear-gradient(top, #33bdef 5%, #019ad2 100%);
+	background:-o-linear-gradient(top, #33bdef 5%, #019ad2 100%);
+	background:-ms-linear-gradient(top, #33bdef 5%, #019ad2 100%);
+	background:linear-gradient(to bottom, #33bdef 5%, #019ad2 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#33bdef', endColorstr='#019ad2',GradientType=0);
+	background-color:#33bdef;
+	-moz-border-radius:11px;
+	-webkit-border-radius:11px;
+	border-radius:11px;
+	border:1px solid #0d4669;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:15px 20px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #5b6178;
+}
+.mercapagosus:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #019ad2), color-stop(1, #33bdef));
+	background:-moz-linear-gradient(top, #019ad2 5%, #33bdef 100%);
+	background:-webkit-linear-gradient(top, #019ad2 5%, #33bdef 100%);
+	background:-o-linear-gradient(top, #019ad2 5%, #33bdef 100%);
+	background:-ms-linear-gradient(top, #019ad2 5%, #33bdef 100%);
+	background:linear-gradient(to bottom, #019ad2 5%, #33bdef 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#019ad2', endColorstr='#33bdef',GradientType=0);
+	background-color:#019ad2;
+}
+.mercapagosus:active {
+	position:relative;
+	top:1px;
+}
+
+</style>
+
+--->
+  <style>
+   .mercadopago-button {
+    background: orange!important;
+    width: 100px!important;
+    
+    font-family: helvetica;
+    font-size: 14px;
+    color: White;
+    border-radius: 10px;
+    font-style: italic;
+    font-weight: bold;
+}
+  </style>
+  <div class="exampleborra">
+   <ul class="nav">
+    <li>
+     <a class="menudona">
+      Ayudenos a mantenerla con donaciones periodicas.
+     </a>
+    </li>
+   </ul>
+  </div>
+  <div class="exampleborra">
+   <ul class="nav">
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+     <input name="cmd" type="hidden" value="_s-xclick"/>
+     <input name="hosted_button_id" type="hidden" value="HY6WPANDDS52A"/>
+     <input alt="Donate with PayPal button" border="0" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" title="PayPal - The safer, easier way to pay online!" type="image"/>
+     <img alt="" border="0" height="1" src="https://www.paypal.com/en_AR/i/scr/pixel.gif" width="1"/>
+    </form>
+   </ul>
+  </div>
+  <div class="exampleborra">
+   <ul class="nav">
+    <li>
+     <script data-button-label="Colaborar $400" data-preference-id="205307673-b2f0c1c3-7f8b-4e99-83a3-e14a2e9ec93a" data-source="button" src="https://www.mercadopago.com.ar/integrations/v1/web-payment-checkout.js">
+     </script>
+     <script data-button-label="Colaborar $1000" data-preference-id="205307673-d04e3bc9-c692-4836-b90e-9c019dd327e0" data-source="button" src="https://www.mercadopago.com.ar/integrations/v1/web-payment-checkout.js">
+     </script>
+    </li>
+   </ul>
+  </div>
+  <div class="exampleborra">
+   <ul class="nav">
+    <li>
+     <a class="btnmercado" href="https://www.mercadopago.com.ar/subscriptions/checkout?preapproval_plan_id=2c9380847a7b2915017aa678a81322de" mp-mode="dftl" name="MP-payButton">
+      Suscribirme $400
+     </a>
+    </li>
+    <script type="text/javascript">
+     (function() {
+					function $MPC_load() {
+						window.$MPC_loaded !== true && (function() {
+						var s = document.createElement("script");
+						s.type = "text/javascript";
+						s.async = true;
+						s.src = document.location.protocol + "//secure.mlstatic.com/mptools/render.js";
+						var x = document.getElementsByTagName('script')[0];
+						x.parentNode.insertBefore(s, x);
+						window.$MPC_loaded = true;
+      })();
+   }
+   window.$MPC_loaded !== true ? (window.attachEvent ? window.attachEvent('onload', $MPC_load) : window.addEventListener('load', $MPC_load, false)) : null;
+   })();
+    </script>
+    <li>
+     <a class="btnmercado" href="https://www.mercadopago.com.ar/subscriptions/checkout?preapproval_plan_id=2c9380847a7b2915017aa640ae152239" mp-mode="dftl" name="MP-payButton">
+      Suscribirme $1000
+     </a>
+    </li>
+    <script type="text/javascript">
+     (function() {
+      function $MPC_load() {
+         window.$MPC_loaded !== true && (function() {
+         var s = document.createElement("script");
+         s.type = "text/javascript";
+         s.async = true;
+         s.src = document.location.protocol + "//secure.mlstatic.com/mptools/render.js";
+         var x = document.getElementsByTagName('script')[0];
+         x.parentNode.insertBefore(s, x);
+         window.$MPC_loaded = true;
+      })();
+   }
+   window.$MPC_loaded !== true ? (window.attachEvent ? window.attachEvent('onload', $MPC_load) : window.addEventListener('load', $MPC_load, false)) : null;
+   })();
+    </script>
+   </ul>
+  </div>
+  <div class="exampleborra">
+   <ul class="nav">
+   </ul>
+  </div>
+  <!--
+
+<div class="exampleborra">
+	<ul class="nav">
+		<li><a href="https://www.turfpremium.com.ar/web/programa/ProgramaVillaMaria18042021.pdf" target="_blank"><img src='https://www.turfpremium.com.ar/web/publi/publi.jpeg' border='3' width='350' height='495'></a></li>
+		<li><a href="https://www.turfpremium.com.ar/web/programa/programaoficialvillamaria05092021.pdf" target="_blank"><img src='https://www.turfpremium.com.ar/web/publi/promo110921.jpeg' border='3' width='400' height='402'></a></li>
+	</ul>
+</div>
+
+
+
+<div class="video" align="center" >
+	<ul>
+			<p class="textocomentarios">UTTA - Gestión 2020</p>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/N1uvt33l4i8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</ul>
+</div>
+
+-->
+  <!--
+<div class="video" align="center" >
+	<ul>
+			<p class="textocomentarios">Día de la Mujer en San Francisco 09/03/2021</p>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/A4jyDkZmr98" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/cjV8K6U4jwg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</ul>
+</div>
+
+-->
+  <div class="exampleborra">
+   <ul class="nav">
+   </ul>
+  </div>
+  <div class="exampleborra">
+   <ul class="nav">
+    <li>
+     <a>
+      <img border="3" height="225" src="https://www.turfpremium.com.ar/web/estadisticaturf/RankingAlexa082021.png" width="400; ?&gt;"/>
+     </a>
+    </li>
+    <li>
+     <a>
+      <img border="3" height="225" src="https://www.turfpremium.com.ar/web/estadisticaturf/EstadisticasPaginas082021.jpg" width="400; ?&gt;"/>
+     </a>
+    </li>
+    <li>
+     <a>
+      <img border="3" height="225" src="https://www.turfpremium.com.ar/web/estadisticaturf/RankingAlexaInt082021.png" width="400; ?&gt;"/>
+     </a>
+    </li>
+   </ul>
+  </div>
+  <div class="exampleborra">
+   <ul class="nav">
+   </ul>
+  </div>
+  <div class="exampleborra">
+   <ul class="nav">
+   </ul>
+  </div>
+  <div class="exampleborra">
+   <ul class="nav">
+   </ul>
+  </div>
+  <div class="exampleborra">
+   <ul class="nav">
+   </ul>
+  </div>
+  <div class="exampleborra">
+   <ul class="nav">
+   </ul>
+  </div>
+  <div class="exampleborra">
+   <ul class="nav">
+   </ul>
+  </div>
+  <div class="exampleborra">
+   <ul class="nav">
+   </ul>
+  </div>
+  <div class="exampleborra">
+   <ul class="nav">
+   </ul>
+  </div>
+  <div class="example">
+   <ul class="nav">
+   </ul>
+  </div>
+  <div class="example">
+   <ul class="nav">
+   </ul>
+  </div>
+  <!-- Begin of Chaport Live Chat code -->
+  <!-- <script type="text/javascript">
+(function(w, d){ w.chaport = { app_id : '59b55d4b960855388ad03617' }; var s = d.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = 'https://app.chaport.com/javascripts/insert.js'; var ss = d.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);})(window, document);
+</script> -->
+  <!-- End of Chaport Live Chat code -->
+ </body>
+</html>

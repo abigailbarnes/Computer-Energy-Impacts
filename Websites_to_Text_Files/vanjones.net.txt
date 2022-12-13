@@ -1,0 +1,1632 @@
+<!DOCTYPE html>
+<html lang="en-US">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width,initial-scale=1,user-scalable=no" name="viewport"/>
+  <link href="http://gmpg.org/xfn/11" rel="profile"/>
+  <link href="https://vanjones.net/xmlrpc.php" rel="pingback"/>
+  <title>
+   Van Jones |
+  </title>
+  <meta content="max-image-preview:large" name="robots">
+   <link href="//platform.twitter.com" rel="dns-prefetch"/>
+   <link href="//fonts.googleapis.com" rel="dns-prefetch"/>
+   <link href="//s.w.org" rel="dns-prefetch"/>
+   <link href="https://vanjones.net/feed/" rel="alternate" title="Van Jones » Feed" type="application/rss+xml"/>
+   <link href="https://vanjones.net/comments/feed/" rel="alternate" title="Van Jones » Comments Feed" type="application/rss+xml"/>
+   <script type="text/javascript">
+    window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/vanjones.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.9.3"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+   </script>
+   <style type="text/css">
+    img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+   </style>
+   <link href="https://vanjones.net/wp-content/plugins/LayerSlider/static/layerslider/css/layerslider.css?ver=6.8.2" id="layerslider-css" media="all" rel="stylesheet" type="text/css"/>
+   <link href="https://vanjones.net/wp-content/plugins/menu-icons/vendor/codeinwp/icon-picker/css/types/genericons.min.css?ver=3.4" id="genericons-css" media="all" rel="stylesheet" type="text/css"/>
+   <link href="https://vanjones.net/wp-content/plugins/menu-icons/css/extra.min.css?ver=0.11.5" id="menu-icons-extra-css" media="all" rel="stylesheet" type="text/css"/>
+   <link href="https://vanjones.net/wp-includes/css/dist/block-library/style.min.css?ver=5.9.3" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+   <link href="https://vanjones.net/wp-content/plugins/menu-icons/vendor/codeinwp/icon-picker/css/types/font-awesome.min.css?ver=4.7.0" id="font-awesome-css" media="all" rel="stylesheet" type="text/css"/>
+   <style id="global-styles-inline-css" type="text/css">
+    body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+   </style>
+   <link href="https://vanjones.net/wp-content/plugins/custom-twitter-feeds/css/ctf-styles.css?ver=1.3" id="ctf_styles-css" media="all" rel="stylesheet" type="text/css"/>
+   <link href="https://vanjones.net/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.8.3" id="rs-plugin-settings-css" media="all" rel="stylesheet" type="text/css"/>
+   <style id="rs-plugin-settings-inline-css" type="text/css">
+    #rs-demo-id {}
+   </style>
+   <link href="https://vanjones.net/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.16" id="mediaelement-css" media="all" rel="stylesheet" type="text/css"/>
+   <link href="https://vanjones.net/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=5.9.3" id="wp-mediaelement-css" media="all" rel="stylesheet" type="text/css"/>
+   <link href="https://vanjones.net/wp-content/themes/bridge/style.css?ver=5.9.3" id="bridge-default-style-css" media="all" rel="stylesheet" type="text/css"/>
+   <link href="https://vanjones.net/wp-content/themes/bridge/css/font-awesome/css/font-awesome.min.css?ver=5.9.3" id="bridge-qode-font_awesome-css" media="all" rel="stylesheet" type="text/css"/>
+   <link href="https://vanjones.net/wp-content/themes/bridge/css/elegant-icons/style.min.css?ver=5.9.3" id="bridge-qode-font_elegant-css" media="all" rel="stylesheet" type="text/css"/>
+   <link href="https://vanjones.net/wp-content/themes/bridge/css/linea-icons/style.css?ver=5.9.3" id="bridge-qode-linea_icons-css" media="all" rel="stylesheet" type="text/css"/>
+   <link href="https://vanjones.net/wp-content/themes/bridge/css/dripicons/dripicons.css?ver=5.9.3" id="bridge-qode-dripicons-css" media="all" rel="stylesheet" type="text/css"/>
+   <link href="https://vanjones.net/wp-content/themes/bridge/css/stylesheet.min.css?ver=5.9.3" id="bridge-stylesheet-css" media="all" rel="stylesheet" type="text/css"/>
+   <style id="bridge-stylesheet-inline-css" type="text/css">
+    .page-id-5 .content > .content_inner > .container, .page-id-5 .content > .content_inner > .full_width { background-color: #ffffff;}
+
+  .page-id-5.disabled_footer_top .footer_top_holder, .page-id-5.disabled_footer_bottom .footer_bottom_holder { display: none;}
+   </style>
+   <link href="https://vanjones.net/wp-content/themes/bridge/css/print.css?ver=5.9.3" id="bridge-print-css" media="all" rel="stylesheet" type="text/css"/>
+   <link href="https://vanjones.net/wp-content/themes/bridge/css/style_dynamic.css?ver=1556234034" id="bridge-style-dynamic-css" media="all" rel="stylesheet" type="text/css"/>
+   <link href="https://vanjones.net/wp-content/themes/bridge/css/responsive.min.css?ver=5.9.3" id="bridge-responsive-css" media="all" rel="stylesheet" type="text/css"/>
+   <link href="https://vanjones.net/wp-content/themes/bridge/css/style_dynamic_responsive.css?ver=1556234034" id="bridge-style-dynamic-responsive-css" media="all" rel="stylesheet" type="text/css"/>
+   <style id="bridge-style-dynamic-responsive-inline-css" type="text/css">
+    .qode-aig-large-height-masonry-item img {
+    height: 100%;
+    width: auto;
+    max-width: initial;
+}
+footer .q_icon_with_title {
+    display: inline-block;
+    position: relative;
+    padding: 0 20px;
+}
+footer .q_icon_with_title .icon_with_title_link {
+    display:none;
+}
+.qode-advanced-image-gallery .qode-aig-image-inner {
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+}
+.qode_video_box .qode_video_image .qode_video_box_button_arrow{
+    border-top-width: 22px;
+    border-left-width: 33px;
+    border-bottom-width: 22px;
+}
+
+@media only screen and (max-width: 1500px) {
+    .title.has_background{
+        background-position: 0 0!important;
+        background-size: contain !important;
+    }
+}
+   </style>
+   <link href="https://vanjones.net/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=5.7" id="js_composer_front-css" media="all" rel="stylesheet" type="text/css"/>
+   <link href="https://fonts.googleapis.com/css?family=Raleway%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C300italic%2C400italic%2C700italic%7CRaleway%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C300italic%2C400italic%2C700italic%7COpen+Sans%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C300italic%2C400italic%2C700italic%7COswald%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C300italic%2C400italic%2C700italic&amp;subset=latin%2Clatin-ext&amp;ver=1.0.0" id="bridge-style-handle-google-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+   <script id="ScrollToPlugin-js" src="https://vanjones.net/wp-content/themes/bridge/js/plugins/ScrollToPlugin.min.js?ver=5.9.3" type="text/javascript">
+   </script>
+   <script id="layerslider-greensock-js-extra" type="text/javascript">
+    /* <![CDATA[ */
+var LS_Meta = {"v":"6.8.2"};
+/* ]]> */
+   </script>
+   <script id="layerslider-greensock-js" src="https://vanjones.net/wp-content/plugins/LayerSlider/static/layerslider/js/greensock.js?ver=1.19.0" type="text/javascript">
+   </script>
+   <script id="jquery-core-js" src="https://vanjones.net/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" type="text/javascript">
+   </script>
+   <script id="jquery-migrate-js" src="https://vanjones.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" type="text/javascript">
+   </script>
+   <script id="layerslider-js" src="https://vanjones.net/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=6.8.2" type="text/javascript">
+   </script>
+   <script id="layerslider-transitions-js" src="https://vanjones.net/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.transitions.js?ver=6.8.2" type="text/javascript">
+   </script>
+   <script id="equal-height-columns-js-extra" type="text/javascript">
+    /* <![CDATA[ */
+var equalHeightColumnElements = {"element-groups":{"1":{"selector":"","breakpoint":768},"2":{"selector":"","breakpoint":768}}};
+/* ]]> */
+   </script>
+   <script id="equal-height-columns-js" src="https://vanjones.net/wp-content/plugins/equal-height-columns/public/js/equal-height-columns-public.js?ver=1.1.0" type="text/javascript">
+   </script>
+   <script id="tp-tools-js" src="https://vanjones.net/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.8.3" type="text/javascript">
+   </script>
+   <script id="revmin-js" src="https://vanjones.net/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.8.3" type="text/javascript">
+   </script>
+   <script id="sfba-form-ajax-js-extra" type="text/javascript">
+    /* <![CDATA[ */
+var the_ajax_script = {"ajaxurl":"https:\/\/vanjones.net\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+   </script>
+   <script id="sfba-form-ajax-js" src="https://vanjones.net/wp-content/plugins/wp-subscribe-forms-pro/includes/js/sfba-form-ajax.js?ver=5.9.3" type="text/javascript">
+   </script>
+   <meta content="Powered by LayerSlider 6.8.2 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress." name="generator"/>
+   <!-- LayerSlider updates and docs at: https://layerslider.kreaturamedia.com -->
+   <link href="https://vanjones.net/wp-json/" rel="https://api.w.org/"/>
+   <link href="https://vanjones.net/wp-json/wp/v2/pages/5" rel="alternate" type="application/json"/>
+   <link href="https://vanjones.net/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+   <link href="https://vanjones.net/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+   <link href="https://vanjones.net/" rel="canonical"/>
+   <link href="https://vanjones.net/" rel="shortlink"/>
+   <link href="https://vanjones.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fvanjones.net%2F" rel="alternate" type="application/json+oembed"/>
+   <link href="https://vanjones.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fvanjones.net%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-123655370-2">
+   </script>
+   <script>
+    window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-123655370-2');
+   </script>
+   <style type="text/css">
+    .recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}
+   </style>
+   <meta content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress." name="generator"/>
+   <!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://vanjones.net/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]-->
+   <meta content="Powered by Slider Revolution 5.4.8.3 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." name="generator"/>
+   <link href="https://vanjones.net/wp-content/uploads/2019/04/cropped-circle-32x32.png" rel="icon" sizes="32x32"/>
+   <link href="https://vanjones.net/wp-content/uploads/2019/04/cropped-circle-192x192.png" rel="icon" sizes="192x192"/>
+   <link href="https://vanjones.net/wp-content/uploads/2019/04/cropped-circle-180x180.png" rel="apple-touch-icon"/>
+   <meta content="https://vanjones.net/wp-content/uploads/2019/04/cropped-circle-270x270.png" name="msapplication-TileImage"/>
+   <script type="text/javascript">
+    function setREVStartSize(e){									
+						try{ e.c=jQuery(e.c);var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+							if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
+						}catch(d){console.log("Failure at Presize of Slider:"+d)}						
+					};
+   </script>
+   <style id="wp-custom-css" type="text/css">
+    img{image-rendering: optimizeQuality}
+
+.icon_title {font-size:13px !important}
+
+.rev-btn {min-width: 200px !important; max-width:200px !important; padding:10px !important; box-sizing: border-box; vertical-align: middle !important;}
+
+.rev-btn div{
+	vertical-align: middle !important; line-height:17px
+}
+#sfba-form2-container {
+    width: 100% !important;
+    border: 13px solid transparent;
+	box-sizing: border-box;
+    font-family: 'Raleway';
+    display: block;
+    text-align: center;
+	padding: 20px;
+}
+
+.tp-caption .rev-btn{
+z-index: 999999 !important;
+	display: block !important;
+	min-width:100px !important;
+	text-align: center !important;
+}
+
+.tp-caption .rev-btn .tp-withaction .rs-hover-ready
+{text-align:center !important}
+.q_logo{
+padding-top: 5px
+}
+
+.logo_wrapper {width: 120px}
+
+
+.smallr {text-align: center !important; margin: 0 auto !important}
+
+.q_logo img{
+ display: block;
+   margin: auto auto;
+	max-width: 120px
+}
+
+.header_top_bottom_holder
+{background-color: #fff !important}
+
+#ctf .ctf-item {
+	margin-bottom: 15px;
+border-radius: 8px;
+padding: 20px;
+box-sizing: border-box;
+}
+
+.sfba-form-credit {
+	display:none;
+}
+
+
+#sfba-form2-container{
+border-radius: 8px;
+	box-sizing: border-box;
+}
+
+#sfba-form2-button {
+background-color: #9688b2 !important;
+border-radius: 8px;
+}
+
+.subscribeform1_sub_heading {
+color:#9688b2 !important
+}
+
+@media only screen and (max-width: 600px){
+
+.wpb_text_column.wpb_content_element{padding:14px !important;}
+}
+	
+@media only screen and (max-width: 420px){
+#sfba-form2-container{
+max-width:330px !important;
+	box-sizing: border-box;
+	width:330px !important;
+}
+
+.wpb_text_column.wpb_content_element{padding:10px !important;}
+.hide_phone{
+max-height:10px;
+}
+}
+
+.sfba_subscribe_form__fields .sfba-form2-fields {box-sizing: border-box;}
+
+@media only screen and (max-width: 1000px){
+
+.mobile_menu ul {
+	text-align: center;}
+	
+	
+#hide_tablet{
+max-height: 10px !important;
+	margin-top: 0px !important
+}
+}
+.footer_top .icon_title{ color: #fff}
+
+
+@media only screen and (max-width: 480px){
+nav.mobile_menu ul li:nth-child(n+6) {
+    display: inline-block;
+	margin: 0 auto;
+	float: none;
+	width: 50px;
+	text-align: center;
+}
+	.upref {max-height:500px !important}
+	.evaporate {display:none !important}
+.tp-caption .rev-btn  .tp-withaction .rs-hover-ready{width: 100px !important; height: auto; margin-top: 15px;}
+	.centermob {text-align: center !important; margin: 0 auto !important;}
+.q_elements_item_content {
+    padding: 5px 15px 5px 15px !important;
+	}
+#rev_slider_18_1	.tp-mask-wrap{text-align: center !important}
+	.bookscontainer p{
+	min-height:0 !important
+}
+}
+
+
+@media only screen and (max-width: 600px){
+	
+.q_elements_item_content {
+    padding: 5px 15px 5px 15px !important;
+	}
+	#hide_tablet{
+max-height: 10px !important;
+		margin-top: 0px !important}
+}
+
+.max-nonprofits {max-height:47px}
+
+.bookscontainer p{
+	min-height:230px
+}
+
+
+@media only screen and (max-width: 768px){
+p {padding: 5px 15px 15px 15px; text-align: center !important;}
+}
+   </style>
+   <style data-type="vc_custom-css" type="text/css">
+    .qode-advanced-image-gallery.qode-image-behavior-zoom .qode-aig-image img{
+    cursor: pointer;
+}
+   </style>
+   <style data-type="vc_shortcodes-custom-css" type="text/css">
+    .vc_custom_1555448654068{background-color: #8a98a5 !important;}.vc_custom_1555448654068{background-color: #8a98a5 !important;}.vc_custom_1555448654068{background-color: #8a98a5 !important;}.vc_custom_1556028025788{margin-top: 70px !important;}.vc_custom_1555366398006{margin-top: 0px !important;}.vc_custom_1556286656324{padding-top: 20px !important;}
+   </style>
+   <noscript>
+    <style type="text/css">
+     .wpb_animate_when_almost_visible { opacity: 1; }
+    </style>
+   </noscript>
+  </meta>
+ </head>
+ <body class="home page-template page-template-full_width page-template-full_width-php page page-id-5 bridge-core-1.0.4 qode-title-hidden qode_grid_1400 side_area_uncovered_from_content qode-theme-ver-18.0.8 qode-theme-bridge disabled_footer_bottom qode_header_in_grid wpb-js-composer js-comp-ver-5.7 vc_responsive" itemscope="" itemtype="http://schema.org/WebPage">
+  <section class="side_menu right">
+   <a class="close_side_menu" href="#" target="_self">
+   </a>
+  </section>
+  <div class="wrapper">
+   <div class="wrapper_inner">
+    <!-- Google Analytics start -->
+    <!-- Google Analytics end -->
+    <header class="scroll_header_top_area dark stick_with_left_right_menu transparent scrolled_not_transparent with_border page_header">
+     <div class="header_inner clearfix">
+      <div class="header_top_bottom_holder">
+       <div class="header_bottom clearfix" style=" background-color:rgba(255, 255, 255, 0);">
+        <div class="container">
+         <div class="container_inner clearfix">
+          <nav class="main_menu drop_down left_side">
+           <ul class="" id="menu-divided-menu-left-navigation">
+            <li class="menu-item menu-item-type-post_type menu-item-object-page narrow" id="nav-menu-item-434">
+             <a class="" href="https://vanjones.net/about/">
+              <i class="menu_icon blank fa">
+              </i>
+              <span>
+               ABOUT
+              </span>
+              <span class="plus">
+              </span>
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page narrow" id="nav-menu-item-467">
+             <a class="" href="https://vanjones.net/cnn/">
+              <i class="menu_icon blank fa">
+              </i>
+              <span>
+               CNN
+              </span>
+              <span class="plus">
+              </span>
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page narrow" id="nav-menu-item-447">
+             <a class="" href="https://vanjones.net/reform/">
+              <i class="menu_icon blank fa">
+              </i>
+              <span>
+               REFORM
+              </span>
+              <span class="plus">
+              </span>
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page narrow" id="nav-menu-item-1022">
+             <a class="" href="https://vanjones.net/books/">
+              <i class="menu_icon blank fa">
+              </i>
+              <span>
+               BOOKS
+              </span>
+              <span class="plus">
+              </span>
+             </a>
+            </li>
+           </ul>
+          </nav>
+          <div class="header_inner_left">
+           <div class="mobile_menu_button">
+            <span>
+             <i class="qode_icon_font_awesome fa fa-bars">
+             </i>
+            </span>
+           </div>
+           <div class="logo_wrapper">
+            <div class="q_logo">
+             <a href="https://vanjones.net/" itemprop="url">
+              <img alt="Logo" class="normal" itemprop="image" src="https://vanjones.net/wp-content/uploads/2019/04/Van-Jones-Logo-Final-Dark-Smiley-2.svg"/>
+              <img alt="Logo" class="light" itemprop="image" src="https://vanjones.net/wp-content/uploads/2019/04/Van-Jones-Logo-Final-LIGHT-SVG-1.svg">
+               <img alt="Logo" class="dark" itemprop="image" src="https://vanjones.net/wp-content/uploads/2019/04/Van-Jones-Logo-Final-Dark-Smiley-2.svg"/>
+               <img alt="Logo" class="sticky" itemprop="image" src="https://vanjones.net/wp-content/uploads/2019/04/Van-Jones-Logo-Final-Dark-Smiley-2.svg"/>
+               <img alt="Logo" class="mobile" itemprop="image" src="https://vanjones.net/wp-content/uploads/2019/04/Van-Jones-Logo-Final-Dark-Smiley-2.svg"/>
+               <img alt="Logo" class="popup" itemprop="image" src="https://vanjones.net/wp-content/themes/bridge/img/logo_white.png"/>
+              </img>
+             </a>
+            </div>
+           </div>
+          </div>
+          <nav class="main_menu drop_down right_side">
+           <ul class="" id="menu-divided-menu-right-navigation">
+            <li class="menu-item menu-item-type-post_type menu-item-object-page narrow" id="nav-menu-item-603">
+             <a class="" href="https://vanjones.net/magic-labs-media/">
+              <i class="menu_icon blank fa">
+              </i>
+              <span>
+               MAGIC LABS
+              </span>
+              <span class="plus">
+              </span>
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-custom menu-item-object-custom narrow" id="nav-menu-item-1020">
+             <a class="" href="mailto:andy.roth@caa.com?subject=Van%20Jones%20-%20Speaking%20Inquiry">
+              <i class="menu_icon blank fa">
+              </i>
+              <span>
+               CONTACT
+              </span>
+              <span class="plus">
+              </span>
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-custom menu-item-object-custom narrow" id="nav-menu-item-421">
+             <a class="" href="https://www.youtube.com/user/rebuildthedream" target="_blank">
+              <i class="menu_icon blank fa">
+              </i>
+              <span>
+               <i aria-hidden="true" class="_mi genericon genericon-youtube">
+               </i>
+               <span class="visuallyhidden">
+                Youtube
+               </span>
+              </span>
+              <span class="plus">
+              </span>
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-custom menu-item-object-custom narrow" id="nav-menu-item-422">
+             <a class="" href="http://www.facebook.com/vanjones" target="_blank">
+              <i class="menu_icon blank fa">
+              </i>
+              <span>
+               <i aria-hidden="true" class="_mi genericon genericon-facebook">
+               </i>
+               <span class="visuallyhidden">
+                Facebook
+               </span>
+              </span>
+              <span class="plus">
+              </span>
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-custom menu-item-object-custom narrow" id="nav-menu-item-423">
+             <a class="" href="http://twitter.com/VanJones68" target="_blank">
+              <i class="menu_icon blank fa">
+              </i>
+              <span>
+               <i aria-hidden="true" class="_mi genericon genericon-twitter">
+               </i>
+               <span class="visuallyhidden">
+                Twitter
+               </span>
+              </span>
+              <span class="plus">
+              </span>
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-custom menu-item-object-custom narrow" id="nav-menu-item-424">
+             <a class="" href="http://instagram.com/vanjones68/" target="_blank">
+              <i class="menu_icon blank fa">
+              </i>
+              <span>
+               <i aria-hidden="true" class="_mi genericon genericon-instagram">
+               </i>
+               <span class="visuallyhidden">
+                Instagram
+               </span>
+              </span>
+              <span class="plus">
+              </span>
+             </a>
+            </li>
+           </ul>
+          </nav>
+          <nav class="mobile_menu">
+           <ul>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page" id="mobile-menu-item-434">
+             <a class="" href="https://vanjones.net/about/">
+              <span>
+               ABOUT
+              </span>
+             </a>
+             <span class="mobile_arrow">
+              <i class="fa fa-angle-right">
+              </i>
+              <i class="fa fa-angle-down">
+              </i>
+             </span>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page" id="mobile-menu-item-467">
+             <a class="" href="https://vanjones.net/cnn/">
+              <span>
+               CNN
+              </span>
+             </a>
+             <span class="mobile_arrow">
+              <i class="fa fa-angle-right">
+              </i>
+              <i class="fa fa-angle-down">
+              </i>
+             </span>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page" id="mobile-menu-item-447">
+             <a class="" href="https://vanjones.net/reform/">
+              <span>
+               REFORM
+              </span>
+             </a>
+             <span class="mobile_arrow">
+              <i class="fa fa-angle-right">
+              </i>
+              <i class="fa fa-angle-down">
+              </i>
+             </span>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page" id="mobile-menu-item-1022">
+             <a class="" href="https://vanjones.net/books/">
+              <span>
+               BOOKS
+              </span>
+             </a>
+             <span class="mobile_arrow">
+              <i class="fa fa-angle-right">
+              </i>
+              <i class="fa fa-angle-down">
+              </i>
+             </span>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page" id="mobile-menu-item-603">
+             <a class="" href="https://vanjones.net/magic-labs-media/">
+              <span>
+               MAGIC LABS
+              </span>
+             </a>
+             <span class="mobile_arrow">
+              <i class="fa fa-angle-right">
+              </i>
+              <i class="fa fa-angle-down">
+              </i>
+             </span>
+            </li>
+            <li class="menu-item menu-item-type-custom menu-item-object-custom" id="mobile-menu-item-1020">
+             <a class="" href="mailto:andy.roth@caa.com?subject=Van%20Jones%20-%20Speaking%20Inquiry">
+              <span>
+               CONTACT
+              </span>
+             </a>
+             <span class="mobile_arrow">
+              <i class="fa fa-angle-right">
+              </i>
+              <i class="fa fa-angle-down">
+              </i>
+             </span>
+            </li>
+            <li class="menu-item menu-item-type-custom menu-item-object-custom" id="mobile-menu-item-421">
+             <a class="" href="https://www.youtube.com/user/rebuildthedream" target="_blank">
+              <span>
+               <i aria-hidden="true" class="_mi genericon genericon-youtube">
+               </i>
+               <span class="visuallyhidden">
+                Youtube
+               </span>
+              </span>
+             </a>
+             <span class="mobile_arrow">
+              <i class="fa fa-angle-right">
+              </i>
+              <i class="fa fa-angle-down">
+              </i>
+             </span>
+            </li>
+            <li class="menu-item menu-item-type-custom menu-item-object-custom" id="mobile-menu-item-422">
+             <a class="" href="http://www.facebook.com/vanjones" target="_blank">
+              <span>
+               <i aria-hidden="true" class="_mi genericon genericon-facebook">
+               </i>
+               <span class="visuallyhidden">
+                Facebook
+               </span>
+              </span>
+             </a>
+             <span class="mobile_arrow">
+              <i class="fa fa-angle-right">
+              </i>
+              <i class="fa fa-angle-down">
+              </i>
+             </span>
+            </li>
+            <li class="menu-item menu-item-type-custom menu-item-object-custom" id="mobile-menu-item-423">
+             <a class="" href="http://twitter.com/VanJones68" target="_blank">
+              <span>
+               <i aria-hidden="true" class="_mi genericon genericon-twitter">
+               </i>
+               <span class="visuallyhidden">
+                Twitter
+               </span>
+              </span>
+             </a>
+             <span class="mobile_arrow">
+              <i class="fa fa-angle-right">
+              </i>
+              <i class="fa fa-angle-down">
+              </i>
+             </span>
+            </li>
+            <li class="menu-item menu-item-type-custom menu-item-object-custom" id="mobile-menu-item-424">
+             <a class="" href="http://instagram.com/vanjones68/" target="_blank">
+              <span>
+               <i aria-hidden="true" class="_mi genericon genericon-instagram">
+               </i>
+               <span class="visuallyhidden">
+                Instagram
+               </span>
+              </span>
+             </a>
+             <span class="mobile_arrow">
+              <i class="fa fa-angle-right">
+              </i>
+              <i class="fa fa-angle-down">
+              </i>
+             </span>
+            </li>
+           </ul>
+          </nav>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </header>
+    <a href="#" id="back_to_top">
+     <span class="fa-stack">
+      <i class="qode_icon_font_awesome fa fa-arrow-up">
+      </i>
+     </span>
+    </a>
+    <div class="content">
+     <div class="content_inner">
+      <div class="full_width" style="background-color:#ffffff">
+       <div class="full_width_inner">
+        <div class="vc_row wpb_row section vc_row-fluid hide_phone" id="hide_tablet" style=" text-align:left;">
+         <div class="full_section_inner clearfix">
+          <div class="wpb_column vc_column_container vc_col-sm-12">
+           <div class="vc_column-inner">
+            <div class="wpb_wrapper">
+             <div class="vc_empty_space hide_phone vc_custom_1556028025788" style="height: 50px">
+              <span class="vc_empty_space_inner">
+               <span class="empty_space_image">
+               </span>
+              </span>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="vc_row wpb_row section vc_row-fluid" style=" text-align:left;">
+         <div class="full_section_inner clearfix">
+          <div class="wpb_column vc_column_container vc_col-sm-12">
+           <div class="vc_column-inner vc_custom_1555366398006">
+            <div class="wpb_wrapper">
+             <div class="wpb_revslider_element wpb_content_element">
+              <link href="https://fonts.googleapis.com/css?family=Raleway:300%2C500%2C100" media="all" property="stylesheet" rel="stylesheet" type="text/css"/>
+              <div class="rev_slider_wrapper fullwidthbanner-container" data-source="gallery" id="rev_slider_19_1_wrapper" style="margin:0px auto;background:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
+               <!-- START REVOLUTION SLIDER 5.4.8.3 fullwidth mode -->
+               <div class="rev_slider fullwidthabanner tp-overflow-hidden" data-version="5.4.8.3" id="rev_slider_19_1" style="display:none;">
+                <ul>
+                 <!-- SLIDE  -->
+                 <li data-description="" data-easein="default" data-easeout="default" data-hideafterloop="0" data-hideslideonmobile="off" data-index="rs-39" data-masterspeed="300" data-param1="" data-param10="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-rotate="0" data-saveperformance="off" data-slotamount="default" data-thumb="https://vanjones.net/wp-content/" data-title="Slide" data-transition="fade">
+                  <!-- MAIN IMAGE -->
+                  <img alt="" class="rev-slidebg" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" height="649" src="https://vanjones.net/wp-content/plugins/revslider/admin/assets/images/transparent.png" title="Van Jones – Changemaker" width="1246"/>
+                  <!-- LAYERS -->
+                  <!-- LAYER NR. 1 -->
+                  <div class="tp-caption tp-resizeme" data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"\/about\/","delay":""}]' data-frames='[{"delay":10,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgb(255,255,255);"}]' data-height="['none','none','none','none']" data-hoffset="-30" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-textalign="['inherit','inherit','inherit','inherit']" data-type="image" data-width="['none','none','none','none']" data-x="right" data-y="-2" id="slide-39-layer-16" style="z-index: 5;cursor:pointer;">
+                   <img alt="" data-hh="690px" data-no-retina="" data-ww="1400px" height="614" src="https://vanjones.net/wp-content/uploads/2019/04/Van-Jones-Changemaker-.jpg" width="1246"/>
+                  </div>
+                  <!-- LAYER NR. 2 -->
+                  <div class="tp-caption tp-resizeme" data-frames='[{"delay":360,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-height="['auto','365','93','61']" data-hoffset="" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-textalign="['center','center','center','center']" data-type="text" data-voffset="-55" data-width="['558','538','297','239']" data-x="center" data-y="center" id="slide-39-layer-3" style="z-index: 6; min-width: 558px; max-width: 558px; white-space: normal; font-size: 30px; line-height: 40px; font-weight: 300; color: #ffffff; letter-spacing: 10px;font-family:Raleway;text-transform:uppercase;">
+                   TV Host. Author. Changemaker.
+                  </div>
+                  <!-- LAYER NR. 3 -->
+                  <div class="tp-caption tp-resizeme" data-frames='[{"delay":360,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-height="['none','none','none','none']" data-hoffset="-70" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-textalign="['inherit','inherit','inherit','inherit']" data-type="image" data-width="['none','none','none','none']" data-x="center" data-y="100" id="slide-39-layer-14" style="z-index: 7;">
+                   <img alt="" data-hh="228" data-no-retina="" data-ww="440px" height="1170" src="https://vanjones.net/wp-content/uploads/2019/04/Van-Jones-Logo-Final-Dark-Smiley-2.svg" width="2265"/>
+                  </div>
+                 </li>
+                 <!-- SLIDE  -->
+                 <li data-description="" data-easein="default" data-easeout="default" data-hideafterloop="0" data-hideslideonmobile="off" data-index="rs-38" data-masterspeed="300" data-param1="" data-param10="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-rotate="0" data-saveperformance="off" data-slotamount="default" data-thumb="https://vanjones.net/wp-content/uploads/2019/04/About-Header-3.jpg" data-title="Slide" data-transition="fade">
+                  <!-- MAIN IMAGE -->
+                  <img alt="" class="rev-slidebg" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" height="1000" src="https://vanjones.net/wp-content/plugins/revslider/admin/assets/images/transparent.png" title="TRP_VJ_Image_Horizontal" width="2000"/>
+                  <!-- LAYERS -->
+                  <!-- LAYER NR. 4 -->
+                  <div class="tp-caption tp-resizeme" data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"https:\/\/vanjones.net\/cnn\/","delay":""}]' data-frames='[{"delay":10,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-height="['none','none','none','none']" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-textalign="['inherit','inherit','inherit','inherit']" data-type="image" data-width="['none','none','none','none']" data-x="-12" data-y="-1" id="slide-38-layer-15" style="z-index: 5;">
+                   <img alt="" data-hh="883px" data-no-retina="" data-ww="1325px" height="1280" src="https://vanjones.net/wp-content/uploads/2019/04/549793_0414_R.jpg" width="1920"/>
+                  </div>
+                  <!-- LAYER NR. 5 -->
+                  <div class="tp-caption WebProduct-Title tp-resizeme" data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-height="['auto']" data-responsive_offset="on" data-textalign="['inherit','inherit','inherit','inherit']" data-type="text" data-width="['auto']" data-x="909" data-y="267" id="slide-38-layer-18" style="z-index: 7; white-space: nowrap; color: #ffffff; letter-spacing: 0px;">
+                   CNN
+                  </div>
+                 </li>
+                 <!-- SLIDE  -->
+                 <li data-description="" data-easein="default" data-easeout="default" data-hideafterloop="0" data-hideslideonmobile="off" data-index="rs-36" data-masterspeed="300" data-param1="" data-param10="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-rotate="0" data-saveperformance="off" data-slotamount="default" data-thumb="https://vanjones.net/wp-content/" data-title="Slide" data-transition="fade">
+                  <!-- MAIN IMAGE -->
+                  <img alt="" class="rev-slidebg" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" src="https://vanjones.net/wp-content/plugins/revslider/admin/assets/images/transparent.png" title="Homepage"/>
+                  <!-- LAYERS -->
+                  <!-- LAYER NR. 6 -->
+                  <div class="tp-caption tp-resizeme" data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"\/reform","delay":""}]' data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-height="['none','none','none','none']" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-textalign="['inherit','inherit','inherit','inherit']" data-type="image" data-width="['none','none','none','none']" data-x="-12" data-y="-64" id="slide-36-layer-14" style="z-index: 6;">
+                   <img alt="" data-hh="902px" data-no-retina="" data-ww="1353px" height="1824" src="https://vanjones.net/wp-content/uploads/2020/02/image.png" width="2736"/>
+                  </div>
+                 </li>
+                </ul>
+                <script>
+                 var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+						if(htmlDiv) {
+							htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+						}else{
+							var htmlDiv = document.createElement("div");
+							htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+							document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+						}
+                </script>
+                <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;">
+                </div>
+               </div>
+               <script>
+                var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss=".tp-caption.WebProduct-Title,.WebProduct-Title{color:rgba(51,51,51,1.00);font-size:90px;line-height:90px;font-weight:100;font-style:normal;font-family:Raleway;text-decoration:none;background-color:transparent;border-color:transparent;border-style:none;border-width:0px;border-radius:0px 0px 0px 0px}";
+				if(htmlDiv) {
+					htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+				}else{
+					var htmlDiv = document.createElement("div");
+					htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+					document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+				}
+               </script>
+               <script type="text/javascript">
+                if (setREVStartSize!==undefined) setREVStartSize(
+	{c: '#rev_slider_19_1', gridwidth: [1300], gridheight: [720], sliderLayout: 'fullwidth'});
+			
+var revapi19,
+	tpj;	
+(function() {			
+	if (!/loaded|interactive|complete/.test(document.readyState)) document.addEventListener("DOMContentLoaded",onLoad); else onLoad();	
+	function onLoad() {				
+		if (tpj===undefined) { tpj = jQuery; if("off" == "on") tpj.noConflict();}
+	if(tpj("#rev_slider_19_1").revolution == undefined){
+		revslider_showDoubleJqueryError("#rev_slider_19_1");
+	}else{
+		revapi19 = tpj("#rev_slider_19_1").show().revolution({
+			sliderType:"standard",
+			jsFileLocation:"//vanjones.net/wp-content/plugins/revslider/public/assets/js/",
+			sliderLayout:"fullwidth",
+			dottedOverlay:"none",
+			delay:9000,
+			navigation: {
+				keyboardNavigation:"off",
+				keyboard_direction: "horizontal",
+				mouseScrollNavigation:"off",
+ 							mouseScrollReverse:"default",
+				onHoverStop:"off",
+				arrows: {
+					style:"hesperiden",
+					enable:true,
+					hide_onmobile:false,
+					hide_onleave:false,
+					tmp:'',
+					left: {
+						h_align:"left",
+						v_align:"center",
+						h_offset:20,
+						v_offset:0
+					},
+					right: {
+						h_align:"right",
+						v_align:"center",
+						h_offset:20,
+						v_offset:0
+					}
+				}
+			},
+			visibilityLevels:[1240,1024,778,480],
+			gridwidth:1300,
+			gridheight:720,
+			lazyType:"none",
+			shadow:0,
+			spinner:"off",
+			stopLoop:"off",
+			stopAfterLoops:-1,
+			stopAtSlide:-1,
+			shuffle:"off",
+			autoHeight:"off",
+			disableProgressBar:"on",
+			hideThumbsOnMobile:"off",
+			hideSliderAtLimit:0,
+			hideCaptionAtLimit:0,
+			hideAllCaptionAtLilmit:0,
+			debugMode:false,
+			fallbacks: {
+				simplifyAll:"off",
+				nextSlideOnWindowFocus:"off",
+				disableFocusListener:false,
+			}
+		});
+	}; /* END OF revapi call */
+	
+ }; /* END OF ON LOAD FUNCTION */
+}()); /* END OF WRAPPING FUNCTION */
+               </script>
+               <script>
+                var htmlDivCss = unescape(".wpb_revslider_element%20.wpb_content_element%20%7Bcursor%3A%20pointer%20%21important%3B%7D");
+					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+					if(htmlDiv) {
+						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+					}
+					else{
+						var htmlDiv = document.createElement('div');
+						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+					}
+               </script>
+               <script>
+                var htmlDivCss = unescape(".hesperiden.tparrows%20%7B%0A%09cursor%3Apointer%3B%0A%09background%3Argba%280%2C0%2C0%2C0.5%29%3B%0A%09width%3A40px%3B%0A%09height%3A40px%3B%0A%09position%3Aabsolute%3B%0A%09display%3Ablock%3B%0A%09z-index%3A100%3B%0A%20%20%20%20border-radius%3A%2050%25%3B%0A%7D%0A.hesperiden.tparrows%3Ahover%20%7B%0A%09background%3Argba%280%2C%200%2C%200%2C%201%29%3B%0A%7D%0A.hesperiden.tparrows%3Abefore%20%7B%0A%09font-family%3A%20%22revicons%22%3B%0A%09font-size%3A20px%3B%0A%09color%3Argb%28255%2C%20255%2C%20255%29%3B%0A%09display%3Ablock%3B%0A%09line-height%3A%2040px%3B%0A%09text-align%3A%20center%3B%0A%7D%0A.hesperiden.tparrows.tp-leftarrow%3Abefore%20%7B%0A%09content%3A%20%22%5Ce82c%22%3B%0A%20%20%20%20margin-left%3A-3px%3B%0A%7D%0A.hesperiden.tparrows.tp-rightarrow%3Abefore%20%7B%0A%09content%3A%20%22%5Ce82d%22%3B%0A%20%20%20%20margin-right%3A-3px%3B%0A%7D%0A");
+					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+					if(htmlDiv) {
+						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+					}
+					else{
+						var htmlDiv = document.createElement('div');
+						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+					}
+               </script>
+              </div>
+              <!-- END REVOLUTION SLIDER -->
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="vc_row wpb_row section vc_row-fluid hide_phone" style=" text-align:left;">
+         <div class="full_section_inner clearfix">
+          <div class="wpb_column vc_column_container vc_col-sm-12">
+           <div class="vc_column-inner">
+            <div class="wpb_wrapper">
+             <div class="vc_empty_space hide_phone" style="height: 50px">
+              <span class="vc_empty_space_inner">
+               <span class="empty_space_image">
+               </span>
+              </span>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="vc_row wpb_row section vc_row-fluid" style=" text-align:left;">
+         <div class="full_section_inner clearfix">
+          <div class="wpb_column vc_column_container vc_col-sm-2 vc_col-lg-2 vc_col-md-2 vc_hidden-xs">
+           <div class="vc_column-inner">
+            <div class="wpb_wrapper">
+            </div>
+           </div>
+          </div>
+          <div class="wpb_column vc_column_container vc_col-sm-8 vc_col-lg-8 vc_col-md-8 vc_col-xs-12">
+           <div class="vc_column-inner">
+            <div class="wpb_wrapper">
+             <div class="q_elements_holder one_column responsive_mode_from_768">
+              <div class="q_elements_item" data-1024-1280="5px 10px 5px 10px" data-1280-1440="5px 5px 5px 5px" data-480="5px 10px 5px 10px" data-480-600="5px 10px 5px 10px" data-600-768="5px 10px 5px 10px" data-768-1024="5px 10px 5px 10px" data-animation="no" data-item-class="q_elements_holder_custom_293265" style="vertical-align:middle;text-align:center;">
+               <div class="q_elements_item_inner">
+                <div class="q_elements_item_content q_elements_holder_custom_293265" style="padding:21px 205px 0 0px">
+                 <div class="wpb_text_column wpb_content_element">
+                  <div class="wpb_wrapper">
+                   <h1 style="text-align: center;">
+                    THE CHANGE-MAKER
+                   </h1>
+                  </div>
+                 </div>
+                 <div class="wpb_text_column wpb_content_element vc_custom_1556286656324">
+                  <div class="wpb_wrapper">
+                   <p style="text-align: left;">
+                    Van’s honest and poignant social commentary has made him one of the most compelling and powerful public voices in America.  His reach transcends age, race, geography and political ideology.
+                   </p>
+                   <p>
+                   </p>
+                   <p style="text-align: left;">
+                    Van is a CNN political contributor, the host of the Van Jones Show and The Redemption Project
+                    <em>
+                     .
+                    </em>
+                    He appears regularly across the network’s programming and political coverage.  He is a popular guest on TV programs like
+                    <em>
+                     The Daily Show
+                    </em>
+                    and
+                    <em>
+                     Real Time with Bill Maher
+                    </em>
+                    . He also made special appearances on
+                    <em>
+                     House of Cards
+                    </em>
+                    and Ava Duvernay’s documentary
+                    <em>
+                     “The 13th.”
+                    </em>
+                    <u>
+                    </u>
+                    <u>
+                    </u>
+                   </p>
+                   <p>
+                   </p>
+                   <p style="text-align: left;">
+                    Van Jones burst into the American consciousness during the 2016 presidential campaign with an unscripted, truth-telling style and an already established history of bridge-building across party lines. A longtime progressive activist with deep roots in the conservative South, Jones has made it his mission to challenge voters and viewers to stand in one another’s shoes and disagree constructively. He pushes people on both the left and the right to be better.
+                   </p>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="wpb_column vc_column_container vc_col-sm-2 vc_col-lg-2 vc_col-md-2 vc_hidden-xs">
+           <div class="vc_column-inner">
+            <div class="wpb_wrapper">
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="vc_row wpb_row section vc_row-fluid hide_phone" style=" text-align:left;">
+         <div class="full_section_inner clearfix">
+          <div class="wpb_column vc_column_container vc_col-sm-12">
+           <div class="vc_column-inner">
+            <div class="wpb_wrapper">
+             <div class="vc_empty_space hide_phone" style="height: 50px">
+              <span class="vc_empty_space_inner">
+               <span class="empty_space_image">
+               </span>
+              </span>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="vc_row wpb_row section vc_row-fluid" style=" text-align:left;">
+         <div class="full_section_inner clearfix">
+          <div class="wpb_column vc_column_container vc_col-sm-3 vc_col-lg-3 vc_col-md-3 vc_hidden-xs">
+           <div class="vc_column-inner">
+            <div class="wpb_wrapper">
+            </div>
+           </div>
+          </div>
+          <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-6 vc_col-md-6 vc_col-xs-12">
+           <div class="vc_column-inner">
+            <div class="wpb_wrapper">
+             <div class="q_elements_holder one_column responsive_mode_from_600">
+              <div class="q_elements_item" data-1024-1280="5px 10px 5px 10px" data-1280-1440="5px 10px 5px 10px" data-480="5px 10px 5px 10px" data-480-600="5px 10px 5px 10px" data-600-768="5px 10px 5px 10px" data-768-1024="5px 10px 5px 10px" data-animation="no" data-item-class="q_elements_holder_custom_644303">
+               <div class="q_elements_item_inner">
+                <div class="q_elements_item_content q_elements_holder_custom_644303">
+                 <div class="wpb_text_column wpb_content_element">
+                  <div class="wpb_wrapper">
+                   <link class="sfba-google-font" href="https://fonts.googleapis.com/css?family=Raleway:400,600,700" rel="stylesheet" type="text/css"/>
+                   <style>
+                    form.sfba_subscribe_form1 #sfba-form2-container{
+					width: 280px;
+					border: 13px solid transparent;
+					font-family: 'Raleway';
+					display: block;
+					text-align: center;
+					padding: 20px;	
+					background-color: #102341;
+					background-image: url('');
+					background-size: cover;
+					background-repeat: no-repeat;
+					margin: 0 auto;
+					position: relative;
+				}
+				form.sfba_subscribe_form1 .subscribeform1_sub_heading {
+					margin: 0;
+					color: #2DE8BF;
+					font-size: 14px;
+					line-height: 21px;
+					font-family: inherit;
+				}
+				form.sfba_subscribe_form1 #sfba-form2-container #sfba-form2-heading {
+					margin: 0 0 10px;
+					line-height: 48px;
+					font-weight: bold;
+					font-size: 32px;
+					color: #ffffff;
+					font-family: inherit;
+					padding: 0;
+				}
+				form.sfba_subscribe_form1 .sfba_subscribe_form__fields_wrap {
+					width: 100%;
+					margin: 0 auto;
+					max-width: 320px;
+				}
+				form.sfba_subscribe_form1 .sfba_subscribe_form__fields .sfba-form2-fields {
+					width: 100%;
+					box-shadow: none;
+					padding-left: 15px;
+					margin-top: 8px;
+					font-size: 11px;
+					font-family: inherit;
+					background-color: #ffffff;
+					border: 1px solid transparent;
+					border-radius: 0;
+					color: #7E7E7E;
+					height: 32px;
+					font-weight: 400;
+					outline: none;
+					margin-bottom: 0;
+				}
+				form.sfba_subscribe_form1 .sfba-form2-consent-fields-main {
+					text-align: left;
+					margin: 12px auto 5px;
+					color: #ffffff;
+					line-height: 1;
+				}
+				form.sfba_subscribe_form1 .sfba-form2-consent-fields-main label {
+					margin-bottom: 0;
+					font-weight: 400;
+					font-size: 13px
+				}
+				form.sfba_subscribe_form1 .sfba-form2-consent-fields-main label input[type="checkbox"] {
+					margin: 0 10px 0 0;
+					display: inline-block;
+					vertical-align: middle;
+				}
+				form.sfba_subscribe_form1 .sfba-conset-field-error {
+					text-align: left;
+					line-height: 1.2;
+					margin-top: 10px;
+				}
+				form.sfba_subscribe_form1 #sfba-success-message{
+					display: none;
+					margin: 0;
+					width: 100%;
+					text-align: center;
+					padding: 10px 20px;
+					font-family: monospace;
+					font-size: 14px;
+					letter-spacing: 1px;
+				}
+				form.sfba_subscribe_form1 #sfba-form2-button {
+					width: 100%;
+					display: block;
+					border: none;
+					margin-top: 10px;
+					background-color: #2DE8BF;
+					color: #102341;
+					font-size: 11px;
+					padding: 10px;
+					font-weight: 600;
+					font-family: inherit;
+					cursor: pointer;
+					outline: none;
+					line-height: 1.2;
+					border-radius: 0;
+				}	
+				form.sfba_subscribe_form1 .sfba_subscribe_form__fields.sfba_email_first{
+					display: flex;
+					flex-direction: column;		
+				}	
+				form.sfba_subscribe_form1 .sfba_subscribe_form__fields.sfba_email_first .sfba-form-email{
+					order: 1;
+				}
+				form.sfba_subscribe_form1 .sfba_subscribe_form__fields.sfba_email_first .sfba-form-name{
+					order: 2;
+				}
+				form.sfba_subscribe_form1 #sfba_thanks_container {
+					display: flex;
+					align-items: center;
+					width: 100%;
+					height: 100%;
+					position: absolute;
+					background: rgba(0, 0, 0, 0.8);
+					top: 0px;
+					left: 0px;
+					opacity: 1;
+				}
+				form.sfba_subscribe_form1 #sfba_thanks_image {
+					margin: 0;
+				}
+				form.sfba_subscribe_form1 #sfba_thanks_message {
+					margin: 0;
+					text-align: center;
+					font-size: 22px;
+					color: #fff;
+					font-family: inherit;
+					padding: 0 15px;
+					line-height: 1.2;
+				}
+				@media only screen and (max-width: 600px) { 
+					form.sfba_subscribe_form1 #sfba-form2-container {
+						width: 100%;				
+					}
+				}
+                   </style>
+                   <form action="" class="sfba_subscribe_form1" id="sfba_subscribe_form" method="POST">
+                    <div class="sfba-main-form-container" id="sfba-form2-container">
+                     <p class="subscribeform1_sub_heading">
+                      Van Jones News, In Your Inbox
+                     </p>
+                     <h2 id="sfba-form2-heading">
+                      Get Updates
+                     </h2>
+                     <div class="sfba_subscribe_form__fields_wrap">
+                      <div class="sfba_subscribe_form__fields">
+                       <input class="sfba-form2-fields sfba-form-email" id="sfba-form2-email" name="sfba-form-email" placeholder="Your Email" type="email" value=""/>
+                      </div>
+                      <p class="sfba-form2-consent-fields-main">
+                       <label>
+                        <input name="sfba-form2-consent-field" type="checkbox" value="1">
+                         <span>
+                          I agree to get email updates
+                         </span>
+                        </input>
+                       </label>
+                      </p>
+                      <p class="sfba-form2-fields sfba-conset-field-error error" style="display:none !important; color:#ff0606;">
+                       Please select "I agree to get email updates" option.
+                      </p>
+                      <input class="sfba-form-submit-button" data-form-id="sfba_subscribe_form1" id="sfba-form2-button" type="submit" value="Join"/>
+                     </div>
+                     <div id="sfba_thanks_container" style="display:none;">
+                      <div>
+                       <p id="sfba_thanks_image">
+                        <img src="https://vanjones.net/wp-content/plugins/wp-subscribe-forms-pro/includes/../images/tick.png"/>
+                       </p>
+                       <p id="sfba_thanks_message">
+                        You Have Successfully Subscribed to the Newsletter
+                       </p>
+                      </div>
+                     </div>
+                    </div>
+                   </form>
+                   <input id="sfba_post_type_id" name="sfba_post_type_id" type="hidden" value="394"/>
+                   <style>
+                    .sfba-main-form-container h1:before,
+	.sfba-main-form-container h1:after,
+	.sfba-main-form-container h2:before,
+	.sfba-main-form-container h2:after{
+		display:none;
+	}
+	input[type="submit"].sfba-form-submit-button{
+		letter-spacing:0;
+	}
+                   </style>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="wpb_column vc_column_container vc_col-sm-3 vc_col-lg-3 vc_col-md-3 vc_hidden-xs">
+           <div class="vc_column-inner">
+            <div class="wpb_wrapper">
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="vc_row wpb_row section vc_row-fluid hide_phone" style=" text-align:left;">
+         <div class="full_section_inner clearfix">
+          <div class="wpb_column vc_column_container vc_col-sm-12">
+           <div class="vc_column-inner">
+            <div class="wpb_wrapper">
+             <div class="vc_empty_space hide_phone" style="height: 50px">
+              <span class="vc_empty_space_inner">
+               <span class="empty_space_image">
+               </span>
+              </span>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="vc_row wpb_row section vc_row-fluid vc_custom_1555448654068" style=" text-align:left;">
+         <div class="full_section_inner clearfix">
+          <div class="wpb_column vc_column_container vc_col-sm-12">
+           <div class="vc_column-inner">
+            <div class="wpb_wrapper">
+             <div class="vc_empty_space hide_phone" style="height: 50px">
+              <span class="vc_empty_space_inner">
+               <span class="empty_space_image">
+               </span>
+              </span>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="vc_row wpb_row section vc_row-fluid vc_custom_1555448654068" style=" text-align:left;">
+         <div class="full_section_inner clearfix">
+          <div class="wpb_column vc_column_container vc_col-sm-12">
+           <div class="vc_column-inner">
+            <div class="wpb_wrapper">
+             <div class="vc_empty_space hide_phone" style="height: 50px">
+              <span class="vc_empty_space_inner">
+               <span class="empty_space_image">
+               </span>
+              </span>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="vc_row wpb_row section vc_row-fluid vc_custom_1555448654068" style=" text-align:left;">
+         <div class="full_section_inner clearfix">
+          <div class="wpb_column vc_column_container vc_col-sm-12">
+           <div class="vc_column-inner">
+            <div class="wpb_wrapper">
+             <div class="vc_empty_space" style="height: 50px">
+              <span class="vc_empty_space_inner">
+               <span class="empty_space_image">
+               </span>
+              </span>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <footer>
+     <div class="footer_inner clearfix">
+      <div class="footer_top_holder">
+       <div class="footer_top">
+        <div class="container">
+         <div class="container_inner">
+          <div class="widget_text widget widget_custom_html" id="custom_html-3">
+           <div class="textwidget custom-html-widget">
+            <div class="vc_empty_space" style="height: 54px">
+             <span class="vc_empty_space_inner">
+              <span class="empty_space_image">
+              </span>
+             </span>
+            </div>
+           </div>
+          </div>
+          <div class="widget_text widget widget_custom_html" id="custom_html-2">
+           <div class="textwidget custom-html-widget">
+            <div class="q_icon_with_title small normal_icon center">
+             <div class="icon_holder" style="margin: 0 48px 0 0; ">
+              <a class="q_icon_link" href="http://twitter.com/VanJones68" itemprop="url" rel="noopener" target="_blank">
+               <span class="qode_iwt_icon_holder q_font_awsome_icon fa-2x" data-icon-hover-color="f6f6f6" data-icon-type="normal" style="">
+                <i class="qode_icon_font_awesome fa fa-twitter qode_iwt_icon_element" style="color: #fff;">
+                </i>
+               </span>
+              </a>
+             </div>
+             <div class="icon_text_holder" style="">
+              <div class="icon_text_inner" style="">
+               <h3 class="icon_title" style="">
+                Twitter
+               </h3>
+               <p style="">
+               </p>
+               <a class="icon_with_title_link" href="http://twitter.com/VanJones68" itemprop="url" rel="noopener" style="" target="_blank">
+                Read More
+               </a>
+              </div>
+             </div>
+            </div>
+            <div class="q_icon_with_title small normal_icon center">
+             <div class="icon_holder" style="margin: 0 48px 0 0; ">
+              <a class="q_icon_link" href="http://www.facebook.com/vanjones" itemprop="url" rel="noopener" target="_blank">
+               <span class="qode_iwt_icon_holder q_font_awsome_icon fa-2x" data-icon-hover-color="#f6f6f6" data-icon-type="normal" style="">
+                <i class="qode_icon_font_awesome fa fa-facebook qode_iwt_icon_element" style="color: #fff;">
+                </i>
+               </span>
+              </a>
+             </div>
+             <div class="icon_text_holder" style="">
+              <div class="icon_text_inner" style="">
+               <h3 class="icon_title" style="">
+                Facebook
+               </h3>
+               <p style="">
+               </p>
+               <a class="icon_with_title_link" href="http://www.facebook.com/vanjones" itemprop="url" rel="noopener" style="" target="_blank">
+                Read More
+               </a>
+              </div>
+             </div>
+            </div>
+            <div class="q_icon_with_title small normal_icon center">
+             <div class="icon_holder" style="margin: 0 48px 0 0; ">
+              <a class="q_icon_link" href="http://instagram.com/vanjones68/" itemprop="url" rel="noopener" target="_blank">
+               <span class="qode_iwt_icon_holder q_font_awsome_icon fa-2x" data-icon-hover-color="#f6f6f6" data-icon-type="normal" style="">
+                <i class="qode_icon_font_awesome fa fa-instagram qode_iwt_icon_element" style="color: #fff;">
+                </i>
+               </span>
+              </a>
+             </div>
+             <div class="icon_text_holder" style="">
+              <div class="icon_text_inner" style="">
+               <h3 class="icon_title" style="">
+                Instagram
+               </h3>
+               <p style="">
+               </p>
+               <a class="icon_with_title_link" href="http://instagram.com/vanjones68/" itemprop="url" rel="noopener" style="" target="_blank">
+                Read More
+               </a>
+              </div>
+             </div>
+            </div>
+            <div class="q_icon_with_title small normal_icon center">
+             <div class="icon_holder" style="margin: 0 48px 0 0; ">
+              <a class="q_icon_link" href="https://www.youtube.com/user/rebuildthedream" itemprop="url" rel="noopener" target="_blank">
+               <span class="qode_iwt_icon_holder q_font_awsome_icon fa-2x" data-icon-hover-color="#f6f6f6" data-icon-type="normal" style="">
+                <i class="qode_icon_font_awesome fa fa-youtube qode_iwt_icon_element" style="color: #fff;">
+                </i>
+               </span>
+              </a>
+             </div>
+             <div class="icon_text_holder" style="">
+              <div class="icon_text_inner" style="">
+               <h3 class="icon_title" style="">
+                Youtube
+               </h3>
+               <p style="">
+               </p>
+               <a class="icon_with_title_link" href="https://www.youtube.com/user/rebuildthedream" itemprop="url" rel="noopener" style="" target="_blank">
+                Read More
+               </a>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <svg class="angled-section svg-footer-bottom" height="86" preserveaspectratio="none" viewbox="0 0 86 86" width="100%">
+        <polygon points="0,86 86,0 86,86">
+        </polygon>
+       </svg>
+      </div>
+      <div class="footer_bottom_holder">
+       <div class="footer_bottom">
+       </div>
+      </div>
+     </div>
+    </footer>
+   </div>
+  </div>
+  <script type="text/javascript">
+   function revslider_showDoubleJqueryError(sliderID) {
+					var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
+					errorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";
+					errorMessage += "<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option:  <strong><b>Put JS Includes To Body</b></strong> option to true.";
+					errorMessage += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.";
+					errorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "</span>";
+						jQuery(sliderID).show().html(errorMessage);
+				}
+  </script>
+  <script id="ctf_twitter_intents-js" src="https://platform.twitter.com/widgets.js?ver=1.3" type="text/javascript">
+  </script>
+  <script id="ctf_scripts-js-extra" type="text/javascript">
+   /* <![CDATA[ */
+var ctf = {"ajax_url":"https:\/\/vanjones.net\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+  </script>
+  <script id="ctf_scripts-js" src="https://vanjones.net/wp-content/plugins/custom-twitter-feeds/js/ctf-scripts.js?ver=1.3" type="text/javascript">
+  </script>
+  <script id="jquery-ui-core-js" src="https://vanjones.net/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1" type="text/javascript">
+  </script>
+  <script id="jquery-ui-accordion-js" src="https://vanjones.net/wp-includes/js/jquery/ui/accordion.min.js?ver=1.13.1" type="text/javascript">
+  </script>
+  <script id="jquery-ui-menu-js" src="https://vanjones.net/wp-includes/js/jquery/ui/menu.min.js?ver=1.13.1" type="text/javascript">
+  </script>
+  <script id="regenerator-runtime-js" src="https://vanjones.net/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9" type="text/javascript">
+  </script>
+  <script id="wp-polyfill-js" src="https://vanjones.net/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" type="text/javascript">
+  </script>
+  <script id="wp-dom-ready-js" src="https://vanjones.net/wp-includes/js/dist/dom-ready.min.js?ver=ecda74de0221e1c2ce5c57cbb5af09d5" type="text/javascript">
+  </script>
+  <script id="wp-hooks-js" src="https://vanjones.net/wp-includes/js/dist/hooks.min.js?ver=1e58c8c5a32b2e97491080c5b10dc71c" type="text/javascript">
+  </script>
+  <script id="wp-i18n-js" src="https://vanjones.net/wp-includes/js/dist/i18n.min.js?ver=30fcecb428a0e8383d3776bcdd3a7834" type="text/javascript">
+  </script>
+  <script id="wp-i18n-js-after" type="text/javascript">
+   wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+  </script>
+  <script id="wp-a11y-js-translations" type="text/javascript">
+   ( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", { "locale_data": { "messages": { "": {} } } } );
+  </script>
+  <script id="wp-a11y-js" src="https://vanjones.net/wp-includes/js/dist/a11y.min.js?ver=68e470cf840f69530e9db3be229ad4b6" type="text/javascript">
+  </script>
+  <script id="jquery-ui-autocomplete-js-extra" type="text/javascript">
+   /* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};
+/* ]]> */
+  </script>
+  <script id="jquery-ui-autocomplete-js" src="https://vanjones.net/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.13.1" type="text/javascript">
+  </script>
+  <script id="jquery-ui-controlgroup-js" src="https://vanjones.net/wp-includes/js/jquery/ui/controlgroup.min.js?ver=1.13.1" type="text/javascript">
+  </script>
+  <script id="jquery-ui-checkboxradio-js" src="https://vanjones.net/wp-includes/js/jquery/ui/checkboxradio.min.js?ver=1.13.1" type="text/javascript">
+  </script>
+  <script id="jquery-ui-button-js" src="https://vanjones.net/wp-includes/js/jquery/ui/button.min.js?ver=1.13.1" type="text/javascript">
+  </script>
+  <script id="jquery-ui-datepicker-js" src="https://vanjones.net/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.1" type="text/javascript">
+  </script>
+  <script id="jquery-ui-datepicker-js-after" type="text/javascript">
+   jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":0,"isRTL":false});});
+  </script>
+  <script id="jquery-ui-mouse-js" src="https://vanjones.net/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.1" type="text/javascript">
+  </script>
+  <script id="jquery-ui-resizable-js" src="https://vanjones.net/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.1" type="text/javascript">
+  </script>
+  <script id="jquery-ui-draggable-js" src="https://vanjones.net/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.1" type="text/javascript">
+  </script>
+  <script id="jquery-ui-dialog-js" src="https://vanjones.net/wp-includes/js/jquery/ui/dialog.min.js?ver=1.13.1" type="text/javascript">
+  </script>
+  <script id="jquery-ui-droppable-js" src="https://vanjones.net/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.1" type="text/javascript">
+  </script>
+  <script id="jquery-ui-progressbar-js" src="https://vanjones.net/wp-includes/js/jquery/ui/progressbar.min.js?ver=1.13.1" type="text/javascript">
+  </script>
+  <script id="jquery-ui-selectable-js" src="https://vanjones.net/wp-includes/js/jquery/ui/selectable.min.js?ver=1.13.1" type="text/javascript">
+  </script>
+  <script id="jquery-ui-sortable-js" src="https://vanjones.net/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.1" type="text/javascript">
+  </script>
+  <script id="jquery-ui-slider-js" src="https://vanjones.net/wp-includes/js/jquery/ui/slider.min.js?ver=1.13.1" type="text/javascript">
+  </script>
+  <script id="jquery-ui-spinner-js" src="https://vanjones.net/wp-includes/js/jquery/ui/spinner.min.js?ver=1.13.1" type="text/javascript">
+  </script>
+  <script id="jquery-ui-tooltip-js" src="https://vanjones.net/wp-includes/js/jquery/ui/tooltip.min.js?ver=1.13.1" type="text/javascript">
+  </script>
+  <script id="jquery-ui-tabs-js" src="https://vanjones.net/wp-includes/js/jquery/ui/tabs.min.js?ver=1.13.1" type="text/javascript">
+  </script>
+  <script id="jquery-effects-core-js" src="https://vanjones.net/wp-includes/js/jquery/ui/effect.min.js?ver=1.13.1" type="text/javascript">
+  </script>
+  <script id="jquery-effects-blind-js" src="https://vanjones.net/wp-includes/js/jquery/ui/effect-blind.min.js?ver=1.13.1" type="text/javascript">
+  </script>
+  <script id="jquery-effects-bounce-js" src="https://vanjones.net/wp-includes/js/jquery/ui/effect-bounce.min.js?ver=1.13.1" type="text/javascript">
+  </script>
+  <script id="jquery-effects-clip-js" src="https://vanjones.net/wp-includes/js/jquery/ui/effect-clip.min.js?ver=1.13.1" type="text/javascript">
+  </script>
+  <script id="jquery-effects-drop-js" src="https://vanjones.net/wp-includes/js/jquery/ui/effect-drop.min.js?ver=1.13.1" type="text/javascript">
+  </script>
+  <script id="jquery-effects-explode-js" src="https://vanjones.net/wp-includes/js/jquery/ui/effect-explode.min.js?ver=1.13.1" type="text/javascript">
+  </script>
+  <script id="jquery-effects-fade-js" src="https://vanjones.net/wp-includes/js/jquery/ui/effect-fade.min.js?ver=1.13.1" type="text/javascript">
+  </script>
+  <script id="jquery-effects-fold-js" src="https://vanjones.net/wp-includes/js/jquery/ui/effect-fold.min.js?ver=1.13.1" type="text/javascript">
+  </script>
+  <script id="jquery-effects-highlight-js" src="https://vanjones.net/wp-includes/js/jquery/ui/effect-highlight.min.js?ver=1.13.1" type="text/javascript">
+  </script>
+  <script id="jquery-effects-pulsate-js" src="https://vanjones.net/wp-includes/js/jquery/ui/effect-pulsate.min.js?ver=1.13.1" type="text/javascript">
+  </script>
+  <script id="jquery-effects-size-js" src="https://vanjones.net/wp-includes/js/jquery/ui/effect-size.min.js?ver=1.13.1" type="text/javascript">
+  </script>
+  <script id="jquery-effects-scale-js" src="https://vanjones.net/wp-includes/js/jquery/ui/effect-scale.min.js?ver=1.13.1" type="text/javascript">
+  </script>
+  <script id="jquery-effects-shake-js" src="https://vanjones.net/wp-includes/js/jquery/ui/effect-shake.min.js?ver=1.13.1" type="text/javascript">
+  </script>
+  <script id="jquery-effects-slide-js" src="https://vanjones.net/wp-includes/js/jquery/ui/effect-slide.min.js?ver=1.13.1" type="text/javascript">
+  </script>
+  <script id="jquery-effects-transfer-js" src="https://vanjones.net/wp-includes/js/jquery/ui/effect-transfer.min.js?ver=1.13.1" type="text/javascript">
+  </script>
+  <script id="doubleTapToGo-js" src="https://vanjones.net/wp-content/themes/bridge/js/plugins/doubletaptogo.js?ver=5.9.3" type="text/javascript">
+  </script>
+  <script id="modernizr-js" src="https://vanjones.net/wp-content/themes/bridge/js/plugins/modernizr.min.js?ver=5.9.3" type="text/javascript">
+  </script>
+  <script id="appear-js" src="https://vanjones.net/wp-content/themes/bridge/js/plugins/jquery.appear.js?ver=5.9.3" type="text/javascript">
+  </script>
+  <script id="hoverIntent-js" src="https://vanjones.net/wp-includes/js/hoverIntent.min.js?ver=1.10.2" type="text/javascript">
+  </script>
+  <script id="counter-js" src="https://vanjones.net/wp-content/themes/bridge/js/plugins/counter.js?ver=5.9.3" type="text/javascript">
+  </script>
+  <script id="easyPieChart-js" src="https://vanjones.net/wp-content/themes/bridge/js/plugins/easypiechart.js?ver=5.9.3" type="text/javascript">
+  </script>
+  <script id="mixItUp-js" src="https://vanjones.net/wp-content/themes/bridge/js/plugins/mixitup.js?ver=5.9.3" type="text/javascript">
+  </script>
+  <script id="prettyphoto-js" src="https://vanjones.net/wp-content/plugins/js_composer/assets/lib/prettyphoto/js/jquery.prettyPhoto.min.js?ver=5.7" type="text/javascript">
+  </script>
+  <script id="fitvids-js" src="https://vanjones.net/wp-content/themes/bridge/js/plugins/jquery.fitvids.js?ver=5.9.3" type="text/javascript">
+  </script>
+  <script id="flexslider-js" src="https://vanjones.net/wp-content/plugins/js_composer/assets/lib/bower/flexslider/jquery.flexslider-min.js?ver=5.7" type="text/javascript">
+  </script>
+  <script id="mediaelement-core-js-before" type="text/javascript">
+   var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File","mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Fullscreen","mejs.play":"Play","mejs.pause":"Pause","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.live-broadcast":"Live Broadcast","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+  </script>
+  <script id="mediaelement-core-js" src="https://vanjones.net/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.16" type="text/javascript">
+  </script>
+  <script id="mediaelement-migrate-js" src="https://vanjones.net/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=5.9.3" type="text/javascript">
+  </script>
+  <script id="mediaelement-js-extra" type="text/javascript">
+   /* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+  </script>
+  <script id="wp-mediaelement-js" src="https://vanjones.net/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=5.9.3" type="text/javascript">
+  </script>
+  <script id="infiniteScroll-js" src="https://vanjones.net/wp-content/themes/bridge/js/plugins/infinitescroll.min.js?ver=5.9.3" type="text/javascript">
+  </script>
+  <script id="waitforimages-js" src="https://vanjones.net/wp-content/themes/bridge/js/plugins/jquery.waitforimages.js?ver=5.9.3" type="text/javascript">
+  </script>
+  <script id="jquery-form-js" src="https://vanjones.net/wp-includes/js/jquery/jquery.form.min.js?ver=4.3.0" type="text/javascript">
+  </script>
+  <script id="waypoints-js" src="https://vanjones.net/wp-content/plugins/js_composer/assets/lib/waypoints/waypoints.min.js?ver=5.7" type="text/javascript">
+  </script>
+  <script id="jplayer-js" src="https://vanjones.net/wp-content/themes/bridge/js/plugins/jplayer.min.js?ver=5.9.3" type="text/javascript">
+  </script>
+  <script id="bootstrapCarousel-js" src="https://vanjones.net/wp-content/themes/bridge/js/plugins/bootstrap.carousel.js?ver=5.9.3" type="text/javascript">
+  </script>
+  <script id="skrollr-js" src="https://vanjones.net/wp-content/themes/bridge/js/plugins/skrollr.js?ver=5.9.3" type="text/javascript">
+  </script>
+  <script id="charts-js" src="https://vanjones.net/wp-content/themes/bridge/js/plugins/Chart.min.js?ver=5.9.3" type="text/javascript">
+  </script>
+  <script id="easing-js" src="https://vanjones.net/wp-content/themes/bridge/js/plugins/jquery.easing.1.3.js?ver=5.9.3" type="text/javascript">
+  </script>
+  <script id="abstractBaseClass-js" src="https://vanjones.net/wp-content/themes/bridge/js/plugins/abstractBaseClass.js?ver=5.9.3" type="text/javascript">
+  </script>
+  <script id="countdown-js" src="https://vanjones.net/wp-content/themes/bridge/js/plugins/jquery.countdown.js?ver=5.9.3" type="text/javascript">
+  </script>
+  <script id="multiscroll-js" src="https://vanjones.net/wp-content/themes/bridge/js/plugins/jquery.multiscroll.min.js?ver=5.9.3" type="text/javascript">
+  </script>
+  <script id="justifiedGallery-js" src="https://vanjones.net/wp-content/themes/bridge/js/plugins/jquery.justifiedGallery.min.js?ver=5.9.3" type="text/javascript">
+  </script>
+  <script id="bigtext-js" src="https://vanjones.net/wp-content/themes/bridge/js/plugins/bigtext.js?ver=5.9.3" type="text/javascript">
+  </script>
+  <script id="stickyKit-js" src="https://vanjones.net/wp-content/themes/bridge/js/plugins/jquery.sticky-kit.min.js?ver=5.9.3" type="text/javascript">
+  </script>
+  <script id="owlCarousel-js" src="https://vanjones.net/wp-content/themes/bridge/js/plugins/owl.carousel.min.js?ver=5.9.3" type="text/javascript">
+  </script>
+  <script id="typed-js" src="https://vanjones.net/wp-content/themes/bridge/js/plugins/typed.js?ver=5.9.3" type="text/javascript">
+  </script>
+  <script id="carouFredSel-js" src="https://vanjones.net/wp-content/themes/bridge/js/plugins/jquery.carouFredSel-6.2.1.min.js?ver=5.9.3" type="text/javascript">
+  </script>
+  <script id="lemmonSlider-js" src="https://vanjones.net/wp-content/themes/bridge/js/plugins/lemmon-slider.min.js?ver=5.9.3" type="text/javascript">
+  </script>
+  <script id="one_page_scroll-js" src="https://vanjones.net/wp-content/themes/bridge/js/plugins/jquery.fullPage.min.js?ver=5.9.3" type="text/javascript">
+  </script>
+  <script id="mousewheel-js" src="https://vanjones.net/wp-content/themes/bridge/js/plugins/jquery.mousewheel.min.js?ver=5.9.3" type="text/javascript">
+  </script>
+  <script id="touchSwipe-js" src="https://vanjones.net/wp-content/themes/bridge/js/plugins/jquery.touchSwipe.min.js?ver=5.9.3" type="text/javascript">
+  </script>
+  <script id="isotope-js" src="https://vanjones.net/wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.min.js?ver=5.7" type="text/javascript">
+  </script>
+  <script id="packery-js" src="https://vanjones.net/wp-content/themes/bridge/js/plugins/packery-mode.pkgd.min.js?ver=5.9.3" type="text/javascript">
+  </script>
+  <script id="stretch-js" src="https://vanjones.net/wp-content/themes/bridge/js/plugins/jquery.stretch.js?ver=5.9.3" type="text/javascript">
+  </script>
+  <script id="imagesLoaded-js" src="https://vanjones.net/wp-content/themes/bridge/js/plugins/imagesloaded.js?ver=5.9.3" type="text/javascript">
+  </script>
+  <script id="rangeSlider-js" src="https://vanjones.net/wp-content/themes/bridge/js/plugins/rangeslider.min.js?ver=5.9.3" type="text/javascript">
+  </script>
+  <script id="eventMove-js" src="https://vanjones.net/wp-content/themes/bridge/js/plugins/jquery.event.move.js?ver=5.9.3" type="text/javascript">
+  </script>
+  <script id="twentytwenty-js" src="https://vanjones.net/wp-content/themes/bridge/js/plugins/jquery.twentytwenty.js?ver=5.9.3" type="text/javascript">
+  </script>
+  <script id="TweenLite-js" src="https://vanjones.net/wp-content/themes/bridge/js/plugins/TweenLite.min.js?ver=5.9.3" type="text/javascript">
+  </script>
+  <script id="smoothPageScroll-js" src="https://vanjones.net/wp-content/themes/bridge/js/plugins/smoothPageScroll.min.js?ver=5.9.3" type="text/javascript">
+  </script>
+  <script id="bridge-default-dynamic-js" src="https://vanjones.net/wp-content/themes/bridge/js/default_dynamic.js?ver=1556234034" type="text/javascript">
+  </script>
+  <script id="bridge-default-js-extra" type="text/javascript">
+   /* <![CDATA[ */
+var QodeAdminAjax = {"ajaxurl":"https:\/\/vanjones.net\/wp-admin\/admin-ajax.php"};
+var qodeGlobalVars = {"vars":{"qodeAddingToCartLabel":"Adding to Cart...","page_scroll_amount_for_sticky":""}};
+/* ]]> */
+  </script>
+  <script id="bridge-default-js" src="https://vanjones.net/wp-content/themes/bridge/js/default.min.js?ver=5.9.3" type="text/javascript">
+  </script>
+  <script id="comment-reply-js" src="https://vanjones.net/wp-includes/js/comment-reply.min.js?ver=5.9.3" type="text/javascript">
+  </script>
+  <script id="wpb_composer_front_js-js" src="https://vanjones.net/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.7" type="text/javascript">
+  </script>
+  <script id="qode-like-js-extra" type="text/javascript">
+   /* <![CDATA[ */
+var qodeLike = {"ajaxurl":"https:\/\/vanjones.net\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+  </script>
+  <script id="qode-like-js" src="https://vanjones.net/wp-content/themes/bridge/js/plugins/qode-like.min.js?ver=5.9.3" type="text/javascript">
+  </script>
+ </body>
+</html>
